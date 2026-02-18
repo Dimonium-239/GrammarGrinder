@@ -1,0 +1,31 @@
+[
+  {
+    "id": "tenses_prpc_001",
+    "category": "Present Perfect Continuous",
+    "complexity": 3,
+
+    "question": "She _____ (study) for three hours.",
+    "options": ["has been studying", "has studied", "is studying"],
+    "correctAnswer": "has been studying",
+    "explanation": "Use Present Perfect Continuous for actions that started in the past and continue now.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  },
+
+  {
+    "id": "tenses_prpc_002",
+    "category": "Present Perfect Continuous",
+    "complexity": 3,
+
+    "question": "I _____ (wait) here since 9 a.m.",
+    "options": ["have been waiting", "waited", "am waiting"],
+    "correctAnswer": "have been waiting",
+    "explanation": "Use has/have been + verb-ing with for/since to show duration up to now.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  }
+]

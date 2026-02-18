@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:layout_marginStart="@dimen/screen_horizontal_margin"
+    android:layout_marginEnd="@dimen/screen_horizontal_margin"
+    android:paddingStart="36dp"
+    android:paddingEnd="36dp"
+    android:paddingTop="24dp"
+    android:paddingBottom="24dp">
+
+    <include
+        android:id="@+id/top_bar"
+        layout="@layout/view_top_bar" />
+
+    <TextView
+        android:id="@+id/tv_guide_subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:textAppearance="@style/TextAppearance.Material3.BodyLarge" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/container_guides"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
+
+</LinearLayout>

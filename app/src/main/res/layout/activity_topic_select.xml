@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:layout_marginStart="@dimen/screen_horizontal_margin"
+    android:layout_marginEnd="@dimen/screen_horizontal_margin"
+    android:paddingStart="36dp"
+    android:paddingEnd="36dp"
+    android:paddingTop="24dp"
+    android:paddingBottom="24dp">
+    <include
+        android:id="@+id/top_bar"
+        layout="@layout/view_top_bar"/>
+    <TextView
+        android:id="@+id/tv_sub_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/string_select_topics"
+        android:textAppearance="@style/TextAppearance.Material3.HeadlineMedium"
+        android:layout_marginBottom="24dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginBottom="16dp">
+
+        <LinearLayout
+            android:id="@+id/container_topics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+
+    </ScrollView>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_start"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:text="@string/string_start_practice"
+        app:cornerRadius="20dp"/>
+
+</LinearLayout>

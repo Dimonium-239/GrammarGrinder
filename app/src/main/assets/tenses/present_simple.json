@@ -1,0 +1,31 @@
+[
+  {
+    "id": "tenses_prs_001",
+    "category": "Present Simple",
+    "complexity": 1,
+
+    "question": "She _____ (work) in a bank.",
+    "options": ["works", "work", "is working"],
+    "correctAnswer": "works",
+    "explanation": "Use Present Simple for routines and facts; add -s for he/she/it.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  },
+
+  {
+    "id": "tenses_prs_002",
+    "category": "Present Simple",
+    "complexity": 1,
+
+    "question": "They _____ (play) tennis every Sunday.",
+    "options": ["play", "plays", "are playing"],
+    "correctAnswer": "play",
+    "explanation": "Use Present Simple for regular habits.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tenses",
+    "title": "Tenses",
+    "subtitle": "Past • Present • Future",
+    "type": "section"
+  },
+  {
+    "id": "conditionals",
+    "title": "Conditionals",
+    "subtitle": "Zero • First • Second • Third",
+    "type": "section"
+  },
+  {
+    "id": "mix",
+    "title": "Mix",
+    "subtitle": "Mix any section",
+    "type": "mix"
+  },
+  {
+    "id": "cheats",
+    "title": "Grammar Guide",
+    "subtitle": "All tenses reference",
+    "type": "guides"
+  },
+  {
+    "id": "options",
+    "title": "Options",
+    "subtitle": "Theme, language, vibration",
+    "type": "options"
+  }
+]

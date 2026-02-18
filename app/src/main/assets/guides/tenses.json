@@ -1,0 +1,182 @@
+[
+  {
+    "id": "present_simple",
+    "title": "Present Simple",
+    "whenToUse": "routines, habits, and general facts",
+    "formula": "Subject + base verb (add -s for he/she/it)",
+    "examples": [
+      "She works in a bank.",
+      "They play tennis every Sunday."
+    ],
+    "keywords": ["always", "usually", "often", "every day"],
+    "commonMistakes": [
+      "Forgetting -s with he/she/it",
+      "Using Present Continuous for permanent facts"
+    ]
+  },
+  {
+    "id": "present_continuous",
+    "title": "Present Continuous",
+    "whenToUse": "actions happening now or around now",
+    "formula": "Subject + am/is/are + verb-ing",
+    "examples": [
+      "I am reading now.",
+      "They are not watching TV at the moment."
+    ],
+    "keywords": ["now", "at the moment", "currently"],
+    "commonMistakes": [
+      "Using base verb instead of verb-ing",
+      "Missing am/is/are"
+    ]
+  },
+  {
+    "id": "present_perfect",
+    "title": "Present Perfect",
+    "whenToUse": "past actions with a present result or life experience",
+    "formula": "Subject + has/have + past participle",
+    "examples": [
+      "We have finished our homework.",
+      "He has never seen snow."
+    ],
+    "keywords": ["already", "yet", "ever", "never", "just"],
+    "commonMistakes": [
+      "Using past simple instead of past participle",
+      "Using a specific finished past time with present perfect"
+    ]
+  },
+  {
+    "id": "present_perfect_continuous",
+    "title": "Present Perfect Continuous",
+    "whenToUse": "actions that started in the past and continue now",
+    "formula": "Subject + has/have been + verb-ing",
+    "examples": [
+      "She has been studying for three hours.",
+      "I have been waiting since 9 a.m."
+    ],
+    "keywords": ["for", "since", "all day"],
+    "commonMistakes": [
+      "Using present continuous for long-duration actions from the past",
+      "Missing been in the structure"
+    ]
+  },
+  {
+    "id": "past_simple",
+    "title": "Past Simple",
+    "whenToUse": "finished actions in the past",
+    "formula": "Subject + verb 2 (or -ed for regular verbs)",
+    "examples": [
+      "I went home yesterday.",
+      "She finished work at 6 p.m."
+    ],
+    "keywords": ["yesterday", "last week", "in 2020", "ago"],
+    "commonMistakes": [
+      "Using base verb after subject",
+      "Mixing past simple with present perfect time markers"
+    ]
+  },
+  {
+    "id": "past_continuous",
+    "title": "Past Continuous",
+    "whenToUse": "an action in progress at a specific past time",
+    "formula": "Subject + was/were + verb-ing",
+    "examples": [
+      "They were watching TV when I called.",
+      "I was working all evening."
+    ],
+    "keywords": ["while", "when", "at 8 p.m. yesterday"],
+    "commonMistakes": [
+      "Using was with plural subjects",
+      "Using past simple for interrupted background action"
+    ]
+  },
+  {
+    "id": "past_perfect",
+    "title": "Past Perfect",
+    "whenToUse": "the earlier of two past actions",
+    "formula": "Subject + had + past participle",
+    "examples": [
+      "By the time I arrived, they had left.",
+      "She had already eaten when we got home."
+    ],
+    "keywords": ["by the time", "already", "before"],
+    "commonMistakes": [
+      "Using past simple for both actions when sequence matters",
+      "Using have/has instead of had"
+    ]
+  },
+  {
+    "id": "past_perfect_continuous",
+    "title": "Past Perfect Continuous",
+    "whenToUse": "duration before another past action",
+    "formula": "Subject + had been + verb-ing",
+    "examples": [
+      "He had been working there for five years before he moved.",
+      "They had been waiting for an hour before the bus came."
+    ],
+    "keywords": ["for", "before", "by the time"],
+    "commonMistakes": [
+      "Dropping been from had been + verb-ing",
+      "Using past continuous when earlier duration should be emphasized"
+    ]
+  },
+  {
+    "id": "future_simple",
+    "title": "Future Simple",
+    "whenToUse": "predictions, promises, and spontaneous decisions",
+    "formula": "Subject + will + base verb",
+    "examples": [
+      "I think it will rain tomorrow.",
+      "She will help you with your project."
+    ],
+    "keywords": ["tomorrow", "I think", "probably", "will"],
+    "commonMistakes": [
+      "Using will + verb-ing for simple prediction",
+      "Using present simple for spontaneous decisions"
+    ]
+  },
+  {
+    "id": "future_continuous",
+    "title": "Future Continuous",
+    "whenToUse": "action that will be in progress at a future time",
+    "formula": "Subject + will be + verb-ing",
+    "examples": [
+      "This time tomorrow, we will be flying to Rome.",
+      "At 8 p.m., he will be studying."
+    ],
+    "keywords": ["this time tomorrow", "at 8 p.m. tomorrow"],
+    "commonMistakes": [
+      "Using will + base verb instead of will be + verb-ing",
+      "Using for completed actions by a future deadline"
+    ]
+  },
+  {
+    "id": "future_perfect",
+    "title": "Future Perfect",
+    "whenToUse": "actions completed before a future point",
+    "formula": "Subject + will have + past participle",
+    "examples": [
+      "By next year, I will have finished my degree.",
+      "They will have built the bridge by June."
+    ],
+    "keywords": ["by", "by then", "by next year"],
+    "commonMistakes": [
+      "Using future simple when completion before a deadline is needed",
+      "Using will had instead of will have"
+    ]
+  },
+  {
+    "id": "future_perfect_continuous",
+    "title": "Future Perfect Continuous",
+    "whenToUse": "duration up to a specific future moment",
+    "formula": "Subject + will have been + verb-ing",
+    "examples": [
+      "By noon, she will have been working for six hours.",
+      "Next month, we will have been living here for ten years."
+    ],
+    "keywords": ["for", "by", "by next month"],
+    "commonMistakes": [
+      "Using future perfect when ongoing duration is intended",
+      "Skipping been in will have been + verb-ing"
+    ]
+  }
+]

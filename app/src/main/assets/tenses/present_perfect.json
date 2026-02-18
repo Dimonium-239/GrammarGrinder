@@ -1,0 +1,31 @@
+[
+  {
+    "id": "tenses_prp_001",
+    "category": "Present Perfect",
+    "complexity": 2,
+
+    "question": "We _____ (finish) our homework.",
+    "options": ["have finished", "finished", "are finishing"],
+    "correctAnswer": "have finished",
+    "explanation": "Use Present Perfect for completed actions with present result.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  },
+
+  {
+    "id": "tenses_prp_002",
+    "category": "Present Perfect",
+    "complexity": 2,
+
+    "question": "He _____ (never / see) snow.",
+    "options": ["has never seen", "never saw", "is never seeing"],
+    "correctAnswer": "has never seen",
+    "explanation": "Use has/have + past participle in Present Perfect.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  }
+]

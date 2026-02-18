@@ -1,0 +1,17 @@
+[
+  {
+    "id": "first_conditional",
+    "title": "First Conditional",
+    "whenToUse": "real and possible future situations",
+    "formula": "If + Present Simple, ... will + base verb",
+    "examples": [
+      "If it rains, we will stay at home.",
+      "She will call you if she has time."
+    ],
+    "keywords": ["if", "will", "possible", "future result"],
+    "commonMistakes": [
+      "Using will in the if-clause",
+      "Using present simple in both clauses when a future result is intended"
+    ]
+  }
+]

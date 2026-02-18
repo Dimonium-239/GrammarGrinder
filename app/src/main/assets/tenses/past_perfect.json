@@ -1,0 +1,31 @@
+[
+  {
+    "id": "tenses_pp_001",
+    "category": "Past Perfect",
+    "complexity": 2,
+
+    "question": "By the time I arrived, they _____ (leave).",
+    "options": ["had left", "left", "have left"],
+    "correctAnswer": "had left",
+    "explanation": "Use Past Perfect for the earlier of two past actions.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  },
+
+  {
+    "id": "tenses_pp_002",
+    "category": "Past Perfect",
+    "complexity": 2,
+
+    "question": "She _____ (already / eat) when we got home.",
+    "options": ["had already eaten", "already ate", "has already eaten"],
+    "correctAnswer": "had already eaten",
+    "explanation": "Form Past Perfect with had + past participle.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "tenses_fpc_001",
+    "category": "Future Perfect Continuous",
+    "complexity": 4,
+
+    "question": "By noon, she _____ (work) for six hours.",
+    "options": ["will have been working", "will be working", "will have worked"],
+    "correctAnswer": "will have been working",
+    "explanation": "Use Future Perfect Continuous for duration up to a point in the future.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  },
+
+  {
+    "id": "tenses_fpc_002",
+    "category": "Future Perfect Continuous",
+    "complexity": 4,
+
+    "question": "Next month, we _____ (live) here for ten years.",
+    "options": ["will have been living", "will live", "will have lived"],
+    "correctAnswer": "will have been living",
+    "explanation": "Form Future Perfect Continuous with will have been + verb-ing.",
+
+    "priority": 10,
+    "lastSeen": 0,
+    "mistakeCount": 0
+  }
+]

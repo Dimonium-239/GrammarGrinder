@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GrammarGrinder</string>
+    <string name="string_no_questions_found">No questions found</string>
+    <string name="string_practice">Practice</string>
+    <string name="string_select_topics">Select Topics</string>
+    <string name="string_start_practice">START PRACTICE</string>
+    <string name="string_grammar_grind">GRAMMAR GRIND</string>
+    <string name="string_quiz_sentence_placeholder">Sentence will appear here</string>
+    <string name="string_option_placeholder_1">OPTION 1</string>
+    <string name="string_option_placeholder_2">OPTION 2</string>
+    <string name="string_option_placeholder_3">OPTION 3</string>
+    <string name="string_option_placeholder_4">OPTION 4</string>
+    <string name="string_top_bar_title">Title</string>
+    <string name="string_top_bar_back">Back button</string>
+    <string name="string_top_bar_hints">Hints</string>
+    <string name="string_top_bar_options">Options</string>
+    <string name="string_home_title">GrammarGrinder</string>
+    <string name="string_hint_title">Hint: %1$s</string>
+    <string name="string_ok">OK</string>
+    <string name="string_open_guide">Open guide</string>
+    <string name="string_counter_good_zero">✓ 0</string>
+    <string name="string_counter_bad_zero">✕ 0</string>
+    <string name="string_counter_good">✓ %1$d</string>
+    <string name="string_counter_bad">✕ %1$d</string>
+    <string name="string_select_at_least_one_topic">Select at least one topic</string>
+    <string name="string_options">Options</string>
+    <string name="string_option_vibration_on_wrong">Vibrate on wrong answers</string>
+    <string name="string_option_night_theme">Night theme</string>
+    <string name="string_option_fast_timeout">Fast question transition</string>
+    <string name="string_option_language">Interface language</string>
+    <string name="string_grammar_guide">Grammar Guide</string>
+    <string name="string_guide_all_subtitle">All tenses in one place</string>
+    <string name="string_guide_choose_section">Choose a section</string>
+    <string name="string_guide_section_subtitle">%1$s topics</string>
+    <string name="string_guide_topic_card_subtitle">Tap to open reference</string>
+    <string name="string_guide_single_subtitle">%1$s reference</string>
+    <string name="string_guide_when_to_use">When to use: %1$s</string>
+    <string name="string_guide_formula">Formula: %1$s</string>
+    <string name="string_guide_examples">Examples:\n%1$s</string>
+    <string name="string_guide_keywords">Keywords: %1$s</string>
+    <string name="string_guide_common_mistakes">Common mistakes:\n%1$s</string>
+    <string-array name="array_languages">
+        <item>English</item>
+    </string-array>
+</resources>
