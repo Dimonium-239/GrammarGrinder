@@ -1,31 +1,12 @@
 [
   {
-    "id": "tenses_ppc_001",
-    "category": "Past Perfect Continuous",
-    "complexity": 3,
-
     "question": "He _____ (work) there for five years before he moved.",
     "options": ["had been working", "was working", "had worked"],
-    "correctAnswer": "had been working",
-    "explanation": "Use Past Perfect Continuous for duration before another past event.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "had been working"
   },
-
   {
-    "id": "tenses_ppc_002",
-    "category": "Past Perfect Continuous",
-    "complexity": 3,
-
     "question": "They _____ (wait) for an hour before the bus came.",
     "options": ["had been waiting", "waited", "were waiting"],
-    "correctAnswer": "had been waiting",
-    "explanation": "Form Past Perfect Continuous with had been + verb-ing.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "had been waiting"
   }
 ]

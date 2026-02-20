@@ -6,6 +6,7 @@ import android.os.Handler;
 import android.os.VibratorManager;
 import android.os.VibrationEffect;
 import android.os.Vibrator;
+import android.util.Log;
 import android.view.HapticFeedbackConstants;
 import android.view.View;
 
@@ -13,6 +14,7 @@ import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
+import com.dimonium239.grammargrinder.db.QuestionRepository;
 import com.dimonium239.grammargrinder.guides.GuidesSheetsActivity;
 import com.dimonium239.grammargrinder.options.OptionsActivity;
 import com.dimonium239.grammargrinder.R;
@@ -25,13 +27,19 @@ import java.util.Collections;
 import java.util.List;
 
 public class PracticeActivity extends AppCompatActivity {
+    private static final String TAG = "PracticeActivity";
+
     private ActivityQuizBinding binding;
     private List<Question> questions = new ArrayList<>();
     private int currentIndex = 0;
+    private String selectedSection;
+    private ArrayList<String> selectedTopics = new ArrayList<>();
 
     private final Handler handler = new Handler();
     private int goodCount = 0;
     private int badCount = 0;
+    private static final int BASE_REVIEW_DISTANCE = 7;
+    private static final int MIN_REVIEW_DISTANCE = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,20 +48,15 @@ public class PracticeActivity extends AppCompatActivity {
         binding = ActivityQuizBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
-        String section = getIntent().getStringExtra("SECTION");
+        selectedSection = getIntent().getStringExtra("SECTION");
         ArrayList<String> topics = getIntent().getStringArrayListExtra("TOPICS");
 
         if (topics == null) {
             topics = new ArrayList<>();
         }
+        selectedTopics = topics;
 
-        if (section == null || section.isEmpty()) {
-            questions = QuestionLoader.loadQuestionsMix(this, topics);
-        } else {
-            questions = QuestionLoader.loadQuestions(this, section, topics);
-        }
-
-        Collections.shuffle(questions);
+        reloadQuestionsFromDb();
         setupOptionButtons();
         showQuestion();
         setupTopBar();
@@ -75,11 +78,19 @@ public class PracticeActivity extends AppCompatActivity {
         }
 
         if (currentIndex >= questions.size()) {
+            reloadQuestionsFromDb();
+            if (questions.isEmpty()) {
+                binding.tvSentence.setText(getString(R.string.string_no_questions_found));
+                return;
+            }
             currentIndex = 0;
-            Collections.shuffle(questions);
         }
 
         Question q = questions.get(currentIndex);
+        String questionKey = questionKey(q);
+        QuestionRepository.recordQuestionShown(this, questionKey);
+        q.lastSeen = System.currentTimeMillis();
+        Log.d(TAG, formatQuestionLog(q));
         binding.tvCategory.setText(q.category);
         binding.tvSentence.setText(q.question);
         resetButtons();
@@ -141,9 +152,17 @@ public class PracticeActivity extends AppCompatActivity {
         }
         if (correct) {
             goodCount++;
+            if (q.mistakeCount > 0) {
+                q.mistakeCount -= 1;
+            }
+            q.complexity = QuestionRepository.deriveComplexity(q.mistakeCount);
         } else {
             badCount++;
+            q.mistakeCount += 1;
+            q.complexity = QuestionRepository.deriveComplexity(q.mistakeCount);
+            scheduleFailedQuestion(q);
         }
+        QuestionRepository.recordAnswerResult(this, questionKey(q), correct);
         updateCounters();
 
         handler.postDelayed(() -> {
@@ -172,13 +191,7 @@ public class PracticeActivity extends AppCompatActivity {
 
         binding.topBar.btnHelp.setOnClickListener(v -> {
             Question q = questions.get(currentIndex);
-
-            new androidx.appcompat.app.AlertDialog.Builder(this)
-                    .setTitle(getString(R.string.string_hint_title, q.category))
-                    .setMessage(q.explanation)
-                    .setNeutralButton(getString(R.string.string_open_guide), (dialog, which) -> openGuideForQuestion(q))
-                    .setPositiveButton(getString(R.string.string_ok), null)
-                    .show();
+            openGuideForQuestion(q);
         });
         binding.topBar.btnOptions.setOnClickListener(
                 v -> startActivity(new android.content.Intent(this, OptionsActivity.class))
@@ -243,6 +256,47 @@ public class PracticeActivity extends AppCompatActivity {
             return "";
         }
         return category.toLowerCase().trim().replace(" ", "_");
+    }
+
+    private void scheduleFailedQuestion(Question failedQuestion) {
+        String failedKey = questionKey(failedQuestion);
+        for (int i = questions.size() - 1; i > currentIndex; i--) {
+            if (failedKey.equals(questionKey(questions.get(i)))) {
+                questions.remove(i);
+            }
+        }
+
+        int complexityPenalty = Math.max(0, failedQuestion.complexity - 1);
+        int mistakePenalty = Math.min(5, Math.max(0, failedQuestion.mistakeCount - 1));
+        int distance = Math.max(MIN_REVIEW_DISTANCE, BASE_REVIEW_DISTANCE - complexityPenalty - mistakePenalty);
+        int targetIndex = Math.min(currentIndex + distance, questions.size());
+        questions.add(targetIndex, failedQuestion);
+    }
+
+    private String questionKey(Question q) {
+        if (q.id != null && !q.id.isEmpty()) {
+            return q.id;
+        }
+        return q.question == null ? "" : q.question;
+    }
+
+    private void reloadQuestionsFromDb() {
+        if (selectedSection == null || selectedSection.isEmpty()) {
+            questions = QuestionRepository.loadQuestionsMix(this, selectedTopics);
+        } else {
+            questions = QuestionRepository.loadQuestions(this, selectedSection, selectedTopics);
+        }
+    }
+
+    private String formatQuestionLog(Question q) {
+        return "[QUESTION] question=\"" + q.question + "\"" +
+                ", id=\"" + q.id + "\"" +
+                ", sectionId=\"" + q.sectionId + "\"" +
+                ", topicId=\"" + q.topicId + "\"" +
+                ", category=\"" + q.category + "\"" +
+                ", complexity=" + q.complexity +
+                ", lastSeen=" + q.lastSeen +
+                ", mistakeCount=" + q.mistakeCount;
     }
 
 }

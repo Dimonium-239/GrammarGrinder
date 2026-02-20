@@ -12,9 +12,7 @@ public class Question {
     public String question;
     public List<String> options;
     public String correctAnswer;
-    public String explanation;
 
-    public int priority;
     public long lastSeen;
     public int mistakeCount;
 }

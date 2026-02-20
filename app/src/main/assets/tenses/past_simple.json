@@ -1,31 +1,12 @@
 [
   {
-    "id": "tenses_ps_001",
-    "category": "Past Simple",
-    "complexity": 1,
-
     "question": "I _____ (go) home yesterday.",
     "options": ["went", "go"],
-    "correctAnswer": "went",
-    "explanation": "Irregular verb – use the second form in Past Simple.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "went"
   },
-
   {
-    "id": "tenses_ps_002",
-    "category": "Past Simple",
-    "complexity": 1,
-
     "question": "She _____ (finish) work at 6 p.m.",
     "options": ["finished", "finish", "finishing"],
-    "correctAnswer": "finished",
-    "explanation": "Regular verb – add -ed in Past Simple.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "finished"
   }
 ]

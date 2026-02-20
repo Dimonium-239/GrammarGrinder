@@ -1,31 +1,12 @@
 [
   {
-    "id": "tenses_fp_001",
-    "category": "Future Perfect",
-    "complexity": 3,
-
     "question": "By next year, I _____ (finish) my degree.",
     "options": ["will have finished", "will finish", "finish"],
-    "correctAnswer": "will have finished",
-    "explanation": "Use Future Perfect for actions completed before a future point.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "will have finished"
   },
-
   {
-    "id": "tenses_fp_002",
-    "category": "Future Perfect",
-    "complexity": 3,
-
     "question": "They _____ (build) the bridge by June.",
     "options": ["will have built", "will build", "have built"],
-    "correctAnswer": "will have built",
-    "explanation": "Form Future Perfect with will have + past participle.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "will have built"
   }
 ]

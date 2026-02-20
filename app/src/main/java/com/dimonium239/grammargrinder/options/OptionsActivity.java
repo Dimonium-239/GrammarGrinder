@@ -41,12 +41,10 @@ public class OptionsActivity extends AppCompatActivity {
     private void setupControls() {
         SwitchMaterial swVibration = findViewById(R.id.sw_vibration_wrong);
         SwitchMaterial swNightTheme = findViewById(R.id.sw_night_theme);
-        SwitchMaterial swFastTimeout = findViewById(R.id.sw_fast_timeout);
         Spinner spinnerLanguage = findViewById(R.id.spinner_language);
 
         swVibration.setChecked(AppSettings.isVibrateWrongEnabled(this));
         swNightTheme.setChecked(AppSettings.isNightThemeEnabled(this));
-        swFastTimeout.setChecked(AppSettings.isFastAnswerTimeoutEnabled(this));
 
         swVibration.setOnCheckedChangeListener(
                 (buttonView, isChecked) -> AppSettings.setVibrateWrongEnabled(this, isChecked)
@@ -56,9 +54,6 @@ public class OptionsActivity extends AppCompatActivity {
             AppSettings.setNightThemeEnabled(this, isChecked);
             AppSettings.applyTheme(this);
         });
-        swFastTimeout.setOnCheckedChangeListener(
-                (buttonView, isChecked) -> AppSettings.setFastAnswerTimeoutEnabled(this, isChecked)
-        );
 
         String[] languages = getResources().getStringArray(R.array.array_languages);
         ArrayAdapter<String> adapter = new ArrayAdapter<>(

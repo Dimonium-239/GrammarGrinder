@@ -1,31 +1,12 @@
 [
   {
-    "id": "tenses_pc_001",
-    "category": "Past Continuous",
-    "complexity": 1,
-
     "question": "They _____ (watch) TV when I called.",
     "options": ["were watching", "watched"],
-    "correctAnswer": "were watching",
-    "explanation": "Use Past Continuous for an action in progress in the past.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "were watching"
   },
-
   {
-    "id": "tenses_pc_002",
-    "category": "Past Continuous",
-    "complexity": 2,
-
     "question": "I _____ (work) all evening.",
     "options": ["was working", "worked"],
-    "correctAnswer": "was working",
-    "explanation": "Past Continuous emphasizes duration in the past.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "was working"
   }
 ]

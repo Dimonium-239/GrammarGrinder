@@ -1,31 +1,12 @@
 [
   {
-    "id": "tenses_fc_001",
-    "category": "Future Continuous",
-    "complexity": 2,
-
     "question": "This time tomorrow, we _____ (fly) to Rome.",
     "options": ["will be flying", "will fly", "are flying"],
-    "correctAnswer": "will be flying",
-    "explanation": "Use Future Continuous for an action in progress at a specific future time.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "will be flying"
   },
-
   {
-    "id": "tenses_fc_002",
-    "category": "Future Continuous",
-    "complexity": 2,
-
     "question": "At 8 p.m., he _____ (study) for the exam.",
     "options": ["will be studying", "will study", "studies"],
-    "correctAnswer": "will be studying",
-    "explanation": "Form Future Continuous with will be + verb-ing.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "will be studying"
   }
 ]

@@ -1,31 +1,12 @@
 [
   {
-    "id": "tenses_prc_001",
-    "category": "Present Continuous",
-    "complexity": 1,
-
     "question": "I _____ (read) a really good book now.",
     "options": ["am reading", "read", "have read"],
-    "correctAnswer": "am reading",
-    "explanation": "Use Present Continuous for actions happening right now.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "am reading"
   },
-
   {
-    "id": "tenses_prc_002",
-    "category": "Present Continuous",
-    "complexity": 2,
-
     "question": "They _____ (not watch) TV at the moment.",
     "options": ["are not watching", "do not watch", "were not watching"],
-    "correctAnswer": "are not watching",
-    "explanation": "Form negatives in Present Continuous with am/is/are + not + verb-ing.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "are not watching"
   }
 ]

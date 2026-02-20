@@ -1,31 +1,12 @@
 [
   {
-    "id": "tenses_fs_001",
-    "category": "Future Simple",
-    "complexity": 1,
-
     "question": "I think it _____ (rain) tomorrow.",
     "options": ["will rain", "rains", "is raining"],
-    "correctAnswer": "will rain",
-    "explanation": "Use Future Simple (will + base verb) for predictions.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "will rain"
   },
-
   {
-    "id": "tenses_fs_002",
-    "category": "Future Simple",
-    "complexity": 1,
-
     "question": "She _____ (help) you with your project.",
     "options": ["will help", "helps", "helped"],
-    "correctAnswer": "will help",
-    "explanation": "Use Future Simple for spontaneous decisions and offers.",
-
-    "priority": 10,
-    "lastSeen": 0,
-    "mistakeCount": 0
+    "correctAnswer": "will help"
   }
 ]
