@@ -1,3 +1,13 @@
 <resources>
-    <dimen name="screen_horizontal_margin">8dp</dimen>
+    <dimen name="screen_horizontal_margin">0dp</dimen>
+    <dimen name="screen_horizontal_padding">16dp</dimen>
+
+    <dimen name="spacing_section_gap">5dp</dimen>
+    <dimen name="spacing_subsection_gap">5dp</dimen>
+    <dimen name="spacing_subsection_header_padding">5dp</dimen>
+    <dimen name="spacing_subsection_title_vertical">0dp</dimen>
+    <dimen name="spacing_subsection_item_margin_top">0dp</dimen>
+    <dimen name="spacing_subsection_item_margin_bottom">0dp</dimen>
+    <dimen name="spacing_subsection_content_padding_horizontal">32dp</dimen>
+    <dimen name="spacing_subsection_content_padding_bottom">0dp</dimen>
 </resources>

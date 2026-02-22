@@ -17,3 +17,8 @@ GrammarGrinder is a lightweight Android app for practicing English grammar with 
 1. Open the project in Android Studio
 2. Sync Gradle
 3. Run the `app` module on an emulator or device
+
+## Release (Play Console deobfuscation)
+1. Build release AAB: `./gradlew :app:bundleRelease`
+2. Upload app bundle from `app/build/outputs/bundle/release/`
+3. Upload deobfuscation file `app/build/outputs/mapping/release/mapping.txt` in Play Console for the same release

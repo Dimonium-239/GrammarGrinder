@@ -11,10 +11,7 @@ public final class AppSettings {
     private static final String KEY_VIBRATE_WRONG = "vibrate_wrong";
     private static final String KEY_NIGHT_THEME = "night_theme";
     private static final String KEY_LANGUAGE = "language";
-    private static final String KEY_FAST_ANSWER_TIMEOUT = "fast_answer_timeout";
-
-    public static final int ANSWER_DELAY_FAST_MS = 900;
-    public static final int ANSWER_DELAY_NORMAL_MS = 1500;
+    public static final int ANSWER_DELAY_MS = 1500;
 
     private AppSettings() {
     }
@@ -25,9 +22,7 @@ public final class AppSettings {
     }
 
     public static void applyTheme(Context context) {
-        int mode = isNightThemeEnabled(context)
-                ? AppCompatDelegate.MODE_NIGHT_YES
-                : AppCompatDelegate.MODE_NIGHT_NO;
+        int mode = isNightThemeEnabled(context) ? AppCompatDelegate.MODE_NIGHT_YES : AppCompatDelegate.MODE_NIGHT_NO;
         AppCompatDelegate.setDefaultNightMode(mode);
     }
 
@@ -60,16 +55,8 @@ public final class AppSettings {
         prefs(context).edit().putString(KEY_LANGUAGE, language).apply();
     }
 
-    public static boolean isFastAnswerTimeoutEnabled(Context context) {
-        return prefs(context).getBoolean(KEY_FAST_ANSWER_TIMEOUT, true);
-    }
-
-    public static void setFastAnswerTimeoutEnabled(Context context, boolean enabled) {
-        prefs(context).edit().putBoolean(KEY_FAST_ANSWER_TIMEOUT, enabled).apply();
-    }
-
-    public static int getAnswerDelayMs(Context context) {
-        return isFastAnswerTimeoutEnabled(context) ? ANSWER_DELAY_FAST_MS : ANSWER_DELAY_NORMAL_MS;
+    public static int getAnswerDelayMs() {
+        return ANSWER_DELAY_MS;
     }
 
     private static SharedPreferences prefs(Context context) {

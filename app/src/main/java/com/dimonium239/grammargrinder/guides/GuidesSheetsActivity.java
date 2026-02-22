@@ -2,7 +2,7 @@ package com.dimonium239.grammargrinder.guides;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.TypedValue;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
@@ -15,7 +15,6 @@ import com.dimonium239.grammargrinder.R;
 import com.dimonium239.grammargrinder.core.settings.AppSettings;
 import com.dimonium239.grammargrinder.home.SectionLoader;
 import com.dimonium239.grammargrinder.home.SectionMeta;
-import com.google.android.material.card.MaterialCardView;
 
 import java.util.List;
 
@@ -138,31 +137,12 @@ public class GuidesSheetsActivity extends AppCompatActivity {
     }
 
     private void addNavigationCard(String title, String subtitleText, View.OnClickListener onClick) {
-        MaterialCardView card = new MaterialCardView(this);
-        card.setRadius(dp(20));
-        LinearLayout.LayoutParams cardParams = new LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.MATCH_PARENT,
-                LinearLayout.LayoutParams.WRAP_CONTENT
-        );
-        cardParams.bottomMargin = dp(12);
-        card.setLayoutParams(cardParams);
-        card.setOnClickListener(onClick);
-
-        LinearLayout content = new LinearLayout(this);
-        content.setOrientation(LinearLayout.VERTICAL);
-        content.setPadding(dp(18), dp(16), dp(18), dp(16));
-
-        TextView tvTitle = new TextView(this);
+        View card = LayoutInflater.from(this).inflate(R.layout.item_guide_navigation_card, container, false);
+        TextView tvTitle = card.findViewById(R.id.tv_title);
+        TextView tvSubtitle = card.findViewById(R.id.tv_subtitle);
         tvTitle.setText(title);
-        tvTitle.setTextSize(TypedValue.COMPLEX_UNIT_SP, 20);
-        tvTitle.setPadding(0, 0, 0, dp(8));
-
-        TextView tvSubtitle = new TextView(this);
         tvSubtitle.setText(subtitleText);
-
-        content.addView(tvTitle);
-        content.addView(tvSubtitle);
-        card.addView(content);
+        card.setOnClickListener(onClick);
         container.addView(card);
     }
 
@@ -170,50 +150,20 @@ public class GuidesSheetsActivity extends AppCompatActivity {
         if (entry == null) {
             return;
         }
-        MaterialCardView card = new MaterialCardView(this);
-        card.setRadius(dp(20));
-        LinearLayout.LayoutParams cardParams = new LinearLayout.LayoutParams(
-                LinearLayout.LayoutParams.MATCH_PARENT,
-                LinearLayout.LayoutParams.WRAP_CONTENT
-        );
-        cardParams.bottomMargin = dp(12);
-        card.setLayoutParams(cardParams);
+        View card = LayoutInflater.from(this).inflate(R.layout.item_guide_detail_card, container, false);
+        TextView tvTitle = card.findViewById(R.id.tv_title);
+        TextView tvUse = card.findViewById(R.id.tv_use);
+        TextView tvFormula = card.findViewById(R.id.tv_formula);
+        TextView tvExamples = card.findViewById(R.id.tv_examples);
+        TextView tvKeywords = card.findViewById(R.id.tv_keywords);
+        TextView tvMistakes = card.findViewById(R.id.tv_mistakes);
 
-        LinearLayout content = new LinearLayout(this);
-        content.setOrientation(LinearLayout.VERTICAL);
-        content.setPadding(dp(18), dp(16), dp(18), dp(16));
-
-        TextView tvTitle = new TextView(this);
         tvTitle.setText(entry.title);
-        tvTitle.setTextSize(TypedValue.COMPLEX_UNIT_SP, 20);
-        tvTitle.setPadding(0, 0, 0, dp(8));
-
-        TextView tvUse = new TextView(this);
         tvUse.setText(getString(R.string.string_guide_when_to_use, entry.whenToUse));
-        tvUse.setPadding(0, 0, 0, dp(8));
-
-        TextView tvFormula = new TextView(this);
         tvFormula.setText(getString(R.string.string_guide_formula, entry.formula));
-        tvFormula.setPadding(0, 0, 0, dp(8));
-
-        TextView tvExamples = new TextView(this);
         tvExamples.setText(getString(R.string.string_guide_examples, bulletList(entry.examples)));
-        tvExamples.setPadding(0, 0, 0, dp(8));
-
-        TextView tvKeywords = new TextView(this);
         tvKeywords.setText(getString(R.string.string_guide_keywords, joinComma(entry.keywords)));
-        tvKeywords.setPadding(0, 0, 0, dp(8));
-
-        TextView tvMistakes = new TextView(this);
         tvMistakes.setText(getString(R.string.string_guide_common_mistakes, bulletList(entry.commonMistakes)));
-
-        content.addView(tvTitle);
-        content.addView(tvUse);
-        content.addView(tvFormula);
-        content.addView(tvExamples);
-        content.addView(tvKeywords);
-        content.addView(tvMistakes);
-        card.addView(content);
         container.addView(card);
     }
 
@@ -243,9 +193,5 @@ public class GuidesSheetsActivity extends AppCompatActivity {
             }
         }
         return sb.toString();
-    }
-
-    private int dp(int value) {
-        return Math.round(value * getResources().getDisplayMetrics().density);
     }
 }

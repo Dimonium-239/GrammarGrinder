@@ -168,7 +168,7 @@ public class PracticeActivity extends AppCompatActivity {
         handler.postDelayed(() -> {
             currentIndex++;
             showQuestion();
-        }, AppSettings.getAnswerDelayMs(this));
+        }, AppSettings.getAnswerDelayMs());
     }
 
     private void resetButtons() {

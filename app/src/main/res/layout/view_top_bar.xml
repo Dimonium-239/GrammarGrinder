@@ -15,7 +15,7 @@
         android:layout_height="48dp"
         android:background="?attr/selectableItemBackgroundBorderless"
         android:contentDescription="@string/string_top_bar_back"
-        android:src="@android:drawable/ic_media_previous" />
+        android:src="@drawable/ic_back" />
 
     <TextView
         android:id="@+id/tv_title"
@@ -32,7 +32,7 @@
         android:layout_height="48dp"
         android:background="?attr/selectableItemBackgroundBorderless"
         android:contentDescription="@string/string_top_bar_hints"
-        android:src="@android:drawable/ic_menu_help" />
+        android:src="@drawable/ic_question" />
 
     <ImageButton
         android:id="@+id/btn_options"
@@ -40,6 +40,6 @@
         android:layout_height="48dp"
         android:background="?attr/selectableItemBackgroundBorderless"
         android:contentDescription="@string/string_top_bar_options"
-        android:src="@android:drawable/ic_menu_manage" />
+        android:src="@drawable/ic_settings" />
 
 </LinearLayout>

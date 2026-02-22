@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="?attr/materialCardViewFilledStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/spacing_subsection_gap"
+    app:cardCornerRadius="20dp"
+    app:strokeWidth="0dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/section_header_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingStart="@dimen/spacing_subsection_header_padding"
+            android:paddingTop="@dimen/spacing_subsection_header_padding"
+            android:paddingEnd="@dimen/spacing_subsection_header_padding"
+            android:paddingBottom="@dimen/spacing_subsection_header_padding">
+
+            <com.google.android.material.checkbox.MaterialCheckBox
+                android:id="@+id/cb_section_select"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="12dp" />
+
+            <TextView
+                android:id="@+id/tv_section_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textAppearance="@style/TextAppearance.Material3.TitleLarge" />
+
+            <ImageView
+                android:id="@+id/iv_expand_toggle"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginEnd="6dp"
+                android:contentDescription="@null"
+                android:src="@drawable/ic_expand_more" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/container_section_topics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingStart="@dimen/spacing_subsection_content_padding_horizontal"
+            android:paddingEnd="@dimen/spacing_subsection_content_padding_horizontal"
+            android:paddingBottom="@dimen/spacing_subsection_content_padding_bottom"
+            android:visibility="gone" />
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>
