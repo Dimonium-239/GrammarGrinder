@@ -66,6 +66,44 @@ public interface QuestionDao {
     @Query("SELECT * FROM question_progress WHERE question_text = :questionText LIMIT 1")
     QuestionProgressEntity getProgress(String questionText);
 
+    @Query("SELECT " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 THEN 1 ELSE 0 END), 0) AS seen, " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 AND COALESCE(p.mistake_count, 0) = 0 THEN 1 ELSE 0 END), 0) AS successful, " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 AND COALESCE(p.mistake_count, 0) > 0 THEN 1 ELSE 0 END), 0) AS unsuccessful " +
+            "FROM questions q " +
+            "LEFT JOIN question_progress p ON p.question_text = q.question_text " +
+            "WHERE q.is_active = 1 AND q.section_id = :sectionId AND q.topic_id = :topicId")
+    ProgressStatsRow loadTopicProgress(String sectionId, String topicId);
+
+    @Query("SELECT " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 THEN 1 ELSE 0 END), 0) AS seen, " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 AND COALESCE(p.mistake_count, 0) = 0 THEN 1 ELSE 0 END), 0) AS successful, " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 AND COALESCE(p.mistake_count, 0) > 0 THEN 1 ELSE 0 END), 0) AS unsuccessful " +
+            "FROM questions q " +
+            "LEFT JOIN question_progress p ON p.question_text = q.question_text " +
+            "WHERE q.is_active = 1 AND q.section_id = :sectionId")
+    ProgressStatsRow loadSectionProgress(String sectionId);
+
+    @Query("SELECT " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 THEN 1 ELSE 0 END), 0) AS seen, " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 AND COALESCE(p.mistake_count, 0) = 0 THEN 1 ELSE 0 END), 0) AS successful, " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 AND COALESCE(p.mistake_count, 0) > 0 THEN 1 ELSE 0 END), 0) AS unsuccessful " +
+            "FROM questions q " +
+            "LEFT JOIN question_progress p ON p.question_text = q.question_text " +
+            "WHERE q.is_active = 1")
+    ProgressStatsRow loadGlobalProgress();
+
+    @Query("SELECT " +
+            "q.section_id AS sectionId, q.topic_id AS topicId, " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 THEN 1 ELSE 0 END), 0) AS seen, " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 AND COALESCE(p.mistake_count, 0) = 0 THEN 1 ELSE 0 END), 0) AS successful, " +
+            "COALESCE(SUM(CASE WHEN p.last_seen > 0 AND COALESCE(p.mistake_count, 0) > 0 THEN 1 ELSE 0 END), 0) AS unsuccessful " +
+            "FROM questions q " +
+            "LEFT JOIN question_progress p ON p.question_text = q.question_text " +
+            "WHERE q.is_active = 1 " +
+            "GROUP BY q.section_id, q.topic_id")
+    List<TopicProgressRow> loadAllTopicProgressRows();
+
     @Query("UPDATE questions SET complexity = :complexity WHERE question_text = :questionText")
     void updateComplexity(String questionText, int complexity);
 

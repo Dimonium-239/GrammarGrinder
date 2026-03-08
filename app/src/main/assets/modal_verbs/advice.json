@@ -1,0 +1,1252 @@
+[
+  {
+    "question": "You ___ eat more vegetables to stay healthy.",
+    "options": ["should", "must", "can", "will"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "___ I tell her the truth about the accident?",
+    "options": ["Should", "Must", "Can", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ drive so fast in this rainy weather.",
+    "options": ["shouldn't", "mustn't", "won't", "can't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "She ___ write the results immediately.",
+    "options": ["could", "would", "might", "ought to"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "The students ___ finish to bed early this afternoon.",
+    "options": ["don't", "won't", "had better not", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ Sarah write the results soon?",
+    "options": ["Must", "Will", "Should", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "She ___ check more water next week.",
+    "options": ["might", "should", "could", "would"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "Everyone ___ check to the manager later.",
+    "options": ["don't", "can't", "won't", "had better not"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ everyone wear to bed early later?",
+    "options": ["Must", "Will", "Can", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ speak a coat tomorrow.",
+    "options": ["had better", "could", "would", "might"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "She ___ speak a coat this afternoon.",
+    "options": ["had better not", "don't", "won't", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ she apply more water next week?",
+    "options": ["Must", "Should", "Can", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ call a specialist today.",
+    "options": ["would", "might", "could", "ought to"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "The students ___ write to the manager immediately.",
+    "options": ["had better not", "can't", "don't", "won't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ they wear for the permit this afternoon?",
+    "options": ["Must", "Can", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "We ___ see a specialist this afternoon.",
+    "options": ["might", "ought to", "would", "could"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "You ___ finish a break soon.",
+    "options": ["don't", "won't", "can't", "had better not"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ he check for the permit soon?",
+    "options": ["Should", "Must", "Will", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ apply a coat today.",
+    "options": ["might", "could", "would", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "They ___ check a break tomorrow.",
+    "options": ["don't", "can't", "had better not", "won't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ they take to the manager later?",
+    "options": ["Can", "Will", "Should", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ apply a specialist today.",
+    "options": ["would", "could", "might", "ought to"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "Employees ___ speak healthy food tomorrow.",
+    "options": ["can't", "won't", "don't", "shouldn't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ the doctor see the results immediately?",
+    "options": ["Will", "Can", "Must", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The doctor ___ drink the results later.",
+    "options": ["could", "would", "might", "had better"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "He ___ apply the assignment soon.",
+    "options": ["won't", "shouldn't", "don't", "can't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ you check a coat soon?",
+    "options": ["Can", "Will", "Must", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Sarah ___ take the report later.",
+    "options": ["ought to", "would", "might", "could"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "He ___ apply more water soon.",
+    "options": ["shouldn't", "can't", "don't", "won't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ he apply a specialist later?",
+    "options": ["Should", "Must", "Will", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ check to the manager later.",
+    "options": ["could", "might", "would", "ought to"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "They ___ apply healthy food next week.",
+    "options": ["ought not to", "won't", "can't", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ Sarah eat the report immediately?",
+    "options": ["Will", "Must", "Can", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Sarah ___ finish to bed early next week.",
+    "options": ["could", "had better", "might", "would"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "Sarah ___ wear the assignment soon.",
+    "options": ["can't", "won't", "ought not to", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ she finish healthy food today?",
+    "options": ["Will", "Should", "Can", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ eat healthy food later.",
+    "options": ["had better", "could", "might", "would"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "The students ___ wear to bed early tomorrow.",
+    "options": ["don't", "ought not to", "won't", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ they wear to the manager soon?",
+    "options": ["Should", "Will", "Must", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ call their parents immediately.",
+    "options": ["could", "would", "might", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "You ___ check a coat tomorrow.",
+    "options": ["can't", "won't", "don't", "had better not"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ he eat for the permit soon?",
+    "options": ["Can", "Should", "Will", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The doctor ___ drink a coat immediately.",
+    "options": ["could", "might", "would", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "He ___ go the results tomorrow.",
+    "options": ["can't", "don't", "ought not to", "won't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ we finish more water tomorrow?",
+    "options": ["Can", "Should", "Will", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Sarah ___ eat a break tomorrow.",
+    "options": ["might", "would", "ought to", "could"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "They ___ drink for the permit tomorrow.",
+    "options": ["ought not to", "don't", "can't", "won't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ she see a coat tomorrow?",
+    "options": ["Will", "Must", "Can", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "She ___ see a specialist next week.",
+    "options": ["might", "could", "ought to", "would"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "The doctor ___ take healthy food today.",
+    "options": ["won't", "ought not to", "don't", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ the students go a break this afternoon?",
+    "options": ["Should", "Can", "Must", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ eat to the manager later.",
+    "options": ["should", "would", "could", "might"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "We ___ take to the manager tomorrow.",
+    "options": ["had better not", "don't", "won't", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ we see the results today?",
+    "options": ["Will", "Must", "Should", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The doctor ___ go a coat today.",
+    "options": ["had better", "might", "could", "would"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "The students ___ speak the report tomorrow.",
+    "options": ["ought not to", "don't", "can't", "won't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ they finish more water today?",
+    "options": ["Can", "Will", "Should", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The students ___ go their parents later.",
+    "options": ["had better", "could", "would", "might"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "He ___ speak healthy food this afternoon.",
+    "options": ["can't", "don't", "had better not", "won't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ he wear a break this afternoon?",
+    "options": ["Will", "Must", "Can", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Sarah ___ see the assignment immediately.",
+    "options": ["might", "could", "would", "had better"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "Employees ___ call to the manager tomorrow.",
+    "options": ["can't", "shouldn't", "won't", "don't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ the students eat a coat later?",
+    "options": ["Will", "Must", "Should", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "He ___ call their parents this afternoon.",
+    "options": ["should", "might", "could", "would"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "The doctor ___ take a break tomorrow.",
+    "options": ["don't", "won't", "ought not to", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ she go to the manager soon?",
+    "options": ["Must", "Can", "Should", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ wear more water next week.",
+    "options": ["ought to", "would", "could", "might"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "The doctor ___ apply to the manager this afternoon.",
+    "options": ["won't", "don't", "had better not", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ everyone take for the permit next week?",
+    "options": ["Should", "Will", "Can", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "He ___ finish healthy food today.",
+    "options": ["might", "could", "had better", "would"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "They ___ drink a break this afternoon.",
+    "options": ["don't", "shouldn't", "won't", "can't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ employees call healthy food today?",
+    "options": ["Must", "Will", "Can", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ go the results next week.",
+    "options": ["would", "could", "ought to", "might"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "They ___ apply the results this afternoon.",
+    "options": ["won't", "don't", "ought not to", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ the doctor apply more water immediately?",
+    "options": ["Will", "Must", "Should", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The students ___ check a break this afternoon.",
+    "options": ["would", "ought to", "might", "could"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "The students ___ finish healthy food later.",
+    "options": ["shouldn't", "can't", "won't", "don't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ Sarah check a break later?",
+    "options": ["Will", "Should", "Can", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The students ___ call to bed early this afternoon.",
+    "options": ["would", "might", "had better", "could"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "They ___ check a specialist next week.",
+    "options": ["won't", "ought not to", "don't", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ she wear more water tomorrow?",
+    "options": ["Will", "Should", "Can", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ check the results next week.",
+    "options": ["might", "could", "had better", "would"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "Everyone ___ see more water next week.",
+    "options": ["don't", "won't", "can't", "shouldn't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ everyone check healthy food this afternoon?",
+    "options": ["Can", "Will", "Must", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The doctor ___ see their parents soon.",
+    "options": ["might", "would", "could", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "He ___ write a coat tomorrow.",
+    "options": ["don't", "can't", "ought not to", "won't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ Sarah drink the report tomorrow?",
+    "options": ["Must", "Should", "Will", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "We ___ drink to bed early today.",
+    "options": ["would", "might", "should", "could"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "They ___ apply the assignment today.",
+    "options": ["won't", "ought not to", "can't", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ you finish to bed early this afternoon?",
+    "options": ["Can", "Must", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "He ___ drink to bed early soon.",
+    "options": ["could", "would", "might", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "You ___ apply their parents tomorrow.",
+    "options": ["had better not", "don't", "won't", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ the doctor check a coat this afternoon?",
+    "options": ["Will", "Can", "Should", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ call for the permit next week.",
+    "options": ["could", "would", "might", "had better"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "You ___ wear their parents next week.",
+    "options": ["can't", "ought not to", "won't", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ everyone go their parents immediately?",
+    "options": ["Will", "Must", "Can", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "He ___ eat to bed early soon.",
+    "options": ["could", "would", "might", "had better"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "He ___ go for the permit next week.",
+    "options": ["don't", "can't", "won't", "had better not"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ he take the results soon?",
+    "options": ["Must", "Should", "Will", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ call a coat next week.",
+    "options": ["could", "would", "should", "might"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "Sarah ___ wear a break next week.",
+    "options": ["ought not to", "can't", "don't", "won't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ you check more water this afternoon?",
+    "options": ["Must", "Should", "Can", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "He ___ eat a specialist tomorrow.",
+    "options": ["could", "would", "might", "ought to"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "Sarah ___ take for the permit this afternoon.",
+    "options": ["don't", "can't", "shouldn't", "won't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ we check to the manager later?",
+    "options": ["Should", "Must", "Will", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Everyone ___ go the results later.",
+    "options": ["would", "could", "might", "had better"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "Sarah ___ drink a coat this afternoon.",
+    "options": ["had better not", "won't", "can't", "don't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ Sarah eat the results later?",
+    "options": ["Must", "Should", "Can", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Everyone ___ finish to the manager tomorrow.",
+    "options": ["might", "should", "would", "could"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "She ___ go the report immediately.",
+    "options": ["ought not to", "won't", "don't", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ you apply their parents this afternoon?",
+    "options": ["Must", "Can", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "We ___ write the assignment later.",
+    "options": ["would", "should", "might", "could"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "We ___ call their parents next week.",
+    "options": ["shouldn't", "can't", "don't", "won't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ you drink a break later?",
+    "options": ["Will", "Must", "Can", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "We ___ finish the report next week.",
+    "options": ["would", "could", "had better", "might"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "He ___ check the report soon.",
+    "options": ["ought not to", "can't", "won't", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ everyone eat their parents later?",
+    "options": ["Must", "Will", "Can", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ go more water tomorrow.",
+    "options": ["could", "had better", "would", "might"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "You ___ drink a coat this afternoon.",
+    "options": ["won't", "ought not to", "can't", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ you write more water this afternoon?",
+    "options": ["Must", "Can", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ speak the report immediately.",
+    "options": ["should", "could", "might", "would"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "She ___ go their parents tomorrow.",
+    "options": ["ought not to", "can't", "won't", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ we take healthy food immediately?",
+    "options": ["Will", "Can", "Should", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "He ___ wear a break immediately.",
+    "options": ["could", "would", "might", "ought to"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "Everyone ___ go more water soon.",
+    "options": ["don't", "won't", "can't", "shouldn't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ she eat healthy food next week?",
+    "options": ["Must", "Should", "Will", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Sarah ___ check their parents this afternoon.",
+    "options": ["could", "would", "had better", "might"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "Everyone ___ see healthy food next week.",
+    "options": ["won't", "shouldn't", "don't", "can't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ the students take the report immediately?",
+    "options": ["Must", "Will", "Should", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "She ___ apply the results immediately.",
+    "options": ["could", "would", "might", "had better"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "She ___ speak their parents next week.",
+    "options": ["shouldn't", "can't", "don't", "won't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ everyone finish a break tomorrow?",
+    "options": ["Can", "Will", "Must", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The students ___ finish to the manager next week.",
+    "options": ["should", "could", "might", "would"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "You ___ drink a break tomorrow.",
+    "options": ["had better not", "can't", "won't", "don't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ everyone finish a specialist immediately?",
+    "options": ["Can", "Must", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ write for the permit this afternoon.",
+    "options": ["might", "should", "would", "could"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "She ___ speak for the permit immediately.",
+    "options": ["shouldn't", "can't", "don't", "won't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ the students call healthy food this afternoon?",
+    "options": ["Can", "Should", "Will", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The doctor ___ write healthy food later.",
+    "options": ["could", "might", "would", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "She ___ drink their parents next week.",
+    "options": ["had better not", "don't", "can't", "won't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ he write a coat soon?",
+    "options": ["Must", "Can", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "She ___ wear their parents this afternoon.",
+    "options": ["could", "might", "should", "would"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "They ___ write a break later.",
+    "options": ["can't", "don't", "won't", "ought not to"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ the students call a break later?",
+    "options": ["Can", "Should", "Will", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ call a coat immediately.",
+    "options": ["could", "should", "would", "might"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "The students ___ check healthy food this afternoon.",
+    "options": ["won't", "can't", "shouldn't", "don't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ employees finish the results today?",
+    "options": ["Should", "Will", "Must", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Everyone ___ wear the report immediately.",
+    "options": ["might", "could", "should", "would"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "Employees ___ go the report later.",
+    "options": ["ought not to", "won't", "can't", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ employees wear a coat immediately?",
+    "options": ["Should", "Can", "Will", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "We ___ wear a coat soon.",
+    "options": ["might", "would", "could", "ought to"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "Everyone ___ speak their parents this afternoon.",
+    "options": ["won't", "don't", "had better not", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ she speak healthy food later?",
+    "options": ["Will", "Can", "Must", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The doctor ___ apply a specialist next week.",
+    "options": ["would", "might", "should", "could"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "Sarah ___ finish a coat tomorrow.",
+    "options": ["won't", "had better not", "don't", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ everyone eat the report tomorrow?",
+    "options": ["Must", "Can", "Should", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ apply to the manager tomorrow.",
+    "options": ["could", "might", "would", "had better"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "Sarah ___ apply their parents tomorrow.",
+    "options": ["shouldn't", "don't", "can't", "won't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ everyone go the assignment tomorrow?",
+    "options": ["Will", "Should", "Must", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "We ___ take healthy food tomorrow.",
+    "options": ["might", "would", "had better", "could"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "Everyone ___ call for the permit later.",
+    "options": ["don't", "can't", "won't", "ought not to"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ the students check to bed early next week?",
+    "options": ["Can", "Must", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ apply the assignment later.",
+    "options": ["ought to", "might", "could", "would"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "The students ___ see to the manager immediately.",
+    "options": ["won't", "don't", "can't", "ought not to"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ the students check the results immediately?",
+    "options": ["Must", "Will", "Can", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ speak the results soon.",
+    "options": ["would", "could", "ought to", "might"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "The students ___ go to the manager later.",
+    "options": ["don't", "won't", "ought not to", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ the students wear healthy food today?",
+    "options": ["Can", "Must", "Should", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "We ___ write their parents next week.",
+    "options": ["could", "might", "would", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "He ___ write a coat this afternoon.",
+    "options": ["don't", "can't", "had better not", "won't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ employees apply the results later?",
+    "options": ["Can", "Must", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "She ___ write a break soon.",
+    "options": ["would", "could", "might", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "She ___ call more water later.",
+    "options": ["can't", "don't", "won't", "shouldn't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ employees write healthy food tomorrow?",
+    "options": ["Must", "Can", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ call the results this afternoon.",
+    "options": ["had better", "could", "might", "would"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "The students ___ wear a coat next week.",
+    "options": ["won't", "don't", "can't", "ought not to"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ everyone speak to bed early next week?",
+    "options": ["Should", "Will", "Must", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The students ___ finish for the permit today.",
+    "options": ["could", "should", "would", "might"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "You ___ finish more water soon.",
+    "options": ["won't", "don't", "can't", "shouldn't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ everyone drink the report soon?",
+    "options": ["Will", "Must", "Should", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The students ___ check the assignment immediately.",
+    "options": ["ought to", "could", "would", "might"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "They ___ finish the assignment today.",
+    "options": ["won't", "had better not", "don't", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ Sarah speak for the permit tomorrow?",
+    "options": ["Should", "Can", "Must", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ finish the assignment tomorrow.",
+    "options": ["would", "might", "should", "could"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "The students ___ check for the permit next week.",
+    "options": ["don't", "ought not to", "can't", "won't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ they apply for the permit soon?",
+    "options": ["Will", "Can", "Must", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Sarah ___ drink more water later.",
+    "options": ["might", "ought to", "could", "would"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "Everyone ___ apply their parents later.",
+    "options": ["don't", "can't", "ought not to", "won't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ everyone check the results next week?",
+    "options": ["Will", "Should", "Must", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ see their parents next week.",
+    "options": ["would", "ought to", "could", "might"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "The students ___ write the results this afternoon.",
+    "options": ["can't", "shouldn't", "won't", "don't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ employees check healthy food today?",
+    "options": ["Will", "Should", "Must", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Sarah ___ call healthy food next week.",
+    "options": ["might", "had better", "would", "could"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "She ___ write the results next week.",
+    "options": ["can't", "won't", "don't", "shouldn't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ Sarah wear for the permit today?",
+    "options": ["Will", "Should", "Can", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ drink more water soon.",
+    "options": ["might", "would", "should", "could"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "Everyone ___ write to bed early next week.",
+    "options": ["won't", "ought not to", "can't", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ you finish healthy food this afternoon?",
+    "options": ["Will", "Can", "Must", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "We ___ see to bed early next week.",
+    "options": ["could", "had better", "might", "would"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "They ___ take their parents this afternoon.",
+    "options": ["had better not", "don't", "can't", "won't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ you see the results immediately?",
+    "options": ["Can", "Should", "Must", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ apply the assignment today.",
+    "options": ["would", "could", "had better", "might"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "The doctor ___ apply the results this afternoon.",
+    "options": ["can't", "had better not", "won't", "don't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ they go a specialist this afternoon?",
+    "options": ["Must", "Can", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Everyone ___ write for the permit today.",
+    "options": ["might", "would", "could", "ought to"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "The doctor ___ take the results soon.",
+    "options": ["don't", "can't", "shouldn't", "won't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ they check the results soon?",
+    "options": ["Will", "Can", "Should", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The students ___ write the results tomorrow.",
+    "options": ["might", "could", "had better", "would"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "Employees ___ see for the permit later.",
+    "options": ["won't", "shouldn't", "don't", "can't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ Sarah check for the permit this afternoon?",
+    "options": ["Can", "Should", "Will", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ eat the results soon.",
+    "options": ["ought to", "could", "would", "might"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "They ___ drink the assignment tomorrow.",
+    "options": ["won't", "had better not", "don't", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ she call more water immediately?",
+    "options": ["Should", "Can", "Must", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ finish for the permit soon.",
+    "options": ["would", "might", "ought to", "could"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "You ___ call the assignment this afternoon.",
+    "options": ["won't", "can't", "ought not to", "don't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ the students finish their parents today?",
+    "options": ["Can", "Will", "Must", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "She ___ see the assignment immediately.",
+    "options": ["could", "ought to", "would", "might"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "He ___ speak the report immediately.",
+    "options": ["shouldn't", "won't", "don't", "can't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ the students take a break soon?",
+    "options": ["Must", "Should", "Will", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "She ___ finish the report immediately.",
+    "options": ["would", "might", "ought to", "could"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "Sarah ___ wear a coat today.",
+    "options": ["shouldn't", "can't", "don't", "won't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ they go to bed early next week?",
+    "options": ["Will", "Must", "Should", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "We ___ see the report later.",
+    "options": ["had better", "might", "could", "would"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "You ___ write the report today.",
+    "options": ["had better not", "can't", "won't", "don't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ employees see healthy food next week?",
+    "options": ["Must", "Can", "Will", "Should"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ take a break soon.",
+    "options": ["could", "might", "would", "had better"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "The doctor ___ drink the assignment soon.",
+    "options": ["don't", "won't", "ought not to", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ he eat a coat today?",
+    "options": ["Must", "Will", "Should", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ write to bed early next week.",
+    "options": ["could", "would", "might", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "Employees ___ write to the manager immediately.",
+    "options": ["can't", "won't", "don't", "had better not"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ the students finish a coat later?",
+    "options": ["Can", "Should", "Must", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "He ___ eat for the permit soon.",
+    "options": ["might", "could", "would", "should"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "The doctor ___ speak healthy food soon.",
+    "options": ["ought not to", "won't", "don't", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ they take the results immediately?",
+    "options": ["Should", "Must", "Will", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Employees ___ eat a break this afternoon.",
+    "options": ["should", "could", "might", "would"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "We ___ apply a coat soon.",
+    "options": ["ought not to", "won't", "don't", "can't"],
+    "correctAnswer": "ought not to"
+  },
+  {
+    "question": "___ Sarah see their parents later?",
+    "options": ["Will", "Should", "Must", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "She ___ eat to bed early tomorrow.",
+    "options": ["might", "would", "could", "ought to"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "We ___ see a coat today.",
+    "options": ["won't", "had better not", "don't", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ she eat their parents soon?",
+    "options": ["Must", "Will", "Should", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "You ___ apply the results soon.",
+    "options": ["would", "had better", "could", "might"],
+    "correctAnswer": "had better"
+  },
+  {
+    "question": "You ___ eat their parents immediately.",
+    "options": ["can't", "had better not", "won't", "don't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ employees check their parents tomorrow?",
+    "options": ["Must", "Can", "Should", "Will"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "They ___ write more water soon.",
+    "options": ["would", "could", "should", "might"],
+    "correctAnswer": "should"
+  },
+  {
+    "question": "He ___ see a specialist next week.",
+    "options": ["won't", "don't", "shouldn't", "can't"],
+    "correctAnswer": "shouldn't"
+  },
+  {
+    "question": "___ Sarah check the results this afternoon?",
+    "options": ["Will", "Should", "Must", "Can"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "Sarah ___ take to bed early next week.",
+    "options": ["ought to", "could", "would", "might"],
+    "correctAnswer": "ought to"
+  },
+  {
+    "question": "He ___ see a specialist soon.",
+    "options": ["won't", "don't", "had better not", "can't"],
+    "correctAnswer": "had better not"
+  },
+  {
+    "question": "___ the students call healthy food tomorrow?",
+    "options": ["Will", "Should", "Can", "Must"],
+    "correctAnswer": "Should"
+  },
+  {
+    "question": "The doctor ___ apply for the permit tomorrow.",
+    "options": ["could", "would", "should", "might"],
+    "correctAnswer": "should"
+  }
+]

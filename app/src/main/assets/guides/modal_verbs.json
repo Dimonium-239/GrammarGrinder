@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ability",
+    "title": "Ability",
+    "whenToUse": "To express physical or mental skills and capabilities",
+    "formula": "Subject + can/could/be able to + base verb",
+    "examples": [
+      "I can speak three languages.",
+      "She could swim when she was five.",
+      "They will be able to join us tomorrow."
+    ],
+    "keywords": ["can", "could", "be able to", "manage to"],
+    "commonMistakes": [
+      "Using 'to' after can (e.g., I can to swim)",
+      "Using 'can' for past ability instead of 'could'"
+    ]
+  },
+  {
+    "id": "advice",
+    "title": "Advice",
+    "whenToUse": "To give suggestions, recommendations, or opinions about what is right",
+    "formula": "Subject + should/ought to/had better + base verb",
+    "examples": [
+      "You should see a doctor about that cough.",
+      "We ought to leave early to avoid traffic.",
+      "You had better finish your report tonight."
+    ],
+    "keywords": ["should", "ought to", "had better", "suggest"],
+    "commonMistakes": [
+      "Using 'should to' (should is followed directly by base verb)",
+      "Forgetting that 'had better' is a strong warning, not just a casual suggestion"
+    ]
+  },
+  {
+    "id": "obligation",
+    "title": "Obligation",
+    "whenToUse": "To express requirements, rules, or strong necessity",
+    "formula": "Subject + must/have to + base verb",
+    "examples": [
+      "I must remember to call my mother.",
+      "Students have to wear a uniform.",
+      "You mustn't smoke in the building."
+    ],
+    "keywords": ["must", "have to", "need to", "mustn't"],
+    "commonMistakes": [
+      "Using 'mustn't' when you mean 'don't have to' (mustn't = prohibited; don't have to = optional)",
+      "Using 'must' for past obligations instead of 'had to'"
+    ]
+  },
+  {
+    "id": "probability",
+    "title": "Probability",
+    "whenToUse": "To express how certain we are that something is true",
+    "formula": "Subject + must/might/could/may/can't + base verb",
+    "examples": [
+      "It's cloudy; it might rain later.",
+      "He hasn't eaten all day; he must be hungry.",
+      "That can't be true; I saw him in London yesterday."
+    ],
+    "keywords": ["might", "may", "could", "must", "can't"],
+    "commonMistakes": [
+      "Using 'must' for negative certainty (use 'can't' instead of 'mustn't' for logical deduction)",
+      "Confusing 'may' (possibility) with 'can' (general ability) in formal contexts"
+    ]
+  }
+]

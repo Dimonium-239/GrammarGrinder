@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "She ___ play the violin when she was only five years old.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "I ___ find my glasses anywhere this morning, even though I looked everywhere.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "am not able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you help me carry these heavy boxes to the car?",
+    "options": [
+      "Can",
+      "Could",
+      "Are able to",
+      "Will be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The marathon runner ___ finish the race despite the extreme heat.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ speak French fluently after living in Paris for three years.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "are able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "They ___ reach the summit because the weather conditions were too dangerous.",
+    "options": [
+      "couldn't",
+      "can't",
+      "weren't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "weren't able to"
+  },
+  {
+    "question": "___ they solve the complex mathematical equation before the deadline?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "By next year, he ___ drive a car without any assistance.",
+    "options": [
+      "will be able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "will be able to"
+  },
+  {
+    "question": "I ___ understand what he was saying because the music was too loud.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you swim across the lake when you were a teenager?",
+    "options": [
+      "Could",
+      "Can",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The technician ___ fix the broken computer in less than an hour.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ attend the meeting tomorrow because she has a prior commitment.",
+    "options": [
+      "won't be able to",
+      "can't",
+      "couldn't",
+      "isn't able to"
+    ],
+    "correctAnswer": "won't be able to"
+  },
+  {
+    "question": "___ he speak any other languages besides English and Spanish?",
+    "options": [
+      "Can",
+      "Could",
+      "Is he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "After several attempts, we finally ___ open the locked door.",
+    "options": [
+      "managed to",
+      "could",
+      "can",
+      "are able to"
+    ],
+    "correctAnswer": "managed to"
+  },
+  {
+    "question": "They ___ hear the speaker from the back of the crowded hall.",
+    "options": [
+      "couldn't",
+      "can't",
+      "weren't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you see the stars clearly through that telescope last night?",
+    "options": [
+      "Could",
+      "Can",
+      "Were you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "I ___ believe my eyes when I saw the surprise party they planned.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "With enough practice, you ___ master the art of calligraphy.",
+    "options": [
+      "will be able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "will be able to"
+  },
+  {
+    "question": "___ she find a solution to the problem during the brainstorming session?",
+    "options": [
+      "Was she able to",
+      "Can she",
+      "Could she",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Was she able to"
+  },
+  {
+    "question": "We ___ see the mountains from our hotel window this morning.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "are able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "He ___ swim very well, so he avoids going into deep water.",
+    "options": [
+      "can't",
+      "couldn't",
+      "isn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "can't"
+  },
+  {
+    "question": "___ you imagine what life would be like without the internet?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The scientists ___ prove their theory after years of rigorous research.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "She ___ finish her dinner because she felt quite unwell.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you walk yet when you were only ten months old?",
+    "options": [
+      "Could",
+      "Can",
+      "Were you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "I ___ read the sign from this distance without my glasses.",
+    "options": [
+      "can't",
+      "couldn't",
+      "am not able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "can't"
+  },
+  {
+    "question": "They ___ buy the house they wanted because they saved enough money.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "___ he solve the puzzle in less than five minutes yesterday?",
+    "options": [
+      "Could",
+      "Can",
+      "Was he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "We ___ go on vacation this year due to unexpected expenses.",
+    "options": [
+      "won't be able to",
+      "can't",
+      "couldn't",
+      "weren't able to"
+    ],
+    "correctAnswer": "won't be able to"
+  },
+  {
+    "question": "She ___ cook a delicious meal even with very few ingredients.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "___ you hear that strange noise coming from the basement?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "I ___ contact him all day because his phone was switched off.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "The students ___ pass the exam with high marks after studying hard.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "___ he drive a truck when he worked for the construction company?",
+    "options": [
+      "Could",
+      "Can",
+      "Was he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "They ___ find a parking space near the stadium last Saturday.",
+    "options": [
+      "couldn't",
+      "can't",
+      "weren't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "With the new software, we ___ complete the task much faster.",
+    "options": [
+      "will be able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "will be able to"
+  },
+  {
+    "question": "___ you tell me the way to the nearest post office, please?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "He ___ swim across the river because the current was too strong.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "The firemen ___ rescue the cat from the tall tree successfully.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "___ she play the piano as well as her sister does?",
+    "options": [
+      "Can",
+      "Could",
+      "Is she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "I ___ remember where I put my keys, no matter how hard I try.",
+    "options": [
+      "can't",
+      "couldn't",
+      "am not able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "can't"
+  },
+  {
+    "question": "They ___ arrive on time because their flight was delayed.",
+    "options": [
+      "couldn't",
+      "can't",
+      "weren't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you help me with my homework later this evening?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The artist ___ capture the essence of the landscape in her painting.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ walk for long distances since her knee surgery last month.",
+    "options": [
+      "hasn't been able to",
+      "can't",
+      "couldn't",
+      "won't be able to"
+    ],
+    "correctAnswer": "hasn't been able to"
+  },
+  {
+    "question": "___ he ride a bicycle without using his hands when he was younger?",
+    "options": [
+      "Could",
+      "Can",
+      "Was he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "We ___ see the eclipse because it was too cloudy that day.",
+    "options": [
+      "couldn't",
+      "can't",
+      "weren't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "In the future, people ___ travel to Mars for their holidays.",
+    "options": [
+      "will be able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "will be able to"
+  },
+  {
+    "question": "___ you understand the instructions the teacher gave us?",
+    "options": [
+      "Could",
+      "Can",
+      "Were you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "He ___ find his way home because he had forgotten his map.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "The company ___ increase its profits significantly last year.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "___ she come to the party on Friday night?",
+    "options": [
+      "Can",
+      "Could",
+      "Is she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "I ___ sleep last night because of the loud noise outside.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "They ___ finish the construction project ahead of schedule.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "___ you run a mile in under six minutes when you were at school?",
+    "options": [
+      "Could",
+      "Can",
+      "Were you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "We ___ hear the birds singing in the garden every morning.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "are able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "She ___ find her purse after she left it on the bus.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they provide us with more information about the upcoming event?",
+    "options": [
+      "Can",
+      "Could",
+      "Are they able to",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The chef ___ prepare a five-course meal in just two hours.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ open this jar of jam; it seems to be stuck.",
+    "options": [
+      "can't",
+      "couldn't",
+      "am not able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "can't"
+  },
+  {
+    "question": "___ he play the guitar as well as he plays the drums?",
+    "options": [
+      "Can",
+      "Could",
+      "Is he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "They ___ escape from the building before the roof collapsed.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "We ___ reach the airport on time due to the heavy traffic.",
+    "options": [
+      "couldn't",
+      "can't",
+      "weren't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you see the small print without using your magnifying glass?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "She ___ speak Italian quite well after her trip to Rome.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "I ___ finish the book last night because I was too tired.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they solve the mystery before the end of the movie?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "He ___ lift the heavy suitcase all by himself yesterday.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ go to the concert because the tickets were sold out.",
+    "options": [
+      "couldn't",
+      "can't",
+      "weren't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you join us for lunch at the new Italian restaurant tomorrow?",
+    "options": [
+      "Will you be able to",
+      "Can you",
+      "Could you",
+      "Are you able to"
+    ],
+    "correctAnswer": "Will you be able to"
+  },
+  {
+    "question": "She ___ swim when she was only three years old.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "I ___ find my keys anywhere, even though I've looked everywhere.",
+    "options": [
+      "can't",
+      "couldn't",
+      "am not able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "can't"
+  },
+  {
+    "question": "___ they solve the problem before the deadline passed?",
+    "options": [
+      "Could",
+      "Can",
+      "Were they able to",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The climber ___ reach the peak despite the strong winds.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ see the stage very well from our seats in the back row.",
+    "options": [
+      "couldn't",
+      "can't",
+      "weren't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you speak any foreign languages when you were a child?",
+    "options": [
+      "Could",
+      "Can",
+      "Were you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "I ___ wait for the bus any longer, so I decided to take a taxi.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "She ___ play the piano beautifully after years of practice.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "___ he fix the leaky faucet in the kitchen yesterday?",
+    "options": [
+      "Was he able to",
+      "Can he",
+      "Could he",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Was he able to"
+  },
+  {
+    "question": "They ___ win the match because their opponents were much stronger.",
+    "options": [
+      "couldn't",
+      "can't",
+      "weren't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you help me with this heavy suitcase, please?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "We ___ find a good restaurant in the city center last night.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "I ___ understand the lecture because the professor spoke too quickly.",
+    "options": [
+      "couldn't",
+      "can't",
+      "wasn't able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she swim across the English Channel when she was younger?",
+    "options": [
+      "Could",
+      "Can",
+      "Was she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The team ___ complete the project on time thanks to their hard work.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "Nobody ___ predict the outcome of the election with certainty.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "I ___ solve this crossword puzzle; it is far too difficult.",
+    "options": [
+      "can't",
+      "couldn't",
+      "am not able to",
+      "won't be able to"
+    ],
+    "correctAnswer": "can't"
+  },
+  {
+    "question": "___ the architect complete the blueprints by tomorrow morning?",
+    "options": [
+      "Will be able to",
+      "Can",
+      "Could",
+      "Is able to"
+    ],
+    "correctAnswer": "Will be able to"
+  },
+  {
+    "question": "By the time he was ten, he ___ code simple websites.",
+    "options": [
+      "could",
+      "can",
+      "is able to",
+      "will be able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "We ___ afford a new car last year because of our debt.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "aren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ your sister speak Japanese fluently before she moved to Tokyo?",
+    "options": [
+      "Could",
+      "Can",
+      "Is she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The surgeon ___ perform the operation successfully last night.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ find the hidden treasure despite having a map.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you drive a manual car if I lend you mine?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The dog ___ jump over the high fence yesterday.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "She ___ finish her thesis on time due to lack of resources.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "wasn't able to"
+  },
+  {
+    "question": "___ the pilot land the plane safely during the storm?",
+    "options": [
+      "Was the pilot able to",
+      "Can the pilot",
+      "Could the pilot",
+      "Will the pilot be able to"
+    ],
+    "correctAnswer": "Was the pilot able to"
+  },
+  {
+    "question": "I ___ see the tiny insect without my magnifying glass.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "am able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "He ___ write his name until he was six years old.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they navigate the ship through the narrow channel?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "The baker ___ make fifty loaves of bread before dawn.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ hear the music because the speakers were broken.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you ride a horse when you lived on the farm?",
+    "options": [
+      "Could",
+      "Can",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The computer ___ process the data in a matter of seconds.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "I ___ sleep because I was worrying about the exam.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she bake a cake for the party tomorrow afternoon?",
+    "options": [
+      "Will she be able to",
+      "Can she",
+      "Could she",
+      "Is she able to"
+    ],
+    "correctAnswer": "Will she be able to"
+  },
+  {
+    "question": "The athlete ___ break the world record in 2024.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ open the window because it was painted shut.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you recognize him after all these years?",
+    "options": [
+      "Could",
+      "Can",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "I ___ help you with your luggage if you want.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "am able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "The children ___ swim in the pool because it was too cold.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ he solve the mystery before the detective did?",
+    "options": [
+      "Was he able to",
+      "Can he",
+      "Could he",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Was he able to"
+  },
+  {
+    "question": "The singer ___ hit the high notes perfectly last night.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "We ___ find a taxi because it was raining so hard.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you read a book in a foreign language?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The explorer ___ survive for a week in the desert.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ understand the instructions because they were in German.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they arrive at the station before the train left?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "She ___ swim like a professional when she was a teenager.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "The team ___ win the trophy last season despite the injuries.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "___ you hear the announcement over the noise of the crowd?",
+    "options": [
+      "Could",
+      "Can",
+      "Were you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "He ___ fix his bike, so he had to walk to school.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "I ___ see the ocean from the top of the hill.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "am able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "___ the firemen put out the fire before it spread?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "The student ___ answer the question despite the difficulty.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ see the moon last night because it was too cloudy.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you run five kilometers in under twenty minutes?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The cat ___ catch the mouse before it ran into the hole.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ find her way back to the hotel without a map.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they complete the marathon in under four hours?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "I ___ speak a little bit of Italian after my trip to Rome.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "He ___ play the drums when he was in a rock band.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "___ you tell the difference between these two paintings?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The mechanic ___ fix the engine after working on it all day.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ find my wallet anywhere, so I had to cancel my cards.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she play the cello when she was in high school?",
+    "options": [
+      "Could",
+      "Can",
+      "Was she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The artist ___ paint a beautiful portrait in just one day.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ reach the finish line because they were too exhausted.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you help me move this sofa to the other room?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The doctor ___ diagnose the illness after several tests.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ attend the wedding because she was working that day.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ he understand the complex concepts of physics?",
+    "options": [
+      "Can",
+      "Could",
+      "Is he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The team ___ win the championship for three consecutive years.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ see the small bird in the distance.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "am able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "___ the engineer fix the problem with the bridge?",
+    "options": [
+      "Was he able to",
+      "Can he",
+      "Could he",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Was he able to"
+  },
+  {
+    "question": "The climber ___ reach the summit despite the snowstorm.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ go to the park because it started to rain.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you imagine life without electricity?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The company ___ increase its production by twenty percent.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ remember his name no matter how hard I tried.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she swim across the pool when she was five?",
+    "options": [
+      "Could",
+      "Can",
+      "Was she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The chef ___ create a unique dish for the guests.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ find a place to stay for the night.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you help me with this math problem?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The boy ___ read when he was only four years old.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "I ___ open the door because the lock was broken.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ he solve the riddle in less than a minute?",
+    "options": [
+      "Could",
+      "Can",
+      "Was he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The pilot ___ land the plane during the storm.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ find her glasses anywhere this morning.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they reach the station before the train left?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "The athlete ___ finish the race in record time.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ see the stage from our seats.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you speak any other languages?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The worker ___ finish the task before the deadline.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ hear what they were saying.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she play the violin when she was young?",
+    "options": [
+      "Could",
+      "Can",
+      "Was she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The team ___ win the match yesterday afternoon.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ find a hotel room for the night.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you help me with this heavy bag?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The child ___ walk when he was ten months old.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "I ___ find my keys anywhere this morning.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ he fix the leaky tap in the kitchen?",
+    "options": [
+      "Was he able to",
+      "Can he",
+      "Could he",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Was he able to"
+  },
+  {
+    "question": "The doctor ___ diagnose the patient correctly.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ attend the meeting because she was sick.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they reach the summit of the mountain?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "The student ___ solve the difficult problem.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ see the mountain because of the fog.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you play the guitar when you were a child?",
+    "options": [
+      "Could",
+      "Can",
+      "Were you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The company ___ increase its profits last year.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ sleep last night because of the noise.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she come to the party tonight?",
+    "options": [
+      "Can she",
+      "Could she",
+      "Is she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Can she"
+  },
+  {
+    "question": "The runner ___ finish the race despite the pain.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ find the way back to their camp.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you tell me the time, please?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The girl ___ swim before she could walk.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "I ___ see the screen because of the glare.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ he understand what you were saying?",
+    "options": [
+      "Could",
+      "Can",
+      "Was he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The chef ___ prepare the meal in record time.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ find her keys anywhere.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they solve the puzzle in time?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "The player ___ score a goal in the last minute.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ see the eclipse last night.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you help me with this project?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The driver ___ stop the car just in time.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ find my wallet anywhere.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she play the piano when she was five?",
+    "options": [
+      "Could",
+      "Can",
+      "Was she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The team ___ win the trophy last night.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ find a parking space.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you imagine what it was like?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The scientist ___ prove the theory.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ hear the speaker from the back.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ he drive a car when he was sixteen?",
+    "options": [
+      "Could",
+      "Can",
+      "Was he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The student ___ finish the exam on time.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ find her way in the dark.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they reach the destination before sunset?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "The engineer ___ fix the bridge.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ go out because of the storm.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you help me with the laundry?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The doctor ___ save the patient.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ see the tiny writing on the label.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she swim across the lake?",
+    "options": [
+      "Can she",
+      "Could she",
+      "Is she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Can she"
+  },
+  {
+    "question": "The group ___ complete the project.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ find a restaurant that was open.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you tell me where the library is?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The boy ___ ride a bike when he was four.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "I ___ understand the movie without subtitles.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ he fix the computer by himself?",
+    "options": [
+      "Was he able to",
+      "Can he",
+      "Could he",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Was he able to"
+  },
+  {
+    "question": "The pilot ___ land the plane in the fog.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ find the time to study.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they finish the marathon?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "The company ___ reduce its costs.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ see the mountains from here.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you join us for dinner tomorrow?",
+    "options": [
+      "Will you be able to",
+      "Can you",
+      "Could you",
+      "Are you able to"
+    ],
+    "correctAnswer": "Will you be able to"
+  },
+  {
+    "question": "The technician ___ fix the machine.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ find my shoes this morning.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she speak French when she was a child?",
+    "options": [
+      "Could",
+      "Can",
+      "Was she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The writer ___ finish the novel in six months.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ win the game last night.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you see the stars last night?",
+    "options": [
+      "Could",
+      "Can",
+      "Were you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The firemen ___ save the house.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "I ___ remember the phone number.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ he solve the equation?",
+    "options": [
+      "Can he",
+      "Could he",
+      "Is he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Can he"
+  },
+  {
+    "question": "The girl ___ dance when she was three.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "We ___ reach the airport on time.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you help me carry this?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The team ___ score a goal in the first half.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ find a park nearby.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ she drive when she was eighteen?",
+    "options": [
+      "Could",
+      "Can",
+      "Was she able to",
+      "Will she be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The gardener ___ grow beautiful flowers.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ open the box.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you see the difference?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  },
+  {
+    "question": "The doctor ___ cure the patient.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "I ___ find the right words to say.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ he swim when he was five?",
+    "options": [
+      "Could",
+      "Can",
+      "Was he able to",
+      "Will he be able to"
+    ],
+    "correctAnswer": "Could"
+  },
+  {
+    "question": "The engineer ___ fix the bridge in a week.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ find the time to call me.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ they finish the game before dark?",
+    "options": [
+      "Were they able to",
+      "Can they",
+      "Could they",
+      "Will they be able to"
+    ],
+    "correctAnswer": "Were they able to"
+  },
+  {
+    "question": "The company ___ increase its sales.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ see the moon tonight.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "___ you join us for a walk?",
+    "options": [
+      "Can",
+      "Could",
+      "Are you able to",
+      "Will you be able to"
+    ],
+    "correctAnswer": "Can"
+  }
+]

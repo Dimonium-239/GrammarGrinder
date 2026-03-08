@@ -14,6 +14,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.dimonium239.grammargrinder.options.OptionsActivity;
 import com.dimonium239.grammargrinder.R;
 import com.dimonium239.grammargrinder.core.settings.AppSettings;
+import com.dimonium239.grammargrinder.db.ProgressService;
+import com.dimonium239.grammargrinder.db.TopicProgress;
 import com.dimonium239.grammargrinder.practice.PracticeActivity;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.checkbox.MaterialCheckBox;
@@ -21,6 +23,7 @@ import com.google.android.material.checkbox.MaterialCheckBox;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 
 public class TopicSelectActivity extends AppCompatActivity {
     private static final String EXTRA_SECTION = "SECTION";
@@ -62,6 +65,12 @@ public class TopicSelectActivity extends AppCompatActivity {
         updateStartState();
     }
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        TopicProgressLabelHelper.refreshTopicProgressLabels(this, checkBoxes);
+    }
+
     private void setupTopBar() {
         View topBar = findViewById(R.id.top_bar);
         ImageButton btnBack = topBar.findViewById(R.id.btn_back);
@@ -77,6 +86,7 @@ public class TopicSelectActivity extends AppCompatActivity {
 
     private void buildSingleSectionUI() {
         if (section == null) return;
+        Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
 
         try {
             String[] files = getAssets().list(section);
@@ -85,7 +95,9 @@ public class TopicSelectActivity extends AppCompatActivity {
             for (String file : files) {
                 if (!file.endsWith(".json")) continue;
                 String topicId = file.replace(".json", "");
-                addCheckbox(formatName(topicId), section + "/" + topicId);
+                String topicPath = section + "/" + topicId;
+                TopicProgress progress = progressByTopic.get(topicPath);
+                addCheckbox(TopicProgressLabelHelper.formatTopicLine(this, topicPath, progress), topicPath);
             }
         } catch (IOException e) {
             Log.d(TAG, "Error listing assets in section: " + section, e);
@@ -148,15 +160,4 @@ public class TopicSelectActivity extends AppCompatActivity {
         btnStart.setAlpha(any ? 1f : 0.5f);
     }
 
-    private String formatName(String raw) {
-        String[] parts = raw.split("_");
-        StringBuilder sb = new StringBuilder();
-        for (String p : parts) {
-            if (!p.isEmpty()) {
-                sb.append(Character.toUpperCase(p.charAt(0))).append(p.substring(1)).append(" ");
-            }
-        }
-
-        return sb.toString().trim();
-    }
 }

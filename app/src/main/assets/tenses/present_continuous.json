@@ -1,12 +1,5002 @@
 [
   {
     "question": "I _____ (read) a really good book now.",
-    "options": ["am reading", "read", "have read"],
+    "options": ["am reading", "read", "have read", "is reading"],
     "correctAnswer": "am reading"
   },
   {
     "question": "They _____ (not watch) TV at the moment.",
-    "options": ["are not watching", "do not watch", "were not watching"],
+    "options": ["are not watching", "do not watch", "were not watching", "is not watching"],
     "correctAnswer": "are not watching"
+  },
+  {
+    "question": "The girls _____ (call) this week.",
+    "options": ["have called", "is calling", "calls", "are calling"],
+    "correctAnswer": "are calling"
+  },
+  {
+    "question": "The girls _____ (keep) nowadays.",
+    "options": ["keeps", "are keeping", "is keeping", "have kept"],
+    "correctAnswer": "are keeping"
+  },
+  {
+    "question": "She _____ (believe) at the moment.",
+    "options": ["have believed", "believes", "is believing", "are believing"],
+    "correctAnswer": "is believing"
+  },
+  {
+    "question": "John _____ (talk) this week.",
+    "options": ["talks", "are talking", "have talked", "is talking"],
+    "correctAnswer": "is talking"
+  },
+  {
+    "question": "We _____ (teach) currently.",
+    "options": ["are teaching", "have taught", "is teaching", "teaches"],
+    "correctAnswer": "are teaching"
+  },
+  {
+    "question": "The team _____ (write) nowadays.",
+    "options": ["is writing", "writes", "have written", "are writing"],
+    "correctAnswer": "is writing"
+  },
+  {
+    "question": "John _____ (sell) at the moment.",
+    "options": ["have sold", "is selling", "sells", "are selling"],
+    "correctAnswer": "is selling"
+  },
+  {
+    "question": "We _____ (understand) now.",
+    "options": ["are understanding", "understands", "have understood", "is understanding"],
+    "correctAnswer": "are understanding"
+  },
+  {
+    "question": "Everybody _____ (tell) right now.",
+    "options": ["is telling", "have told", "tells", "are telling"],
+    "correctAnswer": "is telling"
+  },
+  {
+    "question": "The team _____ (smile) tonight.",
+    "options": ["is smiling", "smiles", "have smiled", "are smiling"],
+    "correctAnswer": "is smiling"
+  },
+  {
+    "question": "My friend _____ (cry) at the moment.",
+    "options": ["have cried", "are crying", "is crying", "cries"],
+    "correctAnswer": "is crying"
+  },
+  {
+    "question": "The students _____ (learn) this week.",
+    "options": ["is learning", "are learning", "learns", "have learned"],
+    "correctAnswer": "are learning"
+  },
+  {
+    "question": "John _____ (write) now.",
+    "options": ["have written", "writes", "is writing", "are writing"],
+    "correctAnswer": "is writing"
+  },
+  {
+    "question": "The team _____ (ask) currently.",
+    "options": ["asks", "are asking", "have asked", "is asking"],
+    "correctAnswer": "is asking"
+  },
+  {
+    "question": "The boy _____ (stand) tonight.",
+    "options": ["stands", "is standing", "are standing", "have stood"],
+    "correctAnswer": "is standing"
+  },
+  {
+    "question": "He _____ (sing) currently.",
+    "options": ["have sung", "sings", "is singing", "are singing"],
+    "correctAnswer": "is singing"
+  },
+  {
+    "question": "Mary and Tom _____ (sing) nowadays.",
+    "options": ["have sung", "is singing", "are singing", "sings"],
+    "correctAnswer": "are singing"
+  },
+  {
+    "question": "The wind _____ (try) this week.",
+    "options": ["have tried", "tries", "are trying", "is trying"],
+    "correctAnswer": "is trying"
+  },
+  {
+    "question": "My friend _____ (drive) nowadays.",
+    "options": ["have driven", "is driving", "drives", "are driving"],
+    "correctAnswer": "is driving"
+  },
+  {
+    "question": "It _____ (fix) currently.",
+    "options": ["is fixing", "fixes", "have fixed", "are fixing"],
+    "correctAnswer": "is fixing"
+  },
+  {
+    "question": "The boy _____ (bring) now.",
+    "options": ["have brought", "is bringing", "brings", "are bringing"],
+    "correctAnswer": "is bringing"
+  },
+  {
+    "question": "It _____ (stop) right now.",
+    "options": ["is stopping", "stops", "have stopped", "are stopping"],
+    "correctAnswer": "is stopping"
+  },
+  {
+    "question": "She _____ (remember) this month.",
+    "options": ["remembers", "have remembered", "is remembering", "are remembering"],
+    "correctAnswer": "is remembering"
+  },
+  {
+    "question": "The wind _____ (break) today.",
+    "options": ["is breaking", "have broken", "are breaking", "breaks"],
+    "correctAnswer": "is breaking"
+  },
+  {
+    "question": "The wind _____ (lose) this month.",
+    "options": ["are losing", "is losing", "loses", "have lost"],
+    "correctAnswer": "is losing"
+  },
+  {
+    "question": "You _____ (lie) nowadays.",
+    "options": ["is lying", "lies", "are lying", "have lain"],
+    "correctAnswer": "are lying"
+  },
+  {
+    "question": "The wind _____ (cut) now.",
+    "options": ["is cutting", "cuts", "have cut", "are cutting"],
+    "correctAnswer": "is cutting"
+  },
+  {
+    "question": "They _____ (try) currently.",
+    "options": ["tries", "is trying", "are trying", "have tried"],
+    "correctAnswer": "are trying"
+  },
+  {
+    "question": "He _____ (stop) tonight.",
+    "options": ["stops", "is stopping", "have stopped", "are stopping"],
+    "correctAnswer": "is stopping"
+  },
+  {
+    "question": "She _____ (sit) this week.",
+    "options": ["have sat", "is sitting", "sits", "are sitting"],
+    "correctAnswer": "is sitting"
+  },
+  {
+    "question": "Mary and Tom _____ (listen) currently.",
+    "options": ["is listening", "are listening", "listens", "have listened"],
+    "correctAnswer": "are listening"
+  },
+  {
+    "question": "They _____ (build) at the moment.",
+    "options": ["builds", "is building", "are building", "have built"],
+    "correctAnswer": "are building"
+  },
+  {
+    "question": "My friend _____ (think) at the moment.",
+    "options": ["are thinking", "thinks", "have thought", "is thinking"],
+    "correctAnswer": "is thinking"
+  },
+  {
+    "question": "The team _____ (sing) nowadays.",
+    "options": ["sings", "is singing", "are singing", "have sung"],
+    "correctAnswer": "is singing"
+  },
+  {
+    "question": "The cat _____ (hold) tonight.",
+    "options": ["holds", "have held", "are holding", "is holding"],
+    "correctAnswer": "is holding"
+  },
+  {
+    "question": "He _____ (show) nowadays.",
+    "options": ["is showing", "shows", "have shown", "are showing"],
+    "correctAnswer": "is showing"
+  },
+  {
+    "question": "Mary and Tom _____ (visit) tonight.",
+    "options": ["visits", "are visiting", "have visited", "is visiting"],
+    "correctAnswer": "are visiting"
+  },
+  {
+    "question": "Nobody _____ (remember) this month.",
+    "options": ["have remembered", "remembers", "is remembering", "are remembering"],
+    "correctAnswer": "is remembering"
+  },
+  {
+    "question": "The team _____ (close) right now.",
+    "options": ["is closing", "are closing", "have closed", "closes"],
+    "correctAnswer": "is closing"
+  },
+  {
+    "question": "The cat _____ (sleep) currently.",
+    "options": ["are sleeping", "is sleeping", "have slept", "sleeps"],
+    "correctAnswer": "is sleeping"
+  },
+  {
+    "question": "You _____ (learn) today.",
+    "options": ["have learned", "learns", "is learning", "are learning"],
+    "correctAnswer": "are learning"
+  },
+  {
+    "question": "The boy _____ (become) this month.",
+    "options": ["have become", "is becoming", "are becoming", "becomes"],
+    "correctAnswer": "is becoming"
+  },
+  {
+    "question": "She _____ (take) now.",
+    "options": ["is taking", "have taken", "takes", "are taking"],
+    "correctAnswer": "is taking"
+  },
+  {
+    "question": "My friend _____ (sing) tonight.",
+    "options": ["have sung", "are singing", "is singing", "sings"],
+    "correctAnswer": "is singing"
+  },
+  {
+    "question": "He _____ (give) at the moment.",
+    "options": ["gives", "have given", "is giving", "are giving"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "The team _____ (cry) now.",
+    "options": ["cries", "have cried", "is crying", "are crying"],
+    "correctAnswer": "is crying"
+  },
+  {
+    "question": "I _____ (know) this week.",
+    "options": ["have known", "is knowing", "knows", "am knowing"],
+    "correctAnswer": "am knowing"
+  },
+  {
+    "question": "The students _____ (help) this month.",
+    "options": ["have helped", "is helping", "helps", "are helping"],
+    "correctAnswer": "are helping"
+  },
+  {
+    "question": "My friend _____ (give) right now.",
+    "options": ["is giving", "have given", "gives", "are giving"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "The wind _____ (stay) nowadays.",
+    "options": ["are staying", "stays", "is staying", "have stayed"],
+    "correctAnswer": "is staying"
+  },
+  {
+    "question": "It _____ (receive) at the moment.",
+    "options": ["receives", "have received", "is receiving", "are receiving"],
+    "correctAnswer": "is receiving"
+  },
+  {
+    "question": "I _____ (fall) today.",
+    "options": ["have fallen", "is falling", "falls", "am falling"],
+    "correctAnswer": "am falling"
+  },
+  {
+    "question": "We _____ (keep) this week.",
+    "options": ["keeps", "have kept", "is keeping", "are keeping"],
+    "correctAnswer": "are keeping"
+  },
+  {
+    "question": "The team _____ (arrive) now.",
+    "options": ["have arrived", "are arriving", "is arriving", "arrives"],
+    "correctAnswer": "is arriving"
+  },
+  {
+    "question": "My parents _____ (fix) this month.",
+    "options": ["fixes", "are fixing", "is fixing", "have fixed"],
+    "correctAnswer": "are fixing"
+  },
+  {
+    "question": "The boy _____ (watch) nowadays.",
+    "options": ["have watched", "watches", "are watching", "is watching"],
+    "correctAnswer": "is watching"
+  },
+  {
+    "question": "John _____ (study) nowadays.",
+    "options": ["are studying", "have studied", "is studying", "studies"],
+    "correctAnswer": "is studying"
+  },
+  {
+    "question": "Nobody _____ (laugh) this month.",
+    "options": ["are laughing", "laughs", "have laughed", "is laughing"],
+    "correctAnswer": "is laughing"
+  },
+  {
+    "question": "The wind _____ (keep) this week.",
+    "options": ["is keeping", "have kept", "are keeping", "keeps"],
+    "correctAnswer": "is keeping"
+  },
+  {
+    "question": "She _____ (play) right now.",
+    "options": ["plays", "is playing", "have played", "are playing"],
+    "correctAnswer": "is playing"
+  },
+  {
+    "question": "He _____ (move) this week.",
+    "options": ["moves", "are moving", "have moved", "is moving"],
+    "correctAnswer": "is moving"
+  },
+  {
+    "question": "He _____ (build) currently.",
+    "options": ["have built", "are building", "is building", "builds"],
+    "correctAnswer": "is building"
+  },
+  {
+    "question": "My friend _____ (study) today.",
+    "options": ["studies", "are studying", "have studied", "is studying"],
+    "correctAnswer": "is studying"
+  },
+  {
+    "question": "Nobody _____ (hold) now.",
+    "options": ["is holding", "have held", "holds", "are holding"],
+    "correctAnswer": "is holding"
+  },
+  {
+    "question": "He _____ (wear) this month.",
+    "options": ["wears", "have worn", "are wearing", "is wearing"],
+    "correctAnswer": "is wearing"
+  },
+  {
+    "question": "Nobody _____ (learn) today.",
+    "options": ["learns", "are learning", "is learning", "have learned"],
+    "correctAnswer": "is learning"
+  },
+  {
+    "question": "I _____ (cut) currently.",
+    "options": ["am cutting", "have cut", "is cutting", "cuts"],
+    "correctAnswer": "am cutting"
+  },
+  {
+    "question": "The boy _____ (stay) currently.",
+    "options": ["stays", "is staying", "are staying", "have stayed"],
+    "correctAnswer": "is staying"
+  },
+  {
+    "question": "I _____ (remember) nowadays.",
+    "options": ["am remembering", "remembers", "is remembering", "have remembered"],
+    "correctAnswer": "am remembering"
+  },
+  {
+    "question": "My friend _____ (lose) tonight.",
+    "options": ["are losing", "have lost", "is losing", "loses"],
+    "correctAnswer": "is losing"
+  },
+  {
+    "question": "The wind _____ (wear) at the moment.",
+    "options": ["are wearing", "is wearing", "wears", "have worn"],
+    "correctAnswer": "is wearing"
+  },
+  {
+    "question": "She _____ (fall) this week.",
+    "options": ["have fallen", "are falling", "is falling", "falls"],
+    "correctAnswer": "is falling"
+  },
+  {
+    "question": "Someone _____ (end) today.",
+    "options": ["are ending", "ends", "is ending", "have ended"],
+    "correctAnswer": "is ending"
+  },
+  {
+    "question": "The team _____ (drive) now.",
+    "options": ["have driven", "are driving", "is driving", "drives"],
+    "correctAnswer": "is driving"
+  },
+  {
+    "question": "We _____ (end) currently.",
+    "options": ["are ending", "is ending", "have ended", "ends"],
+    "correctAnswer": "are ending"
+  },
+  {
+    "question": "It _____ (hold) currently.",
+    "options": ["have held", "is holding", "holds", "are holding"],
+    "correctAnswer": "is holding"
+  },
+  {
+    "question": "The girls _____ (draw) right now.",
+    "options": ["have drawn", "draws", "is drawing", "are drawing"],
+    "correctAnswer": "are drawing"
+  },
+  {
+    "question": "Everybody _____ (travel) now.",
+    "options": ["is travelling", "are travelling", "have traveled", "travels"],
+    "correctAnswer": "is travelling"
+  },
+  {
+    "question": "Mary and Tom _____ (tell) now.",
+    "options": ["is telling", "tells", "have told", "are telling"],
+    "correctAnswer": "are telling"
+  },
+  {
+    "question": "Everybody _____ (think) this month.",
+    "options": ["is thinking", "have thought", "are thinking", "thinks"],
+    "correctAnswer": "is thinking"
+  },
+  {
+    "question": "He _____ (try) today.",
+    "options": ["are trying", "have tried", "tries", "is trying"],
+    "correctAnswer": "is trying"
+  },
+  {
+    "question": "The students _____ (watch) right now.",
+    "options": ["is watching", "are watching", "watches", "have watched"],
+    "correctAnswer": "are watching"
+  },
+  {
+    "question": "My parents _____ (help) at the moment.",
+    "options": ["are helping", "have helped", "helps", "is helping"],
+    "correctAnswer": "are helping"
+  },
+  {
+    "question": "The boy _____ (teach) currently.",
+    "options": ["teaches", "is teaching", "are teaching", "have taught"],
+    "correctAnswer": "is teaching"
+  },
+  {
+    "question": "I _____ (read) this week.",
+    "options": ["have read", "reads", "is reading", "am reading"],
+    "correctAnswer": "am reading"
+  },
+  {
+    "question": "The wind _____ (close) currently.",
+    "options": ["is closing", "closes", "are closing", "have closed"],
+    "correctAnswer": "is closing"
+  },
+  {
+    "question": "It _____ (lie) this week.",
+    "options": ["have lain", "lies", "is lying", "are lying"],
+    "correctAnswer": "is lying"
+  },
+  {
+    "question": "The students _____ (wear) tonight.",
+    "options": ["have worn", "is wearing", "wears", "are wearing"],
+    "correctAnswer": "are wearing"
+  },
+  {
+    "question": "Mary and Tom _____ (wear) right now.",
+    "options": ["are wearing", "wears", "is wearing", "have worn"],
+    "correctAnswer": "are wearing"
+  },
+  {
+    "question": "The students _____ (jump) this week.",
+    "options": ["is jumping", "are jumping", "have jumped", "jumps"],
+    "correctAnswer": "are jumping"
+  },
+  {
+    "question": "The cat _____ (cook) tonight.",
+    "options": ["cooks", "are cooking", "is cooking", "have cooked"],
+    "correctAnswer": "is cooking"
+  },
+  {
+    "question": "My friend _____ (begin) right now.",
+    "options": ["are beginning", "begins", "have begun", "is beginning"],
+    "correctAnswer": "is beginning"
+  },
+  {
+    "question": "The team _____ (cry) at the moment.",
+    "options": ["have cried", "cries", "are crying", "is crying"],
+    "correctAnswer": "is crying"
+  },
+  {
+    "question": "It _____ (answer) at the moment.",
+    "options": ["have answered", "is answering", "answers", "are answering"],
+    "correctAnswer": "is answering"
+  },
+  {
+    "question": "Nobody _____ (try) tonight.",
+    "options": ["are trying", "is trying", "have tried", "tries"],
+    "correctAnswer": "is trying"
+  },
+  {
+    "question": "John _____ (hold) right now.",
+    "options": ["holds", "have held", "is holding", "are holding"],
+    "correctAnswer": "is holding"
+  },
+  {
+    "question": "Everybody _____ (try) now.",
+    "options": ["have tried", "tries", "are trying", "is trying"],
+    "correctAnswer": "is trying"
+  },
+  {
+    "question": "The wind _____ (jump) now.",
+    "options": ["jumps", "are jumping", "have jumped", "is jumping"],
+    "correctAnswer": "is jumping"
+  },
+  {
+    "question": "My friend _____ (give) currently.",
+    "options": ["gives", "is giving", "are giving", "have given"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "We _____ (clean) at the moment.",
+    "options": ["cleans", "are cleaning", "is cleaning", "have cleaned"],
+    "correctAnswer": "are cleaning"
+  },
+  {
+    "question": "The students _____ (open) this week.",
+    "options": ["are opening", "have opened", "is opening", "opens"],
+    "correctAnswer": "are opening"
+  },
+  {
+    "question": "The cat _____ (swim) this week.",
+    "options": ["is swimming", "are swimming", "swims", "have swum"],
+    "correctAnswer": "is swimming"
+  },
+  {
+    "question": "John _____ (watch) at the moment.",
+    "options": ["watches", "are watching", "is watching", "have watched"],
+    "correctAnswer": "is watching"
+  },
+  {
+    "question": "You _____ (show) this week.",
+    "options": ["shows", "have shown", "is showing", "are showing"],
+    "correctAnswer": "are showing"
+  },
+  {
+    "question": "You _____ (play) tonight.",
+    "options": ["plays", "have played", "is playing", "are playing"],
+    "correctAnswer": "are playing"
+  },
+  {
+    "question": "The cat _____ (choose) today.",
+    "options": ["have chosen", "chooses", "are choosing", "is choosing"],
+    "correctAnswer": "is choosing"
+  },
+  {
+    "question": "We _____ (stop) right now.",
+    "options": ["are stopping", "have stopped", "stops", "is stopping"],
+    "correctAnswer": "are stopping"
+  },
+  {
+    "question": "We _____ (learn) tonight.",
+    "options": ["learns", "is learning", "are learning", "have learned"],
+    "correctAnswer": "are learning"
+  },
+  {
+    "question": "Someone _____ (clean) this week.",
+    "options": ["cleans", "are cleaning", "have cleaned", "is cleaning"],
+    "correctAnswer": "is cleaning"
+  },
+  {
+    "question": "My friend _____ (cut) this week.",
+    "options": ["are cutting", "cuts", "is cutting", "have cut"],
+    "correctAnswer": "is cutting"
+  },
+  {
+    "question": "We _____ (end) today.",
+    "options": ["are ending", "is ending", "have ended", "ends"],
+    "correctAnswer": "are ending"
+  },
+  {
+    "question": "The boy _____ (keep) today.",
+    "options": ["keeps", "is keeping", "have kept", "are keeping"],
+    "correctAnswer": "is keeping"
+  },
+  {
+    "question": "Someone _____ (answer) today.",
+    "options": ["answers", "is answering", "have answered", "are answering"],
+    "correctAnswer": "is answering"
+  },
+  {
+    "question": "Mary and Tom _____ (start) this month.",
+    "options": ["are starting", "starts", "have started", "is starting"],
+    "correctAnswer": "are starting"
+  },
+  {
+    "question": "John _____ (choose) this month.",
+    "options": ["have chosen", "are choosing", "chooses", "is choosing"],
+    "correctAnswer": "is choosing"
+  },
+  {
+    "question": "It _____ (sit) nowadays.",
+    "options": ["sits", "are sitting", "have sat", "is sitting"],
+    "correctAnswer": "is sitting"
+  },
+  {
+    "question": "The wind _____ (cry) today.",
+    "options": ["are crying", "cries", "have cried", "is crying"],
+    "correctAnswer": "is crying"
+  },
+  {
+    "question": "The wind _____ (study) right now.",
+    "options": ["are studying", "is studying", "have studied", "studies"],
+    "correctAnswer": "is studying"
+  },
+  {
+    "question": "The students _____ (draw) now.",
+    "options": ["have drawn", "are drawing", "is drawing", "draws"],
+    "correctAnswer": "are drawing"
+  },
+  {
+    "question": "The students _____ (believe) today.",
+    "options": ["are believing", "is believing", "believes", "have believed"],
+    "correctAnswer": "are believing"
+  },
+  {
+    "question": "The team _____ (sleep) tonight.",
+    "options": ["have slept", "are sleeping", "sleeps", "is sleeping"],
+    "correctAnswer": "is sleeping"
+  },
+  {
+    "question": "My friend _____ (call) now.",
+    "options": ["is calling", "have called", "calls", "are calling"],
+    "correctAnswer": "is calling"
+  },
+  {
+    "question": "Someone _____ (tell) nowadays.",
+    "options": ["is telling", "tells", "have told", "are telling"],
+    "correctAnswer": "is telling"
+  },
+  {
+    "question": "Someone _____ (tell) currently.",
+    "options": ["tells", "have told", "is telling", "are telling"],
+    "correctAnswer": "is telling"
+  },
+  {
+    "question": "The wind _____ (lie) right now.",
+    "options": ["lies", "are lying", "have lain", "is lying"],
+    "correctAnswer": "is lying"
+  },
+  {
+    "question": "He _____ (sit) this month.",
+    "options": ["is sitting", "have sat", "sits", "are sitting"],
+    "correctAnswer": "is sitting"
+  },
+  {
+    "question": "John _____ (play) now.",
+    "options": ["is playing", "are playing", "plays", "have played"],
+    "correctAnswer": "is playing"
+  },
+  {
+    "question": "The team _____ (grow) currently.",
+    "options": ["have grown", "is growing", "grows", "are growing"],
+    "correctAnswer": "is growing"
+  },
+  {
+    "question": "Mary and Tom _____ (smile) nowadays.",
+    "options": ["have smiled", "is smiling", "smiles", "are smiling"],
+    "correctAnswer": "are smiling"
+  },
+  {
+    "question": "She _____ (write) currently.",
+    "options": ["have written", "writes", "are writing", "is writing"],
+    "correctAnswer": "is writing"
+  },
+  {
+    "question": "We _____ (ask) this week.",
+    "options": ["is asking", "are asking", "asks", "have asked"],
+    "correctAnswer": "are asking"
+  },
+  {
+    "question": "The team _____ (watch) now.",
+    "options": ["have watched", "watches", "are watching", "is watching"],
+    "correctAnswer": "is watching"
+  },
+  {
+    "question": "The students _____ (ride) tonight.",
+    "options": ["have ridden", "are riding", "rides", "is riding"],
+    "correctAnswer": "are riding"
+  },
+  {
+    "question": "My friend _____ (finish) right now.",
+    "options": ["have finished", "finishes", "is finishing", "are finishing"],
+    "correctAnswer": "is finishing"
+  },
+  {
+    "question": "The team _____ (stop) tonight.",
+    "options": ["have stopped", "is stopping", "stops", "are stopping"],
+    "correctAnswer": "is stopping"
+  },
+  {
+    "question": "Someone _____ (walk) now.",
+    "options": ["is walking", "walks", "have walked", "are walking"],
+    "correctAnswer": "is walking"
+  },
+  {
+    "question": "The team _____ (talk) at the moment.",
+    "options": ["are talking", "have talked", "is talking", "talks"],
+    "correctAnswer": "is talking"
+  },
+  {
+    "question": "You _____ (work) now.",
+    "options": ["is working", "are working", "works", "have worked"],
+    "correctAnswer": "are working"
+  },
+  {
+    "question": "The wind _____ (choose) this month.",
+    "options": ["is choosing", "have chosen", "chooses", "are choosing"],
+    "correctAnswer": "is choosing"
+  },
+  {
+    "question": "The wind _____ (answer) nowadays.",
+    "options": ["are answering", "have answered", "answers", "is answering"],
+    "correctAnswer": "is answering"
+  },
+  {
+    "question": "We _____ (become) tonight.",
+    "options": ["becomes", "have become", "are becoming", "is becoming"],
+    "correctAnswer": "are becoming"
+  },
+  {
+    "question": "The girls _____ (lie) tonight.",
+    "options": ["are lying", "lies", "is lying", "have lain"],
+    "correctAnswer": "are lying"
+  },
+  {
+    "question": "The team _____ (think) this month.",
+    "options": ["is thinking", "have thought", "thinks", "are thinking"],
+    "correctAnswer": "is thinking"
+  },
+  {
+    "question": "The wind _____ (happen) today.",
+    "options": ["is happening", "have happened", "happens", "are happening"],
+    "correctAnswer": "is happening"
+  },
+  {
+    "question": "Someone _____ (choose) today.",
+    "options": ["are choosing", "have chosen", "is choosing", "chooses"],
+    "correctAnswer": "is choosing"
+  },
+  {
+    "question": "The team _____ (give) at the moment.",
+    "options": ["gives", "are giving", "have given", "is giving"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "Someone _____ (ride) this month.",
+    "options": ["is riding", "have ridden", "rides", "are riding"],
+    "correctAnswer": "is riding"
+  },
+  {
+    "question": "Someone _____ (listen) today.",
+    "options": ["are listening", "is listening", "listens", "have listened"],
+    "correctAnswer": "is listening"
+  },
+  {
+    "question": "The boy _____ (lose) now.",
+    "options": ["is losing", "loses", "have lost", "are losing"],
+    "correctAnswer": "is losing"
+  },
+  {
+    "question": "Mary and Tom _____ (happen) at the moment.",
+    "options": ["happens", "are happening", "have happened", "is happening"],
+    "correctAnswer": "are happening"
+  },
+  {
+    "question": "John _____ (show) today.",
+    "options": ["is showing", "have shown", "are showing", "shows"],
+    "correctAnswer": "is showing"
+  },
+  {
+    "question": "I _____ (lie) nowadays.",
+    "options": ["is lying", "have lain", "am lying", "lies"],
+    "correctAnswer": "am lying"
+  },
+  {
+    "question": "The students _____ (help) today.",
+    "options": ["helps", "are helping", "have helped", "is helping"],
+    "correctAnswer": "are helping"
+  },
+  {
+    "question": "The wind _____ (move) today.",
+    "options": ["are moving", "have moved", "is moving", "moves"],
+    "correctAnswer": "is moving"
+  },
+  {
+    "question": "The boy _____ (show) right now.",
+    "options": ["is showing", "are showing", "have shown", "shows"],
+    "correctAnswer": "is showing"
+  },
+  {
+    "question": "They _____ (finish) currently.",
+    "options": ["are finishing", "is finishing", "have finished", "finishes"],
+    "correctAnswer": "are finishing"
+  },
+  {
+    "question": "I _____ (give) tonight.",
+    "options": ["have given", "gives", "is giving", "am giving"],
+    "correctAnswer": "am giving"
+  },
+  {
+    "question": "My parents _____ (tell) today.",
+    "options": ["is telling", "tells", "are telling", "have told"],
+    "correctAnswer": "are telling"
+  },
+  {
+    "question": "She _____ (stop) tonight.",
+    "options": ["are stopping", "is stopping", "stops", "have stopped"],
+    "correctAnswer": "is stopping"
+  },
+  {
+    "question": "Someone _____ (call) nowadays.",
+    "options": ["have called", "calls", "is calling", "are calling"],
+    "correctAnswer": "is calling"
+  },
+  {
+    "question": "John _____ (take) this week.",
+    "options": ["have taken", "takes", "is taking", "are taking"],
+    "correctAnswer": "is taking"
+  },
+  {
+    "question": "John _____ (cut) right now.",
+    "options": ["are cutting", "cuts", "have cut", "is cutting"],
+    "correctAnswer": "is cutting"
+  },
+  {
+    "question": "My friend _____ (swim) at the moment.",
+    "options": ["are swimming", "swims", "is swimming", "have swum"],
+    "correctAnswer": "is swimming"
+  },
+  {
+    "question": "Someone _____ (keep) tonight.",
+    "options": ["are keeping", "is keeping", "have kept", "keeps"],
+    "correctAnswer": "is keeping"
+  },
+  {
+    "question": "My parents _____ (answer) nowadays.",
+    "options": ["is answering", "answers", "have answered", "are answering"],
+    "correctAnswer": "are answering"
+  },
+  {
+    "question": "The wind _____ (read) this month.",
+    "options": ["are reading", "reads", "have read", "is reading"],
+    "correctAnswer": "is reading"
+  },
+  {
+    "question": "Mary and Tom _____ (talk) at the moment.",
+    "options": ["have talked", "talks", "are talking", "is talking"],
+    "correctAnswer": "are talking"
+  },
+  {
+    "question": "He _____ (leave) currently.",
+    "options": ["have left", "are leaving", "leaves", "is leaving"],
+    "correctAnswer": "is leaving"
+  },
+  {
+    "question": "The boy _____ (fly) today.",
+    "options": ["is flying", "are flying", "flies", "have flown"],
+    "correctAnswer": "is flying"
+  },
+  {
+    "question": "The students _____ (read) at the moment.",
+    "options": ["are reading", "reads", "is reading", "have read"],
+    "correctAnswer": "are reading"
+  },
+  {
+    "question": "Everybody _____ (eat) at the moment.",
+    "options": ["is eating", "have eaten", "eats", "are eating"],
+    "correctAnswer": "is eating"
+  },
+  {
+    "question": "The wind _____ (lie) this week.",
+    "options": ["have lain", "is lying", "are lying", "lies"],
+    "correctAnswer": "is lying"
+  },
+  {
+    "question": "Everybody _____ (receive) today.",
+    "options": ["receives", "are receiving", "is receiving", "have received"],
+    "correctAnswer": "is receiving"
+  },
+  {
+    "question": "The boy _____ (eat) nowadays.",
+    "options": ["are eating", "is eating", "have eaten", "eats"],
+    "correctAnswer": "is eating"
+  },
+  {
+    "question": "It _____ (open) now.",
+    "options": ["are opening", "opens", "is opening", "have opened"],
+    "correctAnswer": "is opening"
+  },
+  {
+    "question": "Everybody _____ (choose) currently.",
+    "options": ["are choosing", "is choosing", "chooses", "have chosen"],
+    "correctAnswer": "is choosing"
+  },
+  {
+    "question": "The boy _____ (stand) now.",
+    "options": ["stands", "are standing", "have stood", "is standing"],
+    "correctAnswer": "is standing"
+  },
+  {
+    "question": "My friend _____ (cut) this month.",
+    "options": ["is cutting", "cuts", "have cut", "are cutting"],
+    "correctAnswer": "is cutting"
+  },
+  {
+    "question": "Someone _____ (work) now.",
+    "options": ["are working", "is working", "have worked", "works"],
+    "correctAnswer": "is working"
+  },
+  {
+    "question": "She _____ (begin) this month.",
+    "options": ["begins", "have begun", "is beginning", "are beginning"],
+    "correctAnswer": "is beginning"
+  },
+  {
+    "question": "They _____ (eat) at the moment.",
+    "options": ["eats", "is eating", "have eaten", "are eating"],
+    "correctAnswer": "are eating"
+  },
+  {
+    "question": "I _____ (study) right now.",
+    "options": ["have studied", "is studying", "am studying", "studies"],
+    "correctAnswer": "am studying"
+  },
+  {
+    "question": "My friend _____ (sell) this month.",
+    "options": ["are selling", "is selling", "have sold", "sells"],
+    "correctAnswer": "is selling"
+  },
+  {
+    "question": "She _____ (stay) currently.",
+    "options": ["have stayed", "stays", "is staying", "are staying"],
+    "correctAnswer": "is staying"
+  },
+  {
+    "question": "You _____ (happen) tonight.",
+    "options": ["happens", "have happened", "is happening", "are happening"],
+    "correctAnswer": "are happening"
+  },
+  {
+    "question": "Everybody _____ (play) this month.",
+    "options": ["are playing", "plays", "is playing", "have played"],
+    "correctAnswer": "is playing"
+  },
+  {
+    "question": "Nobody _____ (jump) this month.",
+    "options": ["jumps", "is jumping", "are jumping", "have jumped"],
+    "correctAnswer": "is jumping"
+  },
+  {
+    "question": "They _____ (forget) at the moment.",
+    "options": ["have forgotten", "forgets", "is forgetting", "are forgetting"],
+    "correctAnswer": "are forgetting"
+  },
+  {
+    "question": "We _____ (stay) tonight.",
+    "options": ["are staying", "stays", "have stayed", "is staying"],
+    "correctAnswer": "are staying"
+  },
+  {
+    "question": "Mary and Tom _____ (lie) today.",
+    "options": ["lies", "are lying", "is lying", "have lain"],
+    "correctAnswer": "are lying"
+  },
+  {
+    "question": "They _____ (call) now.",
+    "options": ["have called", "are calling", "calls", "is calling"],
+    "correctAnswer": "are calling"
+  },
+  {
+    "question": "The cat _____ (write) at the moment.",
+    "options": ["are writing", "is writing", "have written", "writes"],
+    "correctAnswer": "is writing"
+  },
+  {
+    "question": "The girls _____ (begin) this month.",
+    "options": ["have begun", "begins", "is beginning", "are beginning"],
+    "correctAnswer": "are beginning"
+  },
+  {
+    "question": "The girls _____ (read) nowadays.",
+    "options": ["are reading", "have read", "reads", "is reading"],
+    "correctAnswer": "are reading"
+  },
+  {
+    "question": "The wind _____ (drive) right now.",
+    "options": ["drives", "are driving", "have driven", "is driving"],
+    "correctAnswer": "is driving"
+  },
+  {
+    "question": "The girls _____ (buy) right now.",
+    "options": ["buys", "is buying", "are buying", "have bought"],
+    "correctAnswer": "are buying"
+  },
+  {
+    "question": "We _____ (begin) this month.",
+    "options": ["are beginning", "is beginning", "begins", "have begun"],
+    "correctAnswer": "are beginning"
+  },
+  {
+    "question": "Everybody _____ (become) this month.",
+    "options": ["are becoming", "have become", "is becoming", "becomes"],
+    "correctAnswer": "is becoming"
+  },
+  {
+    "question": "The students _____ (cut) currently.",
+    "options": ["is cutting", "are cutting", "cuts", "have cut"],
+    "correctAnswer": "are cutting"
+  },
+  {
+    "question": "He _____ (stop) this week.",
+    "options": ["have stopped", "are stopping", "stops", "is stopping"],
+    "correctAnswer": "is stopping"
+  },
+  {
+    "question": "He _____ (know) right now.",
+    "options": ["are knowing", "is knowing", "have known", "knows"],
+    "correctAnswer": "is knowing"
+  },
+  {
+    "question": "The girls _____ (work) nowadays.",
+    "options": ["are working", "is working", "have worked", "works"],
+    "correctAnswer": "are working"
+  },
+  {
+    "question": "Everybody _____ (close) this week.",
+    "options": ["closes", "have closed", "are closing", "is closing"],
+    "correctAnswer": "is closing"
+  },
+  {
+    "question": "The students _____ (fall) currently.",
+    "options": ["have fallen", "is falling", "falls", "are falling"],
+    "correctAnswer": "are falling"
+  },
+  {
+    "question": "Mary and Tom _____ (buy) nowadays.",
+    "options": ["have bought", "buys", "are buying", "is buying"],
+    "correctAnswer": "are buying"
+  },
+  {
+    "question": "Nobody _____ (send) right now.",
+    "options": ["sends", "is sending", "are sending", "have sent"],
+    "correctAnswer": "is sending"
+  },
+  {
+    "question": "They _____ (start) nowadays.",
+    "options": ["have started", "are starting", "starts", "is starting"],
+    "correctAnswer": "are starting"
+  },
+  {
+    "question": "The team _____ (hold) currently.",
+    "options": ["have held", "holds", "are holding", "is holding"],
+    "correctAnswer": "is holding"
+  },
+  {
+    "question": "The boy _____ (build) this week.",
+    "options": ["is building", "are building", "have built", "builds"],
+    "correctAnswer": "is building"
+  },
+  {
+    "question": "The students _____ (stay) tonight.",
+    "options": ["have stayed", "are staying", "stays", "is staying"],
+    "correctAnswer": "are staying"
+  },
+  {
+    "question": "My parents _____ (hold) nowadays.",
+    "options": ["holds", "have held", "are holding", "is holding"],
+    "correctAnswer": "are holding"
+  },
+  {
+    "question": "Mary and Tom _____ (wait) currently.",
+    "options": ["waits", "are waiting", "is waiting", "have waited"],
+    "correctAnswer": "are waiting"
+  },
+  {
+    "question": "The team _____ (know) right now.",
+    "options": ["knows", "have known", "is knowing", "are knowing"],
+    "correctAnswer": "is knowing"
+  },
+  {
+    "question": "They _____ (close) nowadays.",
+    "options": ["have closed", "are closing", "closes", "is closing"],
+    "correctAnswer": "are closing"
+  },
+  {
+    "question": "Someone _____ (draw) this week.",
+    "options": ["have drawn", "draws", "is drawing", "are drawing"],
+    "correctAnswer": "is drawing"
+  },
+  {
+    "question": "The students _____ (read) this month.",
+    "options": ["are reading", "reads", "is reading", "have read"],
+    "correctAnswer": "are reading"
+  },
+  {
+    "question": "Mary and Tom _____ (answer) currently.",
+    "options": ["have answered", "are answering", "is answering", "answers"],
+    "correctAnswer": "are answering"
+  },
+  {
+    "question": "Someone _____ (close) nowadays.",
+    "options": ["is closing", "have closed", "closes", "are closing"],
+    "correctAnswer": "is closing"
+  },
+  {
+    "question": "I _____ (watch) today.",
+    "options": ["am watching", "have watched", "is watching", "watches"],
+    "correctAnswer": "am watching"
+  },
+  {
+    "question": "The wind _____ (take) tonight.",
+    "options": ["takes", "are taking", "is taking", "have taken"],
+    "correctAnswer": "is taking"
+  },
+  {
+    "question": "The boy _____ (work) this month.",
+    "options": ["are working", "works", "is working", "have worked"],
+    "correctAnswer": "is working"
+  },
+  {
+    "question": "They _____ (happen) tonight.",
+    "options": ["are happening", "is happening", "have happened", "happens"],
+    "correctAnswer": "are happening"
+  },
+  {
+    "question": "It _____ (become) currently.",
+    "options": ["have become", "becomes", "is becoming", "are becoming"],
+    "correctAnswer": "is becoming"
+  },
+  {
+    "question": "The cat _____ (smile) this month.",
+    "options": ["smiles", "have smiled", "is smiling", "are smiling"],
+    "correctAnswer": "is smiling"
+  },
+  {
+    "question": "Everybody _____ (ask) right now.",
+    "options": ["asks", "have asked", "are asking", "is asking"],
+    "correctAnswer": "is asking"
+  },
+  {
+    "question": "Mary and Tom _____ (teach) now.",
+    "options": ["are teaching", "teaches", "have taught", "is teaching"],
+    "correctAnswer": "are teaching"
+  },
+  {
+    "question": "The boy _____ (give) tonight.",
+    "options": ["is giving", "have given", "are giving", "gives"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "Someone _____ (cook) tonight.",
+    "options": ["is cooking", "cooks", "have cooked", "are cooking"],
+    "correctAnswer": "is cooking"
+  },
+  {
+    "question": "My friend _____ (lie) today.",
+    "options": ["lies", "are lying", "is lying", "have lain"],
+    "correctAnswer": "is lying"
+  },
+  {
+    "question": "My parents _____ (keep) now.",
+    "options": ["have kept", "are keeping", "is keeping", "keeps"],
+    "correctAnswer": "are keeping"
+  },
+  {
+    "question": "You _____ (stand) currently.",
+    "options": ["are standing", "have stood", "stands", "is standing"],
+    "correctAnswer": "are standing"
+  },
+  {
+    "question": "You _____ (bring) this week.",
+    "options": ["are bringing", "is bringing", "have brought", "brings"],
+    "correctAnswer": "are bringing"
+  },
+  {
+    "question": "John _____ (remember) this month.",
+    "options": ["have remembered", "is remembering", "remembers", "are remembering"],
+    "correctAnswer": "is remembering"
+  },
+  {
+    "question": "John _____ (walk) now.",
+    "options": ["have walked", "are walking", "walks", "is walking"],
+    "correctAnswer": "is walking"
+  },
+  {
+    "question": "The boy _____ (arrive) this week.",
+    "options": ["is arriving", "arrives", "have arrived", "are arriving"],
+    "correctAnswer": "is arriving"
+  },
+  {
+    "question": "They _____ (open) this month.",
+    "options": ["are opening", "is opening", "opens", "have opened"],
+    "correctAnswer": "are opening"
+  },
+  {
+    "question": "She _____ (begin) today.",
+    "options": ["are beginning", "begins", "have begun", "is beginning"],
+    "correctAnswer": "is beginning"
+  },
+  {
+    "question": "Nobody _____ (sell) this month.",
+    "options": ["sells", "have sold", "is selling", "are selling"],
+    "correctAnswer": "is selling"
+  },
+  {
+    "question": "John _____ (find) tonight.",
+    "options": ["are finding", "finds", "have found", "is finding"],
+    "correctAnswer": "is finding"
+  },
+  {
+    "question": "The students _____ (learn) tonight.",
+    "options": ["learns", "is learning", "have learned", "are learning"],
+    "correctAnswer": "are learning"
+  },
+  {
+    "question": "The wind _____ (play) right now.",
+    "options": ["have played", "is playing", "plays", "are playing"],
+    "correctAnswer": "is playing"
+  },
+  {
+    "question": "The team _____ (buy) this week.",
+    "options": ["buys", "is buying", "have bought", "are buying"],
+    "correctAnswer": "is buying"
+  },
+  {
+    "question": "They _____ (play) nowadays.",
+    "options": ["plays", "are playing", "have played", "is playing"],
+    "correctAnswer": "are playing"
+  },
+  {
+    "question": "My parents _____ (clean) tonight.",
+    "options": ["are cleaning", "is cleaning", "have cleaned", "cleans"],
+    "correctAnswer": "are cleaning"
+  },
+  {
+    "question": "The team _____ (build) currently.",
+    "options": ["have built", "are building", "is building", "builds"],
+    "correctAnswer": "is building"
+  },
+  {
+    "question": "You _____ (study) at the moment.",
+    "options": ["have studied", "are studying", "is studying", "studies"],
+    "correctAnswer": "are studying"
+  },
+  {
+    "question": "The boy _____ (laugh) at the moment.",
+    "options": ["have laughed", "are laughing", "is laughing", "laughs"],
+    "correctAnswer": "is laughing"
+  },
+  {
+    "question": "I _____ (smile) right now.",
+    "options": ["have smiled", "smiles", "am smiling", "is smiling"],
+    "correctAnswer": "am smiling"
+  },
+  {
+    "question": "The students _____ (sit) this week.",
+    "options": ["are sitting", "is sitting", "have sat", "sits"],
+    "correctAnswer": "are sitting"
+  },
+  {
+    "question": "My friend _____ (leave) today.",
+    "options": ["is leaving", "are leaving", "leaves", "have left"],
+    "correctAnswer": "is leaving"
+  },
+  {
+    "question": "John _____ (give) tonight.",
+    "options": ["are giving", "gives", "is giving", "have given"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "He _____ (sell) today.",
+    "options": ["are selling", "sells", "have sold", "is selling"],
+    "correctAnswer": "is selling"
+  },
+  {
+    "question": "You _____ (think) this month.",
+    "options": ["thinks", "have thought", "is thinking", "are thinking"],
+    "correctAnswer": "are thinking"
+  },
+  {
+    "question": "They _____ (fall) right now.",
+    "options": ["have fallen", "is falling", "are falling", "falls"],
+    "correctAnswer": "are falling"
+  },
+  {
+    "question": "The team _____ (hold) right now.",
+    "options": ["holds", "have held", "are holding", "is holding"],
+    "correctAnswer": "is holding"
+  },
+  {
+    "question": "It _____ (cry) now.",
+    "options": ["cries", "are crying", "is crying", "have cried"],
+    "correctAnswer": "is crying"
+  },
+  {
+    "question": "The wind _____ (happen) at the moment.",
+    "options": ["happens", "are happening", "have happened", "is happening"],
+    "correctAnswer": "is happening"
+  },
+  {
+    "question": "John _____ (stand) currently.",
+    "options": ["is standing", "are standing", "stands", "have stood"],
+    "correctAnswer": "is standing"
+  },
+  {
+    "question": "The students _____ (send) nowadays.",
+    "options": ["is sending", "are sending", "sends", "have sent"],
+    "correctAnswer": "are sending"
+  },
+  {
+    "question": "The wind _____ (grow) at the moment.",
+    "options": ["are growing", "grows", "is growing", "have grown"],
+    "correctAnswer": "is growing"
+  },
+  {
+    "question": "She _____ (leave) nowadays.",
+    "options": ["leaves", "have left", "is leaving", "are leaving"],
+    "correctAnswer": "is leaving"
+  },
+  {
+    "question": "The girls _____ (forget) this month.",
+    "options": ["are forgetting", "is forgetting", "forgets", "have forgotten"],
+    "correctAnswer": "are forgetting"
+  },
+  {
+    "question": "Nobody _____ (read) nowadays.",
+    "options": ["is reading", "reads", "are reading", "have read"],
+    "correctAnswer": "is reading"
+  },
+  {
+    "question": "My friend _____ (sell) nowadays.",
+    "options": ["sells", "are selling", "is selling", "have sold"],
+    "correctAnswer": "is selling"
+  },
+  {
+    "question": "They _____ (think) tonight.",
+    "options": ["are thinking", "thinks", "is thinking", "have thought"],
+    "correctAnswer": "are thinking"
+  },
+  {
+    "question": "John _____ (wait) now.",
+    "options": ["is waiting", "waits", "are waiting", "have waited"],
+    "correctAnswer": "is waiting"
+  },
+  {
+    "question": "You _____ (sleep) right now.",
+    "options": ["sleeps", "have slept", "are sleeping", "is sleeping"],
+    "correctAnswer": "are sleeping"
+  },
+  {
+    "question": "They _____ (wear) this week.",
+    "options": ["are wearing", "have worn", "wears", "is wearing"],
+    "correctAnswer": "are wearing"
+  },
+  {
+    "question": "My friend _____ (end) right now.",
+    "options": ["is ending", "have ended", "are ending", "ends"],
+    "correctAnswer": "is ending"
+  },
+  {
+    "question": "John _____ (study) this week.",
+    "options": ["have studied", "studies", "are studying", "is studying"],
+    "correctAnswer": "is studying"
+  },
+  {
+    "question": "John _____ (begin) right now.",
+    "options": ["is beginning", "begins", "have begun", "are beginning"],
+    "correctAnswer": "is beginning"
+  },
+  {
+    "question": "My parents _____ (believe) today.",
+    "options": ["have believed", "is believing", "believes", "are believing"],
+    "correctAnswer": "are believing"
+  },
+  {
+    "question": "I _____ (think) this week.",
+    "options": ["am thinking", "is thinking", "have thought", "thinks"],
+    "correctAnswer": "am thinking"
+  },
+  {
+    "question": "The wind _____ (forget) at the moment.",
+    "options": ["is forgetting", "forgets", "are forgetting", "have forgotten"],
+    "correctAnswer": "is forgetting"
+  },
+  {
+    "question": "We _____ (read) today.",
+    "options": ["is reading", "are reading", "reads", "have read"],
+    "correctAnswer": "are reading"
+  },
+  {
+    "question": "We _____ (fly) currently.",
+    "options": ["are flying", "is flying", "flies", "have flown"],
+    "correctAnswer": "are flying"
+  },
+  {
+    "question": "Everybody _____ (cook) tonight.",
+    "options": ["have cooked", "is cooking", "are cooking", "cooks"],
+    "correctAnswer": "is cooking"
+  },
+  {
+    "question": "She _____ (keep) this month.",
+    "options": ["have kept", "are keeping", "keeps", "is keeping"],
+    "correctAnswer": "is keeping"
+  },
+  {
+    "question": "The wind _____ (draw) currently.",
+    "options": ["draws", "have drawn", "are drawing", "is drawing"],
+    "correctAnswer": "is drawing"
+  },
+  {
+    "question": "She _____ (cut) tonight.",
+    "options": ["is cutting", "cuts", "are cutting", "have cut"],
+    "correctAnswer": "is cutting"
+  },
+  {
+    "question": "I _____ (keep) tonight.",
+    "options": ["keeps", "have kept", "is keeping", "am keeping"],
+    "correctAnswer": "am keeping"
+  },
+  {
+    "question": "The cat _____ (watch) this week.",
+    "options": ["watches", "have watched", "are watching", "is watching"],
+    "correctAnswer": "is watching"
+  },
+  {
+    "question": "I _____ (become) currently.",
+    "options": ["becomes", "have become", "is becoming", "am becoming"],
+    "correctAnswer": "am becoming"
+  },
+  {
+    "question": "You _____ (paint) today.",
+    "options": ["is painting", "have painted", "paints", "are painting"],
+    "correctAnswer": "are painting"
+  },
+  {
+    "question": "Everybody _____ (jump) tonight.",
+    "options": ["have jumped", "are jumping", "is jumping", "jumps"],
+    "correctAnswer": "is jumping"
+  },
+  {
+    "question": "My parents _____ (teach) now.",
+    "options": ["teaches", "have taught", "are teaching", "is teaching"],
+    "correctAnswer": "are teaching"
+  },
+  {
+    "question": "John _____ (read) tonight.",
+    "options": ["are reading", "have read", "is reading", "reads"],
+    "correctAnswer": "is reading"
+  },
+  {
+    "question": "He _____ (wear) tonight.",
+    "options": ["are wearing", "is wearing", "have worn", "wears"],
+    "correctAnswer": "is wearing"
+  },
+  {
+    "question": "My parents _____ (buy) today.",
+    "options": ["buys", "is buying", "have bought", "are buying"],
+    "correctAnswer": "are buying"
+  },
+  {
+    "question": "Someone _____ (visit) nowadays.",
+    "options": ["is visiting", "visits", "are visiting", "have visited"],
+    "correctAnswer": "is visiting"
+  },
+  {
+    "question": "My friend _____ (fly) right now.",
+    "options": ["flies", "is flying", "are flying", "have flown"],
+    "correctAnswer": "is flying"
+  },
+  {
+    "question": "She _____ (give) right now.",
+    "options": ["gives", "are giving", "have given", "is giving"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "They _____ (leave) now.",
+    "options": ["leaves", "is leaving", "are leaving", "have left"],
+    "correctAnswer": "are leaving"
+  },
+  {
+    "question": "Someone _____ (happen) currently.",
+    "options": ["are happening", "have happened", "is happening", "happens"],
+    "correctAnswer": "is happening"
+  },
+  {
+    "question": "The cat _____ (understand) now.",
+    "options": ["understands", "have understood", "are understanding", "is understanding"],
+    "correctAnswer": "is understanding"
+  },
+  {
+    "question": "He _____ (stay) right now.",
+    "options": ["are staying", "stays", "have stayed", "is staying"],
+    "correctAnswer": "is staying"
+  },
+  {
+    "question": "The cat _____ (lie) at the moment.",
+    "options": ["have lain", "lies", "is lying", "are lying"],
+    "correctAnswer": "is lying"
+  },
+  {
+    "question": "He _____ (clean) now.",
+    "options": ["have cleaned", "is cleaning", "cleans", "are cleaning"],
+    "correctAnswer": "is cleaning"
+  },
+  {
+    "question": "The cat _____ (cry) now.",
+    "options": ["is crying", "have cried", "cries", "are crying"],
+    "correctAnswer": "is crying"
+  },
+  {
+    "question": "Mary and Tom _____ (travel) tonight.",
+    "options": ["is travelling", "are travelling", "have traveled", "travels"],
+    "correctAnswer": "are travelling"
+  },
+  {
+    "question": "You _____ (fix) at the moment.",
+    "options": ["are fixing", "fixes", "is fixing", "have fixed"],
+    "correctAnswer": "are fixing"
+  },
+  {
+    "question": "She _____ (dance) tonight.",
+    "options": ["is dancing", "dances", "are dancing", "have danced"],
+    "correctAnswer": "is dancing"
+  },
+  {
+    "question": "The team _____ (learn) at the moment.",
+    "options": ["are learning", "have learned", "is learning", "learns"],
+    "correctAnswer": "is learning"
+  },
+  {
+    "question": "The wind _____ (give) now.",
+    "options": ["is giving", "gives", "are giving", "have given"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "Someone _____ (move) today.",
+    "options": ["is moving", "are moving", "have moved", "moves"],
+    "correctAnswer": "is moving"
+  },
+  {
+    "question": "I _____ (study) this week.",
+    "options": ["studies", "am studying", "is studying", "have studied"],
+    "correctAnswer": "am studying"
+  },
+  {
+    "question": "The cat _____ (clean) this month.",
+    "options": ["is cleaning", "cleans", "have cleaned", "are cleaning"],
+    "correctAnswer": "is cleaning"
+  },
+  {
+    "question": "The girls _____ (draw) now.",
+    "options": ["are drawing", "have drawn", "is drawing", "draws"],
+    "correctAnswer": "are drawing"
+  },
+  {
+    "question": "The team _____ (build) at the moment.",
+    "options": ["are building", "have built", "is building", "builds"],
+    "correctAnswer": "is building"
+  },
+  {
+    "question": "John _____ (hold) today.",
+    "options": ["have held", "are holding", "is holding", "holds"],
+    "correctAnswer": "is holding"
+  },
+  {
+    "question": "Mary and Tom _____ (buy) right now.",
+    "options": ["have bought", "buys", "are buying", "is buying"],
+    "correctAnswer": "are buying"
+  },
+  {
+    "question": "My friend _____ (give) at the moment.",
+    "options": ["is giving", "are giving", "gives", "have given"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "John _____ (paint) this month.",
+    "options": ["are painting", "is painting", "paints", "have painted"],
+    "correctAnswer": "is painting"
+  },
+  {
+    "question": "It _____ (talk) right now.",
+    "options": ["is talking", "talks", "are talking", "have talked"],
+    "correctAnswer": "is talking"
+  },
+  {
+    "question": "It _____ (write) at the moment.",
+    "options": ["writes", "is writing", "have written", "are writing"],
+    "correctAnswer": "is writing"
+  },
+  {
+    "question": "The team _____ (leave) this month.",
+    "options": ["leaves", "have left", "are leaving", "is leaving"],
+    "correctAnswer": "is leaving"
+  },
+  {
+    "question": "I _____ (smile) now.",
+    "options": ["am smiling", "smiles", "have smiled", "is smiling"],
+    "correctAnswer": "am smiling"
+  },
+  {
+    "question": "She _____ (write) right now.",
+    "options": ["is writing", "are writing", "writes", "have written"],
+    "correctAnswer": "is writing"
+  },
+  {
+    "question": "I _____ (choose) nowadays.",
+    "options": ["is choosing", "have chosen", "chooses", "am choosing"],
+    "correctAnswer": "am choosing"
+  },
+  {
+    "question": "I _____ (grow) this month.",
+    "options": ["have grown", "am growing", "is growing", "grows"],
+    "correctAnswer": "am growing"
+  },
+  {
+    "question": "Nobody _____ (finish) this month.",
+    "options": ["finishes", "are finishing", "have finished", "is finishing"],
+    "correctAnswer": "is finishing"
+  },
+  {
+    "question": "Nobody _____ (open) currently.",
+    "options": ["are opening", "is opening", "opens", "have opened"],
+    "correctAnswer": "is opening"
+  },
+  {
+    "question": "She _____ (lie) nowadays.",
+    "options": ["lies", "have lain", "are lying", "is lying"],
+    "correctAnswer": "is lying"
+  },
+  {
+    "question": "The team _____ (end) nowadays.",
+    "options": ["have ended", "are ending", "is ending", "ends"],
+    "correctAnswer": "is ending"
+  },
+  {
+    "question": "John _____ (move) now.",
+    "options": ["are moving", "have moved", "moves", "is moving"],
+    "correctAnswer": "is moving"
+  },
+  {
+    "question": "The wind _____ (cry) currently.",
+    "options": ["have cried", "are crying", "is crying", "cries"],
+    "correctAnswer": "is crying"
+  },
+  {
+    "question": "Everybody _____ (give) currently.",
+    "options": ["are giving", "have given", "is giving", "gives"],
+    "correctAnswer": "is giving"
+  },
+  {
+    "question": "My friend _____ (talk) nowadays.",
+    "options": ["are talking", "have talked", "is talking", "talks"],
+    "correctAnswer": "is talking"
+  },
+  {
+    "question": "Everybody _____ (stand) now.",
+    "options": ["have stood", "stands", "is standing", "are standing"],
+    "correctAnswer": "is standing"
+  },
+  {
+    "question": "It _____ (arrive) at the moment.",
+    "options": ["arrives", "have arrived", "are arriving", "is arriving"],
+    "correctAnswer": "is arriving"
+  },
+  {
+    "question": "The girls _____ (wait) this month.",
+    "options": ["is waiting", "are waiting", "have waited", "waits"],
+    "correctAnswer": "are waiting"
+  },
+  {
+    "question": "The cat _____ (talk) currently.",
+    "options": ["talks", "have talked", "are talking", "is talking"],
+    "correctAnswer": "is talking"
+  },
+  {
+    "question": "Someone _____ (not fix) right now.",
+    "options": ["is not fixing", "did not fix", "does not fix", "not fixing"],
+    "correctAnswer": "is not fixing"
+  },
+  {
+    "question": "They _____ (not remember) currently.",
+    "options": ["did not remember", "not remembering", "do not remember", "are not remembering"],
+    "correctAnswer": "are not remembering"
+  },
+  {
+    "question": "We _____ (not cut) now.",
+    "options": ["did not cut", "do not cut", "not cutting", "are not cutting"],
+    "correctAnswer": "are not cutting"
+  },
+  {
+    "question": "I _____ (not ask) currently.",
+    "options": ["not asking", "am not asking", "did not ask", "do not ask"],
+    "correctAnswer": "am not asking"
+  },
+  {
+    "question": "The wind _____ (not become) nowadays.",
+    "options": ["does not become", "did not become", "not becoming", "is not becoming"],
+    "correctAnswer": "is not becoming"
+  },
+  {
+    "question": "Everybody _____ (not cook) tonight.",
+    "options": ["does not cook", "did not cook", "not cooking", "is not cooking"],
+    "correctAnswer": "is not cooking"
+  },
+  {
+    "question": "Nobody _____ (not break) tonight.",
+    "options": ["is not breaking", "did not break", "does not break", "not breaking"],
+    "correctAnswer": "is not breaking"
+  },
+  {
+    "question": "He _____ (not sit) now.",
+    "options": ["did not sit", "does not sit", "is not sitting", "not sitting"],
+    "correctAnswer": "is not sitting"
+  },
+  {
+    "question": "You _____ (not take) currently.",
+    "options": ["are not taking", "do not take", "not taking", "did not take"],
+    "correctAnswer": "are not taking"
+  },
+  {
+    "question": "The boy _____ (not grow) at the moment.",
+    "options": ["does not grow", "is not growing", "did not grow", "not growing"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "Someone _____ (not clean) today.",
+    "options": ["not cleaning", "does not clean", "did not clean", "is not cleaning"],
+    "correctAnswer": "is not cleaning"
+  },
+  {
+    "question": "The girls _____ (not help) nowadays.",
+    "options": ["are not helping", "do not help", "not helping", "did not help"],
+    "correctAnswer": "are not helping"
+  },
+  {
+    "question": "Everybody _____ (not fall) at the moment.",
+    "options": ["does not fall", "did not fall", "is not falling", "not falling"],
+    "correctAnswer": "is not falling"
+  },
+  {
+    "question": "My friend _____ (not end) right now.",
+    "options": ["not ending", "did not end", "is not ending", "does not end"],
+    "correctAnswer": "is not ending"
+  },
+  {
+    "question": "Mary and Tom _____ (not become) tonight.",
+    "options": ["are not becoming", "not becoming", "did not become", "do not become"],
+    "correctAnswer": "are not becoming"
+  },
+  {
+    "question": "She _____ (not leave) this week.",
+    "options": ["is not leaving", "does not leave", "not leaving", "did not leave"],
+    "correctAnswer": "is not leaving"
+  },
+  {
+    "question": "Everybody _____ (not visit) this week.",
+    "options": ["not visiting", "does not visit", "is not visiting", "did not visit"],
+    "correctAnswer": "is not visiting"
+  },
+  {
+    "question": "We _____ (not ride) tonight.",
+    "options": ["did not ride", "do not ride", "not riding", "are not riding"],
+    "correctAnswer": "are not riding"
+  },
+  {
+    "question": "The boy _____ (not receive) now.",
+    "options": ["is not receiving", "not receiving", "did not receive", "does not receive"],
+    "correctAnswer": "is not receiving"
+  },
+  {
+    "question": "Nobody _____ (not buy) at the moment.",
+    "options": ["did not buy", "does not buy", "is not buying", "not buying"],
+    "correctAnswer": "is not buying"
+  },
+  {
+    "question": "Everybody _____ (not stop) right now.",
+    "options": ["not stopping", "is not stopping", "does not stop", "did not stop"],
+    "correctAnswer": "is not stopping"
+  },
+  {
+    "question": "My friend _____ (not stand) now.",
+    "options": ["does not stand", "is not standing", "not standing", "did not stand"],
+    "correctAnswer": "is not standing"
+  },
+  {
+    "question": "It _____ (not stay) nowadays.",
+    "options": ["did not stay", "is not staying", "not staying", "does not stay"],
+    "correctAnswer": "is not staying"
+  },
+  {
+    "question": "Mary and Tom _____ (not lose) currently.",
+    "options": ["did not lose", "not losing", "do not lose", "are not losing"],
+    "correctAnswer": "are not losing"
+  },
+  {
+    "question": "Someone _____ (not run) this month.",
+    "options": ["did not run", "does not run", "is not running", "not running"],
+    "correctAnswer": "is not running"
+  },
+  {
+    "question": "I _____ (not hold) nowadays.",
+    "options": ["do not hold", "am not holding", "did not hold", "not holding"],
+    "correctAnswer": "am not holding"
+  },
+  {
+    "question": "We _____ (not sing) right now.",
+    "options": ["not singing", "are not singing", "do not sing", "did not sing"],
+    "correctAnswer": "are not singing"
+  },
+  {
+    "question": "John _____ (not dance) tonight.",
+    "options": ["did not dance", "not dancing", "does not dance", "is not dancing"],
+    "correctAnswer": "is not dancing"
+  },
+  {
+    "question": "The boy _____ (not paint) currently.",
+    "options": ["does not paint", "did not paint", "not painting", "is not painting"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "I _____ (not cry) tonight.",
+    "options": ["did not cry", "not crying", "do not cry", "am not crying"],
+    "correctAnswer": "am not crying"
+  },
+  {
+    "question": "Someone _____ (not close) currently.",
+    "options": ["not closing", "is not closing", "does not close", "did not close"],
+    "correctAnswer": "is not closing"
+  },
+  {
+    "question": "Everybody _____ (not wear) tonight.",
+    "options": ["not wearing", "does not wear", "did not wear", "is not wearing"],
+    "correctAnswer": "is not wearing"
+  },
+  {
+    "question": "It _____ (not dance) now.",
+    "options": ["does not dance", "is not dancing", "did not dance", "not dancing"],
+    "correctAnswer": "is not dancing"
+  },
+  {
+    "question": "Someone _____ (not fly) right now.",
+    "options": ["does not fly", "is not flying", "not flying", "did not fly"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "It _____ (not wait) currently.",
+    "options": ["does not wait", "did not wait", "is not waiting", "not waiting"],
+    "correctAnswer": "is not waiting"
+  },
+  {
+    "question": "John _____ (not sell) right now.",
+    "options": ["not selling", "did not sell", "is not selling", "does not sell"],
+    "correctAnswer": "is not selling"
+  },
+  {
+    "question": "Everybody _____ (not lose) this month.",
+    "options": ["does not lose", "not losing", "is not losing", "did not lose"],
+    "correctAnswer": "is not losing"
+  },
+  {
+    "question": "He _____ (not watch) at the moment.",
+    "options": ["is not watching", "did not watch", "not watching", "does not watch"],
+    "correctAnswer": "is not watching"
+  },
+  {
+    "question": "The students _____ (not show) this week.",
+    "options": ["are not showing", "did not show", "not showing", "do not show"],
+    "correctAnswer": "are not showing"
+  },
+  {
+    "question": "He _____ (not write) today.",
+    "options": ["did not write", "does not write", "is not writing", "not writing"],
+    "correctAnswer": "is not writing"
+  },
+  {
+    "question": "She _____ (not teach) this month.",
+    "options": ["not teaching", "does not teach", "is not teaching", "did not teach"],
+    "correctAnswer": "is not teaching"
+  },
+  {
+    "question": "The cat _____ (not hold) this week.",
+    "options": ["is not holding", "not holding", "did not hold", "does not hold"],
+    "correctAnswer": "is not holding"
+  },
+  {
+    "question": "The cat _____ (not understand) this week.",
+    "options": ["is not understanding", "not understanding", "did not understand", "does not understand"],
+    "correctAnswer": "is not understanding"
+  },
+  {
+    "question": "The wind _____ (not take) now.",
+    "options": ["did not take", "not taking", "is not taking", "does not take"],
+    "correctAnswer": "is not taking"
+  },
+  {
+    "question": "She _____ (not draw) nowadays.",
+    "options": ["does not draw", "is not drawing", "did not draw", "not drawing"],
+    "correctAnswer": "is not drawing"
+  },
+  {
+    "question": "Mary and Tom _____ (not cook) right now.",
+    "options": ["not cooking", "are not cooking", "do not cook", "did not cook"],
+    "correctAnswer": "are not cooking"
+  },
+  {
+    "question": "The girls _____ (not drive) today.",
+    "options": ["did not drive", "not driving", "are not driving", "do not drive"],
+    "correctAnswer": "are not driving"
+  },
+  {
+    "question": "John _____ (not choose) nowadays.",
+    "options": ["did not choose", "is not choosing", "not choosing", "does not choose"],
+    "correctAnswer": "is not choosing"
+  },
+  {
+    "question": "He _____ (not draw) now.",
+    "options": ["not drawing", "did not draw", "does not draw", "is not drawing"],
+    "correctAnswer": "is not drawing"
+  },
+  {
+    "question": "The cat _____ (not grow) at the moment.",
+    "options": ["not growing", "does not grow", "is not growing", "did not grow"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "We _____ (not learn) nowadays.",
+    "options": ["did not learn", "do not learn", "are not learning", "not learning"],
+    "correctAnswer": "are not learning"
+  },
+  {
+    "question": "We _____ (not smile) at the moment.",
+    "options": ["are not smiling", "did not smile", "not smiling", "do not smile"],
+    "correctAnswer": "are not smiling"
+  },
+  {
+    "question": "John _____ (not sit) this month.",
+    "options": ["does not sit", "did not sit", "not sitting", "is not sitting"],
+    "correctAnswer": "is not sitting"
+  },
+  {
+    "question": "Nobody _____ (not clean) right now.",
+    "options": ["did not clean", "does not clean", "is not cleaning", "not cleaning"],
+    "correctAnswer": "is not cleaning"
+  },
+  {
+    "question": "It _____ (not talk) at the moment.",
+    "options": ["did not talk", "does not talk", "not talking", "is not talking"],
+    "correctAnswer": "is not talking"
+  },
+  {
+    "question": "The cat _____ (not hold) currently.",
+    "options": ["not holding", "is not holding", "does not hold", "did not hold"],
+    "correctAnswer": "is not holding"
+  },
+  {
+    "question": "Someone _____ (not show) right now.",
+    "options": ["is not showing", "does not show", "not showing", "did not show"],
+    "correctAnswer": "is not showing"
+  },
+  {
+    "question": "You _____ (not stand) this month.",
+    "options": ["did not stand", "do not stand", "are not standing", "not standing"],
+    "correctAnswer": "are not standing"
+  },
+  {
+    "question": "My parents _____ (not try) this week.",
+    "options": ["are not trying", "not trying", "did not try", "do not try"],
+    "correctAnswer": "are not trying"
+  },
+  {
+    "question": "Everybody _____ (not end) at the moment.",
+    "options": ["does not end", "not ending", "did not end", "is not ending"],
+    "correctAnswer": "is not ending"
+  },
+  {
+    "question": "Someone _____ (not send) right now.",
+    "options": ["is not sending", "not sending", "did not send", "does not send"],
+    "correctAnswer": "is not sending"
+  },
+  {
+    "question": "Nobody _____ (not think) today.",
+    "options": ["did not think", "is not thinking", "does not think", "not thinking"],
+    "correctAnswer": "is not thinking"
+  },
+  {
+    "question": "We _____ (not stand) at the moment.",
+    "options": ["do not stand", "are not standing", "not standing", "did not stand"],
+    "correctAnswer": "are not standing"
+  },
+  {
+    "question": "My parents _____ (not stand) tonight.",
+    "options": ["do not stand", "are not standing", "did not stand", "not standing"],
+    "correctAnswer": "are not standing"
+  },
+  {
+    "question": "It _____ (not open) right now.",
+    "options": ["not opening", "does not open", "is not opening", "did not open"],
+    "correctAnswer": "is not opening"
+  },
+  {
+    "question": "Everybody _____ (not stay) currently.",
+    "options": ["does not stay", "not staying", "did not stay", "is not staying"],
+    "correctAnswer": "is not staying"
+  },
+  {
+    "question": "The boy _____ (not fall) this week.",
+    "options": ["did not fall", "is not falling", "does not fall", "not falling"],
+    "correctAnswer": "is not falling"
+  },
+  {
+    "question": "Nobody _____ (not play) currently.",
+    "options": ["did not play", "is not playing", "does not play", "not playing"],
+    "correctAnswer": "is not playing"
+  },
+  {
+    "question": "My friend _____ (not run) today.",
+    "options": ["not running", "does not run", "is not running", "did not run"],
+    "correctAnswer": "is not running"
+  },
+  {
+    "question": "You _____ (not leave) this month.",
+    "options": ["not leaving", "are not leaving", "do not leave", "did not leave"],
+    "correctAnswer": "are not leaving"
+  },
+  {
+    "question": "She _____ (not learn) now.",
+    "options": ["did not learn", "is not learning", "does not learn", "not learning"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "My parents _____ (not happen) nowadays.",
+    "options": ["are not happening", "did not happen", "not happening", "do not happen"],
+    "correctAnswer": "are not happening"
+  },
+  {
+    "question": "The boy _____ (not read) today.",
+    "options": ["is not reading", "does not read", "did not read", "not reading"],
+    "correctAnswer": "is not reading"
+  },
+  {
+    "question": "My parents _____ (not visit) at the moment.",
+    "options": ["do not visit", "are not visiting", "did not visit", "not visiting"],
+    "correctAnswer": "are not visiting"
+  },
+  {
+    "question": "He _____ (not grow) today.",
+    "options": ["does not grow", "did not grow", "not growing", "is not growing"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "The team _____ (not open) tonight.",
+    "options": ["does not open", "not opening", "is not opening", "did not open"],
+    "correctAnswer": "is not opening"
+  },
+  {
+    "question": "The students _____ (not build) at the moment.",
+    "options": ["did not build", "are not building", "do not build", "not building"],
+    "correctAnswer": "are not building"
+  },
+  {
+    "question": "The students _____ (not call) right now.",
+    "options": ["are not calling", "did not call", "do not call", "not calling"],
+    "correctAnswer": "are not calling"
+  },
+  {
+    "question": "The boy _____ (not cook) tonight.",
+    "options": ["not cooking", "is not cooking", "did not cook", "does not cook"],
+    "correctAnswer": "is not cooking"
+  },
+  {
+    "question": "I _____ (not clean) tonight.",
+    "options": ["do not clean", "did not clean", "am not cleaning", "not cleaning"],
+    "correctAnswer": "am not cleaning"
+  },
+  {
+    "question": "The team _____ (not call) today.",
+    "options": ["did not call", "does not call", "is not calling", "not calling"],
+    "correctAnswer": "is not calling"
+  },
+  {
+    "question": "John _____ (not try) this week.",
+    "options": ["not trying", "does not try", "is not trying", "did not try"],
+    "correctAnswer": "is not trying"
+  },
+  {
+    "question": "Nobody _____ (not choose) today.",
+    "options": ["does not choose", "did not choose", "is not choosing", "not choosing"],
+    "correctAnswer": "is not choosing"
+  },
+  {
+    "question": "My parents _____ (not stay) now.",
+    "options": ["did not stay", "not staying", "are not staying", "do not stay"],
+    "correctAnswer": "are not staying"
+  },
+  {
+    "question": "The team _____ (not choose) right now.",
+    "options": ["does not choose", "is not choosing", "not choosing", "did not choose"],
+    "correctAnswer": "is not choosing"
+  },
+  {
+    "question": "The girls _____ (not tell) today.",
+    "options": ["not telling", "do not tell", "did not tell", "are not telling"],
+    "correctAnswer": "are not telling"
+  },
+  {
+    "question": "My parents _____ (not choose) at the moment.",
+    "options": ["are not choosing", "did not choose", "not choosing", "do not choose"],
+    "correctAnswer": "are not choosing"
+  },
+  {
+    "question": "The team _____ (not clean) at the moment.",
+    "options": ["did not clean", "does not clean", "not cleaning", "is not cleaning"],
+    "correctAnswer": "is not cleaning"
+  },
+  {
+    "question": "They _____ (not happen) at the moment.",
+    "options": ["are not happening", "do not happen", "not happening", "did not happen"],
+    "correctAnswer": "are not happening"
+  },
+  {
+    "question": "The cat _____ (not visit) currently.",
+    "options": ["does not visit", "is not visiting", "not visiting", "did not visit"],
+    "correctAnswer": "is not visiting"
+  },
+  {
+    "question": "Mary and Tom _____ (not fix) at the moment.",
+    "options": ["not fixing", "are not fixing", "did not fix", "do not fix"],
+    "correctAnswer": "are not fixing"
+  },
+  {
+    "question": "My friend _____ (not finish) nowadays.",
+    "options": ["not finishing", "is not finishing", "does not finish", "did not finish"],
+    "correctAnswer": "is not finishing"
+  },
+  {
+    "question": "Mary and Tom _____ (not work) this month.",
+    "options": ["are not working", "do not work", "not working", "did not work"],
+    "correctAnswer": "are not working"
+  },
+  {
+    "question": "My friend _____ (not show) tonight.",
+    "options": ["did not show", "not showing", "is not showing", "does not show"],
+    "correctAnswer": "is not showing"
+  },
+  {
+    "question": "The girls _____ (not arrive) this week.",
+    "options": ["are not arriving", "not arriving", "did not arrive", "do not arrive"],
+    "correctAnswer": "are not arriving"
+  },
+  {
+    "question": "Someone _____ (not fix) now.",
+    "options": ["not fixing", "does not fix", "is not fixing", "did not fix"],
+    "correctAnswer": "is not fixing"
+  },
+  {
+    "question": "My friend _____ (not begin) this month.",
+    "options": ["is not beginning", "not beginning", "does not begin", "did not begin"],
+    "correctAnswer": "is not beginning"
+  },
+  {
+    "question": "The girls _____ (not teach) currently.",
+    "options": ["did not teach", "not teaching", "do not teach", "are not teaching"],
+    "correctAnswer": "are not teaching"
+  },
+  {
+    "question": "I _____ (not cook) tonight.",
+    "options": ["did not cook", "do not cook", "not cooking", "am not cooking"],
+    "correctAnswer": "am not cooking"
+  },
+  {
+    "question": "My friend _____ (not happen) currently.",
+    "options": ["did not happen", "not happening", "does not happen", "is not happening"],
+    "correctAnswer": "is not happening"
+  },
+  {
+    "question": "They _____ (not happen) right now.",
+    "options": ["are not happening", "did not happen", "not happening", "do not happen"],
+    "correctAnswer": "are not happening"
+  },
+  {
+    "question": "They _____ (not fly) currently.",
+    "options": ["do not fly", "not flying", "are not flying", "did not fly"],
+    "correctAnswer": "are not flying"
+  },
+  {
+    "question": "The wind _____ (not run) at the moment.",
+    "options": ["does not run", "is not running", "not running", "did not run"],
+    "correctAnswer": "is not running"
+  },
+  {
+    "question": "It _____ (not visit) now.",
+    "options": ["does not visit", "is not visiting", "did not visit", "not visiting"],
+    "correctAnswer": "is not visiting"
+  },
+  {
+    "question": "Everybody _____ (not buy) nowadays.",
+    "options": ["did not buy", "not buying", "does not buy", "is not buying"],
+    "correctAnswer": "is not buying"
+  },
+  {
+    "question": "You _____ (not talk) currently.",
+    "options": ["did not talk", "do not talk", "are not talking", "not talking"],
+    "correctAnswer": "are not talking"
+  },
+  {
+    "question": "The students _____ (not grow) currently.",
+    "options": ["do not grow", "did not grow", "not growing", "are not growing"],
+    "correctAnswer": "are not growing"
+  },
+  {
+    "question": "We _____ (not learn) currently.",
+    "options": ["do not learn", "are not learning", "did not learn", "not learning"],
+    "correctAnswer": "are not learning"
+  },
+  {
+    "question": "It _____ (not help) nowadays.",
+    "options": ["did not help", "not helping", "does not help", "is not helping"],
+    "correctAnswer": "is not helping"
+  },
+  {
+    "question": "The team _____ (not call) now.",
+    "options": ["did not call", "does not call", "is not calling", "not calling"],
+    "correctAnswer": "is not calling"
+  },
+  {
+    "question": "Everybody _____ (not become) right now.",
+    "options": ["not becoming", "did not become", "does not become", "is not becoming"],
+    "correctAnswer": "is not becoming"
+  },
+  {
+    "question": "She _____ (not break) right now.",
+    "options": ["not breaking", "is not breaking", "does not break", "did not break"],
+    "correctAnswer": "is not breaking"
+  },
+  {
+    "question": "Everybody _____ (not grow) this month.",
+    "options": ["not growing", "did not grow", "does not grow", "is not growing"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "John _____ (not forget) at the moment.",
+    "options": ["is not forgetting", "does not forget", "did not forget", "not forgetting"],
+    "correctAnswer": "is not forgetting"
+  },
+  {
+    "question": "He _____ (not lose) this week.",
+    "options": ["is not losing", "did not lose", "does not lose", "not losing"],
+    "correctAnswer": "is not losing"
+  },
+  {
+    "question": "Mary and Tom _____ (not stand) this month.",
+    "options": ["are not standing", "not standing", "did not stand", "do not stand"],
+    "correctAnswer": "are not standing"
+  },
+  {
+    "question": "Nobody _____ (not fall) this week.",
+    "options": ["did not fall", "is not falling", "not falling", "does not fall"],
+    "correctAnswer": "is not falling"
+  },
+  {
+    "question": "My friend _____ (not forget) today.",
+    "options": ["does not forget", "not forgetting", "did not forget", "is not forgetting"],
+    "correctAnswer": "is not forgetting"
+  },
+  {
+    "question": "She _____ (not show) this month.",
+    "options": ["not showing", "is not showing", "did not show", "does not show"],
+    "correctAnswer": "is not showing"
+  },
+  {
+    "question": "She _____ (not call) at the moment.",
+    "options": ["did not call", "not calling", "is not calling", "does not call"],
+    "correctAnswer": "is not calling"
+  },
+  {
+    "question": "We _____ (not happen) currently.",
+    "options": ["are not happening", "did not happen", "not happening", "do not happen"],
+    "correctAnswer": "are not happening"
+  },
+  {
+    "question": "Mary and Tom _____ (not leave) this month.",
+    "options": ["not leaving", "did not leave", "are not leaving", "do not leave"],
+    "correctAnswer": "are not leaving"
+  },
+  {
+    "question": "They _____ (not try) this week.",
+    "options": ["not trying", "do not try", "did not try", "are not trying"],
+    "correctAnswer": "are not trying"
+  },
+  {
+    "question": "My parents _____ (not try) now.",
+    "options": ["are not trying", "do not try", "not trying", "did not try"],
+    "correctAnswer": "are not trying"
+  },
+  {
+    "question": "They _____ (not break) today.",
+    "options": ["do not break", "not breaking", "did not break", "are not breaking"],
+    "correctAnswer": "are not breaking"
+  },
+  {
+    "question": "We _____ (not find) right now.",
+    "options": ["are not finding", "not finding", "do not find", "did not find"],
+    "correctAnswer": "are not finding"
+  },
+  {
+    "question": "The students _____ (not close) tonight.",
+    "options": ["did not close", "do not close", "are not closing", "not closing"],
+    "correctAnswer": "are not closing"
+  },
+  {
+    "question": "I _____ (not laugh) today.",
+    "options": ["not laughing", "am not laughing", "do not laugh", "did not laugh"],
+    "correctAnswer": "am not laughing"
+  },
+  {
+    "question": "Everybody _____ (not work) this month.",
+    "options": ["not working", "is not working", "does not work", "did not work"],
+    "correctAnswer": "is not working"
+  },
+  {
+    "question": "The wind _____ (not try) today.",
+    "options": ["did not try", "is not trying", "not trying", "does not try"],
+    "correctAnswer": "is not trying"
+  },
+  {
+    "question": "She _____ (not eat) this week.",
+    "options": ["did not eat", "does not eat", "not eating", "is not eating"],
+    "correctAnswer": "is not eating"
+  },
+  {
+    "question": "My friend _____ (not give) nowadays.",
+    "options": ["did not give", "not giving", "does not give", "is not giving"],
+    "correctAnswer": "is not giving"
+  },
+  {
+    "question": "The wind _____ (not ride) tonight.",
+    "options": ["did not ride", "does not ride", "not riding", "is not riding"],
+    "correctAnswer": "is not riding"
+  },
+  {
+    "question": "My parents _____ (not remember) now.",
+    "options": ["are not remembering", "do not remember", "not remembering", "did not remember"],
+    "correctAnswer": "are not remembering"
+  },
+  {
+    "question": "They _____ (not read) right now.",
+    "options": ["did not read", "not reading", "do not read", "are not reading"],
+    "correctAnswer": "are not reading"
+  },
+  {
+    "question": "The wind _____ (not cry) this week.",
+    "options": ["not crying", "is not crying", "did not cry", "does not cry"],
+    "correctAnswer": "is not crying"
+  },
+  {
+    "question": "Someone _____ (not know) this month.",
+    "options": ["not knowing", "does not know", "did not know", "is not knowing"],
+    "correctAnswer": "is not knowing"
+  },
+  {
+    "question": "They _____ (not study) tonight.",
+    "options": ["do not study", "are not studying", "did not study", "not studying"],
+    "correctAnswer": "are not studying"
+  },
+  {
+    "question": "We _____ (not jump) tonight.",
+    "options": ["do not jump", "did not jump", "are not jumping", "not jumping"],
+    "correctAnswer": "are not jumping"
+  },
+  {
+    "question": "The cat _____ (not remember) currently.",
+    "options": ["did not remember", "is not remembering", "not remembering", "does not remember"],
+    "correctAnswer": "is not remembering"
+  },
+  {
+    "question": "Nobody _____ (not happen) nowadays.",
+    "options": ["does not happen", "did not happen", "not happening", "is not happening"],
+    "correctAnswer": "is not happening"
+  },
+  {
+    "question": "My parents _____ (not understand) tonight.",
+    "options": ["not understanding", "did not understand", "do not understand", "are not understanding"],
+    "correctAnswer": "are not understanding"
+  },
+  {
+    "question": "I _____ (not stop) right now.",
+    "options": ["do not stop", "not stopping", "am not stopping", "did not stop"],
+    "correctAnswer": "am not stopping"
+  },
+  {
+    "question": "The students _____ (not jump) right now.",
+    "options": ["not jumping", "did not jump", "are not jumping", "do not jump"],
+    "correctAnswer": "are not jumping"
+  },
+  {
+    "question": "I _____ (not sell) this month.",
+    "options": ["not selling", "did not sell", "do not sell", "am not selling"],
+    "correctAnswer": "am not selling"
+  },
+  {
+    "question": "Nobody _____ (not know) nowadays.",
+    "options": ["did not know", "is not knowing", "not knowing", "does not know"],
+    "correctAnswer": "is not knowing"
+  },
+  {
+    "question": "The wind _____ (not show) right now.",
+    "options": ["is not showing", "did not show", "does not show", "not showing"],
+    "correctAnswer": "is not showing"
+  },
+  {
+    "question": "He _____ (not smile) this week.",
+    "options": ["is not smiling", "did not smile", "not smiling", "does not smile"],
+    "correctAnswer": "is not smiling"
+  },
+  {
+    "question": "The team _____ (not stop) now.",
+    "options": ["not stopping", "is not stopping", "did not stop", "does not stop"],
+    "correctAnswer": "is not stopping"
+  },
+  {
+    "question": "John _____ (not sleep) right now.",
+    "options": ["does not sleep", "did not sleep", "not sleeping", "is not sleeping"],
+    "correctAnswer": "is not sleeping"
+  },
+  {
+    "question": "Everybody _____ (not help) this week.",
+    "options": ["is not helping", "did not help", "not helping", "does not help"],
+    "correctAnswer": "is not helping"
+  },
+  {
+    "question": "The girls _____ (not fix) tonight.",
+    "options": ["not fixing", "are not fixing", "did not fix", "do not fix"],
+    "correctAnswer": "are not fixing"
+  },
+  {
+    "question": "My friend _____ (not build) today.",
+    "options": ["is not building", "not building", "did not build", "does not build"],
+    "correctAnswer": "is not building"
+  },
+  {
+    "question": "John _____ (not try) today.",
+    "options": ["does not try", "did not try", "not trying", "is not trying"],
+    "correctAnswer": "is not trying"
+  },
+  {
+    "question": "Nobody _____ (not keep) nowadays.",
+    "options": ["did not keep", "is not keeping", "does not keep", "not keeping"],
+    "correctAnswer": "is not keeping"
+  },
+  {
+    "question": "Everybody _____ (not show) currently.",
+    "options": ["is not showing", "did not show", "does not show", "not showing"],
+    "correctAnswer": "is not showing"
+  },
+  {
+    "question": "Nobody _____ (not lose) tonight.",
+    "options": ["not losing", "does not lose", "is not losing", "did not lose"],
+    "correctAnswer": "is not losing"
+  },
+  {
+    "question": "The cat _____ (not cut) tonight.",
+    "options": ["is not cutting", "not cutting", "does not cut", "did not cut"],
+    "correctAnswer": "is not cutting"
+  },
+  {
+    "question": "He _____ (not tell) today.",
+    "options": ["did not tell", "not telling", "does not tell", "is not telling"],
+    "correctAnswer": "is not telling"
+  },
+  {
+    "question": "Everybody _____ (not dance) today.",
+    "options": ["is not dancing", "does not dance", "did not dance", "not dancing"],
+    "correctAnswer": "is not dancing"
+  },
+  {
+    "question": "Mary and Tom _____ (not know) tonight.",
+    "options": ["not knowing", "do not know", "are not knowing", "did not know"],
+    "correctAnswer": "are not knowing"
+  },
+  {
+    "question": "The team _____ (not start) this month.",
+    "options": ["not starting", "does not start", "is not starting", "did not start"],
+    "correctAnswer": "is not starting"
+  },
+  {
+    "question": "The boy _____ (not clean) this week.",
+    "options": ["does not clean", "is not cleaning", "not cleaning", "did not clean"],
+    "correctAnswer": "is not cleaning"
+  },
+  {
+    "question": "The girls _____ (not visit) now.",
+    "options": ["not visiting", "are not visiting", "do not visit", "did not visit"],
+    "correctAnswer": "are not visiting"
+  },
+  {
+    "question": "You _____ (not clean) now.",
+    "options": ["do not clean", "did not clean", "not cleaning", "are not cleaning"],
+    "correctAnswer": "are not cleaning"
+  },
+  {
+    "question": "Nobody _____ (not sleep) nowadays.",
+    "options": ["did not sleep", "does not sleep", "not sleeping", "is not sleeping"],
+    "correctAnswer": "is not sleeping"
+  },
+  {
+    "question": "The boy _____ (not learn) this week.",
+    "options": ["did not learn", "is not learning", "not learning", "does not learn"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "The team _____ (not stay) this month.",
+    "options": ["not staying", "did not stay", "does not stay", "is not staying"],
+    "correctAnswer": "is not staying"
+  },
+  {
+    "question": "He _____ (not watch) tonight.",
+    "options": ["is not watching", "did not watch", "not watching", "does not watch"],
+    "correctAnswer": "is not watching"
+  },
+  {
+    "question": "The cat _____ (not draw) nowadays.",
+    "options": ["is not drawing", "did not draw", "not drawing", "does not draw"],
+    "correctAnswer": "is not drawing"
+  },
+  {
+    "question": "The boy _____ (not sell) nowadays.",
+    "options": ["not selling", "does not sell", "is not selling", "did not sell"],
+    "correctAnswer": "is not selling"
+  },
+  {
+    "question": "She _____ (not learn) this month.",
+    "options": ["does not learn", "is not learning", "did not learn", "not learning"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "You _____ (not show) today.",
+    "options": ["did not show", "not showing", "are not showing", "do not show"],
+    "correctAnswer": "are not showing"
+  },
+  {
+    "question": "It _____ (not sing) tonight.",
+    "options": ["did not sing", "does not sing", "is not singing", "not singing"],
+    "correctAnswer": "is not singing"
+  },
+  {
+    "question": "She _____ (not sing) this week.",
+    "options": ["does not sing", "is not singing", "did not sing", "not singing"],
+    "correctAnswer": "is not singing"
+  },
+  {
+    "question": "She _____ (not bring) now.",
+    "options": ["does not bring", "did not bring", "not bringing", "is not bringing"],
+    "correctAnswer": "is not bringing"
+  },
+  {
+    "question": "She _____ (not visit) tonight.",
+    "options": ["did not visit", "does not visit", "not visiting", "is not visiting"],
+    "correctAnswer": "is not visiting"
+  },
+  {
+    "question": "She _____ (not begin) right now.",
+    "options": ["is not beginning", "did not begin", "does not begin", "not beginning"],
+    "correctAnswer": "is not beginning"
+  },
+  {
+    "question": "Someone _____ (not fly) now.",
+    "options": ["does not fly", "not flying", "is not flying", "did not fly"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "The cat _____ (not laugh) nowadays.",
+    "options": ["did not laugh", "is not laughing", "not laughing", "does not laugh"],
+    "correctAnswer": "is not laughing"
+  },
+  {
+    "question": "We _____ (not keep) this week.",
+    "options": ["do not keep", "are not keeping", "did not keep", "not keeping"],
+    "correctAnswer": "are not keeping"
+  },
+  {
+    "question": "Nobody _____ (not leave) at the moment.",
+    "options": ["not leaving", "does not leave", "is not leaving", "did not leave"],
+    "correctAnswer": "is not leaving"
+  },
+  {
+    "question": "The girls _____ (not lose) today.",
+    "options": ["are not losing", "did not lose", "do not lose", "not losing"],
+    "correctAnswer": "are not losing"
+  },
+  {
+    "question": "The cat _____ (not remember) nowadays.",
+    "options": ["did not remember", "does not remember", "not remembering", "is not remembering"],
+    "correctAnswer": "is not remembering"
+  },
+  {
+    "question": "Nobody _____ (not take) this month.",
+    "options": ["did not take", "not taking", "is not taking", "does not take"],
+    "correctAnswer": "is not taking"
+  },
+  {
+    "question": "Mary and Tom _____ (not jump) at the moment.",
+    "options": ["did not jump", "do not jump", "not jumping", "are not jumping"],
+    "correctAnswer": "are not jumping"
+  },
+  {
+    "question": "The cat _____ (not read) today.",
+    "options": ["not reading", "did not read", "is not reading", "does not read"],
+    "correctAnswer": "is not reading"
+  },
+  {
+    "question": "Everybody _____ (not read) today.",
+    "options": ["not reading", "does not read", "is not reading", "did not read"],
+    "correctAnswer": "is not reading"
+  },
+  {
+    "question": "You _____ (not travel) tonight.",
+    "options": ["do not travel", "did not travel", "are not travelling", "not travelling"],
+    "correctAnswer": "are not travelling"
+  },
+  {
+    "question": "The boy _____ (not happen) today.",
+    "options": ["does not happen", "is not happening", "did not happen", "not happening"],
+    "correctAnswer": "is not happening"
+  },
+  {
+    "question": "Mary and Tom _____ (not begin) currently.",
+    "options": ["do not begin", "are not beginning", "did not begin", "not beginning"],
+    "correctAnswer": "are not beginning"
+  },
+  {
+    "question": "The wind _____ (not teach) right now.",
+    "options": ["is not teaching", "not teaching", "does not teach", "did not teach"],
+    "correctAnswer": "is not teaching"
+  },
+  {
+    "question": "He _____ (not cry) right now.",
+    "options": ["does not cry", "is not crying", "did not cry", "not crying"],
+    "correctAnswer": "is not crying"
+  },
+  {
+    "question": "My friend _____ (not sleep) today.",
+    "options": ["does not sleep", "is not sleeping", "did not sleep", "not sleeping"],
+    "correctAnswer": "is not sleeping"
+  },
+  {
+    "question": "My parents _____ (not fly) today.",
+    "options": ["are not flying", "did not fly", "not flying", "do not fly"],
+    "correctAnswer": "are not flying"
+  },
+  {
+    "question": "The students _____ (not eat) tonight.",
+    "options": ["do not eat", "not eating", "are not eating", "did not eat"],
+    "correctAnswer": "are not eating"
+  },
+  {
+    "question": "My parents _____ (not fix) currently.",
+    "options": ["are not fixing", "did not fix", "not fixing", "do not fix"],
+    "correctAnswer": "are not fixing"
+  },
+  {
+    "question": "John _____ (not drive) currently.",
+    "options": ["is not driving", "does not drive", "not driving", "did not drive"],
+    "correctAnswer": "is not driving"
+  },
+  {
+    "question": "The boy _____ (not choose) today.",
+    "options": ["did not choose", "not choosing", "does not choose", "is not choosing"],
+    "correctAnswer": "is not choosing"
+  },
+  {
+    "question": "The girls _____ (not move) this week.",
+    "options": ["do not move", "not moving", "are not moving", "did not move"],
+    "correctAnswer": "are not moving"
+  },
+  {
+    "question": "You _____ (not fall) tonight.",
+    "options": ["not falling", "are not falling", "did not fall", "do not fall"],
+    "correctAnswer": "are not falling"
+  },
+  {
+    "question": "The team _____ (not clean) right now.",
+    "options": ["is not cleaning", "does not clean", "did not clean", "not cleaning"],
+    "correctAnswer": "is not cleaning"
+  },
+  {
+    "question": "He _____ (not walk) right now.",
+    "options": ["does not walk", "did not walk", "is not walking", "not walking"],
+    "correctAnswer": "is not walking"
+  },
+  {
+    "question": "My friend _____ (not forget) nowadays.",
+    "options": ["is not forgetting", "does not forget", "not forgetting", "did not forget"],
+    "correctAnswer": "is not forgetting"
+  },
+  {
+    "question": "The wind _____ (not happen) this month.",
+    "options": ["not happening", "is not happening", "did not happen", "does not happen"],
+    "correctAnswer": "is not happening"
+  },
+  {
+    "question": "It _____ (not begin) this week.",
+    "options": ["is not beginning", "does not begin", "did not begin", "not beginning"],
+    "correctAnswer": "is not beginning"
+  },
+  {
+    "question": "The boy _____ (not travel) this month.",
+    "options": ["did not travel", "not travelling", "does not travel", "is not travelling"],
+    "correctAnswer": "is not travelling"
+  },
+  {
+    "question": "She _____ (not keep) this week.",
+    "options": ["did not keep", "is not keeping", "does not keep", "not keeping"],
+    "correctAnswer": "is not keeping"
+  },
+  {
+    "question": "Everybody _____ (not lie) tonight.",
+    "options": ["does not lie", "did not lie", "not lying", "is not lying"],
+    "correctAnswer": "is not lying"
+  },
+  {
+    "question": "You _____ (not grow) nowadays.",
+    "options": ["not growing", "do not grow", "are not growing", "did not grow"],
+    "correctAnswer": "are not growing"
+  },
+  {
+    "question": "The wind _____ (not wear) tonight.",
+    "options": ["is not wearing", "not wearing", "did not wear", "does not wear"],
+    "correctAnswer": "is not wearing"
+  },
+  {
+    "question": "Someone _____ (not know) at the moment.",
+    "options": ["does not know", "is not knowing", "not knowing", "did not know"],
+    "correctAnswer": "is not knowing"
+  },
+  {
+    "question": "Someone _____ (not eat) currently.",
+    "options": ["is not eating", "did not eat", "does not eat", "not eating"],
+    "correctAnswer": "is not eating"
+  },
+  {
+    "question": "My friend _____ (not start) tonight.",
+    "options": ["did not start", "does not start", "is not starting", "not starting"],
+    "correctAnswer": "is not starting"
+  },
+  {
+    "question": "He _____ (not begin) today.",
+    "options": ["does not begin", "not beginning", "did not begin", "is not beginning"],
+    "correctAnswer": "is not beginning"
+  },
+  {
+    "question": "The girls _____ (not finish) at the moment.",
+    "options": ["did not finish", "not finishing", "do not finish", "are not finishing"],
+    "correctAnswer": "are not finishing"
+  },
+  {
+    "question": "They _____ (not end) this month.",
+    "options": ["not ending", "did not end", "do not end", "are not ending"],
+    "correctAnswer": "are not ending"
+  },
+  {
+    "question": "Someone _____ (not grow) today.",
+    "options": ["did not grow", "does not grow", "is not growing", "not growing"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "Nobody _____ (not break) today.",
+    "options": ["did not break", "not breaking", "does not break", "is not breaking"],
+    "correctAnswer": "is not breaking"
+  },
+  {
+    "question": "Mary and Tom _____ (not grow) this week.",
+    "options": ["do not grow", "did not grow", "not growing", "are not growing"],
+    "correctAnswer": "are not growing"
+  },
+  {
+    "question": "My friend _____ (not leave) at the moment.",
+    "options": ["not leaving", "did not leave", "does not leave", "is not leaving"],
+    "correctAnswer": "is not leaving"
+  },
+  {
+    "question": "Nobody _____ (not stop) this month.",
+    "options": ["did not stop", "not stopping", "does not stop", "is not stopping"],
+    "correctAnswer": "is not stopping"
+  },
+  {
+    "question": "He _____ (not jump) at the moment.",
+    "options": ["does not jump", "is not jumping", "did not jump", "not jumping"],
+    "correctAnswer": "is not jumping"
+  },
+  {
+    "question": "The wind _____ (not leave) nowadays.",
+    "options": ["does not leave", "did not leave", "is not leaving", "not leaving"],
+    "correctAnswer": "is not leaving"
+  },
+  {
+    "question": "The team _____ (not study) this week.",
+    "options": ["not studying", "is not studying", "did not study", "does not study"],
+    "correctAnswer": "is not studying"
+  },
+  {
+    "question": "The students _____ (not dance) tonight.",
+    "options": ["are not dancing", "not dancing", "do not dance", "did not dance"],
+    "correctAnswer": "are not dancing"
+  },
+  {
+    "question": "You _____ (not bring) today.",
+    "options": ["do not bring", "are not bringing", "did not bring", "not bringing"],
+    "correctAnswer": "are not bringing"
+  },
+  {
+    "question": "The boy _____ (not help) today.",
+    "options": ["is not helping", "does not help", "did not help", "not helping"],
+    "correctAnswer": "is not helping"
+  },
+  {
+    "question": "The boy _____ (not move) today.",
+    "options": ["did not move", "is not moving", "not moving", "does not move"],
+    "correctAnswer": "is not moving"
+  },
+  {
+    "question": "Everybody _____ (not wait) now.",
+    "options": ["not waiting", "did not wait", "is not waiting", "does not wait"],
+    "correctAnswer": "is not waiting"
+  },
+  {
+    "question": "The students _____ (not tell) this week.",
+    "options": ["are not telling", "do not tell", "not telling", "did not tell"],
+    "correctAnswer": "are not telling"
+  },
+  {
+    "question": "The boy _____ (not break) this week.",
+    "options": ["is not breaking", "does not break", "not breaking", "did not break"],
+    "correctAnswer": "is not breaking"
+  },
+  {
+    "question": "The students _____ (not sell) now.",
+    "options": ["are not selling", "did not sell", "not selling", "do not sell"],
+    "correctAnswer": "are not selling"
+  },
+  {
+    "question": "She _____ (not cry) this week.",
+    "options": ["did not cry", "is not crying", "not crying", "does not cry"],
+    "correctAnswer": "is not crying"
+  },
+  {
+    "question": "She _____ (not tell) currently.",
+    "options": ["not telling", "is not telling", "did not tell", "does not tell"],
+    "correctAnswer": "is not telling"
+  },
+  {
+    "question": "It _____ (not listen) currently.",
+    "options": ["did not listen", "not listening", "is not listening", "does not listen"],
+    "correctAnswer": "is not listening"
+  },
+  {
+    "question": "He _____ (not grow) right now.",
+    "options": ["does not grow", "is not growing", "not growing", "did not grow"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "They _____ (not stop) this week.",
+    "options": ["not stopping", "did not stop", "do not stop", "are not stopping"],
+    "correctAnswer": "are not stopping"
+  },
+  {
+    "question": "The cat _____ (not call) tonight.",
+    "options": ["did not call", "not calling", "does not call", "is not calling"],
+    "correctAnswer": "is not calling"
+  },
+  {
+    "question": "You _____ (not hold) nowadays.",
+    "options": ["did not hold", "do not hold", "not holding", "are not holding"],
+    "correctAnswer": "are not holding"
+  },
+  {
+    "question": "Nobody _____ (not show) this month.",
+    "options": ["not showing", "did not show", "is not showing", "does not show"],
+    "correctAnswer": "is not showing"
+  },
+  {
+    "question": "Nobody _____ (not sit) tonight.",
+    "options": ["does not sit", "not sitting", "did not sit", "is not sitting"],
+    "correctAnswer": "is not sitting"
+  },
+  {
+    "question": "The students _____ (not dance) this week.",
+    "options": ["do not dance", "did not dance", "not dancing", "are not dancing"],
+    "correctAnswer": "are not dancing"
+  },
+  {
+    "question": "John _____ (not stand) currently.",
+    "options": ["not standing", "is not standing", "does not stand", "did not stand"],
+    "correctAnswer": "is not standing"
+  },
+  {
+    "question": "They _____ (not keep) currently.",
+    "options": ["not keeping", "do not keep", "are not keeping", "did not keep"],
+    "correctAnswer": "are not keeping"
+  },
+  {
+    "question": "The girls _____ (not ride) right now.",
+    "options": ["do not ride", "did not ride", "are not riding", "not riding"],
+    "correctAnswer": "are not riding"
+  },
+  {
+    "question": "You _____ (not fix) now.",
+    "options": ["do not fix", "are not fixing", "did not fix", "not fixing"],
+    "correctAnswer": "are not fixing"
+  },
+  {
+    "question": "John _____ (not clean) tonight.",
+    "options": ["is not cleaning", "not cleaning", "does not clean", "did not clean"],
+    "correctAnswer": "is not cleaning"
+  },
+  {
+    "question": "The cat _____ (not know) this month.",
+    "options": ["is not knowing", "did not know", "does not know", "not knowing"],
+    "correctAnswer": "is not knowing"
+  },
+  {
+    "question": "Nobody _____ (not grow) nowadays.",
+    "options": ["is not growing", "did not grow", "does not grow", "not growing"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "Mary and Tom _____ (not open) this month.",
+    "options": ["did not open", "are not opening", "not opening", "do not open"],
+    "correctAnswer": "are not opening"
+  },
+  {
+    "question": "The boy _____ (not laugh) now.",
+    "options": ["did not laugh", "is not laughing", "not laughing", "does not laugh"],
+    "correctAnswer": "is not laughing"
+  },
+  {
+    "question": "The boy _____ (not play) now.",
+    "options": ["does not play", "is not playing", "did not play", "not playing"],
+    "correctAnswer": "is not playing"
+  },
+  {
+    "question": "The boy _____ (not try) this month.",
+    "options": ["not trying", "did not try", "is not trying", "does not try"],
+    "correctAnswer": "is not trying"
+  },
+  {
+    "question": "Mary and Tom _____ (not open) this week.",
+    "options": ["do not open", "not opening", "did not open", "are not opening"],
+    "correctAnswer": "are not opening"
+  },
+  {
+    "question": "The cat _____ (not finish) currently.",
+    "options": ["did not finish", "does not finish", "not finishing", "is not finishing"],
+    "correctAnswer": "is not finishing"
+  },
+  {
+    "question": "We _____ (not begin) nowadays.",
+    "options": ["are not beginning", "did not begin", "do not begin", "not beginning"],
+    "correctAnswer": "are not beginning"
+  },
+  {
+    "question": "Mary and Tom _____ (not bring) this month.",
+    "options": ["do not bring", "are not bringing", "did not bring", "not bringing"],
+    "correctAnswer": "are not bringing"
+  },
+  {
+    "question": "Someone _____ (not send) at the moment.",
+    "options": ["did not send", "does not send", "is not sending", "not sending"],
+    "correctAnswer": "is not sending"
+  },
+  {
+    "question": "They _____ (not draw) today.",
+    "options": ["do not draw", "did not draw", "are not drawing", "not drawing"],
+    "correctAnswer": "are not drawing"
+  },
+  {
+    "question": "Everybody _____ (not paint) tonight.",
+    "options": ["not painting", "is not painting", "does not paint", "did not paint"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "Nobody _____ (not answer) at the moment.",
+    "options": ["does not answer", "did not answer", "not answering", "is not answering"],
+    "correctAnswer": "is not answering"
+  },
+  {
+    "question": "Someone _____ (not cut) this week.",
+    "options": ["is not cutting", "not cutting", "did not cut", "does not cut"],
+    "correctAnswer": "is not cutting"
+  },
+  {
+    "question": "Everybody _____ (not leave) tonight.",
+    "options": ["is not leaving", "does not leave", "not leaving", "did not leave"],
+    "correctAnswer": "is not leaving"
+  },
+  {
+    "question": "The girls _____ (not lie) today.",
+    "options": ["not lying", "did not lie", "are not lying", "do not lie"],
+    "correctAnswer": "are not lying"
+  },
+  {
+    "question": "The students _____ (not learn) at the moment.",
+    "options": ["do not learn", "are not learning", "did not learn", "not learning"],
+    "correctAnswer": "are not learning"
+  },
+  {
+    "question": "It _____ (not dance) at the moment.",
+    "options": ["is not dancing", "not dancing", "does not dance", "did not dance"],
+    "correctAnswer": "is not dancing"
+  },
+  {
+    "question": "The students _____ (not cook) right now.",
+    "options": ["are not cooking", "do not cook", "not cooking", "did not cook"],
+    "correctAnswer": "are not cooking"
+  },
+  {
+    "question": "The girls _____ (not fly) this month.",
+    "options": ["did not fly", "not flying", "are not flying", "do not fly"],
+    "correctAnswer": "are not flying"
+  },
+  {
+    "question": "My parents _____ (not move) today.",
+    "options": ["did not move", "do not move", "are not moving", "not moving"],
+    "correctAnswer": "are not moving"
+  },
+  {
+    "question": "Mary and Tom _____ (not take) tonight.",
+    "options": ["did not take", "are not taking", "not taking", "do not take"],
+    "correctAnswer": "are not taking"
+  },
+  {
+    "question": "The wind _____ (not talk) at the moment.",
+    "options": ["did not talk", "not talking", "does not talk", "is not talking"],
+    "correctAnswer": "is not talking"
+  },
+  {
+    "question": "The boy _____ (not jump) at the moment.",
+    "options": ["is not jumping", "does not jump", "did not jump", "not jumping"],
+    "correctAnswer": "is not jumping"
+  },
+  {
+    "question": "My parents _____ (not leave) tonight.",
+    "options": ["did not leave", "do not leave", "not leaving", "are not leaving"],
+    "correctAnswer": "are not leaving"
+  },
+  {
+    "question": "The team _____ (not begin) tonight.",
+    "options": ["not beginning", "is not beginning", "does not begin", "did not begin"],
+    "correctAnswer": "is not beginning"
+  },
+  {
+    "question": "He _____ (not teach) nowadays.",
+    "options": ["does not teach", "did not teach", "not teaching", "is not teaching"],
+    "correctAnswer": "is not teaching"
+  },
+  {
+    "question": "The boy _____ (not sit) nowadays.",
+    "options": ["not sitting", "did not sit", "does not sit", "is not sitting"],
+    "correctAnswer": "is not sitting"
+  },
+  {
+    "question": "John _____ (not fall) now.",
+    "options": ["does not fall", "not falling", "is not falling", "did not fall"],
+    "correctAnswer": "is not falling"
+  },
+  {
+    "question": "Mary and Tom _____ (not break) nowadays.",
+    "options": ["did not break", "are not breaking", "not breaking", "do not break"],
+    "correctAnswer": "are not breaking"
+  },
+  {
+    "question": "The cat _____ (not teach) tonight.",
+    "options": ["is not teaching", "does not teach", "did not teach", "not teaching"],
+    "correctAnswer": "is not teaching"
+  },
+  {
+    "question": "The students _____ (not learn) now.",
+    "options": ["do not learn", "did not learn", "not learning", "are not learning"],
+    "correctAnswer": "are not learning"
+  },
+  {
+    "question": "She _____ (not watch) today.",
+    "options": ["does not watch", "is not watching", "did not watch", "not watching"],
+    "correctAnswer": "is not watching"
+  },
+  {
+    "question": "Nobody _____ (not jump) at the moment.",
+    "options": ["did not jump", "is not jumping", "not jumping", "does not jump"],
+    "correctAnswer": "is not jumping"
+  },
+  {
+    "question": "John _____ (not close) currently.",
+    "options": ["is not closing", "does not close", "not closing", "did not close"],
+    "correctAnswer": "is not closing"
+  },
+  {
+    "question": "My friend _____ (not move) this month.",
+    "options": ["did not move", "does not move", "not moving", "is not moving"],
+    "correctAnswer": "is not moving"
+  },
+  {
+    "question": "They _____ (not give) at the moment.",
+    "options": ["are not giving", "do not give", "did not give", "not giving"],
+    "correctAnswer": "are not giving"
+  },
+  {
+    "question": "The cat _____ (not watch) this month.",
+    "options": ["does not watch", "is not watching", "not watching", "did not watch"],
+    "correctAnswer": "is not watching"
+  },
+  {
+    "question": "The girls _____ (not study) this week.",
+    "options": ["not studying", "do not study", "are not studying", "did not study"],
+    "correctAnswer": "are not studying"
+  },
+  {
+    "question": "It _____ (not sell) now.",
+    "options": ["not selling", "is not selling", "does not sell", "did not sell"],
+    "correctAnswer": "is not selling"
+  },
+  {
+    "question": "John _____ (not choose) right now.",
+    "options": ["is not choosing", "not choosing", "does not choose", "did not choose"],
+    "correctAnswer": "is not choosing"
+  },
+  {
+    "question": "Everybody _____ (not give) at the moment.",
+    "options": ["is not giving", "not giving", "did not give", "does not give"],
+    "correctAnswer": "is not giving"
+  },
+  {
+    "question": "Everybody _____ (not fly) nowadays.",
+    "options": ["is not flying", "not flying", "did not fly", "does not fly"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "She _____ (not talk) at the moment.",
+    "options": ["did not talk", "does not talk", "is not talking", "not talking"],
+    "correctAnswer": "is not talking"
+  },
+  {
+    "question": "The wind _____ (not take) this week.",
+    "options": ["not taking", "did not take", "is not taking", "does not take"],
+    "correctAnswer": "is not taking"
+  },
+  {
+    "question": "Everybody _____ (not buy) now.",
+    "options": ["did not buy", "not buying", "does not buy", "is not buying"],
+    "correctAnswer": "is not buying"
+  },
+  {
+    "question": "The team _____ (not break) at the moment.",
+    "options": ["is not breaking", "did not break", "does not break", "not breaking"],
+    "correctAnswer": "is not breaking"
+  },
+  {
+    "question": "The girls _____ (not hold) currently.",
+    "options": ["not holding", "did not hold", "do not hold", "are not holding"],
+    "correctAnswer": "are not holding"
+  },
+  {
+    "question": "Everybody _____ (not close) this week.",
+    "options": ["does not close", "did not close", "not closing", "is not closing"],
+    "correctAnswer": "is not closing"
+  },
+  {
+    "question": "My friend _____ (not understand) this month.",
+    "options": ["did not understand", "not understanding", "is not understanding", "does not understand"],
+    "correctAnswer": "is not understanding"
+  },
+  {
+    "question": "The boy _____ (not listen) right now.",
+    "options": ["did not listen", "does not listen", "is not listening", "not listening"],
+    "correctAnswer": "is not listening"
+  },
+  {
+    "question": "It _____ (not arrive) this week.",
+    "options": ["did not arrive", "does not arrive", "is not arriving", "not arriving"],
+    "correctAnswer": "is not arriving"
+  },
+  {
+    "question": "We _____ (not wear) today.",
+    "options": ["did not wear", "not wearing", "do not wear", "are not wearing"],
+    "correctAnswer": "are not wearing"
+  },
+  {
+    "question": "The cat _____ (not teach) this month.",
+    "options": ["is not teaching", "did not teach", "not teaching", "does not teach"],
+    "correctAnswer": "is not teaching"
+  },
+  {
+    "question": "My parents _____ (not break) right now.",
+    "options": ["are not breaking", "not breaking", "do not break", "did not break"],
+    "correctAnswer": "are not breaking"
+  },
+  {
+    "question": "It _____ (not happen) at the moment.",
+    "options": ["not happening", "is not happening", "did not happen", "does not happen"],
+    "correctAnswer": "is not happening"
+  },
+  {
+    "question": "John _____ (not end) today.",
+    "options": ["does not end", "not ending", "did not end", "is not ending"],
+    "correctAnswer": "is not ending"
+  },
+  {
+    "question": "Mary and Tom _____ (not start) currently.",
+    "options": ["are not starting", "do not start", "not starting", "did not start"],
+    "correctAnswer": "are not starting"
+  },
+  {
+    "question": "The boy _____ (not learn) now.",
+    "options": ["is not learning", "does not learn", "not learning", "did not learn"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "Nobody _____ (not think) right now.",
+    "options": ["not thinking", "is not thinking", "does not think", "did not think"],
+    "correctAnswer": "is not thinking"
+  },
+  {
+    "question": "The girls _____ (not jump) today.",
+    "options": ["are not jumping", "did not jump", "do not jump", "not jumping"],
+    "correctAnswer": "are not jumping"
+  },
+  {
+    "question": "My friend _____ (not laugh) today.",
+    "options": ["does not laugh", "did not laugh", "is not laughing", "not laughing"],
+    "correctAnswer": "is not laughing"
+  },
+  {
+    "question": "Someone _____ (not fall) nowadays.",
+    "options": ["not falling", "does not fall", "is not falling", "did not fall"],
+    "correctAnswer": "is not falling"
+  },
+  {
+    "question": "The girls _____ (not break) at the moment.",
+    "options": ["not breaking", "do not break", "did not break", "are not breaking"],
+    "correctAnswer": "are not breaking"
+  },
+  {
+    "question": "Everybody _____ (not open) this week.",
+    "options": ["not opening", "does not open", "is not opening", "did not open"],
+    "correctAnswer": "is not opening"
+  },
+  {
+    "question": "It _____ (not stand) nowadays.",
+    "options": ["not standing", "is not standing", "did not stand", "does not stand"],
+    "correctAnswer": "is not standing"
+  },
+  {
+    "question": "The cat _____ (not break) today.",
+    "options": ["did not break", "not breaking", "does not break", "is not breaking"],
+    "correctAnswer": "is not breaking"
+  },
+  {
+    "question": "You _____ (not close) nowadays.",
+    "options": ["do not close", "are not closing", "did not close", "not closing"],
+    "correctAnswer": "are not closing"
+  },
+  {
+    "question": "Mary and Tom _____ (not smile) nowadays.",
+    "options": ["do not smile", "did not smile", "are not smiling", "not smiling"],
+    "correctAnswer": "are not smiling"
+  },
+  {
+    "question": "Mary and Tom _____ (not swim) tonight.",
+    "options": ["do not swim", "are not swimming", "did not swim", "not swimming"],
+    "correctAnswer": "are not swimming"
+  },
+  {
+    "question": "Nobody _____ (not dance) now.",
+    "options": ["did not dance", "not dancing", "is not dancing", "does not dance"],
+    "correctAnswer": "is not dancing"
+  },
+  {
+    "question": "You _____ (not learn) now.",
+    "options": ["are not learning", "did not learn", "do not learn", "not learning"],
+    "correctAnswer": "are not learning"
+  },
+  {
+    "question": "The boy _____ (not learn) at the moment.",
+    "options": ["is not learning", "not learning", "did not learn", "does not learn"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "The cat _____ (not cook) at the moment.",
+    "options": ["did not cook", "is not cooking", "does not cook", "not cooking"],
+    "correctAnswer": "is not cooking"
+  },
+  {
+    "question": "He _____ (not move) now.",
+    "options": ["did not move", "is not moving", "not moving", "does not move"],
+    "correctAnswer": "is not moving"
+  },
+  {
+    "question": "He _____ (not smile) tonight.",
+    "options": ["did not smile", "not smiling", "is not smiling", "does not smile"],
+    "correctAnswer": "is not smiling"
+  },
+  {
+    "question": "The cat _____ (not ask) currently.",
+    "options": ["not asking", "did not ask", "is not asking", "does not ask"],
+    "correctAnswer": "is not asking"
+  },
+  {
+    "question": "Nobody _____ (not find) right now.",
+    "options": ["does not find", "did not find", "is not finding", "not finding"],
+    "correctAnswer": "is not finding"
+  },
+  {
+    "question": "John _____ (not travel) now.",
+    "options": ["does not travel", "did not travel", "not travelling", "is not travelling"],
+    "correctAnswer": "is not travelling"
+  },
+  {
+    "question": "John _____ (not paint) tonight.",
+    "options": ["not painting", "is not painting", "does not paint", "did not paint"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "The boy _____ (not paint) now.",
+    "options": ["is not painting", "did not paint", "does not paint", "not painting"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "Nobody _____ (not cut) at the moment.",
+    "options": ["did not cut", "is not cutting", "not cutting", "does not cut"],
+    "correctAnswer": "is not cutting"
+  },
+  {
+    "question": "I _____ (not bring) nowadays.",
+    "options": ["am not bringing", "do not bring", "did not bring", "not bringing"],
+    "correctAnswer": "am not bringing"
+  },
+  {
+    "question": "The girls _____ (not call) this week.",
+    "options": ["do not call", "are not calling", "did not call", "not calling"],
+    "correctAnswer": "are not calling"
+  },
+  {
+    "question": "John _____ (not draw) today.",
+    "options": ["does not draw", "not drawing", "is not drawing", "did not draw"],
+    "correctAnswer": "is not drawing"
+  },
+  {
+    "question": "You _____ (not study) this week.",
+    "options": ["did not study", "not studying", "are not studying", "do not study"],
+    "correctAnswer": "are not studying"
+  },
+  {
+    "question": "The cat _____ (not lose) now.",
+    "options": ["is not losing", "does not lose", "did not lose", "not losing"],
+    "correctAnswer": "is not losing"
+  },
+  {
+    "question": "John _____ (not begin) right now.",
+    "options": ["does not begin", "is not beginning", "did not begin", "not beginning"],
+    "correctAnswer": "is not beginning"
+  },
+  {
+    "question": "My friend _____ (not stay) at the moment.",
+    "options": ["not staying", "did not stay", "is not staying", "does not stay"],
+    "correctAnswer": "is not staying"
+  },
+  {
+    "question": "The boy _____ (not visit) this week.",
+    "options": ["did not visit", "does not visit", "is not visiting", "not visiting"],
+    "correctAnswer": "is not visiting"
+  },
+  {
+    "question": "You _____ (not fall) this week.",
+    "options": ["not falling", "are not falling", "do not fall", "did not fall"],
+    "correctAnswer": "are not falling"
+  },
+  {
+    "question": "The girls _____ (not tell) right now.",
+    "options": ["do not tell", "not telling", "are not telling", "did not tell"],
+    "correctAnswer": "are not telling"
+  },
+  {
+    "question": "The girls _____ (not cry) now.",
+    "options": ["not crying", "are not crying", "did not cry", "do not cry"],
+    "correctAnswer": "are not crying"
+  },
+  {
+    "question": "My friend _____ (not ride) nowadays.",
+    "options": ["not riding", "is not riding", "did not ride", "does not ride"],
+    "correctAnswer": "is not riding"
+  },
+  {
+    "question": "I _____ (not drive) today.",
+    "options": ["am not driving", "not driving", "did not drive", "do not drive"],
+    "correctAnswer": "am not driving"
+  },
+  {
+    "question": "The girls _____ (not take) currently.",
+    "options": ["did not take", "are not taking", "do not take", "not taking"],
+    "correctAnswer": "are not taking"
+  },
+  {
+    "question": "We _____ (not end) nowadays.",
+    "options": ["did not end", "do not end", "not ending", "are not ending"],
+    "correctAnswer": "are not ending"
+  },
+  {
+    "question": "The wind _____ (not cook) now.",
+    "options": ["does not cook", "is not cooking", "did not cook", "not cooking"],
+    "correctAnswer": "is not cooking"
+  },
+  {
+    "question": "The girls _____ (not watch) this month.",
+    "options": ["are not watching", "not watching", "did not watch", "do not watch"],
+    "correctAnswer": "are not watching"
+  },
+  {
+    "question": "Nobody _____ (not happen) this week.",
+    "options": ["does not happen", "not happening", "did not happen", "is not happening"],
+    "correctAnswer": "is not happening"
+  },
+  {
+    "question": "You _____ (not ask) this week.",
+    "options": ["do not ask", "are not asking", "did not ask", "not asking"],
+    "correctAnswer": "are not asking"
+  },
+  {
+    "question": "The students _____ (not wait) tonight.",
+    "options": ["did not wait", "not waiting", "do not wait", "are not waiting"],
+    "correctAnswer": "are not waiting"
+  },
+  {
+    "question": "We _____ (not dance) today.",
+    "options": ["not dancing", "did not dance", "do not dance", "are not dancing"],
+    "correctAnswer": "are not dancing"
+  },
+  {
+    "question": "My friend _____ (not talk) right now.",
+    "options": ["not talking", "did not talk", "is not talking", "does not talk"],
+    "correctAnswer": "is not talking"
+  },
+  {
+    "question": "John _____ (not buy) nowadays.",
+    "options": ["not buying", "did not buy", "does not buy", "is not buying"],
+    "correctAnswer": "is not buying"
+  },
+  {
+    "question": "The wind _____ (not eat) right now.",
+    "options": ["is not eating", "does not eat", "not eating", "did not eat"],
+    "correctAnswer": "is not eating"
+  },
+  {
+    "question": "We _____ (not receive) this week.",
+    "options": ["did not receive", "are not receiving", "do not receive", "not receiving"],
+    "correctAnswer": "are not receiving"
+  },
+  {
+    "question": "My friend _____ (not watch) this week.",
+    "options": ["does not watch", "not watching", "did not watch", "is not watching"],
+    "correctAnswer": "is not watching"
+  },
+  {
+    "question": "The team _____ (not fly) right now.",
+    "options": ["does not fly", "did not fly", "is not flying", "not flying"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "The students _____ (not fix) today.",
+    "options": ["not fixing", "are not fixing", "did not fix", "do not fix"],
+    "correctAnswer": "are not fixing"
+  },
+  {
+    "question": "The boy _____ (not fly) at the moment.",
+    "options": ["does not fly", "did not fly", "is not flying", "not flying"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "John _____ (not cry) this month.",
+    "options": ["did not cry", "does not cry", "is not crying", "not crying"],
+    "correctAnswer": "is not crying"
+  },
+  {
+    "question": "The girls _____ (not write) currently.",
+    "options": ["do not write", "did not write", "not writing", "are not writing"],
+    "correctAnswer": "are not writing"
+  },
+  {
+    "question": "My parents _____ (not play) right now.",
+    "options": ["did not play", "not playing", "are not playing", "do not play"],
+    "correctAnswer": "are not playing"
+  },
+  {
+    "question": "John _____ (not lose) this week.",
+    "options": ["does not lose", "did not lose", "is not losing", "not losing"],
+    "correctAnswer": "is not losing"
+  },
+  {
+    "question": "Mary and Tom _____ (not fix) tonight.",
+    "options": ["do not fix", "are not fixing", "not fixing", "did not fix"],
+    "correctAnswer": "are not fixing"
+  },
+  {
+    "question": "They _____ (not help) currently.",
+    "options": ["did not help", "are not helping", "do not help", "not helping"],
+    "correctAnswer": "are not helping"
+  },
+  {
+    "question": "He _____ (not happen) this month.",
+    "options": ["not happening", "does not happen", "did not happen", "is not happening"],
+    "correctAnswer": "is not happening"
+  },
+  {
+    "question": "You _____ (not finish) now.",
+    "options": ["did not finish", "not finishing", "do not finish", "are not finishing"],
+    "correctAnswer": "are not finishing"
+  },
+  {
+    "question": "My friend _____ (not cry) currently.",
+    "options": ["does not cry", "did not cry", "not crying", "is not crying"],
+    "correctAnswer": "is not crying"
+  },
+  {
+    "question": "The girls _____ (not clean) now.",
+    "options": ["did not clean", "do not clean", "are not cleaning", "not cleaning"],
+    "correctAnswer": "are not cleaning"
+  },
+  {
+    "question": "She _____ (not laugh) at the moment.",
+    "options": ["not laughing", "is not laughing", "did not laugh", "does not laugh"],
+    "correctAnswer": "is not laughing"
+  },
+  {
+    "question": "He _____ (not choose) nowadays.",
+    "options": ["is not choosing", "does not choose", "not choosing", "did not choose"],
+    "correctAnswer": "is not choosing"
+  },
+  {
+    "question": "It _____ (not wear) currently.",
+    "options": ["does not wear", "not wearing", "is not wearing", "did not wear"],
+    "correctAnswer": "is not wearing"
+  },
+  {
+    "question": "She _____ (not keep) nowadays.",
+    "options": ["did not keep", "does not keep", "not keeping", "is not keeping"],
+    "correctAnswer": "is not keeping"
+  },
+  {
+    "question": "Nobody _____ (not bring) this week.",
+    "options": ["not bringing", "did not bring", "is not bringing", "does not bring"],
+    "correctAnswer": "is not bringing"
+  },
+  {
+    "question": "She _____ (not bring) this month.",
+    "options": ["is not bringing", "not bringing", "did not bring", "does not bring"],
+    "correctAnswer": "is not bringing"
+  },
+  {
+    "question": "The team _____ (not buy) currently.",
+    "options": ["does not buy", "is not buying", "not buying", "did not buy"],
+    "correctAnswer": "is not buying"
+  },
+  {
+    "question": "The wind _____ (not listen) today.",
+    "options": ["did not listen", "is not listening", "does not listen", "not listening"],
+    "correctAnswer": "is not listening"
+  },
+  {
+    "question": "The wind _____ (not play) right now.",
+    "options": ["did not play", "does not play", "is not playing", "not playing"],
+    "correctAnswer": "is not playing"
+  },
+  {
+    "question": "Someone _____ (not leave) this month.",
+    "options": ["did not leave", "is not leaving", "does not leave", "not leaving"],
+    "correctAnswer": "is not leaving"
+  },
+  {
+    "question": "John _____ (not paint) nowadays.",
+    "options": ["is not painting", "not painting", "does not paint", "did not paint"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "Nobody _____ (not open) this month.",
+    "options": ["did not open", "does not open", "is not opening", "not opening"],
+    "correctAnswer": "is not opening"
+  },
+  {
+    "question": "Someone _____ (not forget) now.",
+    "options": ["did not forget", "does not forget", "is not forgetting", "not forgetting"],
+    "correctAnswer": "is not forgetting"
+  },
+  {
+    "question": "He _____ (not choose) today.",
+    "options": ["not choosing", "did not choose", "does not choose", "is not choosing"],
+    "correctAnswer": "is not choosing"
+  },
+  {
+    "question": "The cat _____ (not travel) right now.",
+    "options": ["does not travel", "did not travel", "not travelling", "is not travelling"],
+    "correctAnswer": "is not travelling"
+  },
+  {
+    "question": "John _____ (not fly) right now.",
+    "options": ["is not flying", "did not fly", "not flying", "does not fly"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "I _____ (not work) this week.",
+    "options": ["do not work", "did not work", "am not working", "not working"],
+    "correctAnswer": "am not working"
+  },
+  {
+    "question": "Someone _____ (not play) right now.",
+    "options": ["did not play", "not playing", "does not play", "is not playing"],
+    "correctAnswer": "is not playing"
+  },
+  {
+    "question": "My friend _____ (not wear) this week.",
+    "options": ["is not wearing", "does not wear", "not wearing", "did not wear"],
+    "correctAnswer": "is not wearing"
+  },
+  {
+    "question": "My parents _____ (not take) right now.",
+    "options": ["did not take", "do not take", "are not taking", "not taking"],
+    "correctAnswer": "are not taking"
+  },
+  {
+    "question": "I _____ (not sit) nowadays.",
+    "options": ["do not sit", "did not sit", "am not sitting", "not sitting"],
+    "correctAnswer": "am not sitting"
+  },
+  {
+    "question": "The girls _____ (not talk) right now.",
+    "options": ["not talking", "are not talking", "do not talk", "did not talk"],
+    "correctAnswer": "are not talking"
+  },
+  {
+    "question": "I _____ (not tell) now.",
+    "options": ["do not tell", "am not telling", "did not tell", "not telling"],
+    "correctAnswer": "am not telling"
+  },
+  {
+    "question": "The girls _____ (not buy) now.",
+    "options": ["did not buy", "not buying", "are not buying", "do not buy"],
+    "correctAnswer": "are not buying"
+  },
+  {
+    "question": "Mary and Tom _____ (not sing) nowadays.",
+    "options": ["are not singing", "do not sing", "did not sing", "not singing"],
+    "correctAnswer": "are not singing"
+  },
+  {
+    "question": "The team _____ (not remember) at the moment.",
+    "options": ["did not remember", "does not remember", "not remembering", "is not remembering"],
+    "correctAnswer": "is not remembering"
+  },
+  {
+    "question": "The cat _____ (not learn) today.",
+    "options": ["is not learning", "does not learn", "did not learn", "not learning"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "Someone _____ (not write) today.",
+    "options": ["does not write", "is not writing", "did not write", "not writing"],
+    "correctAnswer": "is not writing"
+  },
+  {
+    "question": "The cat _____ (not work) today.",
+    "options": ["is not working", "did not work", "does not work", "not working"],
+    "correctAnswer": "is not working"
+  },
+  {
+    "question": "He _____ (not bring) this week.",
+    "options": ["did not bring", "does not bring", "not bringing", "is not bringing"],
+    "correctAnswer": "is not bringing"
+  },
+  {
+    "question": "Nobody _____ (not happen) currently.",
+    "options": ["does not happen", "is not happening", "not happening", "did not happen"],
+    "correctAnswer": "is not happening"
+  },
+  {
+    "question": "He _____ (not begin) right now.",
+    "options": ["not beginning", "is not beginning", "did not begin", "does not begin"],
+    "correctAnswer": "is not beginning"
+  },
+  {
+    "question": "The team _____ (not listen) right now.",
+    "options": ["does not listen", "is not listening", "did not listen", "not listening"],
+    "correctAnswer": "is not listening"
+  },
+  {
+    "question": "The team _____ (not clean) today.",
+    "options": ["did not clean", "not cleaning", "does not clean", "is not cleaning"],
+    "correctAnswer": "is not cleaning"
+  },
+  {
+    "question": "My parents _____ (not lose) nowadays.",
+    "options": ["not losing", "are not losing", "do not lose", "did not lose"],
+    "correctAnswer": "are not losing"
+  },
+  {
+    "question": "He _____ (not fly) this week.",
+    "options": ["did not fly", "not flying", "does not fly", "is not flying"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "The cat _____ (not cut) this week.",
+    "options": ["not cutting", "did not cut", "does not cut", "is not cutting"],
+    "correctAnswer": "is not cutting"
+  },
+  {
+    "question": "He _____ (not smile) nowadays.",
+    "options": ["not smiling", "does not smile", "did not smile", "is not smiling"],
+    "correctAnswer": "is not smiling"
+  },
+  {
+    "question": "It _____ (not remember) right now.",
+    "options": ["does not remember", "not remembering", "is not remembering", "did not remember"],
+    "correctAnswer": "is not remembering"
+  },
+  {
+    "question": "Everybody _____ (not buy) this month.",
+    "options": ["did not buy", "does not buy", "is not buying", "not buying"],
+    "correctAnswer": "is not buying"
+  },
+  {
+    "question": "Everybody _____ (not learn) nowadays.",
+    "options": ["not learning", "is not learning", "did not learn", "does not learn"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "My parents _____ (not stop) at the moment.",
+    "options": ["did not stop", "do not stop", "are not stopping", "not stopping"],
+    "correctAnswer": "are not stopping"
+  },
+  {
+    "question": "John _____ (not show) now.",
+    "options": ["did not show", "does not show", "is not showing", "not showing"],
+    "correctAnswer": "is not showing"
+  },
+  {
+    "question": "We _____ (not cook) nowadays.",
+    "options": ["not cooking", "are not cooking", "do not cook", "did not cook"],
+    "correctAnswer": "are not cooking"
+  },
+  {
+    "question": "The wind _____ (not drive) today.",
+    "options": ["is not driving", "not driving", "did not drive", "does not drive"],
+    "correctAnswer": "is not driving"
+  },
+  {
+    "question": "Someone _____ (not paint) this week.",
+    "options": ["is not painting", "not painting", "does not paint", "did not paint"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "You _____ (not show) at the moment.",
+    "options": ["do not show", "are not showing", "not showing", "did not show"],
+    "correctAnswer": "are not showing"
+  },
+  {
+    "question": "My parents _____ (not teach) at the moment.",
+    "options": ["do not teach", "did not teach", "not teaching", "are not teaching"],
+    "correctAnswer": "are not teaching"
+  },
+  {
+    "question": "You _____ (not watch) right now.",
+    "options": ["are not watching", "did not watch", "not watching", "do not watch"],
+    "correctAnswer": "are not watching"
+  },
+  {
+    "question": "You _____ (not learn) at the moment.",
+    "options": ["not learning", "did not learn", "are not learning", "do not learn"],
+    "correctAnswer": "are not learning"
+  },
+  {
+    "question": "My friend _____ (not paint) at the moment.",
+    "options": ["is not painting", "not painting", "does not paint", "did not paint"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "We _____ (not answer) currently.",
+    "options": ["do not answer", "did not answer", "are not answering", "not answering"],
+    "correctAnswer": "are not answering"
+  },
+  {
+    "question": "John _____ (not build) this month.",
+    "options": ["not building", "did not build", "is not building", "does not build"],
+    "correctAnswer": "is not building"
+  },
+  {
+    "question": "Mary and Tom _____ (not cry) nowadays.",
+    "options": ["are not crying", "do not cry", "not crying", "did not cry"],
+    "correctAnswer": "are not crying"
+  },
+  {
+    "question": "The team _____ (not ask) today.",
+    "options": ["did not ask", "is not asking", "not asking", "does not ask"],
+    "correctAnswer": "is not asking"
+  },
+  {
+    "question": "The team _____ (not wear) nowadays.",
+    "options": ["not wearing", "did not wear", "is not wearing", "does not wear"],
+    "correctAnswer": "is not wearing"
+  },
+  {
+    "question": "The wind _____ (not draw) currently.",
+    "options": ["does not draw", "not drawing", "did not draw", "is not drawing"],
+    "correctAnswer": "is not drawing"
+  },
+  {
+    "question": "The team _____ (not listen) this month.",
+    "options": ["is not listening", "did not listen", "does not listen", "not listening"],
+    "correctAnswer": "is not listening"
+  },
+  {
+    "question": "They _____ (not visit) currently.",
+    "options": ["do not visit", "did not visit", "are not visiting", "not visiting"],
+    "correctAnswer": "are not visiting"
+  },
+  {
+    "question": "It _____ (not remember) tonight.",
+    "options": ["is not remembering", "did not remember", "does not remember", "not remembering"],
+    "correctAnswer": "is not remembering"
+  },
+  {
+    "question": "The boy _____ (not build) currently.",
+    "options": ["does not build", "did not build", "not building", "is not building"],
+    "correctAnswer": "is not building"
+  },
+  {
+    "question": "She _____ (not receive) tonight.",
+    "options": ["not receiving", "does not receive", "is not receiving", "did not receive"],
+    "correctAnswer": "is not receiving"
+  },
+  {
+    "question": "You _____ (not move) now.",
+    "options": ["do not move", "did not move", "not moving", "are not moving"],
+    "correctAnswer": "are not moving"
+  },
+  {
+    "question": "My parents _____ (not arrive) at the moment.",
+    "options": ["did not arrive", "not arriving", "are not arriving", "do not arrive"],
+    "correctAnswer": "are not arriving"
+  },
+  {
+    "question": "Nobody _____ (not read) this week.",
+    "options": ["does not read", "is not reading", "did not read", "not reading"],
+    "correctAnswer": "is not reading"
+  },
+  {
+    "question": "My friend _____ (not work) now.",
+    "options": ["does not work", "is not working", "not working", "did not work"],
+    "correctAnswer": "is not working"
+  },
+  {
+    "question": "The girls _____ (not travel) right now.",
+    "options": ["not travelling", "do not travel", "are not travelling", "did not travel"],
+    "correctAnswer": "are not travelling"
+  },
+  {
+    "question": "The girls _____ (not paint) right now.",
+    "options": ["are not painting", "do not paint", "did not paint", "not painting"],
+    "correctAnswer": "are not painting"
+  },
+  {
+    "question": "The students _____ (not bring) currently.",
+    "options": ["not bringing", "did not bring", "do not bring", "are not bringing"],
+    "correctAnswer": "are not bringing"
+  },
+  {
+    "question": "I _____ (not teach) now.",
+    "options": ["do not teach", "did not teach", "am not teaching", "not teaching"],
+    "correctAnswer": "am not teaching"
+  },
+  {
+    "question": "Everybody _____ (not hold) currently.",
+    "options": ["does not hold", "did not hold", "is not holding", "not holding"],
+    "correctAnswer": "is not holding"
+  },
+  {
+    "question": "The girls _____ (not happen) now.",
+    "options": ["did not happen", "are not happening", "do not happen", "not happening"],
+    "correctAnswer": "are not happening"
+  },
+  {
+    "question": "The boy _____ (not leave) now.",
+    "options": ["did not leave", "not leaving", "does not leave", "is not leaving"],
+    "correctAnswer": "is not leaving"
+  },
+  {
+    "question": "John _____ (not ride) this month.",
+    "options": ["does not ride", "did not ride", "is not riding", "not riding"],
+    "correctAnswer": "is not riding"
+  },
+  {
+    "question": "We _____ (not understand) currently.",
+    "options": ["are not understanding", "do not understand", "did not understand", "not understanding"],
+    "correctAnswer": "are not understanding"
+  },
+  {
+    "question": "We _____ (not try) right now.",
+    "options": ["not trying", "do not try", "did not try", "are not trying"],
+    "correctAnswer": "are not trying"
+  },
+  {
+    "question": "The boy _____ (not find) currently.",
+    "options": ["not finding", "did not find", "is not finding", "does not find"],
+    "correctAnswer": "is not finding"
+  },
+  {
+    "question": "We _____ (not open) right now.",
+    "options": ["did not open", "do not open", "not opening", "are not opening"],
+    "correctAnswer": "are not opening"
+  },
+  {
+    "question": "She _____ (not sleep) at the moment.",
+    "options": ["does not sleep", "did not sleep", "not sleeping", "is not sleeping"],
+    "correctAnswer": "is not sleeping"
+  },
+  {
+    "question": "The students _____ (not play) right now.",
+    "options": ["not playing", "do not play", "did not play", "are not playing"],
+    "correctAnswer": "are not playing"
+  },
+  {
+    "question": "She _____ (not laugh) today.",
+    "options": ["is not laughing", "not laughing", "does not laugh", "did not laugh"],
+    "correctAnswer": "is not laughing"
+  },
+  {
+    "question": "He _____ (not hold) this month.",
+    "options": ["did not hold", "is not holding", "not holding", "does not hold"],
+    "correctAnswer": "is not holding"
+  },
+  {
+    "question": "The boy _____ (not find) at the moment.",
+    "options": ["not finding", "did not find", "does not find", "is not finding"],
+    "correctAnswer": "is not finding"
+  },
+  {
+    "question": "I _____ (not leave) currently.",
+    "options": ["am not leaving", "not leaving", "do not leave", "did not leave"],
+    "correctAnswer": "am not leaving"
+  },
+  {
+    "question": "I _____ (not choose) right now.",
+    "options": ["did not choose", "do not choose", "am not choosing", "not choosing"],
+    "correctAnswer": "am not choosing"
+  },
+  {
+    "question": "We _____ (not become) currently.",
+    "options": ["do not become", "did not become", "are not becoming", "not becoming"],
+    "correctAnswer": "are not becoming"
+  },
+  {
+    "question": "Nobody _____ (not teach) this week.",
+    "options": ["is not teaching", "does not teach", "did not teach", "not teaching"],
+    "correctAnswer": "is not teaching"
+  },
+  {
+    "question": "It _____ (not grow) right now.",
+    "options": ["not growing", "did not grow", "is not growing", "does not grow"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "John _____ (not happen) right now.",
+    "options": ["is not happening", "does not happen", "did not happen", "not happening"],
+    "correctAnswer": "is not happening"
+  },
+  {
+    "question": "John _____ (not take) right now.",
+    "options": ["does not take", "did not take", "is not taking", "not taking"],
+    "correctAnswer": "is not taking"
+  },
+  {
+    "question": "Everybody _____ (not give) now.",
+    "options": ["is not giving", "does not give", "not giving", "did not give"],
+    "correctAnswer": "is not giving"
+  },
+  {
+    "question": "The wind _____ (not become) this month.",
+    "options": ["did not become", "does not become", "is not becoming", "not becoming"],
+    "correctAnswer": "is not becoming"
+  },
+  {
+    "question": "My parents _____ (not find) this week.",
+    "options": ["not finding", "are not finding", "do not find", "did not find"],
+    "correctAnswer": "are not finding"
+  },
+  {
+    "question": "They _____ (not know) today.",
+    "options": ["are not knowing", "not knowing", "do not know", "did not know"],
+    "correctAnswer": "are not knowing"
+  },
+  {
+    "question": "You _____ (not finish) this week.",
+    "options": ["do not finish", "did not finish", "are not finishing", "not finishing"],
+    "correctAnswer": "are not finishing"
+  },
+  {
+    "question": "They _____ (not show) currently.",
+    "options": ["not showing", "do not show", "are not showing", "did not show"],
+    "correctAnswer": "are not showing"
+  },
+  {
+    "question": "John _____ (not learn) now.",
+    "options": ["not learning", "is not learning", "did not learn", "does not learn"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "John _____ (not watch) at the moment.",
+    "options": ["not watching", "is not watching", "did not watch", "does not watch"],
+    "correctAnswer": "is not watching"
+  },
+  {
+    "question": "The wind _____ (not choose) now.",
+    "options": ["not choosing", "is not choosing", "did not choose", "does not choose"],
+    "correctAnswer": "is not choosing"
+  },
+  {
+    "question": "Everybody _____ (not build) now.",
+    "options": ["not building", "did not build", "is not building", "does not build"],
+    "correctAnswer": "is not building"
+  },
+  {
+    "question": "She _____ (not ask) this month.",
+    "options": ["not asking", "did not ask", "does not ask", "is not asking"],
+    "correctAnswer": "is not asking"
+  },
+  {
+    "question": "The cat _____ (not fix) this week.",
+    "options": ["not fixing", "is not fixing", "does not fix", "did not fix"],
+    "correctAnswer": "is not fixing"
+  },
+  {
+    "question": "My parents _____ (not break) today.",
+    "options": ["are not breaking", "not breaking", "do not break", "did not break"],
+    "correctAnswer": "are not breaking"
+  },
+  {
+    "question": "I _____ (not become) now.",
+    "options": ["do not become", "am not becoming", "did not become", "not becoming"],
+    "correctAnswer": "am not becoming"
+  },
+  {
+    "question": "The wind _____ (not lie) now.",
+    "options": ["not lying", "is not lying", "does not lie", "did not lie"],
+    "correctAnswer": "is not lying"
+  },
+  {
+    "question": "John _____ (not hold) currently.",
+    "options": ["does not hold", "not holding", "is not holding", "did not hold"],
+    "correctAnswer": "is not holding"
+  },
+  {
+    "question": "The wind _____ (not open) at the moment.",
+    "options": ["did not open", "is not opening", "not opening", "does not open"],
+    "correctAnswer": "is not opening"
+  },
+  {
+    "question": "Mary and Tom _____ (not paint) this week.",
+    "options": ["do not paint", "are not painting", "did not paint", "not painting"],
+    "correctAnswer": "are not painting"
+  },
+  {
+    "question": "My friend _____ (not talk) this month.",
+    "options": ["did not talk", "does not talk", "is not talking", "not talking"],
+    "correctAnswer": "is not talking"
+  },
+  {
+    "question": "My friend _____ (not try) tonight.",
+    "options": ["not trying", "does not try", "is not trying", "did not try"],
+    "correctAnswer": "is not trying"
+  },
+  {
+    "question": "The team _____ (not sing) tonight.",
+    "options": ["does not sing", "did not sing", "not singing", "is not singing"],
+    "correctAnswer": "is not singing"
+  },
+  {
+    "question": "My parents _____ (not leave) at the moment.",
+    "options": ["are not leaving", "did not leave", "not leaving", "do not leave"],
+    "correctAnswer": "are not leaving"
+  },
+  {
+    "question": "Someone _____ (not work) this month.",
+    "options": ["not working", "does not work", "did not work", "is not working"],
+    "correctAnswer": "is not working"
+  },
+  {
+    "question": "He _____ (not arrive) nowadays.",
+    "options": ["not arriving", "did not arrive", "is not arriving", "does not arrive"],
+    "correctAnswer": "is not arriving"
+  },
+  {
+    "question": "She _____ (not ask) currently.",
+    "options": ["did not ask", "not asking", "does not ask", "is not asking"],
+    "correctAnswer": "is not asking"
+  },
+  {
+    "question": "Everybody _____ (not call) nowadays.",
+    "options": ["does not call", "is not calling", "did not call", "not calling"],
+    "correctAnswer": "is not calling"
+  },
+  {
+    "question": "Everybody _____ (not leave) currently.",
+    "options": ["is not leaving", "not leaving", "did not leave", "does not leave"],
+    "correctAnswer": "is not leaving"
+  },
+  {
+    "question": "John _____ (not sleep) nowadays.",
+    "options": ["did not sleep", "is not sleeping", "not sleeping", "does not sleep"],
+    "correctAnswer": "is not sleeping"
+  },
+  {
+    "question": "Everybody _____ (not run) nowadays.",
+    "options": ["not running", "does not run", "did not run", "is not running"],
+    "correctAnswer": "is not running"
+  },
+  {
+    "question": "Everybody _____ (not start) right now.",
+    "options": ["did not start", "is not starting", "does not start", "not starting"],
+    "correctAnswer": "is not starting"
+  },
+  {
+    "question": "The team _____ (not smile) tonight.",
+    "options": ["is not smiling", "not smiling", "does not smile", "did not smile"],
+    "correctAnswer": "is not smiling"
+  },
+  {
+    "question": "I _____ (not move) right now.",
+    "options": ["not moving", "am not moving", "did not move", "do not move"],
+    "correctAnswer": "am not moving"
+  },
+  {
+    "question": "The team _____ (not believe) today.",
+    "options": ["does not believe", "is not believing", "not believing", "did not believe"],
+    "correctAnswer": "is not believing"
+  },
+  {
+    "question": "It _____ (not fly) currently.",
+    "options": ["does not fly", "did not fly", "is not flying", "not flying"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "Mary and Tom _____ (not read) today.",
+    "options": ["not reading", "did not read", "are not reading", "do not read"],
+    "correctAnswer": "are not reading"
+  },
+  {
+    "question": "Everybody _____ (not receive) nowadays.",
+    "options": ["not receiving", "did not receive", "is not receiving", "does not receive"],
+    "correctAnswer": "is not receiving"
+  },
+  {
+    "question": "They _____ (not leave) right now.",
+    "options": ["did not leave", "are not leaving", "do not leave", "not leaving"],
+    "correctAnswer": "are not leaving"
+  },
+  {
+    "question": "The girls _____ (not break) this month.",
+    "options": ["do not break", "did not break", "are not breaking", "not breaking"],
+    "correctAnswer": "are not breaking"
+  },
+  {
+    "question": "We _____ (not end) right now.",
+    "options": ["did not end", "do not end", "are not ending", "not ending"],
+    "correctAnswer": "are not ending"
+  },
+  {
+    "question": "The students _____ (not cut) this month.",
+    "options": ["do not cut", "are not cutting", "not cutting", "did not cut"],
+    "correctAnswer": "are not cutting"
+  },
+  {
+    "question": "My parents _____ (not smile) today.",
+    "options": ["not smiling", "are not smiling", "do not smile", "did not smile"],
+    "correctAnswer": "are not smiling"
+  },
+  {
+    "question": "My parents _____ (not start) this week.",
+    "options": ["did not start", "not starting", "do not start", "are not starting"],
+    "correctAnswer": "are not starting"
+  },
+  {
+    "question": "Someone _____ (not paint) tonight.",
+    "options": ["did not paint", "is not painting", "does not paint", "not painting"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "Someone _____ (not build) at the moment.",
+    "options": ["not building", "did not build", "is not building", "does not build"],
+    "correctAnswer": "is not building"
+  },
+  {
+    "question": "The team _____ (not hold) this month.",
+    "options": ["did not hold", "does not hold", "is not holding", "not holding"],
+    "correctAnswer": "is not holding"
+  },
+  {
+    "question": "You _____ (not read) this month.",
+    "options": ["are not reading", "did not read", "do not read", "not reading"],
+    "correctAnswer": "are not reading"
+  },
+  {
+    "question": "The girls _____ (not stop) at the moment.",
+    "options": ["do not stop", "are not stopping", "not stopping", "did not stop"],
+    "correctAnswer": "are not stopping"
+  },
+  {
+    "question": "The wind _____ (not sing) this month.",
+    "options": ["is not singing", "does not sing", "did not sing", "not singing"],
+    "correctAnswer": "is not singing"
+  },
+  {
+    "question": "They _____ (not talk) currently.",
+    "options": ["do not talk", "did not talk", "not talking", "are not talking"],
+    "correctAnswer": "are not talking"
+  },
+  {
+    "question": "The students _____ (not walk) today.",
+    "options": ["did not walk", "not walking", "do not walk", "are not walking"],
+    "correctAnswer": "are not walking"
+  },
+  {
+    "question": "They _____ (not stay) currently.",
+    "options": ["are not staying", "not staying", "do not stay", "did not stay"],
+    "correctAnswer": "are not staying"
+  },
+  {
+    "question": "You _____ (not receive) now.",
+    "options": ["are not receiving", "did not receive", "not receiving", "do not receive"],
+    "correctAnswer": "are not receiving"
+  },
+  {
+    "question": "Everybody _____ (not arrive) currently.",
+    "options": ["not arriving", "does not arrive", "did not arrive", "is not arriving"],
+    "correctAnswer": "is not arriving"
+  },
+  {
+    "question": "Mary and Tom _____ (not play) currently.",
+    "options": ["not playing", "do not play", "did not play", "are not playing"],
+    "correctAnswer": "are not playing"
+  },
+  {
+    "question": "He _____ (not lose) now.",
+    "options": ["is not losing", "does not lose", "did not lose", "not losing"],
+    "correctAnswer": "is not losing"
+  },
+  {
+    "question": "Someone _____ (not draw) right now.",
+    "options": ["did not draw", "not drawing", "does not draw", "is not drawing"],
+    "correctAnswer": "is not drawing"
+  },
+  {
+    "question": "Mary and Tom _____ (not visit) right now.",
+    "options": ["did not visit", "not visiting", "are not visiting", "do not visit"],
+    "correctAnswer": "are not visiting"
+  },
+  {
+    "question": "Everybody _____ (not sing) nowadays.",
+    "options": ["is not singing", "does not sing", "not singing", "did not sing"],
+    "correctAnswer": "is not singing"
+  },
+  {
+    "question": "The students _____ (not answer) now.",
+    "options": ["do not answer", "did not answer", "not answering", "are not answering"],
+    "correctAnswer": "are not answering"
+  },
+  {
+    "question": "Mary and Tom _____ (not play) today.",
+    "options": ["are not playing", "do not play", "did not play", "not playing"],
+    "correctAnswer": "are not playing"
+  },
+  {
+    "question": "Someone _____ (not study) this month.",
+    "options": ["is not studying", "not studying", "did not study", "does not study"],
+    "correctAnswer": "is not studying"
+  },
+  {
+    "question": "We _____ (not learn) this month.",
+    "options": ["are not learning", "not learning", "did not learn", "do not learn"],
+    "correctAnswer": "are not learning"
+  },
+  {
+    "question": "Everybody _____ (not paint) currently.",
+    "options": ["not painting", "is not painting", "did not paint", "does not paint"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "John _____ (not write) now.",
+    "options": ["did not write", "is not writing", "does not write", "not writing"],
+    "correctAnswer": "is not writing"
+  },
+  {
+    "question": "He _____ (not open) this week.",
+    "options": ["not opening", "did not open", "does not open", "is not opening"],
+    "correctAnswer": "is not opening"
+  },
+  {
+    "question": "The students _____ (not show) now.",
+    "options": ["do not show", "are not showing", "did not show", "not showing"],
+    "correctAnswer": "are not showing"
+  },
+  {
+    "question": "The students _____ (not stay) now.",
+    "options": ["do not stay", "not staying", "did not stay", "are not staying"],
+    "correctAnswer": "are not staying"
+  },
+  {
+    "question": "The wind _____ (not cry) right now.",
+    "options": ["did not cry", "is not crying", "does not cry", "not crying"],
+    "correctAnswer": "is not crying"
+  },
+  {
+    "question": "The cat _____ (not build) now.",
+    "options": ["did not build", "not building", "does not build", "is not building"],
+    "correctAnswer": "is not building"
+  },
+  {
+    "question": "The cat _____ (not work) this month.",
+    "options": ["did not work", "does not work", "not working", "is not working"],
+    "correctAnswer": "is not working"
+  },
+  {
+    "question": "He _____ (not finish) now.",
+    "options": ["did not finish", "does not finish", "is not finishing", "not finishing"],
+    "correctAnswer": "is not finishing"
+  },
+  {
+    "question": "She _____ (not talk) tonight.",
+    "options": ["is not talking", "did not talk", "not talking", "does not talk"],
+    "correctAnswer": "is not talking"
+  },
+  {
+    "question": "The boy _____ (not drive) nowadays.",
+    "options": ["did not drive", "is not driving", "does not drive", "not driving"],
+    "correctAnswer": "is not driving"
+  },
+  {
+    "question": "I _____ (not walk) this month.",
+    "options": ["not walking", "do not walk", "did not walk", "am not walking"],
+    "correctAnswer": "am not walking"
+  },
+  {
+    "question": "She _____ (not try) currently.",
+    "options": ["did not try", "is not trying", "does not try", "not trying"],
+    "correctAnswer": "is not trying"
+  },
+  {
+    "question": "She _____ (not visit) now.",
+    "options": ["not visiting", "did not visit", "is not visiting", "does not visit"],
+    "correctAnswer": "is not visiting"
+  },
+  {
+    "question": "Everybody _____ (not smile) today.",
+    "options": ["did not smile", "does not smile", "is not smiling", "not smiling"],
+    "correctAnswer": "is not smiling"
+  },
+  {
+    "question": "Nobody _____ (not try) nowadays.",
+    "options": ["not trying", "does not try", "did not try", "is not trying"],
+    "correctAnswer": "is not trying"
+  },
+  {
+    "question": "He _____ (not fix) today.",
+    "options": ["not fixing", "is not fixing", "does not fix", "did not fix"],
+    "correctAnswer": "is not fixing"
+  },
+  {
+    "question": "I _____ (not remember) nowadays.",
+    "options": ["not remembering", "did not remember", "do not remember", "am not remembering"],
+    "correctAnswer": "am not remembering"
+  },
+  {
+    "question": "The girls _____ (not stay) currently.",
+    "options": ["are not staying", "do not stay", "did not stay", "not staying"],
+    "correctAnswer": "are not staying"
+  },
+  {
+    "question": "He _____ (not take) now.",
+    "options": ["not taking", "did not take", "does not take", "is not taking"],
+    "correctAnswer": "is not taking"
+  },
+  {
+    "question": "I _____ (not end) this week.",
+    "options": ["am not ending", "do not end", "did not end", "not ending"],
+    "correctAnswer": "am not ending"
+  },
+  {
+    "question": "Someone _____ (not stop) nowadays.",
+    "options": ["does not stop", "not stopping", "did not stop", "is not stopping"],
+    "correctAnswer": "is not stopping"
+  },
+  {
+    "question": "Everybody _____ (not keep) this month.",
+    "options": ["does not keep", "not keeping", "did not keep", "is not keeping"],
+    "correctAnswer": "is not keeping"
+  },
+  {
+    "question": "She _____ (not fly) right now.",
+    "options": ["not flying", "does not fly", "is not flying", "did not fly"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "Mary and Tom _____ (not give) right now.",
+    "options": ["not giving", "do not give", "are not giving", "did not give"],
+    "correctAnswer": "are not giving"
+  },
+  {
+    "question": "Nobody _____ (not wait) today.",
+    "options": ["did not wait", "not waiting", "does not wait", "is not waiting"],
+    "correctAnswer": "is not waiting"
+  },
+  {
+    "question": "John _____ (not receive) this week.",
+    "options": ["does not receive", "not receiving", "is not receiving", "did not receive"],
+    "correctAnswer": "is not receiving"
+  },
+  {
+    "question": "You _____ (not begin) at the moment.",
+    "options": ["not beginning", "did not begin", "are not beginning", "do not begin"],
+    "correctAnswer": "are not beginning"
+  },
+  {
+    "question": "The team _____ (not wait) tonight.",
+    "options": ["is not waiting", "not waiting", "does not wait", "did not wait"],
+    "correctAnswer": "is not waiting"
+  },
+  {
+    "question": "You _____ (not cook) this month.",
+    "options": ["are not cooking", "did not cook", "do not cook", "not cooking"],
+    "correctAnswer": "are not cooking"
+  },
+  {
+    "question": "The wind _____ (not watch) at the moment.",
+    "options": ["is not watching", "did not watch", "not watching", "does not watch"],
+    "correctAnswer": "is not watching"
+  },
+  {
+    "question": "My parents _____ (not teach) this month.",
+    "options": ["not teaching", "did not teach", "are not teaching", "do not teach"],
+    "correctAnswer": "are not teaching"
+  },
+  {
+    "question": "My friend _____ (not hold) tonight.",
+    "options": ["not holding", "does not hold", "is not holding", "did not hold"],
+    "correctAnswer": "is not holding"
+  },
+  {
+    "question": "The boy _____ (not stand) tonight.",
+    "options": ["not standing", "does not stand", "did not stand", "is not standing"],
+    "correctAnswer": "is not standing"
+  },
+  {
+    "question": "The boy _____ (not teach) at the moment.",
+    "options": ["does not teach", "not teaching", "is not teaching", "did not teach"],
+    "correctAnswer": "is not teaching"
+  },
+  {
+    "question": "He _____ (not think) nowadays.",
+    "options": ["does not think", "did not think", "is not thinking", "not thinking"],
+    "correctAnswer": "is not thinking"
+  },
+  {
+    "question": "He _____ (not think) at the moment.",
+    "options": ["not thinking", "does not think", "did not think", "is not thinking"],
+    "correctAnswer": "is not thinking"
+  },
+  {
+    "question": "He _____ (not wear) currently.",
+    "options": ["not wearing", "did not wear", "does not wear", "is not wearing"],
+    "correctAnswer": "is not wearing"
+  },
+  {
+    "question": "It _____ (not run) currently.",
+    "options": ["not running", "did not run", "is not running", "does not run"],
+    "correctAnswer": "is not running"
+  },
+  {
+    "question": "Everybody _____ (not clean) this week.",
+    "options": ["is not cleaning", "does not clean", "did not clean", "not cleaning"],
+    "correctAnswer": "is not cleaning"
+  },
+  {
+    "question": "My parents _____ (not keep) right now.",
+    "options": ["not keeping", "did not keep", "are not keeping", "do not keep"],
+    "correctAnswer": "are not keeping"
+  },
+  {
+    "question": "The boy _____ (not leave) right now.",
+    "options": ["not leaving", "did not leave", "is not leaving", "does not leave"],
+    "correctAnswer": "is not leaving"
+  },
+  {
+    "question": "The girls _____ (not think) now.",
+    "options": ["did not think", "not thinking", "do not think", "are not thinking"],
+    "correctAnswer": "are not thinking"
+  },
+  {
+    "question": "Nobody _____ (not finish) today.",
+    "options": ["not finishing", "did not finish", "is not finishing", "does not finish"],
+    "correctAnswer": "is not finishing"
+  },
+  {
+    "question": "You _____ (not stand) this week.",
+    "options": ["do not stand", "not standing", "did not stand", "are not standing"],
+    "correctAnswer": "are not standing"
+  },
+  {
+    "question": "John _____ (not study) now.",
+    "options": ["did not study", "does not study", "not studying", "is not studying"],
+    "correctAnswer": "is not studying"
+  },
+  {
+    "question": "It _____ (not find) nowadays.",
+    "options": ["did not find", "not finding", "is not finding", "does not find"],
+    "correctAnswer": "is not finding"
+  },
+  {
+    "question": "The wind _____ (not paint) this month.",
+    "options": ["did not paint", "not painting", "is not painting", "does not paint"],
+    "correctAnswer": "is not painting"
+  },
+  {
+    "question": "The team _____ (not sell) this week.",
+    "options": ["is not selling", "did not sell", "does not sell", "not selling"],
+    "correctAnswer": "is not selling"
+  },
+  {
+    "question": "The girls _____ (not smile) this month.",
+    "options": ["not smiling", "do not smile", "did not smile", "are not smiling"],
+    "correctAnswer": "are not smiling"
+  },
+  {
+    "question": "He _____ (not answer) tonight.",
+    "options": ["not answering", "is not answering", "does not answer", "did not answer"],
+    "correctAnswer": "is not answering"
+  },
+  {
+    "question": "The cat _____ (not try) this month.",
+    "options": ["not trying", "is not trying", "does not try", "did not try"],
+    "correctAnswer": "is not trying"
+  },
+  {
+    "question": "They _____ (not call) right now.",
+    "options": ["not calling", "are not calling", "do not call", "did not call"],
+    "correctAnswer": "are not calling"
+  },
+  {
+    "question": "Someone _____ (not travel) currently.",
+    "options": ["did not travel", "not travelling", "does not travel", "is not travelling"],
+    "correctAnswer": "is not travelling"
+  },
+  {
+    "question": "My parents _____ (not close) this month.",
+    "options": ["are not closing", "not closing", "do not close", "did not close"],
+    "correctAnswer": "are not closing"
+  },
+  {
+    "question": "The girls _____ (not happen) at the moment.",
+    "options": ["are not happening", "did not happen", "do not happen", "not happening"],
+    "correctAnswer": "are not happening"
+  },
+  {
+    "question": "It _____ (not teach) today.",
+    "options": ["did not teach", "does not teach", "not teaching", "is not teaching"],
+    "correctAnswer": "is not teaching"
+  },
+  {
+    "question": "She _____ (not grow) this month.",
+    "options": ["not growing", "is not growing", "did not grow", "does not grow"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "My parents _____ (not sit) today.",
+    "options": ["did not sit", "do not sit", "are not sitting", "not sitting"],
+    "correctAnswer": "are not sitting"
+  },
+  {
+    "question": "He _____ (not remember) right now.",
+    "options": ["is not remembering", "not remembering", "does not remember", "did not remember"],
+    "correctAnswer": "is not remembering"
+  },
+  {
+    "question": "Mary and Tom _____ (not swim) this week.",
+    "options": ["are not swimming", "not swimming", "do not swim", "did not swim"],
+    "correctAnswer": "are not swimming"
+  },
+  {
+    "question": "My friend _____ (not answer) tonight.",
+    "options": ["did not answer", "is not answering", "not answering", "does not answer"],
+    "correctAnswer": "is not answering"
+  },
+  {
+    "question": "The girls _____ (not happen) nowadays.",
+    "options": ["do not happen", "not happening", "are not happening", "did not happen"],
+    "correctAnswer": "are not happening"
+  },
+  {
+    "question": "Someone _____ (not end) right now.",
+    "options": ["is not ending", "does not end", "did not end", "not ending"],
+    "correctAnswer": "is not ending"
+  },
+  {
+    "question": "The boy _____ (not become) at the moment.",
+    "options": ["does not become", "not becoming", "did not become", "is not becoming"],
+    "correctAnswer": "is not becoming"
+  },
+  {
+    "question": "The cat _____ (not cut) today.",
+    "options": ["did not cut", "not cutting", "is not cutting", "does not cut"],
+    "correctAnswer": "is not cutting"
+  },
+  {
+    "question": "He _____ (not send) at the moment.",
+    "options": ["does not send", "not sending", "did not send", "is not sending"],
+    "correctAnswer": "is not sending"
+  },
+  {
+    "question": "You _____ (not stand) nowadays.",
+    "options": ["do not stand", "did not stand", "are not standing", "not standing"],
+    "correctAnswer": "are not standing"
+  },
+  {
+    "question": "The students _____ (not lie) this month.",
+    "options": ["not lying", "did not lie", "do not lie", "are not lying"],
+    "correctAnswer": "are not lying"
+  },
+  {
+    "question": "They _____ (not end) currently.",
+    "options": ["not ending", "did not end", "are not ending", "do not end"],
+    "correctAnswer": "are not ending"
+  },
+  {
+    "question": "My parents _____ (not clean) tonight.",
+    "options": ["not cleaning", "did not clean", "are not cleaning", "do not clean"],
+    "correctAnswer": "are not cleaning"
+  },
+  {
+    "question": "John _____ (not tell) this week.",
+    "options": ["does not tell", "not telling", "did not tell", "is not telling"],
+    "correctAnswer": "is not telling"
+  },
+  {
+    "question": "She _____ (not arrive) tonight.",
+    "options": ["not arriving", "did not arrive", "does not arrive", "is not arriving"],
+    "correctAnswer": "is not arriving"
+  },
+  {
+    "question": "Everybody _____ (not bring) currently.",
+    "options": ["not bringing", "is not bringing", "does not bring", "did not bring"],
+    "correctAnswer": "is not bringing"
+  },
+  {
+    "question": "We _____ (not sell) this week.",
+    "options": ["not selling", "are not selling", "do not sell", "did not sell"],
+    "correctAnswer": "are not selling"
+  },
+  {
+    "question": "We _____ (not find) nowadays.",
+    "options": ["not finding", "did not find", "are not finding", "do not find"],
+    "correctAnswer": "are not finding"
+  },
+  {
+    "question": "The girls _____ (not answer) tonight.",
+    "options": ["do not answer", "did not answer", "not answering", "are not answering"],
+    "correctAnswer": "are not answering"
+  },
+  {
+    "question": "The boy _____ (not choose) tonight.",
+    "options": ["not choosing", "does not choose", "is not choosing", "did not choose"],
+    "correctAnswer": "is not choosing"
+  },
+  {
+    "question": "The students _____ (not begin) today.",
+    "options": ["not beginning", "do not begin", "did not begin", "are not beginning"],
+    "correctAnswer": "are not beginning"
+  },
+  {
+    "question": "My friend _____ (not sell) at the moment.",
+    "options": ["did not sell", "is not selling", "does not sell", "not selling"],
+    "correctAnswer": "is not selling"
+  },
+  {
+    "question": "We _____ (not visit) this week.",
+    "options": ["not visiting", "did not visit", "do not visit", "are not visiting"],
+    "correctAnswer": "are not visiting"
+  },
+  {
+    "question": "John _____ (not write) this month.",
+    "options": ["not writing", "is not writing", "does not write", "did not write"],
+    "correctAnswer": "is not writing"
+  },
+  {
+    "question": "They _____ (not know) right now.",
+    "options": ["do not know", "are not knowing", "did not know", "not knowing"],
+    "correctAnswer": "are not knowing"
+  },
+  {
+    "question": "The cat _____ (not visit) this month.",
+    "options": ["does not visit", "did not visit", "not visiting", "is not visiting"],
+    "correctAnswer": "is not visiting"
+  },
+  {
+    "question": "He _____ (not sit) at the moment.",
+    "options": ["does not sit", "is not sitting", "not sitting", "did not sit"],
+    "correctAnswer": "is not sitting"
+  },
+  {
+    "question": "You _____ (not learn) right now.",
+    "options": ["do not learn", "are not learning", "not learning", "did not learn"],
+    "correctAnswer": "are not learning"
+  },
+  {
+    "question": "Everybody _____ (not fly) currently.",
+    "options": ["not flying", "is not flying", "did not fly", "does not fly"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "We _____ (not fix) right now.",
+    "options": ["not fixing", "did not fix", "are not fixing", "do not fix"],
+    "correctAnswer": "are not fixing"
+  },
+  {
+    "question": "John _____ (not ride) currently.",
+    "options": ["not riding", "does not ride", "did not ride", "is not riding"],
+    "correctAnswer": "is not riding"
+  },
+  {
+    "question": "John _____ (not start) right now.",
+    "options": ["not starting", "does not start", "is not starting", "did not start"],
+    "correctAnswer": "is not starting"
+  },
+  {
+    "question": "The cat _____ (not call) now.",
+    "options": ["did not call", "not calling", "is not calling", "does not call"],
+    "correctAnswer": "is not calling"
+  },
+  {
+    "question": "They _____ (not smile) now.",
+    "options": ["not smiling", "are not smiling", "did not smile", "do not smile"],
+    "correctAnswer": "are not smiling"
+  },
+  {
+    "question": "John _____ (not travel) tonight.",
+    "options": ["not travelling", "did not travel", "is not travelling", "does not travel"],
+    "correctAnswer": "is not travelling"
+  },
+  {
+    "question": "Nobody _____ (not run) today.",
+    "options": ["did not run", "not running", "is not running", "does not run"],
+    "correctAnswer": "is not running"
+  },
+  {
+    "question": "We _____ (not give) this month.",
+    "options": ["are not giving", "do not give", "not giving", "did not give"],
+    "correctAnswer": "are not giving"
+  },
+  {
+    "question": "Mary and Tom _____ (not end) this month.",
+    "options": ["did not end", "are not ending", "not ending", "do not end"],
+    "correctAnswer": "are not ending"
+  },
+  {
+    "question": "My parents _____ (not answer) tonight.",
+    "options": ["do not answer", "not answering", "are not answering", "did not answer"],
+    "correctAnswer": "are not answering"
+  },
+  {
+    "question": "My parents _____ (not sit) now.",
+    "options": ["do not sit", "are not sitting", "not sitting", "did not sit"],
+    "correctAnswer": "are not sitting"
+  },
+  {
+    "question": "Everybody _____ (not sell) tonight.",
+    "options": ["does not sell", "did not sell", "not selling", "is not selling"],
+    "correctAnswer": "is not selling"
+  },
+  {
+    "question": "They _____ (not wait) this month.",
+    "options": ["did not wait", "not waiting", "do not wait", "are not waiting"],
+    "correctAnswer": "are not waiting"
+  },
+  {
+    "question": "My parents _____ (not become) at the moment.",
+    "options": ["do not become", "are not becoming", "not becoming", "did not become"],
+    "correctAnswer": "are not becoming"
+  },
+  {
+    "question": "Everybody _____ (not keep) nowadays.",
+    "options": ["not keeping", "did not keep", "does not keep", "is not keeping"],
+    "correctAnswer": "is not keeping"
+  },
+  {
+    "question": "Nobody _____ (not write) tonight.",
+    "options": ["does not write", "is not writing", "did not write", "not writing"],
+    "correctAnswer": "is not writing"
+  },
+  {
+    "question": "They _____ (not keep) now.",
+    "options": ["not keeping", "do not keep", "are not keeping", "did not keep"],
+    "correctAnswer": "are not keeping"
+  },
+  {
+    "question": "It _____ (not ask) right now.",
+    "options": ["does not ask", "not asking", "is not asking", "did not ask"],
+    "correctAnswer": "is not asking"
+  },
+  {
+    "question": "The cat _____ (not take) currently.",
+    "options": ["is not taking", "did not take", "not taking", "does not take"],
+    "correctAnswer": "is not taking"
+  },
+  {
+    "question": "The team _____ (not wear) this month.",
+    "options": ["not wearing", "is not wearing", "does not wear", "did not wear"],
+    "correctAnswer": "is not wearing"
+  },
+  {
+    "question": "The cat _____ (not learn) at the moment.",
+    "options": ["did not learn", "does not learn", "is not learning", "not learning"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "The boy _____ (not stand) at the moment.",
+    "options": ["not standing", "does not stand", "did not stand", "is not standing"],
+    "correctAnswer": "is not standing"
+  },
+  {
+    "question": "My parents _____ (not finish) at the moment.",
+    "options": ["are not finishing", "did not finish", "not finishing", "do not finish"],
+    "correctAnswer": "are not finishing"
+  },
+  {
+    "question": "She _____ (not fall) right now.",
+    "options": ["is not falling", "did not fall", "does not fall", "not falling"],
+    "correctAnswer": "is not falling"
+  },
+  {
+    "question": "The cat _____ (not grow) this week.",
+    "options": ["is not growing", "not growing", "does not grow", "did not grow"],
+    "correctAnswer": "is not growing"
+  },
+  {
+    "question": "You _____ (not keep) currently.",
+    "options": ["are not keeping", "not keeping", "did not keep", "do not keep"],
+    "correctAnswer": "are not keeping"
+  },
+  {
+    "question": "It _____ (not build) at the moment.",
+    "options": ["does not build", "is not building", "did not build", "not building"],
+    "correctAnswer": "is not building"
+  },
+  {
+    "question": "John _____ (not draw) currently.",
+    "options": ["does not draw", "not drawing", "did not draw", "is not drawing"],
+    "correctAnswer": "is not drawing"
+  },
+  {
+    "question": "John _____ (not learn) today.",
+    "options": ["did not learn", "is not learning", "not learning", "does not learn"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "They _____ (not eat) at the moment.",
+    "options": ["did not eat", "not eating", "are not eating", "do not eat"],
+    "correctAnswer": "are not eating"
+  },
+  {
+    "question": "The team _____ (not smile) this month.",
+    "options": ["does not smile", "did not smile", "is not smiling", "not smiling"],
+    "correctAnswer": "is not smiling"
+  },
+  {
+    "question": "It _____ (not fall) tonight.",
+    "options": ["is not falling", "did not fall", "does not fall", "not falling"],
+    "correctAnswer": "is not falling"
+  },
+  {
+    "question": "Someone _____ (not receive) nowadays.",
+    "options": ["did not receive", "does not receive", "not receiving", "is not receiving"],
+    "correctAnswer": "is not receiving"
+  },
+  {
+    "question": "She _____ (not ask) at the moment.",
+    "options": ["does not ask", "is not asking", "not asking", "did not ask"],
+    "correctAnswer": "is not asking"
+  },
+  {
+    "question": "The students _____ (not read) this month.",
+    "options": ["did not read", "do not read", "not reading", "are not reading"],
+    "correctAnswer": "are not reading"
+  },
+  {
+    "question": "My parents _____ (not wear) this week.",
+    "options": ["do not wear", "are not wearing", "did not wear", "not wearing"],
+    "correctAnswer": "are not wearing"
+  },
+  {
+    "question": "John _____ (not draw) this week.",
+    "options": ["did not draw", "does not draw", "is not drawing", "not drawing"],
+    "correctAnswer": "is not drawing"
+  },
+  {
+    "question": "The students _____ (not take) this week.",
+    "options": ["are not taking", "not taking", "did not take", "do not take"],
+    "correctAnswer": "are not taking"
+  },
+  {
+    "question": "We _____ (not know) currently.",
+    "options": ["did not know", "do not know", "are not knowing", "not knowing"],
+    "correctAnswer": "are not knowing"
+  },
+  {
+    "question": "Someone _____ (not travel) right now.",
+    "options": ["is not travelling", "does not travel", "not travelling", "did not travel"],
+    "correctAnswer": "is not travelling"
+  },
+  {
+    "question": "The team _____ (not lie) this week.",
+    "options": ["did not lie", "not lying", "does not lie", "is not lying"],
+    "correctAnswer": "is not lying"
+  },
+  {
+    "question": "The students _____ (not wait) right now.",
+    "options": ["are not waiting", "not waiting", "did not wait", "do not wait"],
+    "correctAnswer": "are not waiting"
+  },
+  {
+    "question": "My parents _____ (not stand) currently.",
+    "options": ["not standing", "did not stand", "are not standing", "do not stand"],
+    "correctAnswer": "are not standing"
+  },
+  {
+    "question": "The students _____ (not think) right now.",
+    "options": ["are not thinking", "do not think", "did not think", "not thinking"],
+    "correctAnswer": "are not thinking"
+  },
+  {
+    "question": "I _____ (not arrive) this week.",
+    "options": ["did not arrive", "not arriving", "am not arriving", "do not arrive"],
+    "correctAnswer": "am not arriving"
+  },
+  {
+    "question": "They _____ (not dance) this week.",
+    "options": ["do not dance", "are not dancing", "not dancing", "did not dance"],
+    "correctAnswer": "are not dancing"
+  },
+  {
+    "question": "The wind _____ (not learn) right now.",
+    "options": ["is not learning", "not learning", "did not learn", "does not learn"],
+    "correctAnswer": "is not learning"
+  },
+  {
+    "question": "You _____ (not sing) this month.",
+    "options": ["not singing", "do not sing", "are not singing", "did not sing"],
+    "correctAnswer": "are not singing"
+  },
+  {
+    "question": "Mary and Tom _____ (not dance) currently.",
+    "options": ["do not dance", "are not dancing", "not dancing", "did not dance"],
+    "correctAnswer": "are not dancing"
+  },
+  {
+    "question": "My friend _____ (not read) now.",
+    "options": ["is not reading", "did not read", "does not read", "not reading"],
+    "correctAnswer": "is not reading"
+  },
+  {
+    "question": "The boy _____ (not run) tonight.",
+    "options": ["is not running", "does not run", "did not run", "not running"],
+    "correctAnswer": "is not running"
+  },
+  {
+    "question": "Someone _____ (not finish) currently.",
+    "options": ["did not finish", "not finishing", "is not finishing", "does not finish"],
+    "correctAnswer": "is not finishing"
+  },
+  {
+    "question": "The wind _____ (not open) this month.",
+    "options": ["did not open", "not opening", "is not opening", "does not open"],
+    "correctAnswer": "is not opening"
+  },
+  {
+    "question": "I _____ (not dance) this month.",
+    "options": ["not dancing", "did not dance", "do not dance", "am not dancing"],
+    "correctAnswer": "am not dancing"
+  },
+  {
+    "question": "John _____ (not fly) tonight.",
+    "options": ["does not fly", "is not flying", "not flying", "did not fly"],
+    "correctAnswer": "is not flying"
+  },
+  {
+    "question": "It _____ (not read) this month.",
+    "options": ["is not reading", "does not read", "did not read", "not reading"],
+    "correctAnswer": "is not reading"
+  },
+  {
+    "question": "_____ (We / ask) at the moment?",
+    "options": ["Did we ask", "Is we asking", "Do we ask", "Are we asking"],
+    "correctAnswer": "Are we asking"
   }
 ]

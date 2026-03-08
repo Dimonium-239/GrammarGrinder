@@ -11,12 +11,15 @@ import org.json.JSONObject;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+import java.security.MessageDigest;
 
 public final class DatabaseSeeder {
     private static final String TAG = "DatabaseSeeder";
     private static final String PREFS_NAME = "db_seed_prefs";
     private static final String KEY_CONTENT_VERSION = "content_version";
+    private static final String KEY_CONTENT_FINGERPRINT = "content_fingerprint";
 
     // Bump when bundled question content changes.
     private static final int CONTENT_VERSION = 3;
@@ -29,6 +32,8 @@ public final class DatabaseSeeder {
         int seededVersion = prefs.getInt(KEY_CONTENT_VERSION, 0);
         boolean hasData = dao.countQuestions() > 0;
 
+        // Avoid parsing and hashing the full asset corpus on routine screen loads.
+        // CONTENT_VERSION is the authoritative invalidation key for bundled content.
         if (hasData && seededVersion >= CONTENT_VERSION) {
             return;
         }
@@ -37,6 +42,7 @@ public final class DatabaseSeeder {
         if (questions.isEmpty()) {
             return;
         }
+        String fingerprint = computeFingerprint(questions);
 
         dao.markAllQuestionsInactive();
         for (QuestionEntity question : questions) {
@@ -65,7 +71,10 @@ public final class DatabaseSeeder {
                 }
             }
         }
-        prefs.edit().putInt(KEY_CONTENT_VERSION, CONTENT_VERSION).apply();
+        prefs.edit()
+                .putInt(KEY_CONTENT_VERSION, CONTENT_VERSION)
+                .putString(KEY_CONTENT_FINGERPRINT, fingerprint)
+                .apply();
     }
 
     private static List<QuestionEntity> readQuestionsFromAssets(Context context) {
@@ -76,12 +85,14 @@ public final class DatabaseSeeder {
             if (topLevel == null) {
                 return result;
             }
+            Arrays.sort(topLevel);
 
             for (String sectionId : topLevel) {
                 String[] files = am.list(sectionId);
                 if (files == null) {
                     continue;
                 }
+                Arrays.sort(files);
 
                 for (String file : files) {
                     if (!file.endsWith(".json")) {
@@ -166,6 +177,40 @@ public final class DatabaseSeeder {
             sb.append(Character.toUpperCase(part.charAt(0))).append(part.substring(1)).append(" ");
         }
         return sb.toString().trim();
+    }
+
+    private static String computeFingerprint(List<QuestionEntity> questions) {
+        try {
+            MessageDigest digest = MessageDigest.getInstance("SHA-256");
+            for (QuestionEntity question : questions) {
+                updateDigest(digest, question.sectionId);
+                updateDigest(digest, question.topicId);
+                updateDigest(digest, question.category);
+                updateDigest(digest, String.valueOf(question.complexity));
+                updateDigest(digest, question.question);
+                updateDigest(digest, question.correctAnswer);
+                if (question.options != null) {
+                    for (String option : question.options) {
+                        updateDigest(digest, option);
+                    }
+                }
+            }
+            byte[] bytes = digest.digest();
+            StringBuilder sb = new StringBuilder(bytes.length * 2);
+            for (byte b : bytes) {
+                sb.append(String.format("%02x", b));
+            }
+            return sb.toString();
+        } catch (Exception e) {
+            // Safe fallback: if hashing fails, force reseed by returning non-persisted marker.
+            return String.valueOf(System.currentTimeMillis());
+        }
+    }
+
+    private static void updateDigest(MessageDigest digest, String value) {
+        String safeValue = value == null ? "" : value;
+        digest.update(safeValue.getBytes(StandardCharsets.UTF_8));
+        digest.update((byte) 0);
     }
 
 }

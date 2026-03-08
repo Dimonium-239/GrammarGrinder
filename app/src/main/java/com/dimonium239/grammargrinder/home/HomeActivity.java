@@ -2,6 +2,9 @@ package com.dimonium239.grammargrinder.home;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.SpannableString;
+import android.text.Spanned;
+import android.text.style.RelativeSizeSpan;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -17,17 +20,22 @@ import com.dimonium239.grammargrinder.options.OptionsActivity;
 import com.dimonium239.grammargrinder.R;
 import com.dimonium239.grammargrinder.practice.PracticeActivity;
 import com.dimonium239.grammargrinder.core.settings.AppSettings;
+import com.dimonium239.grammargrinder.db.ProgressService;
+import com.dimonium239.grammargrinder.db.TopicProgress;
+import com.dimonium239.grammargrinder.topics.TopicProgressLabelHelper;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.checkbox.MaterialCheckBox;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 public class HomeActivity extends AppCompatActivity {
     private static final String TAG = "HomeActivity";
     private final List<MaterialCheckBox> checkBoxes = new ArrayList<>();
+    private final List<SingleTopicHeaderBinding> singleTopicHeaderBindings = new ArrayList<>();
     private LinearLayout containerTopics;
     private MaterialButton btnStart;
     private LayoutInflater inflater;
@@ -48,8 +56,16 @@ public class HomeActivity extends AppCompatActivity {
         updateStartState();
     }
 
+    @Override
+    protected void onResume() {
+        super.onResume();
+        TopicProgressLabelHelper.refreshTopicProgressLabels(this, checkBoxes);
+        refreshSingleTopicHeaders();
+    }
+
     private void buildMixUI() {
         List<SectionMeta> sections = SectionLoader.loadSections(this);
+        Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
         for (SectionMeta section : sections) {
             if (!"section".equals(section.type)) {
                 continue;
@@ -59,14 +75,65 @@ public class HomeActivity extends AppCompatActivity {
                 if (files == null) {
                     continue;
                 }
-                addDropdownSection(section, files);
+                List<String> topicFiles = listJsonTopicFiles(files);
+                if (topicFiles.size() == 1) {
+                    addSingleTopicSectionCard(section, topicFiles.get(0), progressByTopic);
+                    continue;
+                }
+                if (topicFiles.size() >= 2) {
+                    addDropdownSection(section, topicFiles, progressByTopic);
+                }
             } catch (IOException e) {
                 Log.d(TAG, "Error listing assets in section: " + section.id, e);
             }
         }
     }
 
-    private void addDropdownSection(SectionMeta sectionMeta, String[] files) {
+    private List<String> listJsonTopicFiles(String[] files) {
+        List<String> topicFiles = new ArrayList<>();
+        for (String file : files) {
+            if (file.endsWith(".json")) {
+                topicFiles.add(file);
+            }
+        }
+        topicFiles.sort(String::compareTo);
+        return topicFiles;
+    }
+
+    private void addSingleTopicSectionCard(SectionMeta sectionMeta, String topicFile, Map<String, TopicProgress> progressByTopic) {
+        View card = inflater.inflate(R.layout.item_topic_dropdown_section, containerTopics, false);
+        LinearLayout headerRow = card.findViewById(R.id.section_header_row);
+        TextView header = card.findViewById(R.id.tv_section_title);
+        ImageView expandToggle = card.findViewById(R.id.iv_expand_toggle);
+        MaterialCheckBox cbSection = card.findViewById(R.id.cb_section_select);
+        LinearLayout content = card.findViewById(R.id.container_section_topics);
+
+        String topicId = topicFile.replace(".json", "");
+        String topicPath = sectionMeta.id + "/" + topicId;
+        TopicProgress progress = progressByTopic.get(topicPath);
+        cbSection.setText(null);
+        cbSection.setTag(new TopicSelectionTag(topicPath));
+        cbSection.setOnCheckedChangeListener((buttonView, isChecked) -> updateStartState());
+        checkBoxes.add(cbSection);
+        singleTopicHeaderBindings.add(new SingleTopicHeaderBinding(header, topicPath, sectionMeta.title));
+
+        int childIndent = getResources().getDimensionPixelSize(R.dimen.spacing_subsection_header_padding);
+        headerRow.setPaddingRelative(
+                childIndent,
+                headerRow.getPaddingTop(),
+                headerRow.getPaddingEnd(),
+                headerRow.getPaddingBottom()
+        );
+        header.setText(buildSingleTopicHeaderText(sectionMeta.title, progress));
+
+        expandToggle.setVisibility(View.GONE);
+        content.setVisibility(View.GONE);
+        headerRow.setOnClickListener(null);
+
+        containerTopics.addView(card);
+    }
+
+    private void addDropdownSection(SectionMeta sectionMeta, List<String> topicFiles, Map<String, TopicProgress> progressByTopic) {
         View card = inflater.inflate(R.layout.item_topic_dropdown_section, containerTopics, false);
         LinearLayout headerRow = card.findViewById(R.id.section_header_row);
         TextView header = card.findViewById(R.id.tv_section_title);
@@ -77,14 +144,13 @@ public class HomeActivity extends AppCompatActivity {
         AtomicBoolean syncing = new AtomicBoolean(false);
         header.setText(sectionMeta.title);
 
-        for (String file : files) {
-            if (!file.endsWith(".json")) {
-                continue;
-            }
+        for (String file : topicFiles) {
             String topicId = file.replace(".json", "");
+            String topicPath = sectionMeta.id + "/" + topicId;
+            TopicProgress progress = progressByTopic.get(topicPath);
             MaterialCheckBox cb = createCheckbox(
-                    formatName(topicId),
-                    sectionMeta.id + "/" + topicId,
+                    TopicProgressLabelHelper.formatTopicLine(this, topicPath, progress),
+                    topicPath,
                     () -> syncSectionCheckState(syncing, cbSection, sectionCheckBoxes)
             );
             sectionCheckBoxes.add(cb);
@@ -180,10 +246,57 @@ public class HomeActivity extends AppCompatActivity {
         ArrayList<String> result = new ArrayList<>();
         for (MaterialCheckBox cb : checkBoxes) {
             if (cb.isChecked()) {
-                result.add((String) cb.getTag());
+                Object tag = cb.getTag();
+                if (tag instanceof String) {
+                    result.add((String) tag);
+                } else if (tag instanceof TopicSelectionTag) {
+                    result.add(((TopicSelectionTag) tag).path);
+                }
             }
         }
         return result;
+    }
+
+    private void refreshSingleTopicHeaders() {
+        if (singleTopicHeaderBindings.isEmpty()) {
+            return;
+        }
+        Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
+        for (SingleTopicHeaderBinding binding : singleTopicHeaderBindings) {
+            TopicProgress progress = progressByTopic.get(binding.topicPath);
+            binding.header.setText(buildSingleTopicHeaderText(binding.sectionTitle, progress));
+        }
+    }
+
+    private CharSequence buildSingleTopicHeaderText(String title, TopicProgress progress) {
+        int seen = progress != null ? progress.getSeen() : 0;
+        int accuracy = progress != null ? Math.round(progress.getAccuracyPercent()) : 0;
+        String stats = getString(R.string.string_topic_progress_accuracy_seen, accuracy, seen);
+        String full = title + "\n" + stats;
+        SpannableString styled = new SpannableString(full);
+        int secondLineStart = title.length() + 1;
+        styled.setSpan(new RelativeSizeSpan(0.72f), secondLineStart, full.length(), Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
+        return styled;
+    }
+
+    private static final class TopicSelectionTag {
+        final String path;
+
+        TopicSelectionTag(String path) {
+            this.path = path;
+        }
+    }
+
+    private static final class SingleTopicHeaderBinding {
+        final TextView header;
+        final String topicPath;
+        final String sectionTitle;
+
+        SingleTopicHeaderBinding(TextView header, String topicPath, String sectionTitle) {
+            this.header = header;
+            this.topicPath = topicPath;
+            this.sectionTitle = sectionTitle;
+        }
     }
 
     private void updateStartState() {
@@ -196,17 +309,6 @@ public class HomeActivity extends AppCompatActivity {
         }
         btnStart.setEnabled(any);
         btnStart.setAlpha(any ? 1f : 0.5f);
-    }
-
-    private String formatName(String raw) {
-        String[] parts = raw.split("_");
-        StringBuilder sb = new StringBuilder();
-        for (String part : parts) {
-            if (!part.isEmpty()) {
-                sb.append(Character.toUpperCase(part.charAt(0))).append(part.substring(1)).append(" ");
-            }
-        }
-        return sb.toString().trim();
     }
 
     private void setupTopBar() {

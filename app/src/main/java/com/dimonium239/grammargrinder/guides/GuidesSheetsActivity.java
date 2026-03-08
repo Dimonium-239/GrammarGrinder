@@ -8,6 +8,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import androidx.activity.OnBackPressedCallback;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.dimonium239.grammargrinder.options.OptionsActivity;
@@ -43,6 +44,14 @@ public class GuidesSheetsActivity extends AppCompatActivity {
 
         setupTopBar();
         renderGuides();
+
+        // Keep hardware/gesture back behavior consistent with top-bar back.
+        getOnBackPressedDispatcher().addCallback(this, new OnBackPressedCallback(true) {
+            @Override
+            public void handleOnBackPressed() {
+                navigateBack();
+            }
+        });
     }
 
     private void setupTopBar() {

@@ -1,12 +1,5002 @@
 [
   {
     "question": "She _____ (work) in a bank.",
-    "options": ["works", "work", "is working"],
+    "options": ["works", "work", "is working", "working"],
     "correctAnswer": "works"
   },
   {
     "question": "They _____ (play) tennis every Sunday.",
-    "options": ["play", "plays", "are playing"],
+    "options": ["play", "plays", "are playing", "played"],
     "correctAnswer": "play"
+  },
+  {
+    "question": "The students _____ (write) the piano on Mondays.",
+    "options": ["writes", "is writing", "write", "writing"],
+    "correctAnswer": "write"
+  },
+  {
+    "question": "Tom _____ (go) in the pool often.",
+    "options": ["goes", "go", "is going", "going"],
+    "correctAnswer": "goes"
+  },
+  {
+    "question": "You and I _____ (drive) books sometimes.",
+    "options": ["drives", "is driving", "drive", "driving"],
+    "correctAnswer": "drive"
+  },
+  {
+    "question": "The bird _____ (clean) everywhere sometimes.",
+    "options": ["cleans", "is cleaning", "clean", "cleaning"],
+    "correctAnswer": "cleans"
+  },
+  {
+    "question": "Tom _____ (work) Spanish often.",
+    "options": ["is working", "works", "work", "working"],
+    "correctAnswer": "works"
+  },
+  {
+    "question": "People _____ (eat) to music at night.",
+    "options": ["eating", "eat", "is eating", "eats"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "My parents _____ (fly) milk often.",
+    "options": ["flies", "is flying", "flying", "fly"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "He _____ (drink) emails on Mondays.",
+    "options": ["drink", "drinks", "is drinking", "drinking"],
+    "correctAnswer": "drinks"
+  },
+  {
+    "question": "A student _____ (play) everywhere sometimes.",
+    "options": ["plays", "is playing", "playing", "play"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "Mr. Smith _____ (go) pizza every weekend.",
+    "options": ["is going", "goes", "go", "going"],
+    "correctAnswer": "goes"
+  },
+  {
+    "question": "Doctors _____ (carry) milk never.",
+    "options": ["is carrying", "carrying", "carry", "carries"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "She _____ (work) to the park every weekend.",
+    "options": ["working", "is working", "work", "works"],
+    "correctAnswer": "works"
+  },
+  {
+    "question": "He _____ (study) to the park twice a week.",
+    "options": ["studies", "study", "is studying", "studying"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "We _____ (wash) the piano twice a week.",
+    "options": ["wash", "washes", "washing", "is washing"],
+    "correctAnswer": "wash"
+  },
+  {
+    "question": "A student _____ (swim) pizza on Mondays.",
+    "options": ["is swimming", "swims", "swim", "swimming"],
+    "correctAnswer": "swims"
+  },
+  {
+    "question": "Doctors _____ (like) dinner usually.",
+    "options": ["like", "is liking", "likes", "liking"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "I _____ (like) everywhere twice a week.",
+    "options": ["liking", "like", "likes", "is liking"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "My parents _____ (cook) dinner twice a week.",
+    "options": ["is cooking", "cooks", "cooking", "cook"],
+    "correctAnswer": "cook"
+  },
+  {
+    "question": "Cats _____ (run) to music every morning.",
+    "options": ["run", "running", "runs", "is running"],
+    "correctAnswer": "run"
+  },
+  {
+    "question": "The bird _____ (listen) football often.",
+    "options": ["listen", "is listening", "listens", "listening"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "The cat _____ (like) the car never.",
+    "options": ["like", "likes", "liking", "is liking"],
+    "correctAnswer": "likes"
+  },
+  {
+    "question": "The students _____ (watch) the car every weekend.",
+    "options": ["watching", "watch", "watches", "is watching"],
+    "correctAnswer": "watch"
+  },
+  {
+    "question": "My sister _____ (read) emails sometimes.",
+    "options": ["is reading", "reading", "read", "reads"],
+    "correctAnswer": "reads"
+  },
+  {
+    "question": "My parents _____ (swim) to music every morning.",
+    "options": ["swim", "swims", "is swimming", "swimming"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "I _____ (eat) in the pool at night.",
+    "options": ["eats", "eat", "eating", "is eating"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "The cat _____ (play) fast every day.",
+    "options": ["play", "playing", "plays", "is playing"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "The bird _____ (watch) emails sometimes.",
+    "options": ["watches", "watching", "is watching", "watch"],
+    "correctAnswer": "watches"
+  },
+  {
+    "question": "Mr. Smith _____ (play) milk sometimes.",
+    "options": ["play", "plays", "is playing", "playing"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "She _____ (play) water every morning.",
+    "options": ["play", "plays", "playing", "is playing"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "The doctor _____ (eat) TV often.",
+    "options": ["eat", "is eating", "eating", "eats"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "Cats _____ (clean) the house often.",
+    "options": ["is cleaning", "cleans", "cleaning", "clean"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "The teacher _____ (go) milk every day.",
+    "options": ["go", "going", "is going", "goes"],
+    "correctAnswer": "goes"
+  },
+  {
+    "question": "You _____ (swim) the heavy bags every morning.",
+    "options": ["swimming", "is swimming", "swims", "swim"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "She _____ (watch) the piano never.",
+    "options": ["is watching", "watch", "watching", "watches"],
+    "correctAnswer": "watches"
+  },
+  {
+    "question": "He _____ (eat) fast at night.",
+    "options": ["eat", "eats", "is eating", "eating"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "My sister _____ (fly) everywhere every morning.",
+    "options": ["flies", "fly", "is flying", "flying"],
+    "correctAnswer": "flies"
+  },
+  {
+    "question": "The doctor _____ (swim) milk every morning.",
+    "options": ["swim", "is swimming", "swimming", "swims"],
+    "correctAnswer": "swims"
+  },
+  {
+    "question": "The bird _____ (read) TV often.",
+    "options": ["reading", "is reading", "read", "reads"],
+    "correctAnswer": "reads"
+  },
+  {
+    "question": "My sister _____ (go) in the pool every morning.",
+    "options": ["goes", "is going", "going", "go"],
+    "correctAnswer": "goes"
+  },
+  {
+    "question": "The doctor _____ (like) in the pool often.",
+    "options": ["is liking", "liking", "likes", "like"],
+    "correctAnswer": "likes"
+  },
+  {
+    "question": "The bird _____ (carry) water twice a week.",
+    "options": ["carries", "carry", "carrying", "is carrying"],
+    "correctAnswer": "carries"
+  },
+  {
+    "question": "I _____ (listen) in the pool every morning.",
+    "options": ["listens", "listening", "listen", "is listening"],
+    "correctAnswer": "listen"
+  },
+  {
+    "question": "The students _____ (carry) in the pool on Mondays.",
+    "options": ["carries", "carrying", "is carrying", "carry"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "We _____ (play) everywhere never.",
+    "options": ["playing", "play", "is playing", "plays"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "The children _____ (play) the kite often.",
+    "options": ["playing", "is playing", "play", "plays"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "The cat _____ (study) everywhere often.",
+    "options": ["is studying", "study", "studying", "studies"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "The children _____ (work) the piano sometimes.",
+    "options": ["work", "working", "is working", "works"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "He _____ (eat) the heavy bags every day.",
+    "options": ["is eating", "eating", "eats", "eat"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "They _____ (eat) English sometimes.",
+    "options": ["is eating", "eats", "eating", "eat"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "People _____ (swim) milk usually.",
+    "options": ["swimming", "swim", "swims", "is swimming"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "Mr. Smith _____ (play) English at night.",
+    "options": ["play", "plays", "is playing", "playing"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "You _____ (eat) in the pool at night.",
+    "options": ["is eating", "eat", "eating", "eats"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "The students _____ (work) emails every weekend.",
+    "options": ["work", "is working", "working", "works"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "The cat _____ (read) books every morning.",
+    "options": ["reading", "is reading", "read", "reads"],
+    "correctAnswer": "reads"
+  },
+  {
+    "question": "Mr. Smith _____ (cook) English every day.",
+    "options": ["cook", "is cooking", "cooking", "cooks"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "She _____ (swim) everywhere usually.",
+    "options": ["swim", "is swimming", "swimming", "swims"],
+    "correctAnswer": "swims"
+  },
+  {
+    "question": "A student _____ (cook) English on Mondays.",
+    "options": ["cooks", "cooking", "is cooking", "cook"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "Doctors _____ (swim) pizza usually.",
+    "options": ["swim", "swimming", "swims", "is swimming"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "It _____ (speak) everywhere on Mondays.",
+    "options": ["speaks", "speak", "is speaking", "speaking"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "The birds _____ (clean) books sometimes.",
+    "options": ["cleans", "clean", "is cleaning", "cleaning"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "My parents _____ (like) in the pool often.",
+    "options": ["likes", "like", "liking", "is liking"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "They _____ (wash) pizza often.",
+    "options": ["is washing", "washes", "wash", "washing"],
+    "correctAnswer": "wash"
+  },
+  {
+    "question": "A student _____ (listen) the piano sometimes.",
+    "options": ["listens", "listen", "is listening", "listening"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "I _____ (speak) the house on Mondays.",
+    "options": ["speaks", "speaking", "speak", "is speaking"],
+    "correctAnswer": "speak"
+  },
+  {
+    "question": "We _____ (carry) water on Mondays.",
+    "options": ["carrying", "is carrying", "carries", "carry"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "We _____ (cook) everywhere usually.",
+    "options": ["cooking", "is cooking", "cook", "cooks"],
+    "correctAnswer": "cook"
+  },
+  {
+    "question": "The students _____ (listen) to the park often.",
+    "options": ["listen", "listens", "listening", "is listening"],
+    "correctAnswer": "listen"
+  },
+  {
+    "question": "It _____ (listen) in the pool every morning.",
+    "options": ["listening", "listens", "listen", "is listening"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "The cat _____ (cook) the heavy bags every morning.",
+    "options": ["is cooking", "cooks", "cooking", "cook"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "People _____ (drive) milk usually.",
+    "options": ["driving", "drive", "is driving", "drives"],
+    "correctAnswer": "drive"
+  },
+  {
+    "question": "It _____ (work) to music never.",
+    "options": ["working", "works", "is working", "work"],
+    "correctAnswer": "works"
+  },
+  {
+    "question": "She _____ (work) English usually.",
+    "options": ["working", "works", "work", "is working"],
+    "correctAnswer": "works"
+  },
+  {
+    "question": "He _____ (carry) football often.",
+    "options": ["is carrying", "carries", "carrying", "carry"],
+    "correctAnswer": "carries"
+  },
+  {
+    "question": "The students _____ (work) the piano twice a week.",
+    "options": ["works", "work", "working", "is working"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "The cat _____ (clean) the car twice a week.",
+    "options": ["cleans", "cleaning", "clean", "is cleaning"],
+    "correctAnswer": "cleans"
+  },
+  {
+    "question": "The students _____ (speak) fast every weekend.",
+    "options": ["is speaking", "speaking", "speaks", "speak"],
+    "correctAnswer": "speak"
+  },
+  {
+    "question": "Tom _____ (fly) milk every morning.",
+    "options": ["fly", "flies", "flying", "is flying"],
+    "correctAnswer": "flies"
+  },
+  {
+    "question": "Cats _____ (speak) the piano every weekend.",
+    "options": ["speak", "speaking", "is speaking", "speaks"],
+    "correctAnswer": "speak"
+  },
+  {
+    "question": "You and I _____ (carry) to music sometimes.",
+    "options": ["is carrying", "carrying", "carries", "carry"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "Doctors _____ (study) everywhere twice a week.",
+    "options": ["is studying", "studying", "study", "studies"],
+    "correctAnswer": "study"
+  },
+  {
+    "question": "The birds _____ (like) dinner on Mondays.",
+    "options": ["liking", "likes", "is liking", "like"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "You and I _____ (fly) water at night.",
+    "options": ["fly", "flies", "is flying", "flying"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "The cat _____ (speak) to music never.",
+    "options": ["speak", "speaking", "is speaking", "speaks"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "Cats _____ (go) emails at night.",
+    "options": ["going", "go", "is going", "goes"],
+    "correctAnswer": "go"
+  },
+  {
+    "question": "My sister _____ (drive) in the pool at night.",
+    "options": ["drives", "drive", "is driving", "driving"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "My parents _____ (drive) milk usually.",
+    "options": ["driving", "is driving", "drives", "drive"],
+    "correctAnswer": "drive"
+  },
+  {
+    "question": "She _____ (clean) football at night.",
+    "options": ["is cleaning", "cleans", "clean", "cleaning"],
+    "correctAnswer": "cleans"
+  },
+  {
+    "question": "Doctors _____ (cook) English never.",
+    "options": ["cooks", "cook", "is cooking", "cooking"],
+    "correctAnswer": "cook"
+  },
+  {
+    "question": "I _____ (wash) dinner every day.",
+    "options": ["wash", "is washing", "washing", "washes"],
+    "correctAnswer": "wash"
+  },
+  {
+    "question": "It _____ (study) TV at night.",
+    "options": ["is studying", "studying", "studies", "study"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "I _____ (fly) emails often.",
+    "options": ["flies", "flying", "is flying", "fly"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "You and I _____ (watch) in the pool twice a week.",
+    "options": ["watches", "is watching", "watching", "watch"],
+    "correctAnswer": "watch"
+  },
+  {
+    "question": "Cats _____ (drive) the piano on Mondays.",
+    "options": ["is driving", "drive", "driving", "drives"],
+    "correctAnswer": "drive"
+  },
+  {
+    "question": "The students _____ (listen) English on Mondays.",
+    "options": ["listens", "is listening", "listening", "listen"],
+    "correctAnswer": "listen"
+  },
+  {
+    "question": "Cats _____ (watch) pizza sometimes.",
+    "options": ["is watching", "watch", "watches", "watching"],
+    "correctAnswer": "watch"
+  },
+  {
+    "question": "Sarah _____ (study) milk never.",
+    "options": ["studies", "is studying", "study", "studying"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "My parents _____ (go) fast on Mondays.",
+    "options": ["go", "going", "is going", "goes"],
+    "correctAnswer": "go"
+  },
+  {
+    "question": "Cats _____ (like) the heavy bags sometimes.",
+    "options": ["likes", "liking", "is liking", "like"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "The birds _____ (speak) dinner at night.",
+    "options": ["speaks", "speak", "is speaking", "speaking"],
+    "correctAnswer": "speak"
+  },
+  {
+    "question": "Sarah _____ (speak) the kite twice a week.",
+    "options": ["is speaking", "speaks", "speaking", "speak"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "Tom _____ (study) milk every weekend.",
+    "options": ["studying", "is studying", "studies", "study"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "Doctors _____ (cook) the house sometimes.",
+    "options": ["cooking", "cook", "is cooking", "cooks"],
+    "correctAnswer": "cook"
+  },
+  {
+    "question": "The students _____ (eat) to the park never.",
+    "options": ["is eating", "eats", "eating", "eat"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "They _____ (write) Spanish every morning.",
+    "options": ["writing", "is writing", "write", "writes"],
+    "correctAnswer": "write"
+  },
+  {
+    "question": "You and I _____ (write) the house never.",
+    "options": ["is writing", "write", "writing", "writes"],
+    "correctAnswer": "write"
+  },
+  {
+    "question": "Doctors _____ (read) to the park usually.",
+    "options": ["reads", "read", "reading", "is reading"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "She _____ (listen) to music often.",
+    "options": ["listens", "listen", "is listening", "listening"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "We _____ (carry) books usually.",
+    "options": ["carries", "carrying", "carry", "is carrying"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "The bird _____ (cook) pizza sometimes.",
+    "options": ["is cooking", "cook", "cooking", "cooks"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "Cats _____ (like) in the pool at night.",
+    "options": ["like", "likes", "liking", "is liking"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "The teacher _____ (read) the house at night.",
+    "options": ["read", "is reading", "reads", "reading"],
+    "correctAnswer": "reads"
+  },
+  {
+    "question": "The cat _____ (run) everywhere often.",
+    "options": ["run", "is running", "running", "runs"],
+    "correctAnswer": "runs"
+  },
+  {
+    "question": "They _____ (drive) the kite often.",
+    "options": ["drive", "drives", "driving", "is driving"],
+    "correctAnswer": "drive"
+  },
+  {
+    "question": "He _____ (wash) fast often.",
+    "options": ["washes", "washing", "is washing", "wash"],
+    "correctAnswer": "washes"
+  },
+  {
+    "question": "You and I _____ (clean) the piano every day.",
+    "options": ["clean", "cleaning", "cleans", "is cleaning"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "He _____ (run) pizza twice a week.",
+    "options": ["running", "is running", "runs", "run"],
+    "correctAnswer": "runs"
+  },
+  {
+    "question": "People _____ (listen) the car sometimes.",
+    "options": ["listen", "is listening", "listens", "listening"],
+    "correctAnswer": "listen"
+  },
+  {
+    "question": "My sister _____ (wash) dinner often.",
+    "options": ["is washing", "washing", "wash", "washes"],
+    "correctAnswer": "washes"
+  },
+  {
+    "question": "People _____ (study) in the pool at night.",
+    "options": ["studies", "studying", "study", "is studying"],
+    "correctAnswer": "study"
+  },
+  {
+    "question": "She _____ (listen) to the park sometimes.",
+    "options": ["is listening", "listen", "listening", "listens"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "We _____ (read) milk every day.",
+    "options": ["read", "reads", "is reading", "reading"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "He _____ (carry) fast on Mondays.",
+    "options": ["carry", "is carrying", "carrying", "carries"],
+    "correctAnswer": "carries"
+  },
+  {
+    "question": "The children _____ (carry) in the pool at night.",
+    "options": ["carry", "is carrying", "carries", "carrying"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "Sarah _____ (go) emails sometimes.",
+    "options": ["goes", "go", "going", "is going"],
+    "correctAnswer": "goes"
+  },
+  {
+    "question": "A student _____ (drink) fast on Mondays.",
+    "options": ["drinks", "drink", "is drinking", "drinking"],
+    "correctAnswer": "drinks"
+  },
+  {
+    "question": "Cats _____ (run) the kite never.",
+    "options": ["is running", "run", "runs", "running"],
+    "correctAnswer": "run"
+  },
+  {
+    "question": "I _____ (drive) the piano twice a week.",
+    "options": ["driving", "is driving", "drive", "drives"],
+    "correctAnswer": "drive"
+  },
+  {
+    "question": "We _____ (write) dinner every morning.",
+    "options": ["is writing", "write", "writing", "writes"],
+    "correctAnswer": "write"
+  },
+  {
+    "question": "A student _____ (speak) in the pool usually.",
+    "options": ["speaking", "is speaking", "speak", "speaks"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "We _____ (read) fast every morning.",
+    "options": ["reading", "is reading", "reads", "read"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "Mr. Smith _____ (wash) TV never.",
+    "options": ["wash", "washes", "washing", "is washing"],
+    "correctAnswer": "washes"
+  },
+  {
+    "question": "You _____ (study) in the pool sometimes.",
+    "options": ["studies", "study", "is studying", "studying"],
+    "correctAnswer": "study"
+  },
+  {
+    "question": "A student _____ (listen) milk every morning.",
+    "options": ["listens", "listen", "listening", "is listening"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "Doctors _____ (carry) milk usually.",
+    "options": ["carrying", "is carrying", "carries", "carry"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "Sarah _____ (drive) to the park every weekend.",
+    "options": ["drive", "drives", "is driving", "driving"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "Cats _____ (like) in the pool every morning.",
+    "options": ["likes", "is liking", "liking", "like"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "Tom _____ (watch) the car twice a week.",
+    "options": ["watching", "watch", "watches", "is watching"],
+    "correctAnswer": "watches"
+  },
+  {
+    "question": "Tom _____ (fly) pizza usually.",
+    "options": ["flying", "is flying", "fly", "flies"],
+    "correctAnswer": "flies"
+  },
+  {
+    "question": "He _____ (run) to the park every morning.",
+    "options": ["run", "runs", "running", "is running"],
+    "correctAnswer": "runs"
+  },
+  {
+    "question": "My parents _____ (swim) dinner on Mondays.",
+    "options": ["swimming", "swims", "is swimming", "swim"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "It _____ (run) pizza at night.",
+    "options": ["is running", "running", "runs", "run"],
+    "correctAnswer": "runs"
+  },
+  {
+    "question": "She _____ (swim) pizza at night.",
+    "options": ["is swimming", "swim", "swims", "swimming"],
+    "correctAnswer": "swims"
+  },
+  {
+    "question": "She _____ (work) the kite usually.",
+    "options": ["works", "work", "working", "is working"],
+    "correctAnswer": "works"
+  },
+  {
+    "question": "He _____ (listen) dinner sometimes.",
+    "options": ["listening", "listens", "listen", "is listening"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "The cat _____ (drive) the house never.",
+    "options": ["driving", "drives", "drive", "is driving"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "You _____ (drive) pizza every day.",
+    "options": ["is driving", "drive", "drives", "driving"],
+    "correctAnswer": "drive"
+  },
+  {
+    "question": "A student _____ (study) the heavy bags every day.",
+    "options": ["is studying", "studying", "studies", "study"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "The bird _____ (read) TV every morning.",
+    "options": ["read", "reads", "reading", "is reading"],
+    "correctAnswer": "reads"
+  },
+  {
+    "question": "You _____ (work) the car often.",
+    "options": ["works", "work", "is working", "working"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "A student _____ (wash) everywhere every morning.",
+    "options": ["washing", "is washing", "washes", "wash"],
+    "correctAnswer": "washes"
+  },
+  {
+    "question": "Cats _____ (study) football every morning.",
+    "options": ["is studying", "study", "studies", "studying"],
+    "correctAnswer": "study"
+  },
+  {
+    "question": "We _____ (write) emails sometimes.",
+    "options": ["writing", "writes", "write", "is writing"],
+    "correctAnswer": "write"
+  },
+  {
+    "question": "Cats _____ (play) dinner often.",
+    "options": ["playing", "is playing", "plays", "play"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "You _____ (fly) the piano every day.",
+    "options": ["flying", "is flying", "flies", "fly"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "The teacher _____ (swim) the house at night.",
+    "options": ["swims", "is swimming", "swimming", "swim"],
+    "correctAnswer": "swims"
+  },
+  {
+    "question": "The birds _____ (speak) the car often.",
+    "options": ["speaks", "speaking", "speak", "is speaking"],
+    "correctAnswer": "speak"
+  },
+  {
+    "question": "You _____ (work) the house sometimes.",
+    "options": ["is working", "working", "work", "works"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "You and I _____ (run) everywhere at night.",
+    "options": ["is running", "running", "run", "runs"],
+    "correctAnswer": "run"
+  },
+  {
+    "question": "He _____ (eat) in the pool every morning.",
+    "options": ["eating", "eats", "is eating", "eat"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "The birds _____ (read) the car sometimes.",
+    "options": ["reading", "read", "is reading", "reads"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "He _____ (write) emails usually.",
+    "options": ["is writing", "write", "writing", "writes"],
+    "correctAnswer": "writes"
+  },
+  {
+    "question": "The cat _____ (play) dinner every weekend.",
+    "options": ["plays", "playing", "is playing", "play"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "We _____ (speak) milk at night.",
+    "options": ["speaking", "speaks", "speak", "is speaking"],
+    "correctAnswer": "speak"
+  },
+  {
+    "question": "They _____ (work) dinner twice a week.",
+    "options": ["is working", "works", "working", "work"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "They _____ (write) in the pool twice a week.",
+    "options": ["is writing", "write", "writes", "writing"],
+    "correctAnswer": "write"
+  },
+  {
+    "question": "The doctor _____ (cook) English every weekend.",
+    "options": ["cooking", "cook", "is cooking", "cooks"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "She _____ (play) pizza every weekend.",
+    "options": ["play", "plays", "playing", "is playing"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "A student _____ (run) English sometimes.",
+    "options": ["run", "is running", "running", "runs"],
+    "correctAnswer": "runs"
+  },
+  {
+    "question": "Cats _____ (drink) to music sometimes.",
+    "options": ["is drinking", "drinking", "drink", "drinks"],
+    "correctAnswer": "drink"
+  },
+  {
+    "question": "The doctor _____ (play) the heavy bags every day.",
+    "options": ["playing", "is playing", "play", "plays"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "He _____ (study) the kite never.",
+    "options": ["is studying", "studying", "studies", "study"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "They _____ (study) in the pool usually.",
+    "options": ["studies", "study", "is studying", "studying"],
+    "correctAnswer": "study"
+  },
+  {
+    "question": "Mr. Smith _____ (listen) in the pool every weekend.",
+    "options": ["is listening", "listens", "listening", "listen"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "He _____ (like) to the park twice a week.",
+    "options": ["like", "is liking", "likes", "liking"],
+    "correctAnswer": "likes"
+  },
+  {
+    "question": "The students _____ (drink) the house often.",
+    "options": ["drinks", "is drinking", "drink", "drinking"],
+    "correctAnswer": "drink"
+  },
+  {
+    "question": "Cats _____ (read) fast every day.",
+    "options": ["read", "reading", "reads", "is reading"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "They _____ (write) books sometimes.",
+    "options": ["is writing", "write", "writing", "writes"],
+    "correctAnswer": "write"
+  },
+  {
+    "question": "The students _____ (drink) dinner twice a week.",
+    "options": ["drinks", "drink", "is drinking", "drinking"],
+    "correctAnswer": "drink"
+  },
+  {
+    "question": "They _____ (play) the kite every day.",
+    "options": ["playing", "is playing", "play", "plays"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "People _____ (play) English twice a week.",
+    "options": ["is playing", "play", "playing", "plays"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "Cats _____ (like) books often.",
+    "options": ["liking", "is liking", "like", "likes"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "Mr. Smith _____ (fly) everywhere twice a week.",
+    "options": ["flies", "is flying", "flying", "fly"],
+    "correctAnswer": "flies"
+  },
+  {
+    "question": "Tom _____ (study) pizza never.",
+    "options": ["is studying", "studies", "study", "studying"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "She _____ (study) in the pool every weekend.",
+    "options": ["studies", "study", "studying", "is studying"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "We _____ (play) the heavy bags never.",
+    "options": ["plays", "playing", "is playing", "play"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "The birds _____ (fly) emails usually.",
+    "options": ["fly", "flying", "is flying", "flies"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "Tom _____ (write) fast twice a week.",
+    "options": ["writes", "writing", "is writing", "write"],
+    "correctAnswer": "writes"
+  },
+  {
+    "question": "The bird _____ (carry) the kite every morning.",
+    "options": ["carrying", "carries", "is carrying", "carry"],
+    "correctAnswer": "carries"
+  },
+  {
+    "question": "The cat _____ (work) dinner on Mondays.",
+    "options": ["works", "working", "is working", "work"],
+    "correctAnswer": "works"
+  },
+  {
+    "question": "My parents _____ (study) books usually.",
+    "options": ["study", "is studying", "studies", "studying"],
+    "correctAnswer": "study"
+  },
+  {
+    "question": "The doctor _____ (listen) water never.",
+    "options": ["is listening", "listening", "listens", "listen"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "My sister _____ (like) dinner sometimes.",
+    "options": ["likes", "is liking", "like", "liking"],
+    "correctAnswer": "likes"
+  },
+  {
+    "question": "The cat _____ (listen) Spanish every morning.",
+    "options": ["is listening", "listen", "listening", "listens"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "Sarah _____ (eat) to the park at night.",
+    "options": ["eating", "eat", "is eating", "eats"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "We _____ (swim) TV every weekend.",
+    "options": ["is swimming", "swim", "swimming", "swims"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "Sarah _____ (speak) water every day.",
+    "options": ["speaks", "speak", "is speaking", "speaking"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "They _____ (clean) football on Mondays.",
+    "options": ["clean", "cleans", "cleaning", "is cleaning"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "The birds _____ (clean) TV usually.",
+    "options": ["cleaning", "is cleaning", "clean", "cleans"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "Sarah _____ (listen) dinner every day.",
+    "options": ["listen", "listening", "listens", "is listening"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "The doctor _____ (eat) emails every weekend.",
+    "options": ["is eating", "eats", "eating", "eat"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "We _____ (wash) the kite every weekend.",
+    "options": ["washes", "washing", "is washing", "wash"],
+    "correctAnswer": "wash"
+  },
+  {
+    "question": "The doctor _____ (cook) books usually.",
+    "options": ["cooks", "cook", "is cooking", "cooking"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "The teacher _____ (wash) the piano never.",
+    "options": ["washes", "washing", "is washing", "wash"],
+    "correctAnswer": "washes"
+  },
+  {
+    "question": "People _____ (run) the car twice a week.",
+    "options": ["runs", "is running", "running", "run"],
+    "correctAnswer": "run"
+  },
+  {
+    "question": "A student _____ (read) dinner usually.",
+    "options": ["reading", "read", "reads", "is reading"],
+    "correctAnswer": "reads"
+  },
+  {
+    "question": "The cat _____ (drink) Spanish often.",
+    "options": ["drinking", "drink", "is drinking", "drinks"],
+    "correctAnswer": "drinks"
+  },
+  {
+    "question": "She _____ (speak) to music every morning.",
+    "options": ["is speaking", "speaking", "speak", "speaks"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "The cat _____ (drink) milk twice a week.",
+    "options": ["drinking", "drink", "drinks", "is drinking"],
+    "correctAnswer": "drinks"
+  },
+  {
+    "question": "Sarah _____ (go) the heavy bags never.",
+    "options": ["going", "is going", "goes", "go"],
+    "correctAnswer": "goes"
+  },
+  {
+    "question": "Doctors _____ (wash) the house every weekend.",
+    "options": ["washing", "wash", "is washing", "washes"],
+    "correctAnswer": "wash"
+  },
+  {
+    "question": "He _____ (like) fast never.",
+    "options": ["liking", "is liking", "like", "likes"],
+    "correctAnswer": "likes"
+  },
+  {
+    "question": "A student _____ (like) to music never.",
+    "options": ["is liking", "liking", "likes", "like"],
+    "correctAnswer": "likes"
+  },
+  {
+    "question": "My parents _____ (drink) the kite on Mondays.",
+    "options": ["drinking", "drinks", "drink", "is drinking"],
+    "correctAnswer": "drink"
+  },
+  {
+    "question": "She _____ (cook) pizza every day.",
+    "options": ["cooks", "is cooking", "cook", "cooking"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "The teacher _____ (cook) everywhere twice a week.",
+    "options": ["cooks", "cook", "is cooking", "cooking"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "He _____ (watch) water usually.",
+    "options": ["watch", "watches", "is watching", "watching"],
+    "correctAnswer": "watches"
+  },
+  {
+    "question": "It _____ (run) milk every day.",
+    "options": ["runs", "run", "running", "is running"],
+    "correctAnswer": "runs"
+  },
+  {
+    "question": "You and I _____ (watch) pizza on Mondays.",
+    "options": ["watches", "is watching", "watch", "watching"],
+    "correctAnswer": "watch"
+  },
+  {
+    "question": "Tom _____ (drink) the house twice a week.",
+    "options": ["is drinking", "drinks", "drink", "drinking"],
+    "correctAnswer": "drinks"
+  },
+  {
+    "question": "My sister _____ (eat) the heavy bags every weekend.",
+    "options": ["eats", "eat", "is eating", "eating"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "A student _____ (eat) dinner twice a week.",
+    "options": ["eats", "eat", "eating", "is eating"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "The students _____ (cook) the kite at night.",
+    "options": ["cooking", "cooks", "is cooking", "cook"],
+    "correctAnswer": "cook"
+  },
+  {
+    "question": "The birds _____ (eat) football sometimes.",
+    "options": ["is eating", "eat", "eats", "eating"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "A student _____ (drive) the kite twice a week.",
+    "options": ["drives", "is driving", "drive", "driving"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "Tom _____ (write) the kite on Mondays.",
+    "options": ["write", "writing", "is writing", "writes"],
+    "correctAnswer": "writes"
+  },
+  {
+    "question": "Doctors _____ (drink) the heavy bags often.",
+    "options": ["is drinking", "drink", "drinking", "drinks"],
+    "correctAnswer": "drink"
+  },
+  {
+    "question": "We _____ (drive) the car at night.",
+    "options": ["drives", "is driving", "driving", "drive"],
+    "correctAnswer": "drive"
+  },
+  {
+    "question": "It _____ (write) Spanish every morning.",
+    "options": ["is writing", "write", "writes", "writing"],
+    "correctAnswer": "writes"
+  },
+  {
+    "question": "Mr. Smith _____ (speak) TV usually.",
+    "options": ["speak", "is speaking", "speaking", "speaks"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "The cat _____ (carry) football usually.",
+    "options": ["carries", "is carrying", "carrying", "carry"],
+    "correctAnswer": "carries"
+  },
+  {
+    "question": "People _____ (read) dinner at night.",
+    "options": ["reads", "read", "is reading", "reading"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "Sarah _____ (drive) TV every weekend.",
+    "options": ["drives", "is driving", "driving", "drive"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "My parents _____ (work) to music every day.",
+    "options": ["is working", "working", "works", "work"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "You and I _____ (like) dinner sometimes.",
+    "options": ["liking", "like", "likes", "is liking"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "Mr. Smith _____ (speak) water every day.",
+    "options": ["speaks", "speaking", "is speaking", "speak"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "My sister _____ (go) dinner every day.",
+    "options": ["going", "goes", "is going", "go"],
+    "correctAnswer": "goes"
+  },
+  {
+    "question": "We _____ (watch) the car never.",
+    "options": ["is watching", "watch", "watches", "watching"],
+    "correctAnswer": "watch"
+  },
+  {
+    "question": "Cats _____ (swim) pizza sometimes.",
+    "options": ["swimming", "swim", "swims", "is swimming"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "You _____ (speak) the piano sometimes.",
+    "options": ["speaking", "is speaking", "speaks", "speak"],
+    "correctAnswer": "speak"
+  },
+  {
+    "question": "The doctor _____ (study) the car on Mondays.",
+    "options": ["study", "studying", "studies", "is studying"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "The birds _____ (work) water often.",
+    "options": ["working", "is working", "work", "works"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "Cats _____ (watch) fast often.",
+    "options": ["watch", "watches", "is watching", "watching"],
+    "correctAnswer": "watch"
+  },
+  {
+    "question": "I _____ (swim) TV every weekend.",
+    "options": ["is swimming", "swim", "swimming", "swims"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "We _____ (listen) milk sometimes.",
+    "options": ["is listening", "listen", "listens", "listening"],
+    "correctAnswer": "listen"
+  },
+  {
+    "question": "The bird _____ (run) the kite never.",
+    "options": ["is running", "running", "run", "runs"],
+    "correctAnswer": "runs"
+  },
+  {
+    "question": "My sister _____ (wash) to the park every morning.",
+    "options": ["wash", "washing", "is washing", "washes"],
+    "correctAnswer": "washes"
+  },
+  {
+    "question": "It _____ (read) pizza sometimes.",
+    "options": ["reads", "reading", "is reading", "read"],
+    "correctAnswer": "reads"
+  },
+  {
+    "question": "They _____ (fly) Spanish every day.",
+    "options": ["flying", "flies", "fly", "is flying"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "She _____ (eat) pizza sometimes.",
+    "options": ["eating", "eat", "eats", "is eating"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "The birds _____ (fly) in the pool often.",
+    "options": ["flying", "fly", "flies", "is flying"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "Tom _____ (run) the car sometimes.",
+    "options": ["runs", "is running", "running", "run"],
+    "correctAnswer": "runs"
+  },
+  {
+    "question": "The students _____ (cook) dinner every weekend.",
+    "options": ["cooks", "is cooking", "cook", "cooking"],
+    "correctAnswer": "cook"
+  },
+  {
+    "question": "The cat _____ (study) the kite twice a week.",
+    "options": ["studying", "studies", "is studying", "study"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "He _____ (drive) books never.",
+    "options": ["drive", "drives", "driving", "is driving"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "The cat _____ (wash) Spanish every day.",
+    "options": ["washes", "is washing", "wash", "washing"],
+    "correctAnswer": "washes"
+  },
+  {
+    "question": "Tom _____ (study) to music at night.",
+    "options": ["is studying", "study", "studies", "studying"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "The students _____ (carry) English at night.",
+    "options": ["carrying", "carries", "carry", "is carrying"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "A student _____ (play) the kite every morning.",
+    "options": ["play", "plays", "playing", "is playing"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "The teacher _____ (drink) to the park every day.",
+    "options": ["is drinking", "drinks", "drink", "drinking"],
+    "correctAnswer": "drinks"
+  },
+  {
+    "question": "We _____ (go) emails sometimes.",
+    "options": ["is going", "going", "go", "goes"],
+    "correctAnswer": "go"
+  },
+  {
+    "question": "Mr. Smith _____ (drive) in the pool often.",
+    "options": ["is driving", "driving", "drive", "drives"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "The birds _____ (work) the piano every weekend.",
+    "options": ["works", "work", "is working", "working"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "Tom _____ (drive) water usually.",
+    "options": ["is driving", "drive", "driving", "drives"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "The children _____ (study) emails every weekend.",
+    "options": ["studies", "is studying", "studying", "study"],
+    "correctAnswer": "study"
+  },
+  {
+    "question": "Doctors _____ (work) the house never.",
+    "options": ["works", "is working", "working", "work"],
+    "correctAnswer": "work"
+  },
+  {
+    "question": "People _____ (listen) everywhere every morning.",
+    "options": ["listen", "is listening", "listening", "listens"],
+    "correctAnswer": "listen"
+  },
+  {
+    "question": "The cat _____ (eat) the piano sometimes.",
+    "options": ["eat", "is eating", "eats", "eating"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "The students _____ (read) the car at night.",
+    "options": ["reading", "read", "is reading", "reads"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "People _____ (like) emails on Mondays.",
+    "options": ["liking", "is liking", "likes", "like"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "The teacher _____ (listen) English every day.",
+    "options": ["listen", "listening", "is listening", "listens"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "He _____ (study) everywhere never.",
+    "options": ["study", "studying", "studies", "is studying"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "The bird _____ (speak) pizza every day.",
+    "options": ["speaking", "speaks", "speak", "is speaking"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "It _____ (read) pizza every morning.",
+    "options": ["read", "is reading", "reading", "reads"],
+    "correctAnswer": "reads"
+  },
+  {
+    "question": "My sister _____ (wash) the piano often.",
+    "options": ["washing", "wash", "washes", "is washing"],
+    "correctAnswer": "washes"
+  },
+  {
+    "question": "The children _____ (go) football every day.",
+    "options": ["goes", "go", "going", "is going"],
+    "correctAnswer": "go"
+  },
+  {
+    "question": "It _____ (play) football at night.",
+    "options": ["playing", "is playing", "plays", "play"],
+    "correctAnswer": "plays"
+  },
+  {
+    "question": "The students _____ (wash) the kite every morning.",
+    "options": ["is washing", "wash", "washes", "washing"],
+    "correctAnswer": "wash"
+  },
+  {
+    "question": "My sister _____ (speak) to the park usually.",
+    "options": ["speak", "speaks", "is speaking", "speaking"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "People _____ (fly) English at night.",
+    "options": ["flies", "fly", "flying", "is flying"],
+    "correctAnswer": "fly"
+  },
+  {
+    "question": "The bird _____ (eat) football often.",
+    "options": ["eat", "eating", "is eating", "eats"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "The birds _____ (play) emails on Mondays.",
+    "options": ["play", "plays", "playing", "is playing"],
+    "correctAnswer": "play"
+  },
+  {
+    "question": "You and I _____ (carry) English at night.",
+    "options": ["carrying", "is carrying", "carry", "carries"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "It _____ (drive) pizza on Mondays.",
+    "options": ["drives", "drive", "driving", "is driving"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "Cats _____ (read) Spanish often.",
+    "options": ["reads", "is reading", "read", "reading"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "People _____ (clean) books sometimes.",
+    "options": ["cleaning", "is cleaning", "clean", "cleans"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "The teacher _____ (listen) Spanish every weekend.",
+    "options": ["listen", "listening", "is listening", "listens"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "My sister _____ (carry) to music twice a week.",
+    "options": ["is carrying", "carry", "carries", "carrying"],
+    "correctAnswer": "carries"
+  },
+  {
+    "question": "He _____ (fly) water sometimes.",
+    "options": ["fly", "is flying", "flying", "flies"],
+    "correctAnswer": "flies"
+  },
+  {
+    "question": "The birds _____ (like) dinner sometimes.",
+    "options": ["likes", "like", "is liking", "liking"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "I _____ (swim) emails every morning.",
+    "options": ["is swimming", "swim", "swims", "swimming"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "The bird _____ (read) the house every day.",
+    "options": ["is reading", "reading", "reads", "read"],
+    "correctAnswer": "reads"
+  },
+  {
+    "question": "The birds _____ (like) the heavy bags every morning.",
+    "options": ["liking", "likes", "is liking", "like"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "People _____ (carry) fast every day.",
+    "options": ["is carrying", "carrying", "carries", "carry"],
+    "correctAnswer": "carry"
+  },
+  {
+    "question": "He _____ (run) water every day.",
+    "options": ["is running", "running", "run", "runs"],
+    "correctAnswer": "runs"
+  },
+  {
+    "question": "The birds _____ (eat) football every morning.",
+    "options": ["eats", "eat", "is eating", "eating"],
+    "correctAnswer": "eat"
+  },
+  {
+    "question": "The doctor _____ (cook) TV every weekend.",
+    "options": ["cooking", "is cooking", "cook", "cooks"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "Tom _____ (eat) in the pool twice a week.",
+    "options": ["eating", "eats", "eat", "is eating"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "Sarah _____ (go) fast every morning.",
+    "options": ["going", "goes", "is going", "go"],
+    "correctAnswer": "goes"
+  },
+  {
+    "question": "The birds _____ (swim) the heavy bags every weekend.",
+    "options": ["swim", "swimming", "swims", "is swimming"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "Doctors _____ (watch) the house every morning.",
+    "options": ["is watching", "watches", "watch", "watching"],
+    "correctAnswer": "watch"
+  },
+  {
+    "question": "My parents _____ (swim) fast twice a week.",
+    "options": ["swims", "is swimming", "swimming", "swim"],
+    "correctAnswer": "swim"
+  },
+  {
+    "question": "He _____ (like) in the pool at night.",
+    "options": ["is liking", "liking", "like", "likes"],
+    "correctAnswer": "likes"
+  },
+  {
+    "question": "Tom _____ (watch) football at night.",
+    "options": ["is watching", "watch", "watches", "watching"],
+    "correctAnswer": "watches"
+  },
+  {
+    "question": "Tom _____ (speak) Spanish often.",
+    "options": ["speaks", "speak", "speaking", "is speaking"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "Tom _____ (like) everywhere at night.",
+    "options": ["likes", "is liking", "liking", "like"],
+    "correctAnswer": "likes"
+  },
+  {
+    "question": "The birds _____ (clean) pizza usually.",
+    "options": ["cleans", "clean", "cleaning", "is cleaning"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "The teacher _____ (write) pizza every morning.",
+    "options": ["writes", "write", "writing", "is writing"],
+    "correctAnswer": "writes"
+  },
+  {
+    "question": "The bird _____ (study) English at night.",
+    "options": ["studies", "studying", "is studying", "study"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "A student _____ (eat) the car every weekend.",
+    "options": ["eating", "eats", "is eating", "eat"],
+    "correctAnswer": "eats"
+  },
+  {
+    "question": "Cats _____ (like) English every day.",
+    "options": ["likes", "like", "liking", "is liking"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "They _____ (read) the kite usually.",
+    "options": ["is reading", "read", "reading", "reads"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "My parents _____ (like) emails usually.",
+    "options": ["liking", "is liking", "like", "likes"],
+    "correctAnswer": "like"
+  },
+  {
+    "question": "Mr. Smith _____ (drive) English often.",
+    "options": ["driving", "drive", "is driving", "drives"],
+    "correctAnswer": "drives"
+  },
+  {
+    "question": "He _____ (write) the heavy bags often.",
+    "options": ["is writing", "writing", "write", "writes"],
+    "correctAnswer": "writes"
+  },
+  {
+    "question": "A student _____ (cook) in the pool never.",
+    "options": ["is cooking", "cook", "cooks", "cooking"],
+    "correctAnswer": "cooks"
+  },
+  {
+    "question": "The cat _____ (listen) the heavy bags never.",
+    "options": ["listening", "is listening", "listen", "listens"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "A student _____ (study) water on Mondays.",
+    "options": ["is studying", "study", "studies", "studying"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "He _____ (listen) dinner on Mondays.",
+    "options": ["listening", "listen", "is listening", "listens"],
+    "correctAnswer": "listens"
+  },
+  {
+    "question": "The children _____ (cook) English every weekend.",
+    "options": ["cooks", "cooking", "is cooking", "cook"],
+    "correctAnswer": "cook"
+  },
+  {
+    "question": "She _____ (wash) the house never.",
+    "options": ["wash", "washes", "is washing", "washing"],
+    "correctAnswer": "washes"
+  },
+  {
+    "question": "My parents _____ (go) in the pool never.",
+    "options": ["going", "is going", "go", "goes"],
+    "correctAnswer": "go"
+  },
+  {
+    "question": "We _____ (clean) the car on Mondays.",
+    "options": ["is cleaning", "cleaning", "clean", "cleans"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "People _____ (write) milk on Mondays.",
+    "options": ["write", "writing", "is writing", "writes"],
+    "correctAnswer": "write"
+  },
+  {
+    "question": "We _____ (read) in the pool usually.",
+    "options": ["reading", "is reading", "reads", "read"],
+    "correctAnswer": "read"
+  },
+  {
+    "question": "The children _____ (listen) in the pool every weekend.",
+    "options": ["listening", "listen", "listens", "is listening"],
+    "correctAnswer": "listen"
+  },
+  {
+    "question": "You _____ (drive) books every weekend.",
+    "options": ["drive", "drives", "driving", "is driving"],
+    "correctAnswer": "drive"
+  },
+  {
+    "question": "He _____ (watch) the piano often.",
+    "options": ["watches", "watching", "watch", "is watching"],
+    "correctAnswer": "watches"
+  },
+  {
+    "question": "It _____ (speak) to the park every weekend.",
+    "options": ["speaks", "speaking", "speak", "is speaking"],
+    "correctAnswer": "speaks"
+  },
+  {
+    "question": "I _____ (clean) water every day.",
+    "options": ["is cleaning", "cleans", "clean", "cleaning"],
+    "correctAnswer": "clean"
+  },
+  {
+    "question": "He _____ (study) milk usually.",
+    "options": ["is studying", "study", "studying", "studies"],
+    "correctAnswer": "studies"
+  },
+  {
+    "question": "Cats _____ (speak) football every morning.",
+    "options": ["speak", "speaks", "is speaking", "speaking"],
+    "correctAnswer": "speak"
+  },
+  {
+    "question": "The students _____ (write) the heavy bags at night.",
+    "options": ["writes", "is writing", "write", "writing"],
+    "correctAnswer": "write"
+  },
+  {
+    "question": "The children _____ (clean) to music never.",
+    "options": ["don't clean", "not clean", "doesn't clean", "no clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "The teacher _____ (listen) the piano every morning.",
+    "options": ["no listen", "not listen", "doesn't listen", "don't listen"],
+    "correctAnswer": "doesn't listen"
+  },
+  {
+    "question": "Mr. Smith _____ (fly) in the pool every morning.",
+    "options": ["don't fly", "doesn't fly", "not fly", "no fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "You _____ (like) milk at night.",
+    "options": ["don't like", "doesn't like", "not like", "no like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "She _____ (like) pizza every day.",
+    "options": ["don't like", "doesn't like", "no like", "not like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "Doctors _____ (write) to the park usually.",
+    "options": ["don't write", "not write", "no write", "doesn't write"],
+    "correctAnswer": "don't write"
+  },
+  {
+    "question": "Cats _____ (run) the heavy bags twice a week.",
+    "options": ["no run", "doesn't run", "don't run", "not run"],
+    "correctAnswer": "don't run"
+  },
+  {
+    "question": "A student _____ (study) football every day.",
+    "options": ["no study", "doesn't study", "don't study", "not study"],
+    "correctAnswer": "doesn't study"
+  },
+  {
+    "question": "Cats _____ (listen) books never.",
+    "options": ["not listen", "don't listen", "doesn't listen", "no listen"],
+    "correctAnswer": "don't listen"
+  },
+  {
+    "question": "He _____ (run) the kite every morning.",
+    "options": ["don't run", "not run", "doesn't run", "no run"],
+    "correctAnswer": "doesn't run"
+  },
+  {
+    "question": "It _____ (carry) everywhere at night.",
+    "options": ["not carry", "no carry", "doesn't carry", "don't carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "A student _____ (eat) the heavy bags every weekend.",
+    "options": ["doesn't eat", "no eat", "not eat", "don't eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "The students _____ (work) emails never.",
+    "options": ["don't work", "doesn't work", "no work", "not work"],
+    "correctAnswer": "don't work"
+  },
+  {
+    "question": "The bird _____ (speak) milk never.",
+    "options": ["doesn't speak", "don't speak", "no speak", "not speak"],
+    "correctAnswer": "doesn't speak"
+  },
+  {
+    "question": "The doctor _____ (play) the house at night.",
+    "options": ["doesn't play", "no play", "don't play", "not play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "My parents _____ (clean) milk every weekend.",
+    "options": ["doesn't clean", "not clean", "no clean", "don't clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "They _____ (play) the piano often.",
+    "options": ["no play", "not play", "doesn't play", "don't play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "My sister _____ (play) books every morning.",
+    "options": ["don't play", "no play", "doesn't play", "not play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "The teacher _____ (study) dinner often.",
+    "options": ["don't study", "not study", "no study", "doesn't study"],
+    "correctAnswer": "doesn't study"
+  },
+  {
+    "question": "I _____ (write) the heavy bags every morning.",
+    "options": ["not write", "no write", "doesn't write", "don't write"],
+    "correctAnswer": "don't write"
+  },
+  {
+    "question": "My parents _____ (write) everywhere every morning.",
+    "options": ["doesn't write", "don't write", "no write", "not write"],
+    "correctAnswer": "don't write"
+  },
+  {
+    "question": "She _____ (fly) pizza every day.",
+    "options": ["don't fly", "doesn't fly", "not fly", "no fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "The doctor _____ (study) the kite never.",
+    "options": ["not study", "doesn't study", "no study", "don't study"],
+    "correctAnswer": "doesn't study"
+  },
+  {
+    "question": "People _____ (watch) the kite every morning.",
+    "options": ["doesn't watch", "don't watch", "no watch", "not watch"],
+    "correctAnswer": "don't watch"
+  },
+  {
+    "question": "We _____ (swim) fast usually.",
+    "options": ["no swim", "doesn't swim", "not swim", "don't swim"],
+    "correctAnswer": "don't swim"
+  },
+  {
+    "question": "The bird _____ (read) to the park every morning.",
+    "options": ["don't read", "doesn't read", "not read", "no read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "A student _____ (eat) in the pool on Mondays.",
+    "options": ["doesn't eat", "not eat", "don't eat", "no eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "The students _____ (eat) emails twice a week.",
+    "options": ["doesn't eat", "no eat", "don't eat", "not eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "The students _____ (read) the heavy bags usually.",
+    "options": ["don't read", "not read", "doesn't read", "no read"],
+    "correctAnswer": "don't read"
+  },
+  {
+    "question": "You and I _____ (eat) the kite at night.",
+    "options": ["no eat", "doesn't eat", "not eat", "don't eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "It _____ (like) TV often.",
+    "options": ["no like", "not like", "doesn't like", "don't like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "A student _____ (eat) in the pool usually.",
+    "options": ["not eat", "no eat", "doesn't eat", "don't eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "The birds _____ (drive) the piano on Mondays.",
+    "options": ["doesn't drive", "don't drive", "no drive", "not drive"],
+    "correctAnswer": "don't drive"
+  },
+  {
+    "question": "She _____ (go) TV every day.",
+    "options": ["not go", "doesn't go", "don't go", "no go"],
+    "correctAnswer": "doesn't go"
+  },
+  {
+    "question": "Sarah _____ (wash) Spanish usually.",
+    "options": ["doesn't wash", "don't wash", "not wash", "no wash"],
+    "correctAnswer": "doesn't wash"
+  },
+  {
+    "question": "The bird _____ (carry) to the park every morning.",
+    "options": ["not carry", "don't carry", "doesn't carry", "no carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "The bird _____ (like) everywhere on Mondays.",
+    "options": ["no like", "don't like", "not like", "doesn't like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "He _____ (play) in the pool often.",
+    "options": ["no play", "doesn't play", "not play", "don't play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "Mr. Smith _____ (swim) the piano sometimes.",
+    "options": ["not swim", "no swim", "don't swim", "doesn't swim"],
+    "correctAnswer": "doesn't swim"
+  },
+  {
+    "question": "Doctors _____ (carry) to music every day.",
+    "options": ["doesn't carry", "not carry", "no carry", "don't carry"],
+    "correctAnswer": "don't carry"
+  },
+  {
+    "question": "She _____ (cook) TV every day.",
+    "options": ["not cook", "doesn't cook", "no cook", "don't cook"],
+    "correctAnswer": "doesn't cook"
+  },
+  {
+    "question": "You and I _____ (speak) Spanish every morning.",
+    "options": ["not speak", "doesn't speak", "no speak", "don't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "We _____ (carry) milk never.",
+    "options": ["not carry", "no carry", "don't carry", "doesn't carry"],
+    "correctAnswer": "don't carry"
+  },
+  {
+    "question": "My sister _____ (clean) in the pool often.",
+    "options": ["don't clean", "doesn't clean", "not clean", "no clean"],
+    "correctAnswer": "doesn't clean"
+  },
+  {
+    "question": "The cat _____ (speak) milk at night.",
+    "options": ["not speak", "no speak", "doesn't speak", "don't speak"],
+    "correctAnswer": "doesn't speak"
+  },
+  {
+    "question": "The teacher _____ (listen) football on Mondays.",
+    "options": ["no listen", "doesn't listen", "not listen", "don't listen"],
+    "correctAnswer": "doesn't listen"
+  },
+  {
+    "question": "The cat _____ (write) books twice a week.",
+    "options": ["doesn't write", "no write", "don't write", "not write"],
+    "correctAnswer": "doesn't write"
+  },
+  {
+    "question": "The cat _____ (run) fast every day.",
+    "options": ["no run", "don't run", "doesn't run", "not run"],
+    "correctAnswer": "doesn't run"
+  },
+  {
+    "question": "The birds _____ (speak) dinner every weekend.",
+    "options": ["not speak", "don't speak", "no speak", "doesn't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "Cats _____ (clean) the house every weekend.",
+    "options": ["don't clean", "doesn't clean", "not clean", "no clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "People _____ (wash) to music twice a week.",
+    "options": ["not wash", "don't wash", "doesn't wash", "no wash"],
+    "correctAnswer": "don't wash"
+  },
+  {
+    "question": "Doctors _____ (listen) dinner usually.",
+    "options": ["not listen", "no listen", "doesn't listen", "don't listen"],
+    "correctAnswer": "don't listen"
+  },
+  {
+    "question": "He _____ (carry) Spanish on Mondays.",
+    "options": ["no carry", "don't carry", "doesn't carry", "not carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "They _____ (like) the piano usually.",
+    "options": ["doesn't like", "no like", "don't like", "not like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "The bird _____ (go) the piano at night.",
+    "options": ["don't go", "doesn't go", "no go", "not go"],
+    "correctAnswer": "doesn't go"
+  },
+  {
+    "question": "We _____ (eat) English usually.",
+    "options": ["no eat", "don't eat", "not eat", "doesn't eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "I _____ (cook) English every weekend.",
+    "options": ["doesn't cook", "no cook", "not cook", "don't cook"],
+    "correctAnswer": "don't cook"
+  },
+  {
+    "question": "The birds _____ (play) English never.",
+    "options": ["don't play", "no play", "doesn't play", "not play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "People _____ (like) the house twice a week.",
+    "options": ["no like", "don't like", "not like", "doesn't like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "The children _____ (watch) in the pool at night.",
+    "options": ["not watch", "no watch", "doesn't watch", "don't watch"],
+    "correctAnswer": "don't watch"
+  },
+  {
+    "question": "My sister _____ (eat) in the pool at night.",
+    "options": ["not eat", "don't eat", "doesn't eat", "no eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "My parents _____ (fly) water usually.",
+    "options": ["no fly", "not fly", "don't fly", "doesn't fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "It _____ (write) pizza every morning.",
+    "options": ["don't write", "doesn't write", "no write", "not write"],
+    "correctAnswer": "doesn't write"
+  },
+  {
+    "question": "The children _____ (clean) to the park twice a week.",
+    "options": ["doesn't clean", "no clean", "not clean", "don't clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "Mr. Smith _____ (carry) the piano usually.",
+    "options": ["no carry", "doesn't carry", "don't carry", "not carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "You _____ (read) Spanish twice a week.",
+    "options": ["not read", "don't read", "no read", "doesn't read"],
+    "correctAnswer": "don't read"
+  },
+  {
+    "question": "Cats _____ (speak) in the pool usually.",
+    "options": ["not speak", "doesn't speak", "no speak", "don't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "Tom _____ (clean) books every day.",
+    "options": ["don't clean", "no clean", "doesn't clean", "not clean"],
+    "correctAnswer": "doesn't clean"
+  },
+  {
+    "question": "People _____ (speak) emails twice a week.",
+    "options": ["doesn't speak", "not speak", "don't speak", "no speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "A student _____ (read) to the park at night.",
+    "options": ["don't read", "no read", "not read", "doesn't read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "My sister _____ (drive) books twice a week.",
+    "options": ["don't drive", "not drive", "doesn't drive", "no drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "My parents _____ (run) dinner usually.",
+    "options": ["no run", "not run", "doesn't run", "don't run"],
+    "correctAnswer": "don't run"
+  },
+  {
+    "question": "The students _____ (work) English every day.",
+    "options": ["not work", "no work", "doesn't work", "don't work"],
+    "correctAnswer": "don't work"
+  },
+  {
+    "question": "The children _____ (like) books at night.",
+    "options": ["no like", "don't like", "not like", "doesn't like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "You _____ (go) dinner every morning.",
+    "options": ["doesn't go", "no go", "not go", "don't go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "It _____ (play) English never.",
+    "options": ["no play", "don't play", "doesn't play", "not play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "The bird _____ (work) to music usually.",
+    "options": ["no work", "doesn't work", "not work", "don't work"],
+    "correctAnswer": "doesn't work"
+  },
+  {
+    "question": "She _____ (fly) everywhere every morning.",
+    "options": ["doesn't fly", "not fly", "no fly", "don't fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "A student _____ (watch) to the park on Mondays.",
+    "options": ["no watch", "not watch", "don't watch", "doesn't watch"],
+    "correctAnswer": "doesn't watch"
+  },
+  {
+    "question": "They _____ (go) English sometimes.",
+    "options": ["don't go", "not go", "no go", "doesn't go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "Mr. Smith _____ (cook) the piano never.",
+    "options": ["don't cook", "doesn't cook", "not cook", "no cook"],
+    "correctAnswer": "doesn't cook"
+  },
+  {
+    "question": "He _____ (play) books usually.",
+    "options": ["don't play", "doesn't play", "no play", "not play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "You and I _____ (carry) books never.",
+    "options": ["don't carry", "doesn't carry", "no carry", "not carry"],
+    "correctAnswer": "don't carry"
+  },
+  {
+    "question": "The cat _____ (read) Spanish every morning.",
+    "options": ["don't read", "not read", "doesn't read", "no read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "The bird _____ (read) in the pool every morning.",
+    "options": ["don't read", "no read", "not read", "doesn't read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "People _____ (work) fast twice a week.",
+    "options": ["doesn't work", "no work", "not work", "don't work"],
+    "correctAnswer": "don't work"
+  },
+  {
+    "question": "I _____ (clean) football at night.",
+    "options": ["doesn't clean", "no clean", "not clean", "don't clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "The cat _____ (like) TV twice a week.",
+    "options": ["doesn't like", "not like", "don't like", "no like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "Doctors _____ (wash) books every weekend.",
+    "options": ["no wash", "don't wash", "not wash", "doesn't wash"],
+    "correctAnswer": "don't wash"
+  },
+  {
+    "question": "My parents _____ (eat) emails at night.",
+    "options": ["no eat", "not eat", "doesn't eat", "don't eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "He _____ (listen) books usually.",
+    "options": ["not listen", "don't listen", "doesn't listen", "no listen"],
+    "correctAnswer": "doesn't listen"
+  },
+  {
+    "question": "The birds _____ (write) milk on Mondays.",
+    "options": ["don't write", "doesn't write", "no write", "not write"],
+    "correctAnswer": "don't write"
+  },
+  {
+    "question": "It _____ (wash) football twice a week.",
+    "options": ["no wash", "don't wash", "doesn't wash", "not wash"],
+    "correctAnswer": "doesn't wash"
+  },
+  {
+    "question": "The students _____ (drink) everywhere sometimes.",
+    "options": ["not drink", "don't drink", "no drink", "doesn't drink"],
+    "correctAnswer": "don't drink"
+  },
+  {
+    "question": "My sister _____ (listen) to music never.",
+    "options": ["don't listen", "doesn't listen", "no listen", "not listen"],
+    "correctAnswer": "doesn't listen"
+  },
+  {
+    "question": "He _____ (go) the heavy bags every day.",
+    "options": ["not go", "doesn't go", "don't go", "no go"],
+    "correctAnswer": "doesn't go"
+  },
+  {
+    "question": "Sarah _____ (read) dinner never.",
+    "options": ["not read", "no read", "don't read", "doesn't read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "We _____ (listen) pizza on Mondays.",
+    "options": ["don't listen", "doesn't listen", "not listen", "no listen"],
+    "correctAnswer": "don't listen"
+  },
+  {
+    "question": "You _____ (drive) the piano on Mondays.",
+    "options": ["not drive", "doesn't drive", "no drive", "don't drive"],
+    "correctAnswer": "don't drive"
+  },
+  {
+    "question": "Mr. Smith _____ (wash) Spanish sometimes.",
+    "options": ["doesn't wash", "no wash", "don't wash", "not wash"],
+    "correctAnswer": "doesn't wash"
+  },
+  {
+    "question": "The doctor _____ (play) to the park twice a week.",
+    "options": ["not play", "doesn't play", "no play", "don't play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "Mr. Smith _____ (eat) Spanish every morning.",
+    "options": ["not eat", "doesn't eat", "don't eat", "no eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "Doctors _____ (run) in the pool at night.",
+    "options": ["not run", "doesn't run", "no run", "don't run"],
+    "correctAnswer": "don't run"
+  },
+  {
+    "question": "A student _____ (drive) TV every day.",
+    "options": ["don't drive", "no drive", "not drive", "doesn't drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "Doctors _____ (eat) in the pool usually.",
+    "options": ["don't eat", "not eat", "no eat", "doesn't eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "The teacher _____ (drink) the house on Mondays.",
+    "options": ["don't drink", "doesn't drink", "no drink", "not drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "It _____ (drive) football every day.",
+    "options": ["no drive", "don't drive", "not drive", "doesn't drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "The teacher _____ (drive) fast at night.",
+    "options": ["doesn't drive", "no drive", "don't drive", "not drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "Cats _____ (run) the kite on Mondays.",
+    "options": ["don't run", "not run", "no run", "doesn't run"],
+    "correctAnswer": "don't run"
+  },
+  {
+    "question": "The teacher _____ (drink) emails sometimes.",
+    "options": ["doesn't drink", "no drink", "don't drink", "not drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "Cats _____ (study) pizza often.",
+    "options": ["doesn't study", "don't study", "no study", "not study"],
+    "correctAnswer": "don't study"
+  },
+  {
+    "question": "I _____ (speak) fast every morning.",
+    "options": ["don't speak", "not speak", "no speak", "doesn't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "You _____ (read) everywhere never.",
+    "options": ["not read", "doesn't read", "no read", "don't read"],
+    "correctAnswer": "don't read"
+  },
+  {
+    "question": "Cats _____ (drive) milk at night.",
+    "options": ["no drive", "doesn't drive", "don't drive", "not drive"],
+    "correctAnswer": "don't drive"
+  },
+  {
+    "question": "They _____ (clean) the piano twice a week.",
+    "options": ["not clean", "no clean", "doesn't clean", "don't clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "Doctors _____ (cook) the kite every weekend.",
+    "options": ["doesn't cook", "don't cook", "not cook", "no cook"],
+    "correctAnswer": "don't cook"
+  },
+  {
+    "question": "You _____ (watch) Spanish every morning.",
+    "options": ["don't watch", "doesn't watch", "not watch", "no watch"],
+    "correctAnswer": "don't watch"
+  },
+  {
+    "question": "The cat _____ (drive) Spanish on Mondays.",
+    "options": ["doesn't drive", "don't drive", "not drive", "no drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "The teacher _____ (swim) the car every weekend.",
+    "options": ["doesn't swim", "don't swim", "not swim", "no swim"],
+    "correctAnswer": "doesn't swim"
+  },
+  {
+    "question": "The doctor _____ (speak) TV on Mondays.",
+    "options": ["no speak", "don't speak", "not speak", "doesn't speak"],
+    "correctAnswer": "doesn't speak"
+  },
+  {
+    "question": "My parents _____ (fly) the heavy bags every weekend.",
+    "options": ["doesn't fly", "no fly", "not fly", "don't fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "You and I _____ (like) dinner every day.",
+    "options": ["no like", "don't like", "doesn't like", "not like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "The teacher _____ (listen) English usually.",
+    "options": ["don't listen", "no listen", "doesn't listen", "not listen"],
+    "correctAnswer": "doesn't listen"
+  },
+  {
+    "question": "It _____ (fly) milk every morning.",
+    "options": ["don't fly", "not fly", "no fly", "doesn't fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "You _____ (speak) the car often.",
+    "options": ["not speak", "no speak", "doesn't speak", "don't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "She _____ (drive) English often.",
+    "options": ["doesn't drive", "don't drive", "no drive", "not drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "My sister _____ (fly) the car sometimes.",
+    "options": ["not fly", "doesn't fly", "no fly", "don't fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "My parents _____ (speak) the car every day.",
+    "options": ["don't speak", "no speak", "doesn't speak", "not speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "People _____ (write) the piano every day.",
+    "options": ["not write", "don't write", "doesn't write", "no write"],
+    "correctAnswer": "don't write"
+  },
+  {
+    "question": "The teacher _____ (work) the piano sometimes.",
+    "options": ["don't work", "not work", "doesn't work", "no work"],
+    "correctAnswer": "doesn't work"
+  },
+  {
+    "question": "Doctors _____ (listen) the house at night.",
+    "options": ["no listen", "doesn't listen", "not listen", "don't listen"],
+    "correctAnswer": "don't listen"
+  },
+  {
+    "question": "They _____ (play) the heavy bags every morning.",
+    "options": ["don't play", "doesn't play", "no play", "not play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "The bird _____ (carry) English twice a week.",
+    "options": ["not carry", "no carry", "doesn't carry", "don't carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "My parents _____ (cook) English every weekend.",
+    "options": ["doesn't cook", "not cook", "don't cook", "no cook"],
+    "correctAnswer": "don't cook"
+  },
+  {
+    "question": "Sarah _____ (read) dinner sometimes.",
+    "options": ["don't read", "not read", "no read", "doesn't read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "Doctors _____ (fly) English every day.",
+    "options": ["not fly", "doesn't fly", "don't fly", "no fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "They _____ (write) everywhere every day.",
+    "options": ["not write", "doesn't write", "don't write", "no write"],
+    "correctAnswer": "don't write"
+  },
+  {
+    "question": "I _____ (work) the kite every morning.",
+    "options": ["no work", "don't work", "not work", "doesn't work"],
+    "correctAnswer": "don't work"
+  },
+  {
+    "question": "My parents _____ (speak) to the park every day.",
+    "options": ["doesn't speak", "no speak", "not speak", "don't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "She _____ (like) books sometimes.",
+    "options": ["no like", "not like", "doesn't like", "don't like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "The teacher _____ (watch) books often.",
+    "options": ["no watch", "not watch", "don't watch", "doesn't watch"],
+    "correctAnswer": "doesn't watch"
+  },
+  {
+    "question": "I _____ (wash) milk usually.",
+    "options": ["no wash", "don't wash", "doesn't wash", "not wash"],
+    "correctAnswer": "don't wash"
+  },
+  {
+    "question": "He _____ (fly) English every weekend.",
+    "options": ["no fly", "not fly", "don't fly", "doesn't fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "I _____ (clean) pizza usually.",
+    "options": ["no clean", "don't clean", "doesn't clean", "not clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "My sister _____ (fly) water every day.",
+    "options": ["no fly", "don't fly", "not fly", "doesn't fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "I _____ (play) the piano never.",
+    "options": ["doesn't play", "no play", "don't play", "not play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "He _____ (run) milk never.",
+    "options": ["not run", "no run", "doesn't run", "don't run"],
+    "correctAnswer": "doesn't run"
+  },
+  {
+    "question": "You and I _____ (carry) to music every weekend.",
+    "options": ["no carry", "don't carry", "not carry", "doesn't carry"],
+    "correctAnswer": "don't carry"
+  },
+  {
+    "question": "A student _____ (speak) to music every morning.",
+    "options": ["no speak", "not speak", "don't speak", "doesn't speak"],
+    "correctAnswer": "doesn't speak"
+  },
+  {
+    "question": "They _____ (speak) pizza at night.",
+    "options": ["doesn't speak", "don't speak", "not speak", "no speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "My parents _____ (drink) the kite sometimes.",
+    "options": ["doesn't drink", "don't drink", "not drink", "no drink"],
+    "correctAnswer": "don't drink"
+  },
+  {
+    "question": "Tom _____ (like) the car on Mondays.",
+    "options": ["no like", "doesn't like", "don't like", "not like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "You _____ (like) the piano twice a week.",
+    "options": ["doesn't like", "no like", "don't like", "not like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "She _____ (clean) to music never.",
+    "options": ["don't clean", "no clean", "not clean", "doesn't clean"],
+    "correctAnswer": "doesn't clean"
+  },
+  {
+    "question": "My parents _____ (wash) the car never.",
+    "options": ["don't wash", "doesn't wash", "not wash", "no wash"],
+    "correctAnswer": "don't wash"
+  },
+  {
+    "question": "My sister _____ (work) to music often.",
+    "options": ["doesn't work", "don't work", "not work", "no work"],
+    "correctAnswer": "doesn't work"
+  },
+  {
+    "question": "The doctor _____ (swim) English usually.",
+    "options": ["doesn't swim", "don't swim", "not swim", "no swim"],
+    "correctAnswer": "doesn't swim"
+  },
+  {
+    "question": "My parents _____ (cook) books twice a week.",
+    "options": ["not cook", "don't cook", "doesn't cook", "no cook"],
+    "correctAnswer": "don't cook"
+  },
+  {
+    "question": "The teacher _____ (eat) fast sometimes.",
+    "options": ["doesn't eat", "no eat", "not eat", "don't eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "My parents _____ (listen) football every day.",
+    "options": ["don't listen", "doesn't listen", "not listen", "no listen"],
+    "correctAnswer": "don't listen"
+  },
+  {
+    "question": "The children _____ (go) emails twice a week.",
+    "options": ["not go", "no go", "doesn't go", "don't go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "The children _____ (eat) dinner never.",
+    "options": ["not eat", "doesn't eat", "don't eat", "no eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "My parents _____ (clean) to music on Mondays.",
+    "options": ["don't clean", "doesn't clean", "not clean", "no clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "A student _____ (wash) English sometimes.",
+    "options": ["no wash", "doesn't wash", "don't wash", "not wash"],
+    "correctAnswer": "doesn't wash"
+  },
+  {
+    "question": "The children _____ (cook) milk every morning.",
+    "options": ["not cook", "don't cook", "no cook", "doesn't cook"],
+    "correctAnswer": "don't cook"
+  },
+  {
+    "question": "People _____ (like) books every morning.",
+    "options": ["doesn't like", "don't like", "no like", "not like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "My sister _____ (drive) the house sometimes.",
+    "options": ["doesn't drive", "not drive", "don't drive", "no drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "Cats _____ (eat) TV often.",
+    "options": ["doesn't eat", "don't eat", "not eat", "no eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "Mr. Smith _____ (wash) books every weekend.",
+    "options": ["not wash", "doesn't wash", "don't wash", "no wash"],
+    "correctAnswer": "doesn't wash"
+  },
+  {
+    "question": "You _____ (carry) the car every weekend.",
+    "options": ["doesn't carry", "no carry", "don't carry", "not carry"],
+    "correctAnswer": "don't carry"
+  },
+  {
+    "question": "The children _____ (like) pizza often.",
+    "options": ["doesn't like", "no like", "don't like", "not like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "The cat _____ (study) dinner every morning.",
+    "options": ["doesn't study", "not study", "don't study", "no study"],
+    "correctAnswer": "doesn't study"
+  },
+  {
+    "question": "She _____ (go) to the park never.",
+    "options": ["not go", "no go", "don't go", "doesn't go"],
+    "correctAnswer": "doesn't go"
+  },
+  {
+    "question": "You and I _____ (speak) the piano every day.",
+    "options": ["no speak", "not speak", "doesn't speak", "don't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "The doctor _____ (write) the house every weekend.",
+    "options": ["don't write", "doesn't write", "no write", "not write"],
+    "correctAnswer": "doesn't write"
+  },
+  {
+    "question": "The birds _____ (read) to the park every day.",
+    "options": ["not read", "don't read", "doesn't read", "no read"],
+    "correctAnswer": "don't read"
+  },
+  {
+    "question": "The birds _____ (swim) water usually.",
+    "options": ["don't swim", "no swim", "not swim", "doesn't swim"],
+    "correctAnswer": "don't swim"
+  },
+  {
+    "question": "The birds _____ (go) the kite at night.",
+    "options": ["no go", "don't go", "doesn't go", "not go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "Sarah _____ (fly) fast usually.",
+    "options": ["don't fly", "doesn't fly", "not fly", "no fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "The doctor _____ (clean) dinner twice a week.",
+    "options": ["not clean", "doesn't clean", "no clean", "don't clean"],
+    "correctAnswer": "doesn't clean"
+  },
+  {
+    "question": "The cat _____ (like) pizza often.",
+    "options": ["not like", "no like", "don't like", "doesn't like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "He _____ (carry) to music often.",
+    "options": ["don't carry", "not carry", "doesn't carry", "no carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "Tom _____ (study) pizza every morning.",
+    "options": ["don't study", "no study", "not study", "doesn't study"],
+    "correctAnswer": "doesn't study"
+  },
+  {
+    "question": "Tom _____ (cook) dinner every weekend.",
+    "options": ["no cook", "don't cook", "not cook", "doesn't cook"],
+    "correctAnswer": "doesn't cook"
+  },
+  {
+    "question": "The bird _____ (work) to the park twice a week.",
+    "options": ["don't work", "not work", "doesn't work", "no work"],
+    "correctAnswer": "doesn't work"
+  },
+  {
+    "question": "My parents _____ (work) the piano twice a week.",
+    "options": ["don't work", "doesn't work", "not work", "no work"],
+    "correctAnswer": "don't work"
+  },
+  {
+    "question": "The teacher _____ (watch) English every weekend.",
+    "options": ["doesn't watch", "not watch", "no watch", "don't watch"],
+    "correctAnswer": "doesn't watch"
+  },
+  {
+    "question": "A student _____ (read) the car often.",
+    "options": ["no read", "not read", "doesn't read", "don't read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "Mr. Smith _____ (like) English on Mondays.",
+    "options": ["no like", "not like", "don't like", "doesn't like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "Cats _____ (swim) the kite often.",
+    "options": ["not swim", "don't swim", "doesn't swim", "no swim"],
+    "correctAnswer": "don't swim"
+  },
+  {
+    "question": "The bird _____ (carry) books at night.",
+    "options": ["no carry", "doesn't carry", "not carry", "don't carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "You _____ (fly) emails every morning.",
+    "options": ["doesn't fly", "not fly", "don't fly", "no fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "She _____ (read) emails never.",
+    "options": ["don't read", "doesn't read", "not read", "no read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "It _____ (like) the kite usually.",
+    "options": ["no like", "doesn't like", "not like", "don't like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "They _____ (clean) to the park usually.",
+    "options": ["no clean", "don't clean", "doesn't clean", "not clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "I _____ (study) to the park every weekend.",
+    "options": ["no study", "don't study", "doesn't study", "not study"],
+    "correctAnswer": "don't study"
+  },
+  {
+    "question": "The doctor _____ (play) in the pool at night.",
+    "options": ["not play", "doesn't play", "no play", "don't play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "The cat _____ (fly) books every day.",
+    "options": ["no fly", "not fly", "don't fly", "doesn't fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "Tom _____ (study) the house usually.",
+    "options": ["no study", "don't study", "not study", "doesn't study"],
+    "correctAnswer": "doesn't study"
+  },
+  {
+    "question": "The teacher _____ (go) the heavy bags on Mondays.",
+    "options": ["not go", "no go", "doesn't go", "don't go"],
+    "correctAnswer": "doesn't go"
+  },
+  {
+    "question": "We _____ (listen) water never.",
+    "options": ["doesn't listen", "not listen", "no listen", "don't listen"],
+    "correctAnswer": "don't listen"
+  },
+  {
+    "question": "You _____ (drink) books usually.",
+    "options": ["doesn't drink", "don't drink", "no drink", "not drink"],
+    "correctAnswer": "don't drink"
+  },
+  {
+    "question": "The cat _____ (read) the house twice a week.",
+    "options": ["doesn't read", "no read", "don't read", "not read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "A student _____ (swim) fast often.",
+    "options": ["doesn't swim", "don't swim", "not swim", "no swim"],
+    "correctAnswer": "doesn't swim"
+  },
+  {
+    "question": "Mr. Smith _____ (work) fast usually.",
+    "options": ["no work", "doesn't work", "not work", "don't work"],
+    "correctAnswer": "doesn't work"
+  },
+  {
+    "question": "The birds _____ (like) English every weekend.",
+    "options": ["doesn't like", "no like", "don't like", "not like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "The cat _____ (watch) dinner every weekend.",
+    "options": ["not watch", "no watch", "doesn't watch", "don't watch"],
+    "correctAnswer": "doesn't watch"
+  },
+  {
+    "question": "Mr. Smith _____ (go) the piano every weekend.",
+    "options": ["not go", "don't go", "no go", "doesn't go"],
+    "correctAnswer": "doesn't go"
+  },
+  {
+    "question": "A student _____ (drive) the car every day.",
+    "options": ["don't drive", "no drive", "not drive", "doesn't drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "The birds _____ (wash) the piano sometimes.",
+    "options": ["don't wash", "not wash", "doesn't wash", "no wash"],
+    "correctAnswer": "don't wash"
+  },
+  {
+    "question": "We _____ (play) Spanish on Mondays.",
+    "options": ["not play", "don't play", "no play", "doesn't play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "A student _____ (speak) to the park at night.",
+    "options": ["not speak", "don't speak", "no speak", "doesn't speak"],
+    "correctAnswer": "doesn't speak"
+  },
+  {
+    "question": "I _____ (cook) in the pool every day.",
+    "options": ["no cook", "not cook", "don't cook", "doesn't cook"],
+    "correctAnswer": "don't cook"
+  },
+  {
+    "question": "They _____ (clean) TV every day.",
+    "options": ["don't clean", "doesn't clean", "not clean", "no clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "She _____ (go) emails usually.",
+    "options": ["no go", "not go", "don't go", "doesn't go"],
+    "correctAnswer": "doesn't go"
+  },
+  {
+    "question": "The bird _____ (drink) football often.",
+    "options": ["doesn't drink", "don't drink", "no drink", "not drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "We _____ (read) TV often.",
+    "options": ["not read", "no read", "doesn't read", "don't read"],
+    "correctAnswer": "don't read"
+  },
+  {
+    "question": "The cat _____ (drink) in the pool twice a week.",
+    "options": ["don't drink", "not drink", "doesn't drink", "no drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "People _____ (cook) TV sometimes.",
+    "options": ["don't cook", "doesn't cook", "no cook", "not cook"],
+    "correctAnswer": "don't cook"
+  },
+  {
+    "question": "People _____ (fly) the house never.",
+    "options": ["not fly", "no fly", "doesn't fly", "don't fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "People _____ (watch) the piano sometimes.",
+    "options": ["not watch", "don't watch", "no watch", "doesn't watch"],
+    "correctAnswer": "don't watch"
+  },
+  {
+    "question": "The birds _____ (speak) emails every day.",
+    "options": ["not speak", "no speak", "don't speak", "doesn't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "You and I _____ (work) football every day.",
+    "options": ["don't work", "not work", "doesn't work", "no work"],
+    "correctAnswer": "don't work"
+  },
+  {
+    "question": "My parents _____ (play) the piano every weekend.",
+    "options": ["not play", "no play", "doesn't play", "don't play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "It _____ (study) to music twice a week.",
+    "options": ["not study", "no study", "doesn't study", "don't study"],
+    "correctAnswer": "doesn't study"
+  },
+  {
+    "question": "The students _____ (speak) Spanish on Mondays.",
+    "options": ["no speak", "doesn't speak", "not speak", "don't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "We _____ (write) the car twice a week.",
+    "options": ["doesn't write", "no write", "don't write", "not write"],
+    "correctAnswer": "don't write"
+  },
+  {
+    "question": "She _____ (listen) the kite never.",
+    "options": ["not listen", "don't listen", "no listen", "doesn't listen"],
+    "correctAnswer": "doesn't listen"
+  },
+  {
+    "question": "The doctor _____ (watch) dinner often.",
+    "options": ["no watch", "doesn't watch", "not watch", "don't watch"],
+    "correctAnswer": "doesn't watch"
+  },
+  {
+    "question": "She _____ (cook) books every weekend.",
+    "options": ["not cook", "no cook", "don't cook", "doesn't cook"],
+    "correctAnswer": "doesn't cook"
+  },
+  {
+    "question": "Doctors _____ (cook) football every morning.",
+    "options": ["don't cook", "no cook", "not cook", "doesn't cook"],
+    "correctAnswer": "don't cook"
+  },
+  {
+    "question": "I _____ (wash) English sometimes.",
+    "options": ["doesn't wash", "don't wash", "no wash", "not wash"],
+    "correctAnswer": "don't wash"
+  },
+  {
+    "question": "It _____ (watch) books sometimes.",
+    "options": ["not watch", "doesn't watch", "no watch", "don't watch"],
+    "correctAnswer": "doesn't watch"
+  },
+  {
+    "question": "We _____ (listen) the heavy bags twice a week.",
+    "options": ["doesn't listen", "don't listen", "no listen", "not listen"],
+    "correctAnswer": "don't listen"
+  },
+  {
+    "question": "My parents _____ (play) books twice a week.",
+    "options": ["not play", "doesn't play", "don't play", "no play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "The doctor _____ (drive) dinner sometimes.",
+    "options": ["doesn't drive", "don't drive", "not drive", "no drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "The children _____ (drink) water every morning.",
+    "options": ["don't drink", "no drink", "doesn't drink", "not drink"],
+    "correctAnswer": "don't drink"
+  },
+  {
+    "question": "My sister _____ (write) pizza every morning.",
+    "options": ["not write", "no write", "don't write", "doesn't write"],
+    "correctAnswer": "doesn't write"
+  },
+  {
+    "question": "They _____ (eat) fast on Mondays.",
+    "options": ["don't eat", "not eat", "doesn't eat", "no eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "Sarah _____ (listen) the house every morning.",
+    "options": ["doesn't listen", "not listen", "don't listen", "no listen"],
+    "correctAnswer": "doesn't listen"
+  },
+  {
+    "question": "A student _____ (drink) in the pool twice a week.",
+    "options": ["no drink", "not drink", "don't drink", "doesn't drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "It _____ (clean) the kite at night.",
+    "options": ["doesn't clean", "no clean", "not clean", "don't clean"],
+    "correctAnswer": "doesn't clean"
+  },
+  {
+    "question": "It _____ (clean) football twice a week.",
+    "options": ["no clean", "doesn't clean", "don't clean", "not clean"],
+    "correctAnswer": "doesn't clean"
+  },
+  {
+    "question": "The doctor _____ (listen) dinner usually.",
+    "options": ["doesn't listen", "not listen", "don't listen", "no listen"],
+    "correctAnswer": "doesn't listen"
+  },
+  {
+    "question": "A student _____ (watch) milk every day.",
+    "options": ["not watch", "no watch", "doesn't watch", "don't watch"],
+    "correctAnswer": "doesn't watch"
+  },
+  {
+    "question": "You _____ (play) dinner every weekend.",
+    "options": ["no play", "not play", "don't play", "doesn't play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "Sarah _____ (play) Spanish often.",
+    "options": ["doesn't play", "don't play", "not play", "no play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "The children _____ (eat) the piano never.",
+    "options": ["not eat", "doesn't eat", "don't eat", "no eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "You _____ (carry) to music often.",
+    "options": ["don't carry", "doesn't carry", "no carry", "not carry"],
+    "correctAnswer": "don't carry"
+  },
+  {
+    "question": "I _____ (run) the kite at night.",
+    "options": ["no run", "don't run", "not run", "doesn't run"],
+    "correctAnswer": "don't run"
+  },
+  {
+    "question": "It _____ (run) the house every weekend.",
+    "options": ["doesn't run", "not run", "don't run", "no run"],
+    "correctAnswer": "doesn't run"
+  },
+  {
+    "question": "Cats _____ (eat) in the pool never.",
+    "options": ["doesn't eat", "no eat", "not eat", "don't eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "A student _____ (eat) football at night.",
+    "options": ["don't eat", "no eat", "doesn't eat", "not eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "The birds _____ (fly) the heavy bags usually.",
+    "options": ["no fly", "not fly", "don't fly", "doesn't fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "The bird _____ (carry) the kite sometimes.",
+    "options": ["not carry", "don't carry", "doesn't carry", "no carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "The students _____ (wash) to music never.",
+    "options": ["no wash", "don't wash", "not wash", "doesn't wash"],
+    "correctAnswer": "don't wash"
+  },
+  {
+    "question": "He _____ (study) the car usually.",
+    "options": ["doesn't study", "don't study", "not study", "no study"],
+    "correctAnswer": "doesn't study"
+  },
+  {
+    "question": "I _____ (listen) milk every weekend.",
+    "options": ["don't listen", "not listen", "no listen", "doesn't listen"],
+    "correctAnswer": "don't listen"
+  },
+  {
+    "question": "Mr. Smith _____ (cook) dinner every morning.",
+    "options": ["doesn't cook", "no cook", "not cook", "don't cook"],
+    "correctAnswer": "doesn't cook"
+  },
+  {
+    "question": "The teacher _____ (drink) the heavy bags on Mondays.",
+    "options": ["no drink", "not drink", "doesn't drink", "don't drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "Cats _____ (fly) fast usually.",
+    "options": ["doesn't fly", "not fly", "don't fly", "no fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "My parents _____ (speak) Spanish every weekend.",
+    "options": ["doesn't speak", "not speak", "don't speak", "no speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "The students _____ (watch) fast every weekend.",
+    "options": ["doesn't watch", "don't watch", "no watch", "not watch"],
+    "correctAnswer": "don't watch"
+  },
+  {
+    "question": "He _____ (work) to music every day.",
+    "options": ["no work", "not work", "don't work", "doesn't work"],
+    "correctAnswer": "doesn't work"
+  },
+  {
+    "question": "The teacher _____ (cook) to music every day.",
+    "options": ["don't cook", "no cook", "doesn't cook", "not cook"],
+    "correctAnswer": "doesn't cook"
+  },
+  {
+    "question": "My sister _____ (drink) TV every day.",
+    "options": ["no drink", "not drink", "doesn't drink", "don't drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "You _____ (write) TV often.",
+    "options": ["doesn't write", "not write", "don't write", "no write"],
+    "correctAnswer": "don't write"
+  },
+  {
+    "question": "You and I _____ (cook) fast never.",
+    "options": ["no cook", "don't cook", "not cook", "doesn't cook"],
+    "correctAnswer": "don't cook"
+  },
+  {
+    "question": "The teacher _____ (wash) the car every morning.",
+    "options": ["no wash", "not wash", "doesn't wash", "don't wash"],
+    "correctAnswer": "doesn't wash"
+  },
+  {
+    "question": "Doctors _____ (speak) to music every weekend.",
+    "options": ["doesn't speak", "no speak", "not speak", "don't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "My parents _____ (fly) books sometimes.",
+    "options": ["don't fly", "no fly", "not fly", "doesn't fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "You _____ (like) the car every day.",
+    "options": ["no like", "doesn't like", "not like", "don't like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "The students _____ (like) the car never.",
+    "options": ["no like", "not like", "doesn't like", "don't like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "He _____ (run) the car never.",
+    "options": ["doesn't run", "not run", "don't run", "no run"],
+    "correctAnswer": "doesn't run"
+  },
+  {
+    "question": "Doctors _____ (watch) to music every day.",
+    "options": ["no watch", "don't watch", "not watch", "doesn't watch"],
+    "correctAnswer": "don't watch"
+  },
+  {
+    "question": "Doctors _____ (fly) the house at night.",
+    "options": ["no fly", "don't fly", "not fly", "doesn't fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "It _____ (drive) water every morning.",
+    "options": ["no drive", "doesn't drive", "not drive", "don't drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "The teacher _____ (drink) pizza sometimes.",
+    "options": ["doesn't drink", "not drink", "no drink", "don't drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "Sarah _____ (like) football sometimes.",
+    "options": ["don't like", "no like", "doesn't like", "not like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "The birds _____ (carry) TV often.",
+    "options": ["not carry", "doesn't carry", "no carry", "don't carry"],
+    "correctAnswer": "don't carry"
+  },
+  {
+    "question": "My sister _____ (eat) everywhere at night.",
+    "options": ["not eat", "don't eat", "no eat", "doesn't eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "The teacher _____ (like) fast every morning.",
+    "options": ["don't like", "doesn't like", "not like", "no like"],
+    "correctAnswer": "doesn't like"
+  },
+  {
+    "question": "A student _____ (watch) fast usually.",
+    "options": ["not watch", "no watch", "doesn't watch", "don't watch"],
+    "correctAnswer": "doesn't watch"
+  },
+  {
+    "question": "Sarah _____ (carry) water often.",
+    "options": ["not carry", "doesn't carry", "no carry", "don't carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "We _____ (drive) the piano at night.",
+    "options": ["no drive", "don't drive", "not drive", "doesn't drive"],
+    "correctAnswer": "don't drive"
+  },
+  {
+    "question": "Doctors _____ (drink) water usually.",
+    "options": ["no drink", "doesn't drink", "not drink", "don't drink"],
+    "correctAnswer": "don't drink"
+  },
+  {
+    "question": "The students _____ (swim) pizza at night.",
+    "options": ["doesn't swim", "don't swim", "no swim", "not swim"],
+    "correctAnswer": "don't swim"
+  },
+  {
+    "question": "I _____ (clean) the piano usually.",
+    "options": ["not clean", "doesn't clean", "don't clean", "no clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "The doctor _____ (carry) to music every day.",
+    "options": ["no carry", "doesn't carry", "not carry", "don't carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "We _____ (listen) the heavy bags never.",
+    "options": ["not listen", "don't listen", "no listen", "doesn't listen"],
+    "correctAnswer": "don't listen"
+  },
+  {
+    "question": "They _____ (go) the heavy bags twice a week.",
+    "options": ["no go", "doesn't go", "don't go", "not go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "My parents _____ (like) football every day.",
+    "options": ["don't like", "not like", "doesn't like", "no like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "My sister _____ (clean) books never.",
+    "options": ["doesn't clean", "not clean", "don't clean", "no clean"],
+    "correctAnswer": "doesn't clean"
+  },
+  {
+    "question": "The bird _____ (go) the kite twice a week.",
+    "options": ["not go", "doesn't go", "no go", "don't go"],
+    "correctAnswer": "doesn't go"
+  },
+  {
+    "question": "She _____ (drive) emails at night.",
+    "options": ["no drive", "don't drive", "doesn't drive", "not drive"],
+    "correctAnswer": "doesn't drive"
+  },
+  {
+    "question": "My sister _____ (drink) the kite twice a week.",
+    "options": ["no drink", "doesn't drink", "don't drink", "not drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "They _____ (fly) football every day.",
+    "options": ["not fly", "no fly", "don't fly", "doesn't fly"],
+    "correctAnswer": "don't fly"
+  },
+  {
+    "question": "A student _____ (fly) the car often.",
+    "options": ["doesn't fly", "not fly", "no fly", "don't fly"],
+    "correctAnswer": "doesn't fly"
+  },
+  {
+    "question": "It _____ (carry) books twice a week.",
+    "options": ["don't carry", "doesn't carry", "no carry", "not carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "She _____ (carry) to the park twice a week.",
+    "options": ["doesn't carry", "not carry", "no carry", "don't carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "The teacher _____ (carry) books at night.",
+    "options": ["doesn't carry", "no carry", "not carry", "don't carry"],
+    "correctAnswer": "doesn't carry"
+  },
+  {
+    "question": "Cats _____ (go) books on Mondays.",
+    "options": ["not go", "don't go", "doesn't go", "no go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "The teacher _____ (clean) football every weekend.",
+    "options": ["don't clean", "not clean", "doesn't clean", "no clean"],
+    "correctAnswer": "doesn't clean"
+  },
+  {
+    "question": "The birds _____ (go) emails on Mondays.",
+    "options": ["not go", "doesn't go", "no go", "don't go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "Doctors _____ (drink) milk every day.",
+    "options": ["doesn't drink", "no drink", "not drink", "don't drink"],
+    "correctAnswer": "don't drink"
+  },
+  {
+    "question": "The students _____ (play) the car on Mondays.",
+    "options": ["don't play", "doesn't play", "no play", "not play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "He _____ (eat) to the park sometimes.",
+    "options": ["don't eat", "not eat", "doesn't eat", "no eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "You _____ (watch) milk never.",
+    "options": ["not watch", "don't watch", "no watch", "doesn't watch"],
+    "correctAnswer": "don't watch"
+  },
+  {
+    "question": "My parents _____ (drive) dinner usually.",
+    "options": ["no drive", "not drive", "doesn't drive", "don't drive"],
+    "correctAnswer": "don't drive"
+  },
+  {
+    "question": "The students _____ (drink) to music sometimes.",
+    "options": ["doesn't drink", "not drink", "don't drink", "no drink"],
+    "correctAnswer": "don't drink"
+  },
+  {
+    "question": "Tom _____ (eat) the house every weekend.",
+    "options": ["doesn't eat", "no eat", "don't eat", "not eat"],
+    "correctAnswer": "doesn't eat"
+  },
+  {
+    "question": "We _____ (play) pizza every morning.",
+    "options": ["no play", "not play", "don't play", "doesn't play"],
+    "correctAnswer": "don't play"
+  },
+  {
+    "question": "She _____ (play) the house on Mondays.",
+    "options": ["doesn't play", "not play", "no play", "don't play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "The students _____ (speak) pizza at night.",
+    "options": ["not speak", "no speak", "don't speak", "doesn't speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "The students _____ (clean) English often.",
+    "options": ["no clean", "doesn't clean", "not clean", "don't clean"],
+    "correctAnswer": "don't clean"
+  },
+  {
+    "question": "The birds _____ (like) the piano sometimes.",
+    "options": ["don't like", "doesn't like", "no like", "not like"],
+    "correctAnswer": "don't like"
+  },
+  {
+    "question": "The doctor _____ (study) pizza never.",
+    "options": ["no study", "not study", "doesn't study", "don't study"],
+    "correctAnswer": "doesn't study"
+  },
+  {
+    "question": "Cats _____ (write) English on Mondays.",
+    "options": ["not write", "don't write", "no write", "doesn't write"],
+    "correctAnswer": "don't write"
+  },
+  {
+    "question": "The students _____ (swim) to the park every morning.",
+    "options": ["no swim", "don't swim", "not swim", "doesn't swim"],
+    "correctAnswer": "don't swim"
+  },
+  {
+    "question": "My parents _____ (go) the heavy bags sometimes.",
+    "options": ["don't go", "not go", "doesn't go", "no go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "The birds _____ (speak) football every morning.",
+    "options": ["doesn't speak", "don't speak", "not speak", "no speak"],
+    "correctAnswer": "don't speak"
+  },
+  {
+    "question": "Cats _____ (eat) fast at night.",
+    "options": ["not eat", "don't eat", "doesn't eat", "no eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "Tom _____ (work) emails often.",
+    "options": ["don't work", "no work", "doesn't work", "not work"],
+    "correctAnswer": "doesn't work"
+  },
+  {
+    "question": "My sister _____ (play) water usually.",
+    "options": ["don't play", "not play", "no play", "doesn't play"],
+    "correctAnswer": "doesn't play"
+  },
+  {
+    "question": "The students _____ (run) the car every day.",
+    "options": ["doesn't run", "don't run", "not run", "no run"],
+    "correctAnswer": "don't run"
+  },
+  {
+    "question": "Doctors _____ (go) water sometimes.",
+    "options": ["no go", "doesn't go", "don't go", "not go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "A student _____ (speak) the car every day.",
+    "options": ["don't speak", "not speak", "no speak", "doesn't speak"],
+    "correctAnswer": "doesn't speak"
+  },
+  {
+    "question": "They _____ (go) the car on Mondays.",
+    "options": ["doesn't go", "not go", "don't go", "no go"],
+    "correctAnswer": "don't go"
+  },
+  {
+    "question": "Mr. Smith _____ (drink) milk never.",
+    "options": ["don't drink", "no drink", "not drink", "doesn't drink"],
+    "correctAnswer": "doesn't drink"
+  },
+  {
+    "question": "The teacher _____ (go) milk sometimes.",
+    "options": ["don't go", "not go", "doesn't go", "no go"],
+    "correctAnswer": "doesn't go"
+  },
+  {
+    "question": "The children _____ (carry) to the park sometimes.",
+    "options": ["no carry", "not carry", "don't carry", "doesn't carry"],
+    "correctAnswer": "don't carry"
+  },
+  {
+    "question": "My parents _____ (eat) to the park never.",
+    "options": ["no eat", "doesn't eat", "don't eat", "not eat"],
+    "correctAnswer": "don't eat"
+  },
+  {
+    "question": "My sister _____ (read) the car twice a week.",
+    "options": ["no read", "doesn't read", "not read", "don't read"],
+    "correctAnswer": "doesn't read"
+  },
+  {
+    "question": "_____ you and I work English usually?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the students wash books every morning?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the birds wash emails twice a week?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ they watch milk usually?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the teacher play the heavy bags every weekend?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student cook water never?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ they play pizza every day?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ a student wash the piano twice a week?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it write the piano at night?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the teacher play to music at night?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ i watch the piano at night?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ mr. Smith drink TV every weekend?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ cats carry football sometimes?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my parents read milk sometimes?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ she run water every weekend?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ tom read in the pool usually?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she listen the car every morning?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the children fly TV on Mondays?",
+    "options": ["Are", "Is", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you read the heavy bags every morning?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ tom wash everywhere sometimes?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I cook milk sometimes?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the birds go the piano every weekend?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the birds speak emails never?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you speak the car sometimes?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ people carry everywhere often?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you and I write English never?",
+    "options": ["Are", "Is", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ she read to music on Mondays?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ mr. Smith read the piano often?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ doctors fly dinner every morning?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the doctor clean milk often?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I read pizza at night?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the teacher speak the car twice a week?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it drink to music every morning?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my sister cook everywhere on Mondays?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ Sarah clean pizza every morning?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she wash the car every weekend?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ cats write water never?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ she run the kite usually?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student drive TV on Mondays?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the teacher like to music on Mondays?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student drink in the pool twice a week?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ cats cook football on Mondays?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ they work TV every morning?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the cat work the piano every morning?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the doctor write emails never?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ tom eat pizza every weekend?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ they fly the house every weekend?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the cat watch the house every day?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my parents drive English sometimes?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my parents listen Spanish sometimes?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the students carry in the pool every morning?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the children run the house sometimes?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ we like the house often?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the students carry the house every weekend?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ it read English sometimes?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ doctors watch English every day?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the birds drink emails sometimes?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ i speak to the park every weekend?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ they like football often?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you read everywhere twice a week?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the children eat the kite never?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister swim milk often?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ he drink everywhere on Mondays?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ doctors speak the heavy bags at night?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ i clean water often?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the birds work Spanish on Mondays?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ we watch to music every morning?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ Sarah wash dinner every weekend?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I study football every day?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the doctor clean Spanish every weekend?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ tom cook fast at night?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the children drink books every day?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister watch TV never?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ he write the car every day?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ we cook emails every weekend?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ they swim everywhere on Mondays?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ cats drive pizza never?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the bird run books usually?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ cats speak books sometimes?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you read the heavy bags never?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ they watch to music every morning?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ i clean to the park sometimes?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ Sarah clean emails often?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the cat wash the house at night?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my sister study the piano every weekend?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the teacher speak to music sometimes?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student work the heavy bags every day?",
+    "options": ["Are", "Is", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ cats work dinner every morning?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ we listen pizza every weekend?",
+    "options": ["Are", "Is", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister swim to the park sometimes?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ tom watch emails every day?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ i listen to music every weekend?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you study the heavy bags never?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the teacher work books at night?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ Sarah work the heavy bags often?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you like Spanish every weekend?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the cat go TV every weekend?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my parents wash in the pool often?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you and I clean Spanish twice a week?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ people watch English never?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the bird work Spanish never?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ he carry books every day?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she clean to the park sometimes?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the bird listen English at night?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my sister drink Spanish often?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ people wash the kite usually?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ doctors fly fast every day?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ they go everywhere never?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my parents read football sometimes?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you like the house never?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ Sarah go Spanish every morning?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student read the piano at night?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the students carry Spanish twice a week?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ Sarah drink the heavy bags every day?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ they drive everywhere often?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ we cook the heavy bags usually?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the doctor swim football usually?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ they like fast never?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ a student speak to music on Mondays?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ he like in the pool on Mondays?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I read the piano never?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ we fly fast every morning?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ he fly milk every morning?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ doctors go the heavy bags sometimes?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my parents eat the heavy bags twice a week?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you and I clean the heavy bags every weekend?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the students cook the kite sometimes?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ cats swim in the pool usually?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ cats wash to music at night?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the children swim the heavy bags every morning?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister fly emails on Mondays?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the doctor read dinner at night?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ we write to music every weekend?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ tom run in the pool usually?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my parents wash everywhere every day?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ doctors like to the park every morning?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my parents like fast on Mondays?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my parents cook the kite on Mondays?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you speak to music on Mondays?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the cat speak football every weekend?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the students swim the kite twice a week?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the students go the piano at night?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister clean to the park usually?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the students eat to the park every weekend?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ Sarah swim English twice a week?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it work the car on Mondays?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the cat write milk on Mondays?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ mr. Smith cook the piano twice a week?",
+    "options": ["Are", "Is", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ tom go the kite often?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I listen the car every weekend?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ people run football on Mondays?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ we watch emails on Mondays?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ he listen to music at night?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she listen books every day?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you wash milk at night?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ a student speak pizza at night?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you cook emails sometimes?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ a student wash emails often?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the children play books never?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ i swim water every day?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ doctors read the piano on Mondays?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ tom carry TV never?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ cats go football never?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister go milk on Mondays?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she read dinner usually?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ i wash to music at night?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the students drive the car usually?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ a student write the kite every weekend?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the cat work English at night?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ i swim to music twice a week?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ i drink football twice a week?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ i carry the house often?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister listen in the pool often?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the children play Spanish every day?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the children cook TV every day?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ a student go the car twice a week?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ doctors speak the house at night?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the students eat English every weekend?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the doctor watch emails usually?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my sister cook in the pool twice a week?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my sister write the kite often?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she drink the piano never?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ we speak the house never?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ Sarah like to the park every morning?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I read the piano twice a week?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ i carry pizza never?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the cat clean fast every morning?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ tom go everywhere at night?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ cats write to music twice a week?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ cats eat the heavy bags never?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my parents swim Spanish sometimes?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ it clean the piano every weekend?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it eat football at night?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ doctors drink TV every day?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the bird fly the heavy bags twice a week?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it swim water every day?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ tom write the car every morning?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it write everywhere often?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I play books on Mondays?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ a student drink the car every day?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you study Spanish on Mondays?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ people watch the car every day?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the children work TV every weekend?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the children cook in the pool sometimes?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the children play milk every morning?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the cat swim milk often?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ cats wash TV never?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the cat watch dinner every weekend?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I study dinner every day?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the students run TV usually?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ she eat in the pool every morning?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I write in the pool twice a week?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the students play pizza at night?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ he play the kite twice a week?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it watch the piano every morning?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ Mr. Smith cook dinner every weekend?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ he study English every day?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she play the piano usually?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ Mr. Smith cook pizza every weekend?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the teacher watch TV sometimes?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ doctors read books every day?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ they study English on Mondays?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ he drink milk sometimes?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the bird swim every day?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the doctor go everywhere twice a week?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ they listen to music every day?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister carry heavy bags every day?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ Sarah play the piano every day?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she read books every weekend?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ cats chase birds every day?",
+    "options": ["Are", "Is", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ she swim in the pool usually?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the doctor read emails every morning?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the students carry the heavy bags usually?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ Sarah carry the heavy bags often?",
+    "options": ["Does", "Is", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ i read everywhere usually?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ people drive football never?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ it read milk usually?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ people carry Spanish sometimes?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ mr. Smith go the kite every morning?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ they listen emails sometimes?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ he drink Spanish every morning?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ Sarah carry the house sometimes?",
+    "options": ["Are", "Is", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the birds write in the pool sometimes?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the cat speak Spanish at night?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the birds study to the park every day?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the children clean fast every weekend?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister drive pizza sometimes?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ people work to music never?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the birds wash football sometimes?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ he speak football usually?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ they eat everywhere usually?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the doctor wash books every weekend?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it carry the car every weekend?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the teacher speak water on Mondays?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ he like the kite twice a week?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the birds drive to music never?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ they cook pizza every day?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the birds wash Spanish twice a week?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ mr. Smith listen emails often?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my sister play fast usually?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the children run dinner sometimes?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ tom play the house on Mondays?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student drive milk often?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ people swim water every weekend?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ she work fast never?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it listen to the park often?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my parents study English at night?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the teacher carry in the pool at night?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ tom drive the piano often?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ he carry English twice a week?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student eat to the park often?",
+    "options": ["Do", "Does", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ Sarah run everywhere on Mondays?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it eat fast often?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the bird watch the kite on Mondays?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the birds listen Spanish sometimes?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you and I study in the pool never?",
+    "options": ["Is", "Does", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ tom work milk sometimes?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the students speak football never?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the children read milk often?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ it play to music usually?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ mr. Smith work milk sometimes?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the cat drive books every day?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you watch the house every weekend?",
+    "options": ["Is", "Are", "Do", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you work Spanish twice a week?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ cats listen TV at night?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ we play the kite every day?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the bird wash pizza every morning?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my sister carry in the pool usually?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ i drink water on Mondays?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the bird go the piano twice a week?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ my sister swim the heavy bags every morning?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the students fly water every day?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the bird drive fast twice a week?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student carry TV usually?",
+    "options": ["Are", "Does", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she study football every morning?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student watch football usually?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it study everywhere every day?",
+    "options": ["Are", "Do", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the birds go the house twice a week?",
+    "options": ["Is", "Does", "Do", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ a student swim the heavy bags never?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the teacher carry milk often?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ mr. Smith speak pizza never?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the cat wash pizza twice a week?",
+    "options": ["Is", "Do", "Are", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the teacher play the kite on Mondays?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she carry dinner every weekend?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ we drive books every day?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ people speak the piano on Mondays?",
+    "options": ["Do", "Are", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ the cat like the car often?",
+    "options": ["Do", "Is", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the students speak in the pool every day?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you and I watch dinner sometimes?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ you drive to the park every weekend?",
+    "options": ["Does", "Are", "Is", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ he fly the car often?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she study everywhere at night?",
+    "options": ["Are", "Is", "Does", "Do"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ a student study the house on Mondays?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ tom write to music never?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ you and I wash TV every morning?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister study English every day?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ he watch TV every weekend?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ she watch everywhere twice a week?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the students speak milk never?",
+    "options": ["Does", "Is", "Are", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ cats play TV every weekend?",
+    "options": ["Are", "Does", "Do", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister speak English every weekend?",
+    "options": ["Are", "Is", "Do", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ doctors listen to music never?",
+    "options": ["Do", "Is", "Are", "Does"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ doctors go in the pool at night?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ she eat books every day?",
+    "options": ["Do", "Are", "Does", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ i eat dinner on Mondays?",
+    "options": ["Is", "Are", "Does", "Do"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ mr. Smith play books sometimes?",
+    "options": ["Is", "Do", "Does", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ the students fly milk every weekend?",
+    "options": ["Do", "Does", "Are", "Is"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ my sister write water every weekend?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ mr. Smith drink Spanish often?",
+    "options": ["Does", "Do", "Are", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ people listen TV never?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Do"
+  },
+  {
+    "question": "_____ he play emails never?",
+    "options": ["Does", "Are", "Do", "Is"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ Sarah go pizza often?",
+    "options": ["Does", "Do", "Is", "Are"],
+    "correctAnswer": "Does"
+  },
+  {
+    "question": "_____ it read books usually?",
+    "options": ["Are", "Do", "Is", "Does"],
+    "correctAnswer": "Does"
   }
 ]

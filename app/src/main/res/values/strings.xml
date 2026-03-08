@@ -39,6 +39,8 @@
     <string name="string_guide_examples">Examples:\n%1$s</string>
     <string name="string_guide_keywords">Keywords: %1$s</string>
     <string name="string_guide_common_mistakes">Common mistakes:\n%1$s</string>
+    <string name="string_topic_progress_accuracy_seen">Accuracy %1$d%% • Seen %2$d</string>
+    <string name="string_topic_progress_two_line">%1$s\n%2$s</string>
     <string-array name="array_languages">
         <item>English</item>
     </string-array>

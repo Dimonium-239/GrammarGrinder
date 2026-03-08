@@ -1,0 +1,1252 @@
+[
+ {
+ "question": "___ she appear in the office before the deadline?",
+ "options": ["Can't", "Should", "Must", "Might"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the new software have sufficient resources in the near future?",
+ "options": ["Must", "Can't", "May", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the manager appear in the office by next week?",
+ "options": ["Can't", "Should", "Could", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the warning message be in the office right now?",
+ "options": ["Should", "Must", "Can't", "May"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ engineers be by noon before the deadline?",
+ "options": ["Should", "Can't", "May", "Must"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ engineers require by noon last year?",
+ "options": ["Can't", "Must", "Might", "Should"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the forecast be in the system in the near future?",
+ "options": ["Could", "Can't", "Must", "Should"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the system be in the office yesterday evening?",
+ "options": ["Must", "Could", "Can't", "Should"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the system show an issue in the system by next week?",
+ "options": ["Might", "Should", "Must", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the witnesses show an issue in the system yesterday evening?",
+ "options": ["Should", "Can't", "Could", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ she be valid by next week?",
+ "options": ["Can't", "Should", "May", "Must"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the old records know the project details last year?",
+ "options": ["Could", "Should", "Can't", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ a local guide appear at the office yesterday evening?",
+ "options": ["Must", "Can't", "Should", "Could"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ your files be available by noon last year?",
+ "options": ["Must", "Should", "May", "Can't"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ your files have an issue in the system last year?",
+ "options": ["Must", "Should", "Could", "Can't"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the report require the project details right now?",
+ "options": ["May", "Must", "Can't", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the analyst be at the office right now?",
+ "options": ["Might", "Must", "Should", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the report be in the office yesterday evening?",
+ "options": ["Might", "Can't", "Must", "Should"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the system be in the drawer before the deadline?",
+ "options": ["Could", "Should", "Can't", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the old records be valid by next week?",
+ "options": ["Must", "Can't", "Should", "May"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the manager be in the system last year?",
+ "options": ["Might", "Should", "Must", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ team members require sufficient resources before the deadline?",
+ "options": ["Should", "Must", "Can't", "Might"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the new software be in the drawer tomorrow morning?",
+ "options": ["Should", "Must", "Can't", "May"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the system be at the office in the near future?",
+ "options": ["Should", "Could", "Must", "Can't"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the analyst appear in the drawer before the deadline?",
+ "options": ["Can't", "Could", "Must", "Should"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the forecast show an issue in the system right now?",
+ "options": ["Must", "Could", "Should", "Can't"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ engineers be in the system during the meeting?",
+ "options": ["Could", "Must", "Can't", "Should"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the witnesses be in the system during the meeting?",
+ "options": ["Must", "Can't", "May", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the report be valid right now?",
+ "options": ["Should", "Could", "Can't", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ your files be at the office before the deadline?",
+ "options": ["Might", "Must", "Can't", "Should"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the forecast be sufficient resources during the meeting?",
+ "options": ["Should", "Must", "Can't", "Might"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the new software appear in the system before the deadline?",
+ "options": ["Must", "Might", "Should", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the analyst be in the office last year?",
+ "options": ["Should", "Could", "Can't", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the witnesses include an issue in the system tomorrow morning?",
+ "options": ["Can't", "Could", "Should", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the warning message appear at the office last year?",
+ "options": ["Can't", "Must", "Should", "May"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the results be in the office tomorrow morning?",
+ "options": ["Should", "Must", "Might", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ he be in the system last year?",
+ "options": ["Must", "Could", "Should", "Can't"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the report be by noon tomorrow morning?",
+ "options": ["Must", "Should", "Might", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the witnesses appear at the office tomorrow morning?",
+ "options": ["Might", "Must", "Should", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ she have sufficient resources right now?",
+ "options": ["Must", "Should", "May", "Can't"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ she be valid right now?",
+ "options": ["Can't", "Could", "Should", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ they be valid during the meeting?",
+ "options": ["Can't", "Might", "Should", "Must"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the old records appear in the system in the near future?",
+ "options": ["Must", "Can't", "May", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the forecast be in the office tomorrow morning?",
+ "options": ["Must", "Can't", "May", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the new software be at the office before the deadline?",
+ "options": ["Must", "Should", "Might", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ engineers show an issue in the system right now?",
+ "options": ["Can't", "May", "Must", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the report include in the system right now?",
+ "options": ["Should", "Might", "Must", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the witnesses require in the office by next week?",
+ "options": ["Can't", "Might", "Must", "Should"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the results know an issue in the system in the near future?",
+ "options": ["Could", "Can't", "Should", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the results require at the office in the near future?",
+ "options": ["Should", "Must", "May", "Can't"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ we need in the drawer right now?",
+ "options": ["May", "Must", "Can't", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the report be at the office before the deadline?",
+ "options": ["Should", "Could", "Can't", "Must"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the system require by noon tomorrow morning?",
+ "options": ["Can't", "Should", "Must", "Could"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ your files be in the system tomorrow morning?",
+ "options": ["Should", "Must", "May", "Can't"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the new software be by noon last year?",
+ "options": ["Should", "Could", "Must", "Can't"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the old records have sufficient resources in the near future?",
+ "options": ["Must", "Can't", "May", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the system appear valid right now?",
+ "options": ["Could", "Can't", "Must", "Should"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the new software know the project details by next week?",
+ "options": ["May", "Should", "Can't", "Must"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the results include in the system tomorrow morning?",
+ "options": ["Can't", "Must", "Should", "Might"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ she have sufficient resources by next week?",
+ "options": ["Can't", "Might", "Should", "Must"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the manager have sufficient resources recently?",
+ "options": ["Must", "Can't", "Should", "May"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ team members know in the drawer tomorrow morning?",
+ "options": ["Can't", "May", "Must", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ she be by next week?",
+ "options": ["May", "Should", "Must", "Can't"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the results appear valid before the deadline?",
+ "options": ["Should", "Must", "Might", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the new software include by next week?",
+ "options": ["Should", "Might", "Must", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the forecast be at the office tomorrow morning?",
+ "options": ["Can't", "Could", "Must", "Should"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ he be in the office recently?",
+ "options": ["Must", "Could", "Should", "Can't"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the new software share the project details right now?",
+ "options": ["Should", "Can't", "Must", "Might"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the warning message know the project details yesterday evening?",
+ "options": ["Must", "Can't", "May", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the system be in the office recently?",
+ "options": ["May", "Must", "Can't", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the old records need at the office yesterday evening?",
+ "options": ["Must", "Can't", "Might", "Should"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ the results be at the office recently?",
+ "options": ["Should", "Must", "Could", "Can't"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ he know the project details tomorrow morning?",
+ "options": ["Must", "Should", "Can't", "May"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the results appear by noon during the meeting?",
+ "options": ["Must", "Should", "May", "Can't"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the manager appear in the drawer last year?",
+ "options": ["Can't", "Should", "Might", "Must"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ we know at the office in the near future?",
+ "options": ["Could", "Must", "Can't", "Should"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the missing document be at the office during the meeting?",
+ "options": ["Must", "Can't", "Could", "Should"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ a local guide be an issue in the system right now?",
+ "options": ["Must", "Could", "Should", "Can't"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the manager be sufficient resources recently?",
+ "options": ["Can't", "Should", "Must", "May"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the analyst be by noon recently?",
+ "options": ["Might", "Should", "Must", "Can't"],
+ "correctAnswer": "Might"
+ },
+ {
+ "question": "___ he know at the office before the deadline?",
+ "options": ["Should", "Must", "Can't", "Could"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the report require at the office right now?",
+ "options": ["Can't", "May", "Must", "Should"],
+ "correctAnswer": "May"
+ },
+ {
+ "question": "___ the system include the project details before the deadline?",
+ "options": ["Should", "Must", "Can't", "Could"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "___ the results have sufficient resources recently?",
+ "options": ["Must", "Can't", "Could", "Should"],
+ "correctAnswer": "Could"
+ },
+ {
+ "question": "The results ___ have discovered in the system recently.",
+ "options": ["must", "should", "will", "can't"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The system ___ have started at the office by next week.",
+ "options": ["will", "must", "should", "might not"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The report ___ have told by noon last year.",
+ "options": ["must", "may not", "should", "will"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The warning message ___ have known an issue in the system right now.",
+ "options": ["will", "must", "should", "may not"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The forecast ___ have arrived in the office tomorrow morning.",
+ "options": ["must", "should", "will", "might not"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The warning message ___ have an issue in the system right now.",
+ "options": ["couldn't", "will", "should", "must"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The analyst ___ be by noon right now.",
+ "options": ["might not", "must", "will", "should"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The missing document ___ have known at the office tomorrow morning.",
+ "options": ["can't", "will", "must", "should"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The manager ___ have been in the office last year.",
+ "options": ["couldn't", "must", "will", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "They ___ have finished in the system tomorrow morning.",
+ "options": ["must", "will", "couldn't", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The witnesses ___ know the project details tomorrow morning.",
+ "options": ["may not", "will", "must", "should"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The new software ___ know at the office by next week.",
+ "options": ["will", "can't", "should", "must"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The old records ___ be valid last year.",
+ "options": ["must", "should", "may not", "will"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The report ___ need in the drawer right now.",
+ "options": ["should", "will", "must", "couldn't"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The report ___ have finished valid last year.",
+ "options": ["will", "couldn't", "must", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The results ___ require sufficient resources recently.",
+ "options": ["should", "must", "may not", "will"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "Team members ___ be at the office yesterday evening.",
+ "options": ["must", "should", "might not", "will"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The report ___ need at the office right now.",
+ "options": ["should", "must", "may not", "will"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "Engineers ___ appear at the office by next week.",
+ "options": ["must", "will", "couldn't", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "She ___ know an issue in the system by next week.",
+ "options": ["might not", "should", "must", "will"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "She ___ appear by noon during the meeting.",
+ "options": ["must", "should", "might not", "will"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The analyst ___ have finished by noon right now.",
+ "options": ["will", "can't", "should", "must"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "Engineers ___ have been in the office before the deadline.",
+ "options": ["must", "should", "can't", "will"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The manager ___ require the project details right now.",
+ "options": ["must", "should", "will", "can't"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The manager ___ have been at the office yesterday evening.",
+ "options": ["must", "couldn't", "will", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "He ___ have known at the office yesterday evening.",
+ "options": ["should", "must", "can't", "will"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "A local guide ___ require an issue in the system last year.",
+ "options": ["must", "will", "may not", "should"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The report ___ have discovered in the office before the deadline.",
+ "options": ["must", "can't", "should", "will"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The report ___ have been valid right now.",
+ "options": ["may not", "should", "must", "will"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "He ___ share the project details by next week.",
+ "options": ["might not", "will", "must", "should"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The warning message ___ be in the system in the near future.",
+ "options": ["should", "will", "must", "may not"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The results ___ be valid before the deadline.",
+ "options": ["must", "will", "should", "couldn't"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "We ___ have finished at the office during the meeting.",
+ "options": ["will", "must", "may not", "should"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The system ___ share the project details in the near future.",
+ "options": ["can't", "will", "must", "should"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The forecast ___ show an issue in the system tomorrow morning.",
+ "options": ["may not", "should", "will", "must"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "They ___ know the project details last year.",
+ "options": ["will", "should", "must", "may not"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "Team members ___ have finished at the office by next week.",
+ "options": ["should", "may not", "will", "must"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The results ___ know the project details by next week.",
+ "options": ["should", "must", "might not", "will"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The witnesses ___ be available by noon in the near future.",
+ "options": ["will", "can't", "must", "should"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The results ___ have forgotten the project details by next week.",
+ "options": ["should", "might not", "will", "must"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The new software ___ have finished at the office in the near future.",
+ "options": ["should", "will", "might not", "must"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "Engineers ___ have forgotten in the office right now.",
+ "options": ["may not", "must", "should", "will"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "Team members ___ be in the office yesterday evening.",
+ "options": ["must", "should", "will", "couldn't"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The witnesses ___ have forgotten by noon in the near future.",
+ "options": ["couldn't", "should", "will", "must"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "He ___ have known the project details recently.",
+ "options": ["might not", "must", "will", "should"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The warning message ___ have an issue in the system yesterday evening.",
+ "options": ["must", "will", "should", "may not"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "Your files ___ have known valid before the deadline.",
+ "options": ["should", "must", "can't", "will"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "We ___ have hidden in the system during the meeting.",
+ "options": ["should", "might not", "must", "will"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The missing document ___ know in the drawer last year.",
+ "options": ["should", "will", "couldn't", "must"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "We ___ be by noon during the meeting.",
+ "options": ["should", "will", "couldn't", "must"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The manager ___ have told sufficient resources during the meeting.",
+ "options": ["will", "might not", "must", "should"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "He ___ appear at the office last year.",
+ "options": ["should", "must", "will", "may not"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The report ___ have started sufficient resources in the near future.",
+ "options": ["must", "might not", "should", "will"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "They ___ be in the drawer before the deadline.",
+ "options": ["couldn't", "must", "should", "will"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The warning message ___ have been the project details in the near future.",
+ "options": ["should", "must", "will", "may not"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The new software ___ have finished in the office recently.",
+ "options": ["can't", "should", "will", "must"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "Engineers ___ have known by noon last year.",
+ "options": ["will", "must", "might not", "should"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The witnesses ___ have hidden at the office last year.",
+ "options": ["should", "must", "will", "may not"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The results ___ have seen by next week.",
+ "options": ["will", "couldn't", "should", "must"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "They ___ include sufficient resources by next week.",
+ "options": ["must", "will", "may not", "should"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The system ___ have discovered in the office recently.",
+ "options": ["should", "will", "must", "can't"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The witnesses ___ share the project details right now.",
+ "options": ["must", "may not", "will", "should"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The report ___ need at the office recently.",
+ "options": ["must", "will", "couldn't", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The report ___ need by noon recently.",
+ "options": ["may not", "should", "must", "will"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The forecast ___ have arrived in the drawer right now.",
+ "options": ["might not", "must", "should", "will"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "We ___ have forgotten in the drawer by next week.",
+ "options": ["will", "may not", "must", "should"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The results ___ be in the drawer last year.",
+ "options": ["should", "can't", "must", "will"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The analyst ___ need in the drawer before the deadline.",
+ "options": ["couldn't", "must", "will", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "They ___ include an issue in the system recently.",
+ "options": ["will", "must", "couldn't", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "Engineers ___ have forgotten in the drawer during the meeting.",
+ "options": ["will", "must", "should", "couldn't"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The witnesses ___ be in the system in the near future.",
+ "options": ["might not", "should", "must", "will"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "Your files ___ have forgotten valid tomorrow morning.",
+ "options": ["will", "must", "might not", "should"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The forecast ___ appear at the office in the near future.",
+ "options": ["couldn't", "must", "will", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The forecast ___ have seen sufficient resources by next week.",
+ "options": ["can't", "should", "must", "will"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The report ___ have arrived in the drawer during the meeting.",
+ "options": ["will", "might not", "must", "should"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The missing document ___ appear at the office recently.",
+ "options": ["will", "couldn't", "must", "should"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "The system ___ be valid right now.",
+ "options": ["might not", "should", "will", "must"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The system ___ have seen sufficient resources last year.",
+ "options": ["should", "must", "will", "might not"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "The forecast ___ have told sufficient resources right now.",
+ "options": ["can't", "must", "should", "will"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "Team members ___ know the project details by next week.",
+ "options": ["will", "couldn't", "should", "must"],
+ "correctAnswer": "couldn't"
+ },
+ {
+ "question": "A local guide ___ have discovered valid right now.",
+ "options": ["will", "can't", "should", "must"],
+ "correctAnswer": "can't"
+ },
+ {
+ "question": "The system ___ have known in the system last year.",
+ "options": ["should", "will", "may not", "must"],
+ "correctAnswer": "may not"
+ },
+ {
+ "question": "The results ___ have hidden in the system before the deadline.",
+ "options": ["must", "will", "might not", "should"],
+ "correctAnswer": "might not"
+ },
+ {
+ "question": "A local guide ___ be in the drawer yesterday evening.",
+ "options": ["can't", "might not", "could", "couldn't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "We ___ have hidden valid during the meeting.",
+ "options": ["might not", "can't", "might", "couldn't"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "Team members ___ be in the drawer right now.",
+ "options": ["couldn't", "must", "can't", "might not"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "They ___ have discovered valid right now.",
+ "options": ["couldn't", "might not", "might", "can't"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "The missing document ___ have finished an issue in the system recently.",
+ "options": ["might not", "can't", "couldn't", "might"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "We ___ need in the drawer yesterday evening.",
+ "options": ["must", "might not", "couldn't", "can't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "Team members ___ be valid yesterday evening.",
+ "options": ["can't", "couldn't", "must", "might not"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "Your files ___ be at the office by next week.",
+ "options": ["couldn't", "might not", "might", "can't"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "Your files ___ have finished by noon recently.",
+ "options": ["can't", "might not", "couldn't", "may"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "Engineers ___ need at the office right now.",
+ "options": ["can't", "may", "couldn't", "might not"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The report ___ have started at the office by next week.",
+ "options": ["can't", "might not", "might", "couldn't"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "They ___ have finished in the system tomorrow morning.",
+ "options": ["could", "might not", "can't", "couldn't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "A local guide ___ be in the system by next week.",
+ "options": ["might not", "can't", "couldn't", "must"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The system ___ have arrived in the drawer by next week.",
+ "options": ["couldn't", "may", "can't", "might not"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "Engineers ___ have arrived at the office during the meeting.",
+ "options": ["can't", "might not", "could", "couldn't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "Your files ___ have been valid yesterday evening.",
+ "options": ["can't", "must", "might not", "couldn't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The witnesses ___ appear in the office during the meeting.",
+ "options": ["might not", "can't", "couldn't", "could"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The report ___ need valid recently.",
+ "options": ["couldn't", "could", "might not", "can't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "We ___ be in the drawer before the deadline.",
+ "options": ["must", "couldn't", "can't", "might not"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The new software ___ appear by next week.",
+ "options": ["might not", "couldn't", "can't", "must"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The system ___ have been an issue in the system right now.",
+ "options": ["can't", "could", "couldn't", "might not"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "We ___ have been valid right now.",
+ "options": ["couldn't", "might not", "could", "can't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The new software ___ appear in the drawer last year.",
+ "options": ["must", "can't", "might not", "couldn't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "Team members ___ have told valid right now.",
+ "options": ["can't", "might not", "could", "couldn't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "Your files ___ have started the project details right now.",
+ "options": ["can't", "couldn't", "might not", "may"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The witnesses ___ be by noon before the deadline.",
+ "options": ["might not", "couldn't", "can't", "must"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The manager ___ have hidden valid right now.",
+ "options": ["can't", "couldn't", "might not", "might"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "The report ___ be at the office recently.",
+ "options": ["might not", "can't", "must", "couldn't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The analyst ___ have discovered the project details in the near future.",
+ "options": ["might not", "must", "can't", "couldn't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The report ___ have forgotten an issue in the system during the meeting.",
+ "options": ["can't", "couldn't", "may", "might not"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The analyst ___ be discovered at the office right now.",
+ "options": ["must", "couldn't", "might not", "can't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The analyst ___ have forgotten at the office right now.",
+ "options": ["might not", "may", "can't", "couldn't"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The system ___ have discovered an issue in the system before the deadline.",
+ "options": ["couldn't", "can't", "might not", "could"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The results ___ have arrived an issue in the system in the near future.",
+ "options": ["might", "couldn't", "can't", "might not"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "The new software ___ have arrived the project details in the near future.",
+ "options": ["can't", "couldn't", "might not", "could"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "We ___ appear in the drawer recently.",
+ "options": ["might not", "couldn't", "must", "can't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "They ___ have known an issue in the system last year.",
+ "options": ["might not", "can't", "couldn't", "must"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "He ___ have finished the project details right now.",
+ "options": ["can't", "couldn't", "might not", "might"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "Team members ___ have told sufficient resources recently.",
+ "options": ["couldn't", "must", "might not", "can't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "We ___ be in the drawer right now.",
+ "options": ["might not", "couldn't", "might", "can't"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "We ___ need the project details right now.",
+ "options": ["couldn't", "can't", "might", "might not"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "The report ___ have finished in the office in the near future.",
+ "options": ["couldn't", "can't", "could", "might not"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The old records ___ appear in the system during the meeting.",
+ "options": ["couldn't", "might", "can't", "might not"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "She ___ need in the office during the meeting.",
+ "options": ["might not", "might", "can't", "couldn't"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "The results ___ have finished by noon before the deadline.",
+ "options": ["can't", "might", "couldn't", "might not"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "The results ___ require sufficient resources by next week.",
+ "options": ["might not", "can't", "could", "couldn't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The analyst ___ be discovered at the office before the deadline.",
+ "options": ["might not", "could", "couldn't", "can't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The report ___ be in the system tomorrow morning.",
+ "options": ["couldn't", "could", "might not", "can't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The new software ___ have forgotten in the system before the deadline.",
+ "options": ["couldn't", "could", "can't", "might not"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The report ___ be at the office last year.",
+ "options": ["couldn't", "might not", "must", "can't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The warning message ___ know the project details tomorrow morning.",
+ "options": ["must", "can't", "might not", "couldn't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The old records ___ have told by noon right now.",
+ "options": ["couldn't", "might not", "can't", "may"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The report ___ know the project details last year.",
+ "options": ["can't", "might not", "couldn't", "could"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "They ___ have arrived in the system by next week.",
+ "options": ["can't", "might not", "must", "couldn't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The missing document ___ require at the office in the near future.",
+ "options": ["might not", "couldn't", "can't", "may"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The forecast ___ be in the drawer recently.",
+ "options": ["can't", "could", "might not", "couldn't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The report ___ have been at the office yesterday evening.",
+ "options": ["must", "can't", "might not", "couldn't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "A local guide ___ have finished sufficient resources right now.",
+ "options": ["might not", "could", "can't", "couldn't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The results ___ require in the office in the near future.",
+ "options": ["might not", "might", "couldn't", "can't"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "The warning message ___ have hidden at the office before the deadline.",
+ "options": ["may", "couldn't", "might not", "can't"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The missing document ___ be valid right now.",
+ "options": ["might not", "couldn't", "can't", "may"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The manager ___ have seen the project details right now.",
+ "options": ["might not", "can't", "must", "couldn't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "They ___ have known the project details right now.",
+ "options": ["could", "couldn't", "might not", "can't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "Engineers ___ have arrived the project details right now.",
+ "options": ["might not", "might", "can't", "couldn't"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "She ___ have forgotten an issue in the system last year.",
+ "options": ["couldn't", "must", "might not", "can't"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "Engineers ___ have seen valid by next week.",
+ "options": ["couldn't", "can't", "might not", "must"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "We ___ be in the system recently.",
+ "options": ["couldn't", "may", "might not", "can't"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "Team members ___ have discovered by noon last year.",
+ "options": ["could", "might not", "can't", "couldn't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The system ___ have started at the office last year.",
+ "options": ["could", "can't", "couldn't", "might not"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The warning message ___ have told in the drawer by next week.",
+ "options": ["may", "couldn't", "might not", "can't"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The warning message ___ have known by next week.",
+ "options": ["might not", "may", "couldn't", "can't"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The report ___ have had sufficient resources right now.",
+ "options": ["can't", "might not", "could", "couldn't"],
+ "correctAnswer": "could"
+ },
+ {
+ "question": "The report ___ have been at the office before the deadline.",
+ "options": ["must", "can't", "couldn't", "might not"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The warning message ___ be in the office before the deadline.",
+ "options": ["can't", "couldn't", "might not", "must"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "The manager ___ have hidden at the office right now.",
+ "options": ["may", "can't", "couldn't", "might not"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The new software ___ show an issue in the system last year.",
+ "options": ["can't", "couldn't", "might", "might not"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "The forecast ___ have known the project details during the meeting.",
+ "options": ["couldn't", "can't", "may", "might not"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "The system ___ be in the drawer right now.",
+ "options": ["may", "can't", "couldn't", "might not"],
+ "correctAnswer": "may"
+ },
+ {
+ "question": "Team members ___ have forgotten valid right now.",
+ "options": ["can't", "couldn't", "might", "might not"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "The report ___ have forgotten at the office during the meeting.",
+ "options": ["couldn't", "might not", "can't", "might"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "We ___ have told in the office recently.",
+ "options": ["couldn't", "can't", "must", "might not"],
+ "correctAnswer": "must"
+ },
+ {
+ "question": "They ___ know at the office right now.",
+ "options": ["couldn't", "might", "might not", "can't"],
+ "correctAnswer": "might"
+ },
+ {
+ "question": "Your files ___ be discovered at the office during the meeting.",
+ "options": ["might not", "can't", "could", "couldn't"],
+ "correctAnswer": "could"
+ }
+]
