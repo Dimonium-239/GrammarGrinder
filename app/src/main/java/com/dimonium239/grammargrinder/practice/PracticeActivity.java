@@ -73,14 +73,14 @@ public class PracticeActivity extends AppCompatActivity {
     private void showQuestion() {
 
         if (questions.isEmpty()) {
-            binding.tvSentence.setText(getString(R.string.string_no_questions_found));
+            showEmptyState();
             return;
         }
 
         if (currentIndex >= questions.size()) {
             reloadQuestionsFromDb();
             if (questions.isEmpty()) {
-                binding.tvSentence.setText(getString(R.string.string_no_questions_found));
+                showEmptyState();
                 return;
             }
             currentIndex = 0;
@@ -93,7 +93,9 @@ public class PracticeActivity extends AppCompatActivity {
         Log.d(TAG, formatQuestionLog(q));
         binding.tvCategory.setText(q.category);
         binding.tvSentence.setText(q.question);
+        binding.topBar.btnHelp.setEnabled(true);
         resetButtons();
+        setAnswerButtonsEnabled(true);
 
         List<String> opts = new ArrayList<>(q.options);
         Collections.shuffle(opts);
@@ -117,6 +119,11 @@ public class PracticeActivity extends AppCompatActivity {
     }
 
     private void onAnswerClicked(int index) {
+        if (!hasCurrentQuestion()) {
+            showEmptyState();
+            return;
+        }
+
         Question q = questions.get(currentIndex);
         MaterialButton[] buttons = {
                 binding.btnOption1,
@@ -190,6 +197,9 @@ public class PracticeActivity extends AppCompatActivity {
         binding.topBar.btnBack.setOnClickListener(v -> finish());
 
         binding.topBar.btnHelp.setOnClickListener(v -> {
+            if (!hasCurrentQuestion()) {
+                return;
+            }
             Question q = questions.get(currentIndex);
             openGuideForQuestion(q);
         });
@@ -285,6 +295,35 @@ public class PracticeActivity extends AppCompatActivity {
             questions = QuestionRepository.loadQuestionsMix(this, selectedTopics);
         } else {
             questions = QuestionRepository.loadQuestions(this, selectedSection, selectedTopics);
+        }
+    }
+
+    private boolean hasCurrentQuestion() {
+        return currentIndex >= 0 && currentIndex < questions.size();
+    }
+
+    private void showEmptyState() {
+        currentIndex = 0;
+        binding.tvCategory.setText("");
+        binding.tvSentence.setText(getString(R.string.string_no_questions_found));
+        setAnswerButtonsEnabled(false);
+        binding.topBar.btnHelp.setEnabled(false);
+    }
+
+    private void setAnswerButtonsEnabled(boolean enabled) {
+        MaterialButton[] buttons = {
+                binding.btnOption1,
+                binding.btnOption2,
+                binding.btnOption3,
+                binding.btnOption4
+        };
+
+        for (MaterialButton button : buttons) {
+            button.setEnabled(enabled);
+            button.setVisibility(enabled ? MaterialButton.VISIBLE : MaterialButton.INVISIBLE);
+            if (!enabled) {
+                button.setTag(null);
+            }
         }
     }
 
