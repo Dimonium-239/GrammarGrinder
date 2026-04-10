@@ -31,14 +31,19 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class HomeActivity extends AppCompatActivity {
     private static final String TAG = "HomeActivity";
     private final List<MaterialCheckBox> checkBoxes = new ArrayList<>();
     private final List<SingleTopicHeaderBinding> singleTopicHeaderBindings = new ArrayList<>();
+    private final ExecutorService backgroundExecutor = Executors.newSingleThreadExecutor();
     private LinearLayout containerTopics;
     private MaterialButton btnStart;
     private LayoutInflater inflater;
+    private TextView subtitleView;
+    private boolean homeDataLoaded = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,24 +53,48 @@ public class HomeActivity extends AppCompatActivity {
 
         containerTopics = findViewById(R.id.container_topics);
         btnStart = findViewById(R.id.btn_start);
+        subtitleView = findViewById(R.id.tv_sub_title);
         inflater = LayoutInflater.from(this);
 
         setupTopBar();
         setupStartButton();
-        buildMixUI();
-        updateStartState();
+        showLoadingState();
+        loadHomeDataAsync();
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-        TopicProgressLabelHelper.refreshTopicProgressLabels(this, checkBoxes);
-        refreshSingleTopicHeaders();
+        if (homeDataLoaded) {
+            refreshProgressAsync();
+        }
     }
 
-    private void buildMixUI() {
-        List<SectionMeta> sections = SectionLoader.loadSections(this);
-        Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
+    @Override
+    protected void onDestroy() {
+        backgroundExecutor.shutdownNow();
+        super.onDestroy();
+    }
+
+    private void loadHomeDataAsync() {
+        backgroundExecutor.execute(() -> {
+            List<SectionMeta> sections = SectionLoader.loadSections(this);
+            Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
+            runOnUiThread(() -> {
+                if (isFinishing() || isDestroyed()) {
+                    return;
+                }
+                renderMixUI(sections, progressByTopic);
+            });
+        });
+    }
+
+    private void renderMixUI(List<SectionMeta> sections, Map<String, TopicProgress> progressByTopic) {
+        homeDataLoaded = true;
+        subtitleView.setText(getString(R.string.string_select_topics));
+        containerTopics.removeAllViews();
+        checkBoxes.clear();
+        singleTopicHeaderBindings.clear();
         for (SectionMeta section : sections) {
             if (!"section".equals(section.type)) {
                 continue;
@@ -87,6 +116,42 @@ public class HomeActivity extends AppCompatActivity {
                 Log.d(TAG, "Error listing assets in section: " + section.id, e);
             }
         }
+        updateStartState();
+    }
+
+    private void refreshProgressAsync() {
+        backgroundExecutor.execute(() -> {
+            Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
+            runOnUiThread(() -> {
+                if (isFinishing() || isDestroyed() || !homeDataLoaded) {
+                    return;
+                }
+                applyProgress(progressByTopic);
+            });
+        });
+    }
+
+    private void applyProgress(Map<String, TopicProgress> progressByTopic) {
+        for (MaterialCheckBox checkBox : checkBoxes) {
+            Object rawTag = checkBox.getTag();
+            if (!(rawTag instanceof String)) {
+                continue;
+            }
+            String topicPath = (String) rawTag;
+            checkBox.setText(TopicProgressLabelHelper.formatTopicLine(this, topicPath, progressByTopic.get(topicPath)));
+        }
+        for (SingleTopicHeaderBinding binding : singleTopicHeaderBindings) {
+            TopicProgress progress = progressByTopic.get(binding.topicPath);
+            binding.header.setText(buildSingleTopicHeaderText(binding.sectionTitle, progress));
+        }
+    }
+
+    private void showLoadingState() {
+        homeDataLoaded = false;
+        subtitleView.setText(getString(R.string.string_loading_content));
+        containerTopics.removeAllViews();
+        btnStart.setEnabled(false);
+        btnStart.setAlpha(0.5f);
     }
 
     private List<String> listJsonTopicFiles(String[] files) {
@@ -255,17 +320,6 @@ public class HomeActivity extends AppCompatActivity {
             }
         }
         return result;
-    }
-
-    private void refreshSingleTopicHeaders() {
-        if (singleTopicHeaderBindings.isEmpty()) {
-            return;
-        }
-        Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
-        for (SingleTopicHeaderBinding binding : singleTopicHeaderBindings) {
-            TopicProgress progress = progressByTopic.get(binding.topicPath);
-            binding.header.setText(buildSingleTopicHeaderText(binding.sectionTitle, progress));
-        }
     }
 
     private CharSequence buildSingleTopicHeaderText(String title, TopicProgress progress) {

@@ -3,6 +3,7 @@
     <string name="string_no_questions_found">No questions found</string>
     <string name="string_practice">Practice</string>
     <string name="string_select_topics">Select Topics</string>
+    <string name="string_loading_content">Preparing content...</string>
     <string name="string_start_practice">START PRACTICE</string>
     <string name="string_grammar_grind">GRAMMAR GRIND</string>
     <string name="string_quiz_sentence_placeholder">Sentence will appear here</string>

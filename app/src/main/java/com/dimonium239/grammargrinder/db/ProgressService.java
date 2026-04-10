@@ -4,6 +4,9 @@ import android.content.Context;
 
 import androidx.annotation.NonNull;
 
+import com.dimonium239.grammargrinder.practice.QuestionAssetStore;
+
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -14,34 +17,70 @@ public final class ProgressService {
 
     @NonNull
     public static TopicProgress getGlobalProgress(Context context) {
-        ProgressStatsRow row = getDao(context).loadGlobalProgress();
-        return fromStats(row);
+        Map<String, List<String>> questionTextsByTopic = QuestionAssetStore.loadQuestionTextsByTopicPath(context);
+        Map<String, QuestionProgressEntity> progressByQuestion = loadProgressMap(context);
+
+        int seen = 0;
+        int successful = 0;
+        int unsuccessful = 0;
+
+        for (List<String> questionTexts : questionTextsByTopic.values()) {
+            Counts counts = countProgress(questionTexts, progressByQuestion);
+            seen += counts.seen;
+            successful += counts.successful;
+            unsuccessful += counts.unsuccessful;
+        }
+
+        return fromCounts(seen, successful, unsuccessful);
     }
 
     @NonNull
     public static Map<String, TopicProgress> getTopicProgressMap(Context context) {
-        List<TopicProgressRow> rows = getDao(context).loadAllTopicProgressRows();
-        Map<String, TopicProgress> result = new HashMap<>();
-        for (TopicProgressRow row : rows) {
-            String key = row.sectionId + "/" + row.topicId;
-            result.put(key, fromCounts(row.seen, row.successful, row.unsuccessful));
+        Map<String, List<String>> questionTextsByTopic = QuestionAssetStore.loadQuestionTextsByTopicPath(context);
+        Map<String, QuestionProgressEntity> progressByQuestion = loadProgressMap(context);
+        Map<String, TopicProgress> result = new HashMap<>(questionTextsByTopic.size());
+
+        for (Map.Entry<String, List<String>> entry : questionTextsByTopic.entrySet()) {
+            Counts counts = countProgress(entry.getValue(), progressByQuestion);
+            result.put(entry.getKey(), fromCounts(counts.seen, counts.successful, counts.unsuccessful));
+        }
+
+        return result;
+    }
+
+    private static Counts countProgress(
+            Collection<String> questionTexts,
+            Map<String, QuestionProgressEntity> progressByQuestion
+    ) {
+        Counts counts = new Counts();
+        for (String questionText : questionTexts) {
+            QuestionProgressEntity progress = progressByQuestion.get(questionText);
+            if (progress == null || progress.lastSeen <= 0) {
+                continue;
+            }
+
+            counts.seen++;
+            if (progress.mistakeCount > 0) {
+                counts.unsuccessful++;
+            } else {
+                counts.successful++;
+            }
+        }
+        return counts;
+    }
+
+    private static Map<String, QuestionProgressEntity> loadProgressMap(Context context) {
+        List<QuestionProgressEntity> rows = getDao(context).loadAllProgress();
+        Map<String, QuestionProgressEntity> result = new HashMap<>(rows.size());
+        for (QuestionProgressEntity row : rows) {
+            result.put(row.questionText, row);
         }
         return result;
     }
 
     private static QuestionDao getDao(Context context) {
         AppDatabase db = AppDatabase.getInstance(context);
-        QuestionDao dao = db.questionDao();
-        DatabaseSeeder.ensureSeeded(context.getApplicationContext(), dao);
-        return dao;
-    }
-
-    @NonNull
-    private static TopicProgress fromStats(ProgressStatsRow row) {
-        if (row == null) {
-            return empty();
-        }
-        return fromCounts(row.seen, row.successful, row.unsuccessful);
+        return db.questionDao();
     }
 
     @NonNull
@@ -53,8 +92,9 @@ public final class ProgressService {
         return new TopicProgress(safeSeen, safeSuccessful, safeUnsuccessful, accuracy);
     }
 
-    @NonNull
-    private static TopicProgress empty() {
-        return new TopicProgress(0, 0, 0, 0f);
+    private static final class Counts {
+        int seen;
+        int successful;
+        int unsuccessful;
     }
 }

@@ -25,6 +25,8 @@ import com.google.android.material.button.MaterialButton;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class PracticeActivity extends AppCompatActivity {
     private static final String TAG = "PracticeActivity";
@@ -36,8 +38,10 @@ public class PracticeActivity extends AppCompatActivity {
     private ArrayList<String> selectedTopics = new ArrayList<>();
 
     private final Handler handler = new Handler();
+    private final ExecutorService backgroundExecutor = Executors.newSingleThreadExecutor();
     private int goodCount = 0;
     private int badCount = 0;
+    private boolean loadingQuestions = false;
     private static final int BASE_REVIEW_DISTANCE = 7;
     private static final int MIN_REVIEW_DISTANCE = 1;
 
@@ -56,11 +60,18 @@ public class PracticeActivity extends AppCompatActivity {
         }
         selectedTopics = topics;
 
-        reloadQuestionsFromDb();
         setupOptionButtons();
-        showQuestion();
         setupTopBar();
         updateCounters();
+        showLoadingState();
+        reloadQuestionsAsync(true);
+    }
+
+    @Override
+    protected void onDestroy() {
+        handler.removeCallbacksAndMessages(null);
+        backgroundExecutor.shutdownNow();
+        super.onDestroy();
     }
 
     private void setupOptionButtons() {
@@ -71,6 +82,9 @@ public class PracticeActivity extends AppCompatActivity {
     }
 
     private void showQuestion() {
+        if (loadingQuestions) {
+            return;
+        }
 
         if (questions.isEmpty()) {
             showEmptyState();
@@ -78,20 +92,16 @@ public class PracticeActivity extends AppCompatActivity {
         }
 
         if (currentIndex >= questions.size()) {
-            reloadQuestionsFromDb();
-            if (questions.isEmpty()) {
-                showEmptyState();
-                return;
-            }
-            currentIndex = 0;
+            reloadQuestionsAsync(true);
+            return;
         }
 
         Question q = questions.get(currentIndex);
-        String questionKey = questionKey(q);
-        QuestionRepository.recordQuestionShown(this, questionKey);
+        String questionText = questionText(q);
+        QuestionRepository.recordQuestionShown(this, questionText);
         q.lastSeen = System.currentTimeMillis();
         Log.d(TAG, formatQuestionLog(q));
-        binding.tvCategory.setText(q.category);
+        binding.tvCategory.setText(formatTopicName(q.topic));
         binding.tvSentence.setText(q.question);
         binding.topBar.btnHelp.setEnabled(true);
         resetButtons();
@@ -169,7 +179,7 @@ public class PracticeActivity extends AppCompatActivity {
             q.complexity = QuestionRepository.deriveComplexity(q.mistakeCount);
             scheduleFailedQuestion(q);
         }
-        QuestionRepository.recordAnswerResult(this, questionKey(q), correct);
+        QuestionRepository.recordAnswerResult(this, questionText(q), correct);
         updateCounters();
 
         handler.postDelayed(() -> {
@@ -251,27 +261,17 @@ public class PracticeActivity extends AppCompatActivity {
 
     private void openGuideForQuestion(Question q) {
         android.content.Intent intent = new android.content.Intent(this, GuidesSheetsActivity.class);
-        String topicId = q.topicId;
-        if (topicId == null || topicId.isEmpty()) {
-            topicId = categoryToTopicId(q.category);
-        }
+        String topicId = q.topic == null ? "" : q.topic;
         if (!topicId.isEmpty()) {
             intent.putExtra(GuidesSheetsActivity.EXTRA_TOPIC_ID, topicId);
         }
         startActivity(intent);
     }
 
-    private String categoryToTopicId(String category) {
-        if (category == null || category.isEmpty()) {
-            return "";
-        }
-        return category.toLowerCase().trim().replace(" ", "_");
-    }
-
     private void scheduleFailedQuestion(Question failedQuestion) {
-        String failedKey = questionKey(failedQuestion);
+        String failedKey = questionText(failedQuestion);
         for (int i = questions.size() - 1; i > currentIndex; i--) {
-            if (failedKey.equals(questionKey(questions.get(i)))) {
+            if (failedKey.equals(questionText(questions.get(i)))) {
                 questions.remove(i);
             }
         }
@@ -283,23 +283,48 @@ public class PracticeActivity extends AppCompatActivity {
         questions.add(targetIndex, failedQuestion);
     }
 
-    private String questionKey(Question q) {
-        if (q.id != null && !q.id.isEmpty()) {
-            return q.id;
-        }
+    private String questionText(Question q) {
         return q.question == null ? "" : q.question;
     }
 
-    private void reloadQuestionsFromDb() {
-        if (selectedSection == null || selectedSection.isEmpty()) {
-            questions = QuestionRepository.loadQuestionsMix(this, selectedTopics);
-        } else {
-            questions = QuestionRepository.loadQuestions(this, selectedSection, selectedTopics);
+    private void reloadQuestionsAsync(boolean resetIndex) {
+        if (loadingQuestions) {
+            return;
         }
+
+        loadingQuestions = true;
+        showLoadingState();
+        backgroundExecutor.execute(() -> {
+            List<Question> loadedQuestions;
+            if (selectedSection == null || selectedSection.isEmpty()) {
+                loadedQuestions = QuestionRepository.loadQuestionsMix(this, selectedTopics);
+            } else {
+                loadedQuestions = QuestionRepository.loadQuestions(this, selectedSection, selectedTopics);
+            }
+
+            runOnUiThread(() -> {
+                if (isFinishing() || isDestroyed()) {
+                    return;
+                }
+                questions = loadedQuestions;
+                if (resetIndex) {
+                    currentIndex = 0;
+                }
+                loadingQuestions = false;
+                showQuestion();
+            });
+        });
     }
 
     private boolean hasCurrentQuestion() {
         return currentIndex >= 0 && currentIndex < questions.size();
+    }
+
+    private void showLoadingState() {
+        binding.tvCategory.setText("");
+        binding.tvSentence.setText(getString(R.string.string_loading_content));
+        setAnswerButtonsEnabled(false);
+        binding.topBar.btnHelp.setEnabled(false);
     }
 
     private void showEmptyState() {
@@ -329,13 +354,27 @@ public class PracticeActivity extends AppCompatActivity {
 
     private String formatQuestionLog(Question q) {
         return "[QUESTION] question=\"" + q.question + "\"" +
-                ", id=\"" + q.id + "\"" +
-                ", sectionId=\"" + q.sectionId + "\"" +
-                ", topicId=\"" + q.topicId + "\"" +
-                ", category=\"" + q.category + "\"" +
+                ", section=\"" + q.section + "\"" +
+                ", topic=\"" + q.topic + "\"" +
                 ", complexity=" + q.complexity +
                 ", lastSeen=" + q.lastSeen +
                 ", mistakeCount=" + q.mistakeCount;
+    }
+
+    private String formatTopicName(String rawTopic) {
+        if (rawTopic == null || rawTopic.isEmpty()) {
+            return "";
+        }
+        String[] parts = rawTopic.split("_");
+        StringBuilder builder = new StringBuilder();
+        for (String part : parts) {
+            if (!part.isEmpty()) {
+                builder.append(Character.toUpperCase(part.charAt(0)))
+                        .append(part.substring(1))
+                        .append(" ");
+            }
+        }
+        return builder.toString().trim();
     }
 
 }

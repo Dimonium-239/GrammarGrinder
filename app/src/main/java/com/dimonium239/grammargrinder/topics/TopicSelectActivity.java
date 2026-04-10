@@ -24,6 +24,8 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class TopicSelectActivity extends AppCompatActivity {
     private static final String EXTRA_SECTION = "SECTION";
@@ -34,6 +36,10 @@ public class TopicSelectActivity extends AppCompatActivity {
     private MaterialButton btnStart;
     private LayoutInflater inflater;
     private final List<MaterialCheckBox> checkBoxes = new ArrayList<>();
+    private final ExecutorService backgroundExecutor = Executors.newSingleThreadExecutor();
+    private MaterialCheckBox sectionTitleView;
+    private String screenTitle;
+    private boolean sectionLoaded = false;
 
 
     @Override
@@ -47,12 +53,13 @@ public class TopicSelectActivity extends AppCompatActivity {
         containerTopics = findViewById(R.id.container_topics);
         btnStart = findViewById(R.id.btn_start);
         inflater = LayoutInflater.from(this);
+        sectionTitleView = cbSectionTitle;
 
         Intent intent = getIntent();
         section = intent.getStringExtra(EXTRA_SECTION);
         String title = intent.getStringExtra(EXTRA_TITLE);
 
-        String screenTitle = title != null ? title : getString(R.string.string_select_topics);
+        screenTitle = title != null ? title : getString(R.string.string_select_topics);
         tvTitle.setText(screenTitle);
 
         setupTopBar();
@@ -60,15 +67,22 @@ public class TopicSelectActivity extends AppCompatActivity {
         tvTitle.setVisibility(View.GONE);
         cbSectionTitle.setVisibility(View.VISIBLE);
         cbSectionTitle.setText(screenTitle);
-        buildSingleSectionUI();
-
-        updateStartState();
+        showLoadingState();
+        loadSectionAsync();
     }
 
     @Override
     protected void onResume() {
         super.onResume();
-        TopicProgressLabelHelper.refreshTopicProgressLabels(this, checkBoxes);
+        if (sectionLoaded) {
+            refreshProgressAsync();
+        }
+    }
+
+    @Override
+    protected void onDestroy() {
+        backgroundExecutor.shutdownNow();
+        super.onDestroy();
     }
 
     private void setupTopBar() {
@@ -84,24 +98,76 @@ public class TopicSelectActivity extends AppCompatActivity {
         tvTitle.setText(title != null ? title : getString(R.string.app_name));
     }
 
-    private void buildSingleSectionUI() {
-        if (section == null) return;
-        Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
-
-        try {
-            String[] files = getAssets().list(section);
-            if (files == null) return;
-
-            for (String file : files) {
-                if (!file.endsWith(".json")) continue;
-                String topicId = file.replace(".json", "");
-                String topicPath = section + "/" + topicId;
-                TopicProgress progress = progressByTopic.get(topicPath);
-                addCheckbox(TopicProgressLabelHelper.formatTopicLine(this, topicPath, progress), topicPath);
-            }
-        } catch (IOException e) {
-            Log.d(TAG, "Error listing assets in section: " + section, e);
+    private void loadSectionAsync() {
+        if (section == null || section.isEmpty()) {
+            renderSection(new ArrayList<>(), new java.util.HashMap<>());
+            return;
         }
+
+        backgroundExecutor.execute(() -> {
+            Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
+            List<String> topicPaths = new ArrayList<>();
+
+            try {
+                String[] files = getAssets().list(section);
+                if (files != null) {
+                    for (String file : files) {
+                        if (file.endsWith(".json")) {
+                            topicPaths.add(section + "/" + file.replace(".json", ""));
+                        }
+                    }
+                    topicPaths.sort(String::compareTo);
+                }
+            } catch (IOException e) {
+                Log.d(TAG, "Error listing assets in section: " + section, e);
+            }
+
+            runOnUiThread(() -> {
+                if (isFinishing() || isDestroyed()) {
+                    return;
+                }
+                renderSection(topicPaths, progressByTopic);
+            });
+        });
+    }
+
+    private void renderSection(List<String> topicPaths, Map<String, TopicProgress> progressByTopic) {
+        sectionLoaded = true;
+        sectionTitleView.setText(screenTitle);
+        containerTopics.removeAllViews();
+        checkBoxes.clear();
+        for (String topicPath : topicPaths) {
+            TopicProgress progress = progressByTopic.get(topicPath);
+            addCheckbox(TopicProgressLabelHelper.formatTopicLine(this, topicPath, progress), topicPath);
+        }
+        updateStartState();
+    }
+
+    private void refreshProgressAsync() {
+        backgroundExecutor.execute(() -> {
+            Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(this);
+            runOnUiThread(() -> {
+                if (isFinishing() || isDestroyed() || !sectionLoaded) {
+                    return;
+                }
+                for (MaterialCheckBox checkBox : checkBoxes) {
+                    Object rawTag = checkBox.getTag();
+                    if (!(rawTag instanceof String)) {
+                        continue;
+                    }
+                    String topicPath = (String) rawTag;
+                    checkBox.setText(TopicProgressLabelHelper.formatTopicLine(this, topicPath, progressByTopic.get(topicPath)));
+                }
+            });
+        });
+    }
+
+    private void showLoadingState() {
+        sectionLoaded = false;
+        sectionTitleView.setText(getString(R.string.string_loading_content));
+        containerTopics.removeAllViews();
+        btnStart.setEnabled(false);
+        btnStart.setAlpha(0.5f);
     }
 
     private void addCheckbox(String title, String tag) {

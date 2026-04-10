@@ -16,15 +16,15 @@ public class QuestionLoader {
         return QuestionRepository.loadQuestionsMix(context, selectedTopics);
     }
 
-    public static List<String> listTopicIds(Context context, String sectionId) {
-        return QuestionRepository.listTopicIds(context, sectionId);
+    public static List<String> listTopicIds(Context context, String section) {
+        return QuestionRepository.listTopicIds(context, section);
     }
 
-    public static void recordQuestionShown(Context context, String questionId) {
-        QuestionRepository.recordQuestionShown(context, questionId);
+    public static void recordQuestionShown(Context context, String questionText) {
+        QuestionRepository.recordQuestionShown(context, questionText);
     }
 
-    public static void recordAnswerResult(Context context, String questionId, boolean isCorrect) {
-        QuestionRepository.recordAnswerResult(context, questionId, isCorrect);
+    public static void recordAnswerResult(Context context, String questionText, boolean isCorrect) {
+        QuestionRepository.recordAnswerResult(context, questionText, isCorrect);
     }
 }
