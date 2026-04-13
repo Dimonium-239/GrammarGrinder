@@ -16,25 +16,6 @@ public final class ProgressService {
     }
 
     @NonNull
-    public static TopicProgress getGlobalProgress(Context context) {
-        Map<String, List<String>> questionTextsByTopic = QuestionAssetStore.loadQuestionTextsByTopicPath(context);
-        Map<String, QuestionProgressEntity> progressByQuestion = loadProgressMap(context);
-
-        int seen = 0;
-        int successful = 0;
-        int unsuccessful = 0;
-
-        for (List<String> questionTexts : questionTextsByTopic.values()) {
-            Counts counts = countProgress(questionTexts, progressByQuestion);
-            seen += counts.seen;
-            successful += counts.successful;
-            unsuccessful += counts.unsuccessful;
-        }
-
-        return fromCounts(seen, successful, unsuccessful);
-    }
-
-    @NonNull
     public static Map<String, TopicProgress> getTopicProgressMap(Context context) {
         Map<String, List<String>> questionTextsByTopic = QuestionAssetStore.loadQuestionTextsByTopicPath(context);
         Map<String, QuestionProgressEntity> progressByQuestion = loadProgressMap(context);

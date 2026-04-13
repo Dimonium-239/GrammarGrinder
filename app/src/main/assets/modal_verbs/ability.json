@@ -1,6 +1,6 @@
 [
   {
-    "question": "She ___ play the violin when she was only five years old.",
+    "question": "She ___ read simple books at the age of five.",
     "options": [
       "could",
       "can",
@@ -10,7 +10,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "I ___ find my glasses anywhere this morning, even though I looked everywhere.",
+    "question": "I ___ hear the guide over the wind.",
     "options": [
       "couldn't",
       "can't",
@@ -20,17 +20,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you help me carry these heavy boxes to the car?",
+    "question": "We ___ solve this puzzle without any help.",
     "options": [
-      "Can",
-      "Could",
-      "Are able to",
-      "Will be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The marathon runner ___ finish the race despite the extreme heat.",
+    "question": "She ___ finish the report before the deadline.",
     "options": [
       "was able to",
       "can",
@@ -40,7 +40,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "We ___ speak French fluently after living in Paris for three years.",
+    "question": "The players ___ speak to customers in French during a summer job.",
     "options": [
       "could",
       "can",
@@ -50,7 +50,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "They ___ reach the summit because the weather conditions were too dangerous.",
+    "question": "We ___ finish the job before sunset because the tools broke.",
     "options": [
       "couldn't",
       "can't",
@@ -60,17 +60,17 @@
     "correctAnswer": "weren't able to"
   },
   {
-    "question": "___ they solve the complex mathematical equation before the deadline?",
+    "question": "They ___ finish the report before the deadline.",
     "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
     ],
-    "correctAnswer": "Were they able to"
+    "correctAnswer": "were able to"
   },
   {
-    "question": "By next year, he ___ drive a car without any assistance.",
+    "question": "She ___ drive alone after a few more lessons.",
     "options": [
       "will be able to",
       "can",
@@ -80,7 +80,7 @@
     "correctAnswer": "will be able to"
   },
   {
-    "question": "I ___ understand what he was saying because the music was too loud.",
+    "question": "The athlete ___ unlock the gate because the key was bent.",
     "options": [
       "couldn't",
       "can't",
@@ -90,17 +90,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you swim across the lake when you were a teenager?",
+    "question": "You ___ stay awake all night before exams as a teenager.",
     "options": [
-      "Could",
-      "Can",
-      "Are you able to",
-      "Will you be able to"
+      "could",
+      "can",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "The technician ___ fix the broken computer in less than an hour.",
+    "question": "The athlete ___ spot the lighthouse through the storm.",
     "options": [
       "was able to",
       "can",
@@ -110,7 +110,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "She ___ attend the meeting tomorrow because she has a prior commitment.",
+    "question": "She ___ attend the rehearsal tomorrow because of a flight delay.",
     "options": [
       "won't be able to",
       "can't",
@@ -120,17 +120,17 @@
     "correctAnswer": "won't be able to"
   },
   {
-    "question": "___ he speak any other languages besides English and Spanish?",
+    "question": "He ___ see the stage clearly from these seats.",
     "options": [
-      "Can",
-      "Could",
-      "Is he able to",
-      "Will he be able to"
+      "can",
+      "could",
+      "is able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "After several attempts, we finally ___ open the locked door.",
+    "question": "We finally ___ finish the report before the deadline.",
     "options": [
       "managed to",
       "could",
@@ -140,7 +140,7 @@
     "correctAnswer": "managed to"
   },
   {
-    "question": "They ___ hear the speaker from the back of the crowded hall.",
+    "question": "The musicians ___ finish the puzzle before dinner.",
     "options": [
       "couldn't",
       "can't",
@@ -150,17 +150,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you see the stars clearly through that telescope last night?",
+    "question": "You ___ run ten kilometers without stopping in college.",
     "options": [
-      "Could",
-      "Can",
-      "Were you able to",
-      "Will you be able to"
+      "could",
+      "can",
+      "were able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "I ___ believe my eyes when I saw the surprise party they planned.",
+    "question": "The athlete ___ open the jar because the lid was stuck.",
     "options": [
       "couldn't",
       "can't",
@@ -170,7 +170,7 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "With enough practice, you ___ master the art of calligraphy.",
+    "question": "The players ___ fix the bike after the new parts arrive.",
     "options": [
       "will be able to",
       "can",
@@ -180,17 +180,17 @@
     "correctAnswer": "will be able to"
   },
   {
-    "question": "___ she find a solution to the problem during the brainstorming session?",
+    "question": "She ___ save the file before the computer shut down.",
     "options": [
-      "Was she able to",
-      "Can she",
-      "Could she",
-      "Will she be able to"
+      "was able to",
+      "can",
+      "could",
+      "will be able to"
     ],
-    "correctAnswer": "Was she able to"
+    "correctAnswer": "was able to"
   },
   {
-    "question": "We ___ see the mountains from our hotel window this morning.",
+    "question": "The students ___ memorize whole speeches in a single evening.",
     "options": [
       "could",
       "can",
@@ -200,7 +200,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "He ___ swim very well, so he avoids going into deep water.",
+    "question": "She ___ hear anything clearly with this broken headset.",
     "options": [
       "can't",
       "couldn't",
@@ -210,17 +210,17 @@
     "correctAnswer": "can't"
   },
   {
-    "question": "___ you imagine what life would be like without the internet?",
+    "question": "You ___ use the new software easily.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The scientists ___ prove their theory after years of rigorous research.",
+    "question": "The players ___ spot the lighthouse through the storm.",
     "options": [
       "were able to",
       "can",
@@ -230,7 +230,7 @@
     "correctAnswer": "were able to"
   },
   {
-    "question": "She ___ finish her dinner because she felt quite unwell.",
+    "question": "She ___ join the call because the signal kept dropping.",
     "options": [
       "couldn't",
       "can't",
@@ -240,17 +240,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you walk yet when you were only ten months old?",
+    "question": "You ___ climb that wall before the injury.",
     "options": [
-      "Could",
-      "Can",
-      "Were you able to",
-      "Will you be able to"
+      "could",
+      "can",
+      "were able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "I ___ read the sign from this distance without my glasses.",
+    "question": "I ___ remember the password without checking my notes.",
     "options": [
       "can't",
       "couldn't",
@@ -260,7 +260,7 @@
     "correctAnswer": "can't"
   },
   {
-    "question": "They ___ buy the house they wanted because they saved enough money.",
+    "question": "The musicians ___ save the file before the computer shut down.",
     "options": [
       "were able to",
       "can",
@@ -270,17 +270,17 @@
     "correctAnswer": "were able to"
   },
   {
-    "question": "___ he solve the puzzle in less than five minutes yesterday?",
+    "question": "He ___ hear the church bells from the old farmhouse.",
     "options": [
-      "Could",
-      "Can",
-      "Was he able to",
-      "Will he be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "We ___ go on vacation this year due to unexpected expenses.",
+    "question": "The players ___ stay until the end of the concert because the babysitter is leaving early.",
     "options": [
       "won't be able to",
       "can't",
@@ -290,7 +290,7 @@
     "correctAnswer": "won't be able to"
   },
   {
-    "question": "She ___ cook a delicious meal even with very few ingredients.",
+    "question": "The athlete ___ carry both bags at once.",
     "options": [
       "can",
       "could",
@@ -300,17 +300,17 @@
     "correctAnswer": "can"
   },
   {
-    "question": "___ you hear that strange noise coming from the basement?",
+    "question": "You ___ remember long phone numbers.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "I ___ contact him all day because his phone was switched off.",
+    "question": "The athlete ___ see the road through the heavy fog.",
     "options": [
       "couldn't",
       "can't",
@@ -320,7 +320,7 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "The students ___ pass the exam with high marks after studying hard.",
+    "question": "The children ___ unlock the door with a spare key.",
     "options": [
       "were able to",
       "can",
@@ -330,17 +330,17 @@
     "correctAnswer": "were able to"
   },
   {
-    "question": "___ he drive a truck when he worked for the construction company?",
+    "question": "He ___ skate on one foot for several meters.",
     "options": [
-      "Could",
-      "Can",
-      "Was he able to",
-      "Will he be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "They ___ find a parking space near the stadium last Saturday.",
+    "question": "The neighbors ___ find the address without a map.",
     "options": [
       "couldn't",
       "can't",
@@ -350,7 +350,7 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "With the new software, we ___ complete the task much faster.",
+    "question": "The musicians ___ speak with the client once the interpreter arrives.",
     "options": [
       "will be able to",
       "can",
@@ -360,17 +360,17 @@
     "correctAnswer": "will be able to"
   },
   {
-    "question": "___ you tell me the way to the nearest post office, please?",
+    "question": "You ___ hear the announcement from the back row.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "He ___ swim across the river because the current was too strong.",
+    "question": "The athlete ___ catch the bus after missing the first stop.",
     "options": [
       "couldn't",
       "can't",
@@ -380,7 +380,7 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "The firemen ___ rescue the cat from the tall tree successfully.",
+    "question": "The students ___ restart the engine after several attempts.",
     "options": [
       "were able to",
       "can",
@@ -390,17 +390,17 @@
     "correctAnswer": "were able to"
   },
   {
-    "question": "___ she play the piano as well as her sister does?",
+    "question": "She ___ speak Spanish quite confidently.",
     "options": [
-      "Can",
-      "Could",
-      "Is she able to",
-      "Will she be able to"
+      "can",
+      "could",
+      "is able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "I ___ remember where I put my keys, no matter how hard I try.",
+    "question": "I ___ lift that suitcase with an injured wrist.",
     "options": [
       "can't",
       "couldn't",
@@ -410,7 +410,7 @@
     "correctAnswer": "can't"
   },
   {
-    "question": "They ___ arrive on time because their flight was delayed.",
+    "question": "The hikers ___ lift the suitcase after the long flight.",
     "options": [
       "couldn't",
       "can't",
@@ -420,17 +420,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you help me with my homework later this evening?",
+    "question": "You ___ swim across the pool without stopping.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The artist ___ capture the essence of the landscape in her painting.",
+    "question": "The athlete ___ unlock the door with a spare key.",
     "options": [
       "was able to",
       "can",
@@ -440,7 +440,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "She ___ walk for long distances since her knee surgery last month.",
+    "question": "She ___ walk long distances since the surgery.",
     "options": [
       "hasn't been able to",
       "can't",
@@ -450,17 +450,17 @@
     "correctAnswer": "hasn't been able to"
   },
   {
-    "question": "___ he ride a bicycle without using his hands when he was younger?",
+    "question": "He ___ play chess with adults at the age of eight.",
     "options": [
-      "Could",
-      "Can",
-      "Was he able to",
-      "Will he be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "We ___ see the eclipse because it was too cloudy that day.",
+    "question": "The climbers ___ sleep because the room was too noisy.",
     "options": [
       "couldn't",
       "can't",
@@ -470,7 +470,7 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "In the future, people ___ travel to Mars for their holidays.",
+    "question": "The children ___ join us after the meeting ends.",
     "options": [
       "will be able to",
       "can",
@@ -480,17 +480,17 @@
     "correctAnswer": "will be able to"
   },
   {
-    "question": "___ you understand the instructions the teacher gave us?",
+    "question": "You ___ solve difficult math problems in high school.",
     "options": [
-      "Could",
-      "Can",
-      "Were you able to",
-      "Will you be able to"
+      "could",
+      "can",
+      "were able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "He ___ find his way home because he had forgotten his map.",
+    "question": "She ___ hear the guide over the wind.",
     "options": [
       "couldn't",
       "can't",
@@ -500,7 +500,7 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "The company ___ increase its profits significantly last year.",
+    "question": "She ___ restart the engine after several attempts.",
     "options": [
       "was able to",
       "can",
@@ -510,17 +510,17 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "___ she come to the party on Friday night?",
+    "question": "She ___ lift that box without any help.",
     "options": [
-      "Can",
-      "Could",
-      "Is she able to",
-      "Will she be able to"
+      "can",
+      "could",
+      "is able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "I ___ sleep last night because of the loud noise outside.",
+    "question": "The athlete ___ unlock the gate because the key was bent.",
     "options": [
       "couldn't",
       "can't",
@@ -530,7 +530,7 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "They ___ finish the construction project ahead of schedule.",
+    "question": "The engineers ___ reach the top of the hill before dark.",
     "options": [
       "were able to",
       "can",
@@ -540,17 +540,17 @@
     "correctAnswer": "were able to"
   },
   {
-    "question": "___ you run a mile in under six minutes when you were at school?",
+    "question": "You ___ read simple books at the age of five.",
     "options": [
-      "Could",
-      "Can",
-      "Were you able to",
-      "Will you be able to"
+      "could",
+      "can",
+      "were able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "We ___ hear the birds singing in the garden every morning.",
+    "question": "The climbers ___ reach the top shelf without a ladder.",
     "options": [
       "can",
       "could",
@@ -560,7 +560,7 @@
     "correctAnswer": "can"
   },
   {
-    "question": "She ___ find her purse after she left it on the bus.",
+    "question": "She ___ finish the puzzle before dinner.",
     "options": [
       "couldn't",
       "can't",
@@ -570,17 +570,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ they provide us with more information about the upcoming event?",
+    "question": "They ___ solve this puzzle without any help.",
     "options": [
-      "Can",
-      "Could",
-      "Are they able to",
-      "Will they be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The chef ___ prepare a five-course meal in just two hours.",
+    "question": "The athlete ___ reach the top of the hill before dark.",
     "options": [
       "was able to",
       "can",
@@ -590,7 +590,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "I ___ open this jar of jam; it seems to be stuck.",
+    "question": "I ___ open the file because the server is offline.",
     "options": [
       "can't",
       "couldn't",
@@ -600,17 +600,17 @@
     "correctAnswer": "can't"
   },
   {
-    "question": "___ he play the guitar as well as he plays the drums?",
+    "question": "He ___ see the stage clearly from these seats.",
     "options": [
-      "Can",
-      "Could",
-      "Is he able to",
-      "Will he be able to"
+      "can",
+      "could",
+      "is able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "They ___ escape from the building before the roof collapsed.",
+    "question": "The neighbors ___ catch the last bus after work.",
     "options": [
       "were able to",
       "can",
@@ -620,7 +620,7 @@
     "correctAnswer": "were able to"
   },
   {
-    "question": "We ___ reach the airport on time due to the heavy traffic.",
+    "question": "The children ___ open the jar because the lid was stuck.",
     "options": [
       "couldn't",
       "can't",
@@ -630,17 +630,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you see the small print without using your magnifying glass?",
+    "question": "You ___ use the new software easily.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "She ___ speak Italian quite well after her trip to Rome.",
+    "question": "The athlete ___ speak to customers in French during a summer job.",
     "options": [
       "could",
       "can",
@@ -650,7 +650,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "I ___ finish the book last night because I was too tired.",
+    "question": "She ___ join the call because the signal kept dropping.",
     "options": [
       "couldn't",
       "can't",
@@ -660,17 +660,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ they solve the mystery before the end of the movie?",
+    "question": "They ___ answer the final question correctly.",
     "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
     ],
-    "correctAnswer": "Were they able to"
+    "correctAnswer": "were able to"
   },
   {
-    "question": "He ___ lift the heavy suitcase all by himself yesterday.",
+    "question": "She ___ catch the last bus after work.",
     "options": [
       "was able to",
       "can",
@@ -680,7 +680,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "We ___ go to the concert because the tickets were sold out.",
+    "question": "The engineers ___ see the road through the heavy fog.",
     "options": [
       "couldn't",
       "can't",
@@ -690,17 +690,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you join us for lunch at the new Italian restaurant tomorrow?",
+    "question": "You ___ cook dinner without help by the end of the month.",
     "options": [
-      "Will you be able to",
-      "Can you",
-      "Could you",
-      "Are you able to"
+      "will be able to",
+      "can",
+      "could",
+      "are able to"
     ],
-    "correctAnswer": "Will you be able to"
+    "correctAnswer": "will be able to"
   },
   {
-    "question": "She ___ swim when she was only three years old.",
+    "question": "She ___ stay awake all night before exams as a teenager.",
     "options": [
       "could",
       "can",
@@ -710,7 +710,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "I ___ find my keys anywhere, even though I've looked everywhere.",
+    "question": "I ___ reach the top shelf without a step stool.",
     "options": [
       "can't",
       "couldn't",
@@ -720,17 +720,17 @@
     "correctAnswer": "can't"
   },
   {
-    "question": "___ they solve the problem before the deadline passed?",
+    "question": "They ___ run ten kilometers without stopping in college.",
     "options": [
-      "Could",
-      "Can",
-      "Were they able to",
-      "Will they be able to"
+      "could",
+      "can",
+      "were able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "The climber ___ reach the peak despite the strong winds.",
+    "question": "The athlete ___ answer the final question correctly.",
     "options": [
       "was able to",
       "can",
@@ -740,7 +740,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "We ___ see the stage very well from our seats in the back row.",
+    "question": "The neighbors ___ find the address without a map.",
     "options": [
       "couldn't",
       "can't",
@@ -750,17 +750,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you speak any foreign languages when you were a child?",
+    "question": "You ___ memorize whole speeches in a single evening.",
     "options": [
-      "Could",
-      "Can",
-      "Were you able to",
-      "Will you be able to"
+      "could",
+      "can",
+      "were able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "I ___ wait for the bus any longer, so I decided to take a taxi.",
+    "question": "The athlete ___ catch the bus after missing the first stop.",
     "options": [
       "couldn't",
       "can't",
@@ -770,7 +770,7 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "She ___ play the piano beautifully after years of practice.",
+    "question": "The athlete ___ carry both bags at once.",
     "options": [
       "can",
       "could",
@@ -780,17 +780,17 @@
     "correctAnswer": "can"
   },
   {
-    "question": "___ he fix the leaky faucet in the kitchen yesterday?",
+    "question": "He ___ repair the bike in time for the race.",
     "options": [
-      "Was he able to",
-      "Can he",
-      "Could he",
-      "Will he be able to"
+      "was able to",
+      "can",
+      "could",
+      "will be able to"
     ],
-    "correctAnswer": "Was he able to"
+    "correctAnswer": "was able to"
   },
   {
-    "question": "They ___ win the match because their opponents were much stronger.",
+    "question": "The hikers ___ lift the suitcase after the long flight.",
     "options": [
       "couldn't",
       "can't",
@@ -800,17 +800,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you help me with this heavy suitcase, please?",
+    "question": "You ___ remember long phone numbers.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "We ___ find a good restaurant in the city center last night.",
+    "question": "The hikers ___ repair the bike in time for the race.",
     "options": [
       "were able to",
       "can",
@@ -820,7 +820,7 @@
     "correctAnswer": "were able to"
   },
   {
-    "question": "I ___ understand the lecture because the professor spoke too quickly.",
+    "question": "The athlete ___ sleep because the room was too noisy.",
     "options": [
       "couldn't",
       "can't",
@@ -830,17 +830,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ she swim across the English Channel when she was younger?",
+    "question": "She ___ climb that wall before the injury.",
     "options": [
-      "Could",
-      "Can",
-      "Was she able to",
-      "Will she be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "The team ___ complete the project on time thanks to their hard work.",
+    "question": "The athlete ___ find a seat on the crowded train.",
     "options": [
       "was able to",
       "can",
@@ -850,7 +850,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "Nobody ___ predict the outcome of the election with certainty.",
+    "question": "She ___ hear the church bells from the old farmhouse.",
     "options": [
       "could",
       "can",
@@ -860,7 +860,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "I ___ solve this crossword puzzle; it is far too difficult.",
+    "question": "I ___ taste the soup because it is still too hot.",
     "options": [
       "can't",
       "couldn't",
@@ -870,17 +870,17 @@
     "correctAnswer": "can't"
   },
   {
-    "question": "___ the architect complete the blueprints by tomorrow morning?",
+    "question": "The athlete ___ use the machine safely after the workshop.",
     "options": [
-      "Will be able to",
-      "Can",
-      "Could",
-      "Is able to"
+      "will be able to",
+      "can",
+      "could",
+      "is able to"
     ],
-    "correctAnswer": "Will be able to"
+    "correctAnswer": "will be able to"
   },
   {
-    "question": "By the time he was ten, he ___ code simple websites.",
+    "question": "The athlete ___ skate on one foot for several meters.",
     "options": [
       "could",
       "can",
@@ -890,7 +890,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "We ___ afford a new car last year because of our debt.",
+    "question": "She ___ hear the guide over the wind.",
     "options": [
       "couldn't",
       "can't",
@@ -900,17 +900,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ your sister speak Japanese fluently before she moved to Tokyo?",
+    "question": "She ___ play chess with adults at the age of eight.",
     "options": [
-      "Could",
-      "Can",
-      "Is she able to",
-      "Will she be able to"
+      "could",
+      "can",
+      "is able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "The surgeon ___ perform the operation successfully last night.",
+    "question": "She ___ finish the report before the deadline.",
     "options": [
       "was able to",
       "can",
@@ -920,7 +920,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "They ___ find the hidden treasure despite having a map.",
+    "question": "The players ___ unlock the gate because the key was bent.",
     "options": [
       "couldn't",
       "can't",
@@ -930,17 +930,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you drive a manual car if I lend you mine?",
+    "question": "You ___ hear the announcement from the back row.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The dog ___ jump over the high fence yesterday.",
+    "question": "The athlete ___ solve difficult math problems in high school.",
     "options": [
       "could",
       "can",
@@ -950,7 +950,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "She ___ finish her thesis on time due to lack of resources.",
+    "question": "She ___ finish the job before sunset because the tools broke.",
     "options": [
       "couldn't",
       "can't",
@@ -960,237 +960,7 @@
     "correctAnswer": "wasn't able to"
   },
   {
-    "question": "___ the pilot land the plane safely during the storm?",
-    "options": [
-      "Was the pilot able to",
-      "Can the pilot",
-      "Could the pilot",
-      "Will the pilot be able to"
-    ],
-    "correctAnswer": "Was the pilot able to"
-  },
-  {
-    "question": "I ___ see the tiny insect without my magnifying glass.",
-    "options": [
-      "can",
-      "could",
-      "will be able to",
-      "am able to"
-    ],
-    "correctAnswer": "can"
-  },
-  {
-    "question": "He ___ write his name until he was six years old.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ they navigate the ship through the narrow channel?",
-    "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
-    ],
-    "correctAnswer": "Were they able to"
-  },
-  {
-    "question": "The baker ___ make fifty loaves of bread before dawn.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "We ___ hear the music because the speakers were broken.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "weren't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ you ride a horse when you lived on the farm?",
-    "options": [
-      "Could",
-      "Can",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Could"
-  },
-  {
-    "question": "The computer ___ process the data in a matter of seconds.",
-    "options": [
-      "can",
-      "could",
-      "will be able to",
-      "is able to"
-    ],
-    "correctAnswer": "can"
-  },
-  {
-    "question": "I ___ sleep because I was worrying about the exam.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ she bake a cake for the party tomorrow afternoon?",
-    "options": [
-      "Will she be able to",
-      "Can she",
-      "Could she",
-      "Is she able to"
-    ],
-    "correctAnswer": "Will she be able to"
-  },
-  {
-    "question": "The athlete ___ break the world record in 2024.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "They ___ open the window because it was painted shut.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "weren't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ you recognize him after all these years?",
-    "options": [
-      "Could",
-      "Can",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Could"
-  },
-  {
-    "question": "I ___ help you with your luggage if you want.",
-    "options": [
-      "can",
-      "could",
-      "will be able to",
-      "am able to"
-    ],
-    "correctAnswer": "can"
-  },
-  {
-    "question": "The children ___ swim in the pool because it was too cold.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "weren't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ he solve the mystery before the detective did?",
-    "options": [
-      "Was he able to",
-      "Can he",
-      "Could he",
-      "Will he be able to"
-    ],
-    "correctAnswer": "Was he able to"
-  },
-  {
-    "question": "The singer ___ hit the high notes perfectly last night.",
-    "options": [
-      "could",
-      "can",
-      "will be able to",
-      "is able to"
-    ],
-    "correctAnswer": "could"
-  },
-  {
-    "question": "We ___ find a taxi because it was raining so hard.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "weren't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ you read a book in a foreign language?",
-    "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The explorer ___ survive for a week in the desert.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "I ___ understand the instructions because they were in German.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ they arrive at the station before the train left?",
-    "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
-    ],
-    "correctAnswer": "Were they able to"
-  },
-  {
-    "question": "She ___ swim like a professional when she was a teenager.",
-    "options": [
-      "could",
-      "can",
-      "will be able to",
-      "is able to"
-    ],
-    "correctAnswer": "could"
-  },
-  {
-    "question": "The team ___ win the trophy last season despite the injuries.",
+    "question": "The athlete ___ spot the lighthouse through the storm.",
     "options": [
       "was able to",
       "can",
@@ -1200,27 +970,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "___ you hear the announcement over the noise of the crowd?",
-    "options": [
-      "Could",
-      "Can",
-      "Were you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Could"
-  },
-  {
-    "question": "He ___ fix his bike, so he had to walk to school.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "I ___ see the ocean from the top of the hill.",
+    "question": "She ___ speak Spanish quite confidently.",
     "options": [
       "can",
       "could",
@@ -1230,57 +980,7 @@
     "correctAnswer": "can"
   },
   {
-    "question": "___ the firemen put out the fire before it spread?",
-    "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
-    ],
-    "correctAnswer": "Were they able to"
-  },
-  {
-    "question": "The student ___ answer the question despite the difficulty.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "We ___ see the moon last night because it was too cloudy.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "weren't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ you run five kilometers in under twenty minutes?",
-    "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The cat ___ catch the mouse before it ran into the hole.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "She ___ find her way back to the hotel without a map.",
+    "question": "She ___ finish the puzzle before dinner.",
     "options": [
       "couldn't",
       "can't",
@@ -1290,17 +990,47 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ they complete the marathon in under four hours?",
+    "question": "They ___ find a seat on the crowded train.",
     "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
     ],
-    "correctAnswer": "Were they able to"
+    "correctAnswer": "were able to"
   },
   {
-    "question": "I ___ speak a little bit of Italian after my trip to Rome.",
+    "question": "She ___ save the file before the computer shut down.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The children ___ open the jar because the lid was stuck.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "You ___ read simple books at the age of five.",
+    "options": [
+      "could",
+      "can",
+      "are able to",
+      "will be able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "The athlete ___ swim across the pool without stopping.",
     "options": [
       "can",
       "could",
@@ -1310,37 +1040,7 @@
     "correctAnswer": "can"
   },
   {
-    "question": "He ___ play the drums when he was in a rock band.",
-    "options": [
-      "could",
-      "can",
-      "will be able to",
-      "is able to"
-    ],
-    "correctAnswer": "could"
-  },
-  {
-    "question": "___ you tell the difference between these two paintings?",
-    "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The mechanic ___ fix the engine after working on it all day.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "I ___ find my wallet anywhere, so I had to cancel my cards.",
+    "question": "She ___ join the call because the signal kept dropping.",
     "options": [
       "couldn't",
       "can't",
@@ -1350,17 +1050,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ she play the cello when she was in high school?",
+    "question": "She ___ finish the course by next month.",
     "options": [
-      "Could",
-      "Can",
-      "Was she able to",
-      "Will she be able to"
+      "will be able to",
+      "can",
+      "could",
+      "is able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "will be able to"
   },
   {
-    "question": "The artist ___ paint a beautiful portrait in just one day.",
+    "question": "The athlete ___ unlock the door with a spare key.",
     "options": [
       "was able to",
       "can",
@@ -1370,7 +1070,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "They ___ reach the finish line because they were too exhausted.",
+    "question": "The engineers ___ see the road through the heavy fog.",
     "options": [
       "couldn't",
       "can't",
@@ -1380,57 +1080,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you help me move this sofa to the other room?",
+    "question": "You ___ speak to customers in French during a summer job.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The doctor ___ diagnose the illness after several tests.",
-    "options": [
-      "was able to",
-      "can",
       "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "She ___ attend the wedding because she was working that day.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ he understand the complex concepts of physics?",
-    "options": [
-      "Can",
-      "Could",
-      "Is he able to",
-      "Will he be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The team ___ win the championship for three consecutive years.",
-    "options": [
-      "was able to",
       "can",
-      "could",
-      "is able to"
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "was able to"
+    "correctAnswer": "could"
   },
   {
-    "question": "I ___ see the small bird in the distance.",
+    "question": "She ___ lift that box without any help.",
     "options": [
       "can",
       "could",
@@ -1440,27 +1100,7 @@
     "correctAnswer": "can"
   },
   {
-    "question": "___ the engineer fix the problem with the bridge?",
-    "options": [
-      "Was he able to",
-      "Can he",
-      "Could he",
-      "Will he be able to"
-    ],
-    "correctAnswer": "Was he able to"
-  },
-  {
-    "question": "The climber ___ reach the summit despite the snowstorm.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "We ___ go to the park because it started to rain.",
+    "question": "The neighbors ___ find the address without a map.",
     "options": [
       "couldn't",
       "can't",
@@ -1470,77 +1110,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you imagine life without electricity?",
-    "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The company ___ increase its production by twenty percent.",
+    "question": "He ___ restart the engine after several attempts.",
     "options": [
       "was able to",
       "can",
       "could",
-      "is able to"
+      "will be able to"
     ],
     "correctAnswer": "was able to"
   },
   {
-    "question": "I ___ remember his name no matter how hard I tried.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ she swim across the pool when she was five?",
-    "options": [
-      "Could",
-      "Can",
-      "Was she able to",
-      "Will she be able to"
-    ],
-    "correctAnswer": "Could"
-  },
-  {
-    "question": "The chef ___ create a unique dish for the guests.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "They ___ find a place to stay for the night.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "weren't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ you help me with this math problem?",
-    "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The boy ___ read when he was only four years old.",
+    "question": "She ___ stay awake all night before exams as a teenager.",
     "options": [
       "could",
       "can",
@@ -1550,67 +1130,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "I ___ open the door because the lock was broken.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ he solve the riddle in less than a minute?",
-    "options": [
-      "Could",
-      "Can",
-      "Was he able to",
-      "Will he be able to"
-    ],
-    "correctAnswer": "Could"
-  },
-  {
-    "question": "The pilot ___ land the plane during the storm.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "She ___ find her glasses anywhere this morning.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ they reach the station before the train left?",
-    "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
-    ],
-    "correctAnswer": "Were they able to"
-  },
-  {
-    "question": "The athlete ___ finish the race in record time.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "We ___ see the stage from our seats.",
+    "question": "They ___ catch the bus after missing the first stop.",
     "options": [
       "couldn't",
       "can't",
@@ -1620,17 +1140,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you speak any other languages?",
+    "question": "You ___ reach the top shelf without a ladder.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The worker ___ finish the task before the deadline.",
+    "question": "The athlete ___ reach the top of the hill before dark.",
     "options": [
       "was able to",
       "can",
@@ -1640,7 +1160,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "I ___ hear what they were saying.",
+    "question": "She ___ lift the suitcase after the long flight.",
     "options": [
       "couldn't",
       "can't",
@@ -1650,47 +1170,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ she play the violin when she was young?",
+    "question": "They ___ finish the report before the deadline.",
     "options": [
-      "Could",
-      "Can",
-      "Was she able to",
-      "Will she be able to"
-    ],
-    "correctAnswer": "Could"
-  },
-  {
-    "question": "The team ___ win the match yesterday afternoon.",
-    "options": [
-      "was able to",
+      "were able to",
       "can",
       "could",
-      "is able to"
+      "will be able to"
     ],
-    "correctAnswer": "was able to"
+    "correctAnswer": "were able to"
   },
   {
-    "question": "They ___ find a hotel room for the night.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "weren't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ you help me with this heavy bag?",
-    "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The child ___ walk when he was ten months old.",
+    "question": "The athlete ___ run ten kilometers without stopping in college.",
     "options": [
       "could",
       "can",
@@ -1700,7 +1190,27 @@
     "correctAnswer": "could"
   },
   {
-    "question": "I ___ find my keys anywhere this morning.",
+    "question": "She ___ catch the last bus after work.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "You ___ memorize whole speeches in a single evening.",
+    "options": [
+      "could",
+      "can",
+      "were able to",
+      "will be able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "The athlete ___ sleep because the room was too noisy.",
     "options": [
       "couldn't",
       "can't",
@@ -1710,17 +1220,27 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ he fix the leaky tap in the kitchen?",
+    "question": "She ___ solve this puzzle without any help.",
     "options": [
-      "Was he able to",
-      "Can he",
-      "Could he",
-      "Will he be able to"
+      "can",
+      "could",
+      "will be able to",
+      "am able to"
     ],
-    "correctAnswer": "Was he able to"
+    "correctAnswer": "can"
   },
   {
-    "question": "The doctor ___ diagnose the patient correctly.",
+    "question": "They ___ spot the lighthouse through the storm.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "The athlete ___ answer the final question correctly.",
     "options": [
       "was able to",
       "can",
@@ -1730,37 +1250,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "She ___ attend the meeting because she was sick.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ they reach the summit of the mountain?",
-    "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
-    ],
-    "correctAnswer": "Were they able to"
-  },
-  {
-    "question": "The student ___ solve the difficult problem.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "We ___ see the mountain because of the fog.",
+    "question": "We ___ hear the guide over the wind.",
     "options": [
       "couldn't",
       "can't",
@@ -1770,17 +1260,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you play the guitar when you were a child?",
+    "question": "You ___ see the stage clearly from these seats.",
     "options": [
-      "Could",
-      "Can",
-      "Were you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "can"
   },
   {
-    "question": "The company ___ increase its profits last year.",
+    "question": "She ___ repair the bike in time for the race.",
     "options": [
       "was able to",
       "can",
@@ -1790,7 +1280,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "I ___ sleep last night because of the noise.",
+    "question": "The athlete ___ unlock the gate because the key was bent.",
     "options": [
       "couldn't",
       "can't",
@@ -1800,47 +1290,27 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ she come to the party tonight?",
+    "question": "They ___ save the file before the computer shut down.",
     "options": [
-      "Can she",
-      "Could she",
-      "Is she able to",
-      "Will she be able to"
-    ],
-    "correctAnswer": "Can she"
-  },
-  {
-    "question": "The runner ___ finish the race despite the pain.",
-    "options": [
-      "was able to",
+      "were able to",
       "can",
       "could",
+      "will be able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "She ___ use the new software easily.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
       "is able to"
     ],
-    "correctAnswer": "was able to"
+    "correctAnswer": "can"
   },
   {
-    "question": "They ___ find the way back to their camp.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "weren't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ you tell me the time, please?",
-    "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The girl ___ swim before she could walk.",
+    "question": "The athlete ___ climb that wall before the injury.",
     "options": [
       "could",
       "can",
@@ -1850,27 +1320,17 @@
     "correctAnswer": "could"
   },
   {
-    "question": "I ___ see the screen because of the glare.",
+    "question": "You ___ carry both bags at once.",
     "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "couldn't"
+    "correctAnswer": "can"
   },
   {
-    "question": "___ he understand what you were saying?",
-    "options": [
-      "Could",
-      "Can",
-      "Was he able to",
-      "Will he be able to"
-    ],
-    "correctAnswer": "Could"
-  },
-  {
-    "question": "The chef ___ prepare the meal in record time.",
+    "question": "The athlete ___ find a seat on the crowded train.",
     "options": [
       "was able to",
       "can",
@@ -1880,7 +1340,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "She ___ find her keys anywhere.",
+    "question": "She ___ finish the puzzle before dinner.",
     "options": [
       "couldn't",
       "can't",
@@ -1890,17 +1350,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ they solve the puzzle in time?",
+    "question": "She ___ hear the church bells from the old farmhouse.",
     "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Were they able to"
+    "correctAnswer": "could"
   },
   {
-    "question": "The player ___ score a goal in the last minute.",
+    "question": "She ___ finish the report before the deadline.",
     "options": [
       "was able to",
       "can",
@@ -1910,7 +1370,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "We ___ see the eclipse last night.",
+    "question": "The children ___ open the jar because the lid was stuck.",
     "options": [
       "couldn't",
       "can't",
@@ -1920,17 +1380,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you help me with this project?",
+    "question": "You ___ remember long phone numbers.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The driver ___ stop the car just in time.",
+    "question": "The athlete ___ spot the lighthouse through the storm.",
     "options": [
       "was able to",
       "can",
@@ -1940,7 +1400,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "I ___ find my wallet anywhere.",
+    "question": "She ___ join the call because the signal kept dropping.",
     "options": [
       "couldn't",
       "can't",
@@ -1950,17 +1410,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ she play the piano when she was five?",
+    "question": "He ___ hear the announcement from the back row.",
     "options": [
-      "Could",
-      "Can",
-      "Was she able to",
-      "Will she be able to"
+      "can",
+      "could",
+      "is able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "can"
   },
   {
-    "question": "The team ___ win the trophy last night.",
+    "question": "She ___ save the file before the computer shut down.",
     "options": [
       "was able to",
       "can",
@@ -1970,7 +1430,37 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "They ___ find a parking space.",
+    "question": "She ___ speak Spanish quite confidently.",
+    "options": [
+      "can",
+      "could",
+      "will be able to",
+      "am able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "He ___ unlock the door with a spare key.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ restart the engine after several attempts.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The engineers ___ see the road through the heavy fog.",
     "options": [
       "couldn't",
       "can't",
@@ -1980,17 +1470,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you imagine what it was like?",
+    "question": "You ___ swim across the pool without stopping.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The scientist ___ prove the theory.",
+    "question": "The athlete ___ reach the top of the hill before dark.",
     "options": [
       "was able to",
       "can",
@@ -2000,7 +1490,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "I ___ hear the speaker from the back.",
+    "question": "She ___ find the address without a map.",
     "options": [
       "couldn't",
       "can't",
@@ -2010,17 +1500,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ he drive a car when he was sixteen?",
+    "question": "She ___ skate on one foot for several meters.",
     "options": [
-      "Could",
-      "Can",
-      "Was he able to",
-      "Will he be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "The student ___ finish the exam on time.",
+    "question": "She ___ catch the last bus after work.",
     "options": [
       "was able to",
       "can",
@@ -2030,37 +1520,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "She ___ find her way in the dark.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ they reach the destination before sunset?",
-    "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
-    ],
-    "correctAnswer": "Were they able to"
-  },
-  {
-    "question": "The engineer ___ fix the bridge.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "We ___ go out because of the storm.",
+    "question": "They ___ catch the bus after missing the first stop.",
     "options": [
       "couldn't",
       "can't",
@@ -2070,77 +1530,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you help me with the laundry?",
+    "question": "You ___ lift that box without any help.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The doctor ___ save the patient.",
-    "options": [
-      "was able to",
       "can",
       "could",
-      "is able to"
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "was able to"
+    "correctAnswer": "can"
   },
   {
-    "question": "I ___ see the tiny writing on the label.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "wasn't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ she swim across the lake?",
-    "options": [
-      "Can she",
-      "Could she",
-      "Is she able to",
-      "Will she be able to"
-    ],
-    "correctAnswer": "Can she"
-  },
-  {
-    "question": "The group ___ complete the project.",
-    "options": [
-      "was able to",
-      "can",
-      "could",
-      "is able to"
-    ],
-    "correctAnswer": "was able to"
-  },
-  {
-    "question": "They ___ find a restaurant that was open.",
-    "options": [
-      "couldn't",
-      "can't",
-      "won't be able to",
-      "weren't able to"
-    ],
-    "correctAnswer": "couldn't"
-  },
-  {
-    "question": "___ you tell me where the library is?",
-    "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
-    ],
-    "correctAnswer": "Can"
-  },
-  {
-    "question": "The boy ___ ride a bike when he was four.",
+    "question": "She ___ play chess with adults at the age of eight.",
     "options": [
       "could",
       "can",
@@ -2150,7 +1550,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "I ___ understand the movie without subtitles.",
+    "question": "She ___ lift the suitcase after the long flight.",
     "options": [
       "couldn't",
       "can't",
@@ -2160,17 +1560,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ he fix the computer by himself?",
+    "question": "He ___ solve difficult math problems in high school.",
     "options": [
-      "Was he able to",
-      "Can he",
-      "Could he",
-      "Will he be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Was he able to"
+    "correctAnswer": "could"
   },
   {
-    "question": "The pilot ___ land the plane in the fog.",
+    "question": "The athlete ___ answer the final question correctly.",
     "options": [
       "was able to",
       "can",
@@ -2180,7 +1580,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "She ___ find the time to study.",
+    "question": "The athlete ___ sleep because the room was too noisy.",
     "options": [
       "couldn't",
       "can't",
@@ -2190,17 +1590,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ they finish the marathon?",
+    "question": "They ___ unlock the door with a spare key.",
     "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
     ],
-    "correctAnswer": "Were they able to"
+    "correctAnswer": "were able to"
   },
   {
-    "question": "The company ___ reduce its costs.",
+    "question": "She ___ repair the bike in time for the race.",
     "options": [
       "was able to",
       "can",
@@ -2210,7 +1610,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "We ___ see the mountains from here.",
+    "question": "We ___ hear the guide over the wind.",
     "options": [
       "couldn't",
       "can't",
@@ -2220,17 +1620,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you join us for dinner tomorrow?",
+    "question": "You ___ reach the top shelf without a ladder.",
     "options": [
-      "Will you be able to",
-      "Can you",
-      "Could you",
-      "Are you able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Will you be able to"
+    "correctAnswer": "can"
   },
   {
-    "question": "The technician ___ fix the machine.",
+    "question": "The athlete ___ find a seat on the crowded train.",
     "options": [
       "was able to",
       "can",
@@ -2240,7 +1640,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "I ___ find my shoes this morning.",
+    "question": "The athlete ___ unlock the gate because the key was bent.",
     "options": [
       "couldn't",
       "can't",
@@ -2250,17 +1650,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ she speak French when she was a child?",
+    "question": "She ___ read simple books at the age of five.",
     "options": [
-      "Could",
-      "Can",
-      "Was she able to",
-      "Will she be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "The writer ___ finish the novel in six months.",
+    "question": "She ___ finish the report before the deadline.",
     "options": [
       "was able to",
       "can",
@@ -2270,7 +1670,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "They ___ win the game last night.",
+    "question": "The musicians ___ finish the puzzle before dinner.",
     "options": [
       "couldn't",
       "can't",
@@ -2280,17 +1680,617 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you see the stars last night?",
+    "question": "You ___ solve this puzzle without any help.",
     "options": [
-      "Could",
-      "Can",
-      "Were you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "can"
   },
   {
-    "question": "The firemen ___ save the house.",
+    "question": "The athlete ___ speak to customers in French during a summer job.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "The athlete ___ open the jar because the lid was stuck.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "He ___ spot the lighthouse through the storm.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ save the file before the computer shut down.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ join the call because the signal kept dropping.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "They ___ restart the engine after several attempts.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "The athlete ___ unlock the door with a spare key.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The engineers ___ see the road through the heavy fog.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "You ___ stay awake all night before exams as a teenager.",
+    "options": [
+      "could",
+      "can",
+      "were able to",
+      "will be able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "She ___ restart the engine after several attempts.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ find the address without a map.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "She ___ see the stage clearly from these seats.",
+    "options": [
+      "can",
+      "could",
+      "is able to",
+      "will be able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "The athlete ___ reach the top of the hill before dark.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ catch the bus after missing the first stop.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "You ___ use the new software easily.",
+    "options": [
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "The athlete ___ run ten kilometers without stopping in college.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "She ___ lift the suitcase after the long flight.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "He ___ memorize whole speeches in a single evening.",
+    "options": [
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "She ___ catch the last bus after work.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The athlete ___ sleep because the room was too noisy.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "They ___ reach the top of the hill before dark.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "The athlete ___ answer the final question correctly.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ hear the guide over the wind.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "You ___ carry both bags at once.",
+    "options": [
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "She ___ repair the bike in time for the race.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The athlete ___ unlock the gate because the key was bent.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "She ___ climb that wall before the injury.",
+    "options": [
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "The athlete ___ find a seat on the crowded train.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The musicians ___ finish the puzzle before dinner.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "You ___ remember long phone numbers.",
+    "options": [
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "She ___ finish the report before the deadline.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The athlete ___ open the jar because the lid was stuck.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "He ___ hear the church bells from the old farmhouse.",
+    "options": [
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "The athlete ___ spot the lighthouse through the storm.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ join the call because the signal kept dropping.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "They ___ catch the last bus after work.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "She ___ save the file before the computer shut down.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The engineers ___ see the road through the heavy fog.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "You ___ hear the announcement from the back row.",
+    "options": [
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "The athlete ___ unlock the door with a spare key.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ find the address without a map.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "She ___ speak Spanish quite confidently.",
+    "options": [
+      "can",
+      "could",
+      "is able to",
+      "will be able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "She ___ restart the engine after several attempts.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "They ___ catch the bus after missing the first stop.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "You ___ swim across the pool without stopping.",
+    "options": [
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
+    ],
+    "correctAnswer": "can"
+  },
+  {
+    "question": "The athlete ___ skate on one foot for several meters.",
+    "options": [
+      "could",
+      "can",
+      "will be able to",
+      "is able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "She ___ lift the suitcase after the long flight.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "He ___ reach the top of the hill before dark.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "She ___ catch the last bus after work.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The athlete ___ sleep because the room was too noisy.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "They ___ answer the final question correctly.",
+    "options": [
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
+    ],
+    "correctAnswer": "were able to"
+  },
+  {
+    "question": "The athlete ___ answer the final question correctly.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "We ___ hear the guide over the wind.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "You ___ reach the island when the weather improves.",
+    "options": [
+      "will be able to",
+      "can",
+      "could",
+      "are able to"
+    ],
+    "correctAnswer": "will be able to"
+  },
+  {
+    "question": "She ___ repair the bike in time for the race.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The athlete ___ unlock the gate because the key was bent.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "wasn't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "She ___ play chess with adults at the age of eight.",
+    "options": [
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "The athlete ___ find a seat on the crowded train.",
+    "options": [
+      "was able to",
+      "can",
+      "could",
+      "is able to"
+    ],
+    "correctAnswer": "was able to"
+  },
+  {
+    "question": "The musicians ___ finish the puzzle before dinner.",
+    "options": [
+      "couldn't",
+      "can't",
+      "won't be able to",
+      "weren't able to"
+    ],
+    "correctAnswer": "couldn't"
+  },
+  {
+    "question": "You ___ solve difficult math problems in high school.",
+    "options": [
+      "could",
+      "can",
+      "were able to",
+      "will be able to"
+    ],
+    "correctAnswer": "could"
+  },
+  {
+    "question": "The hikers ___ repair the bike in time for the race.",
     "options": [
       "were able to",
       "can",
@@ -2300,7 +2300,7 @@
     "correctAnswer": "were able to"
   },
   {
-    "question": "I ___ remember the phone number.",
+    "question": "The athlete ___ open the jar because the lid was stuck.",
     "options": [
       "couldn't",
       "can't",
@@ -2310,17 +2310,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ he solve the equation?",
+    "question": "He ___ lift that box without any help.",
     "options": [
-      "Can he",
-      "Could he",
-      "Is he able to",
-      "Will he be able to"
+      "can",
+      "could",
+      "is able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can he"
+    "correctAnswer": "can"
   },
   {
-    "question": "The girl ___ dance when she was three.",
+    "question": "She ___ read simple books at the age of five.",
     "options": [
       "could",
       "can",
@@ -2330,7 +2330,7 @@
     "correctAnswer": "could"
   },
   {
-    "question": "We ___ reach the airport on time.",
+    "question": "The students ___ join the call because the signal kept dropping.",
     "options": [
       "couldn't",
       "can't",
@@ -2340,17 +2340,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you help me carry this?",
+    "question": "You ___ reach the top shelf without a ladder.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The team ___ score a goal in the first half.",
+    "question": "She ___ finish the report before the deadline.",
     "options": [
       "was able to",
       "can",
@@ -2360,7 +2360,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "I ___ find a park nearby.",
+    "question": "The athlete ___ see the road through the heavy fog.",
     "options": [
       "couldn't",
       "can't",
@@ -2370,17 +2370,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ she drive when she was eighteen?",
+    "question": "She ___ speak to customers in French during a summer job.",
     "options": [
-      "Could",
-      "Can",
-      "Was she able to",
-      "Will she be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "The gardener ___ grow beautiful flowers.",
+    "question": "The athlete ___ spot the lighthouse through the storm.",
     "options": [
       "was able to",
       "can",
@@ -2390,7 +2390,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "They ___ open the box.",
+    "question": "The neighbors ___ find the address without a map.",
     "options": [
       "couldn't",
       "can't",
@@ -2400,17 +2400,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you see the difference?",
+    "question": "You ___ solve this puzzle without any help.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   },
   {
-    "question": "The doctor ___ cure the patient.",
+    "question": "She ___ save the file before the computer shut down.",
     "options": [
       "was able to",
       "can",
@@ -2420,7 +2420,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "I ___ find the right words to say.",
+    "question": "The athlete ___ catch the bus after missing the first stop.",
     "options": [
       "couldn't",
       "can't",
@@ -2430,17 +2430,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ he swim when he was five?",
+    "question": "He ___ stay awake all night before exams as a teenager.",
     "options": [
-      "Could",
-      "Can",
-      "Was he able to",
-      "Will he be able to"
+      "could",
+      "can",
+      "was able to",
+      "will be able to"
     ],
-    "correctAnswer": "Could"
+    "correctAnswer": "could"
   },
   {
-    "question": "The engineer ___ fix the bridge in a week.",
+    "question": "The athlete ___ unlock the door with a spare key.",
     "options": [
       "was able to",
       "can",
@@ -2450,7 +2450,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "She ___ find the time to call me.",
+    "question": "She ___ lift the suitcase after the long flight.",
     "options": [
       "couldn't",
       "can't",
@@ -2460,17 +2460,17 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ they finish the game before dark?",
+    "question": "They ___ find a seat on the crowded train.",
     "options": [
-      "Were they able to",
-      "Can they",
-      "Could they",
-      "Will they be able to"
+      "were able to",
+      "can",
+      "could",
+      "will be able to"
     ],
-    "correctAnswer": "Were they able to"
+    "correctAnswer": "were able to"
   },
   {
-    "question": "The company ___ increase its sales.",
+    "question": "She ___ restart the engine after several attempts.",
     "options": [
       "was able to",
       "can",
@@ -2480,7 +2480,7 @@
     "correctAnswer": "was able to"
   },
   {
-    "question": "We ___ see the moon tonight.",
+    "question": "The climbers ___ sleep because the room was too noisy.",
     "options": [
       "couldn't",
       "can't",
@@ -2490,13 +2490,13 @@
     "correctAnswer": "couldn't"
   },
   {
-    "question": "___ you join us for a walk?",
+    "question": "You ___ see the stage clearly from these seats.",
     "options": [
-      "Can",
-      "Could",
-      "Are you able to",
-      "Will you be able to"
+      "can",
+      "could",
+      "are able to",
+      "will be able to"
     ],
-    "correctAnswer": "Can"
+    "correctAnswer": "can"
   }
 ]

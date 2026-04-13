@@ -2,22 +2,22 @@
   {
     "id": "present_simple",
     "title": "Present Simple",
-    "whenToUse": "routines, habits, and general facts",
-    "formula": "Subject + base verb (add -s for he/she/it)",
+    "whenToUse": "routines, habits, repeated actions, and general facts",
+    "formula": "Subject + base verb (add -s/-es for he/she/it)",
     "examples": [
       "She works in a bank.",
       "They play tennis every Sunday."
     ],
     "keywords": ["always", "usually", "often", "every day"],
     "commonMistakes": [
-      "Forgetting -s with he/she/it",
-      "Using Present Continuous for permanent facts"
+      "Forgetting -s/-es with he/she/it",
+      "Using Present Continuous for general facts or habits"
     ]
   },
   {
     "id": "present_continuous",
     "title": "Present Continuous",
-    "whenToUse": "actions happening now or around now",
+    "whenToUse": "actions happening now, around now, or temporary situations",
     "formula": "Subject + am/is/are + verb-ing",
     "examples": [
       "I am reading now.",
@@ -25,14 +25,14 @@
     ],
     "keywords": ["now", "at the moment", "currently"],
     "commonMistakes": [
-      "Using base verb instead of verb-ing",
+      "Using the base verb instead of verb-ing",
       "Missing am/is/are"
     ]
   },
   {
     "id": "present_perfect",
     "title": "Present Perfect",
-    "whenToUse": "past actions with a present result or life experience",
+    "whenToUse": "past actions with a present result, life experience, or unfinished time periods",
     "formula": "Subject + has/have + past participle",
     "examples": [
       "We have finished our homework.",
@@ -40,14 +40,14 @@
     ],
     "keywords": ["already", "yet", "ever", "never", "just"],
     "commonMistakes": [
-      "Using past simple instead of past participle",
-      "Using a specific finished past time with present perfect"
+      "Using past simple instead of a past participle",
+      "Using a specific finished past time with Present Perfect"
     ]
   },
   {
     "id": "present_perfect_continuous",
     "title": "Present Perfect Continuous",
-    "whenToUse": "actions that started in the past and continue now",
+    "whenToUse": "actions that started in the past and continue now, or recently stopped actions with a present result",
     "formula": "Subject + has/have been + verb-ing",
     "examples": [
       "She has been studying for three hours.",
@@ -55,29 +55,29 @@
     ],
     "keywords": ["for", "since", "all day"],
     "commonMistakes": [
-      "Using present continuous for long-duration actions from the past",
+      "Using Present Continuous for actions that began in the past and continue now",
       "Missing been in the structure"
     ]
   },
   {
     "id": "past_simple",
     "title": "Past Simple",
-    "whenToUse": "finished actions in the past",
-    "formula": "Subject + verb 2 (or -ed for regular verbs)",
+    "whenToUse": "finished actions and events in the past",
+    "formula": "Subject + past form of the verb",
     "examples": [
       "I went home yesterday.",
       "She finished work at 6 p.m."
     ],
     "keywords": ["yesterday", "last week", "in 2020", "ago"],
     "commonMistakes": [
-      "Using base verb after subject",
-      "Mixing past simple with present perfect time markers"
+      "Using the base verb in affirmative sentences",
+      "Mixing Past Simple with Present Perfect time markers"
     ]
   },
   {
     "id": "past_continuous",
     "title": "Past Continuous",
-    "whenToUse": "an action in progress at a specific past time",
+    "whenToUse": "actions in progress at a specific past time or background actions in the past",
     "formula": "Subject + was/were + verb-ing",
     "examples": [
       "They were watching TV when I called.",
@@ -86,13 +86,13 @@
     "keywords": ["while", "when", "at 8 p.m. yesterday"],
     "commonMistakes": [
       "Using was with plural subjects",
-      "Using past simple for interrupted background action"
+      "Using Past Simple instead of Past Continuous for background actions"
     ]
   },
   {
     "id": "past_perfect",
     "title": "Past Perfect",
-    "whenToUse": "the earlier of two past actions",
+    "whenToUse": "the earlier of two past actions or a completed action before a past point",
     "formula": "Subject + had + past participle",
     "examples": [
       "By the time I arrived, they had left.",
@@ -100,14 +100,14 @@
     ],
     "keywords": ["by the time", "already", "before"],
     "commonMistakes": [
-      "Using past simple for both actions when sequence matters",
+      "Using Past Simple for both actions when the earlier action should be shown clearly",
       "Using have/has instead of had"
     ]
   },
   {
     "id": "past_perfect_continuous",
     "title": "Past Perfect Continuous",
-    "whenToUse": "duration before another past action",
+    "whenToUse": "duration of an action before another past action or past moment",
     "formula": "Subject + had been + verb-ing",
     "examples": [
       "He had been working there for five years before he moved.",
@@ -116,13 +116,13 @@
     "keywords": ["for", "before", "by the time"],
     "commonMistakes": [
       "Dropping been from had been + verb-ing",
-      "Using past continuous when earlier duration should be emphasized"
+      "Using Past Continuous when earlier duration should be emphasized"
     ]
   },
   {
     "id": "future_simple",
     "title": "Future Simple",
-    "whenToUse": "predictions, promises, and spontaneous decisions",
+    "whenToUse": "predictions, promises, offers, and spontaneous decisions",
     "formula": "Subject + will + base verb",
     "examples": [
       "I think it will rain tomorrow.",
@@ -130,14 +130,14 @@
     ],
     "keywords": ["tomorrow", "I think", "probably", "will"],
     "commonMistakes": [
-      "Using will + verb-ing for simple prediction",
-      "Using present simple for spontaneous decisions"
+      "Using will + verb-ing for a simple prediction",
+      "Using Present Simple for spontaneous decisions"
     ]
   },
   {
     "id": "future_continuous",
     "title": "Future Continuous",
-    "whenToUse": "action that will be in progress at a future time",
+    "whenToUse": "an action that will be in progress at a specific future time",
     "formula": "Subject + will be + verb-ing",
     "examples": [
       "This time tomorrow, we will be flying to Rome.",
@@ -146,13 +146,13 @@
     "keywords": ["this time tomorrow", "at 8 p.m. tomorrow"],
     "commonMistakes": [
       "Using will + base verb instead of will be + verb-ing",
-      "Using for completed actions by a future deadline"
+      "Using it for completed actions before a future deadline"
     ]
   },
   {
     "id": "future_perfect",
     "title": "Future Perfect",
-    "whenToUse": "actions completed before a future point",
+    "whenToUse": "actions that will be completed before a specific future point",
     "formula": "Subject + will have + past participle",
     "examples": [
       "By next year, I will have finished my degree.",
@@ -160,14 +160,14 @@
     ],
     "keywords": ["by", "by then", "by next year"],
     "commonMistakes": [
-      "Using future simple when completion before a deadline is needed",
+      "Using Future Simple when completion before a future point is important",
       "Using will had instead of will have"
     ]
   },
   {
     "id": "future_perfect_continuous",
     "title": "Future Perfect Continuous",
-    "whenToUse": "duration up to a specific future moment",
+    "whenToUse": "duration of an action up to a specific future moment",
     "formula": "Subject + will have been + verb-ing",
     "examples": [
       "By noon, she will have been working for six hours.",
@@ -175,7 +175,7 @@
     ],
     "keywords": ["for", "by", "by next month"],
     "commonMistakes": [
-      "Using future perfect when ongoing duration is intended",
+      "Using Future Perfect when ongoing duration is intended",
       "Skipping been in will have been + verb-ing"
     ]
   }

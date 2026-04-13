@@ -1,1252 +1,2502 @@
 [
   {
-    "question": "They _______ disclose confidential data by tomorrow.",
-    "options": ["shouldn't", "doesn't have to", "can't", "won't"],
+    "question": "The manager _______ speak loudly during the lecture.",
+    "options": [
+      "shouldn't",
+      "doesn't have to",
+      "can't",
+      "won't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "An employee _______ speak loudly in the library when the siren sounds.",
-    "options": ["needn't", "doesn't have to", "shouldn't", "mustn't"],
+    "question": "The driver _______ arrive late for the interview.",
+    "options": [
+      "needn't",
+      "doesn't have to",
+      "shouldn't",
+      "mustn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "An employee _______ complete the training every morning.",
-    "options": ["have to", "must", "may", "has to"],
+    "question": "The manager _______ attend the safety briefing on Monday morning.",
+    "options": [
+      "have to",
+      "must",
+      "may",
+      "has to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Students _______ complete the training during the shift.",
-    "options": ["might", "can", "may", "have to"],
+    "question": "Employees _______ clock in before starting their shift.",
+    "options": [
+      "might",
+      "can",
+      "may",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ you wear a uniform during the shift?",
-    "options": ["Does", "Should", "Will", "May"],
+    "question": "___ I report this damaged cable right away?",
+    "options": [
+      "Does",
+      "Should",
+      "Will",
+      "May"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "You _______ feed the animals at all times.",
-    "options": ["won't", "shouldn't", "don't have to", "mustn't"],
+    "question": "Employees _______ park in front of the emergency exit.",
+    "options": [
+      "won't",
+      "shouldn't",
+      "don't have to",
+      "mustn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Drivers _______ update their software daily.",
-    "options": ["can", "might", "ought to", "have to"],
+    "question": "Contractors _______ complete the checklist before leaving the warehouse.",
+    "options": [
+      "can",
+      "might",
+      "ought to",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Teachers _______ disclose confidential data when the siren sounds.",
-    "options": ["couldn't", "won't", "can't", "mustn't"],
+    "question": "Contractors _______ use that ladder if the lock is broken.",
+    "options": [
+      "couldn't",
+      "won't",
+      "can't",
+      "mustn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Employees _______ wear a helmet immediately.",
-    "options": ["have to", "must", "has to", "can"],
+    "question": "Employees _______ wear safety goggles in the chemistry lab.",
+    "options": [
+      "have to",
+      "must",
+      "has to",
+      "can"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Employees _______ wear a helmet during the shift.",
-    "options": ["ought to", "have to", "can", "has to"],
+    "question": "Employees _______ wash the uniforms after every shift.",
+    "options": [
+      "ought to",
+      "have to",
+      "can",
+      "has to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ drivers renew the license every morning?",
-    "options": ["Must", "Will", "Does", "Can"],
+    "question": "___ visitors wear hard hats in this area?",
+    "options": [
+      "Must",
+      "Will",
+      "Does",
+      "Can"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "_______ employees wash hands regularly every morning?",
-    "options": ["Do", "Can", "May", "Will"],
+    "question": "___ employees have to wear ID badges in this building?",
+    "options": [
+      "Do",
+      "Can",
+      "May",
+      "Will"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "Security guards _______ wear a helmet immediately.",
-    "options": ["must", "has to", "might", "can"],
+    "question": "The driver _______ show a valid ticket before boarding the bus.",
+    "options": [
+      "must",
+      "has to",
+      "might",
+      "can"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ security guards renew the license after the procedure?",
-    "options": ["Should", "Must", "Can", "Will"],
+    "question": "___ contractors report to reception on arrival?",
+    "options": [
+      "Should",
+      "Must",
+      "Can",
+      "Will"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "_______ employees verify the results next week?",
-    "options": ["Must", "Does", "Do", "Can"],
+    "question": "___ contractors have to bring their own tools?",
+    "options": [
+      "Must",
+      "Does",
+      "Do",
+      "Can"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "_______ the manager stay focused next week?",
-    "options": ["Do", "Does", "Should", "Must"],
+    "question": "___ each visitor have to show a photo ID?",
+    "options": [
+      "Do",
+      "Does",
+      "Should",
+      "Must"
+    ],
     "correctAnswer": "Does"
   },
   {
-    "question": "All visitors _______ touch the exhibits every morning.",
-    "options": ["needn't", "don't have to", "mustn't", "can't"],
+    "question": "Employees _______ store chemicals next to food.",
+    "options": [
+      "needn't",
+      "don't have to",
+      "mustn't",
+      "can't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ staff members complete the training regularly?",
-    "options": ["Must", "Does", "Will", "Can"],
+    "question": "___ passengers show their tickets at the gate?",
+    "options": [
+      "Must",
+      "Does",
+      "Will",
+      "Can"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Employees _______ forget the password immediately.",
-    "options": ["mustn't", "couldn't", "shouldn't", "can't"],
+    "question": "Contractors _______ enter the restricted zone without a pass.",
+    "options": [
+      "mustn't",
+      "couldn't",
+      "shouldn't",
+      "can't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Passengers _______ park here without a permit next week.",
-    "options": ["doesn't have to", "mustn't", "shouldn't", "won't"],
+    "question": "The new intern _______ bring glass bottles into the gym.",
+    "options": [
+      "doesn't have to",
+      "mustn't",
+      "shouldn't",
+      "won't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "You _______ complete the training every morning.",
-    "options": ["might", "should", "can", "must"],
+    "question": "Employees _______ turn off the gas after cooking.",
+    "options": [
+      "might",
+      "should",
+      "can",
+      "must"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Employees _______ complete the training at all times.",
-    "options": ["should", "can", "may", "have to"],
+    "question": "Contractors _______ pay the fee online before registration closes.",
+    "options": [
+      "should",
+      "can",
+      "may",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ he follow the safety guidelines after the procedure?",
-    "options": ["Should", "Do", "May", "Must"],
+    "question": "___ students hand in their phones before the exam?",
+    "options": [
+      "Should",
+      "Do",
+      "May",
+      "Must"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "She _______ touch the exhibits by tomorrow.",
-    "options": ["can't", "don't have to", "shouldn't", "mustn't"],
+    "question": "Employees _______ drop litter in the park.",
+    "options": [
+      "can't",
+      "don't have to",
+      "shouldn't",
+      "mustn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Employees _______ skip the warm-up before Friday.",
-    "options": ["shouldn't", "can't", "couldn't", "won't"],
+    "question": "Contractors _______ use their phones while driving.",
+    "options": [
+      "shouldn't",
+      "can't",
+      "couldn't",
+      "won't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Travelers _______ verify the results next week.",
-    "options": ["should", "may", "have to", "can"],
+    "question": "Employees _______ update the logbook after each visit.",
+    "options": [
+      "should",
+      "may",
+      "have to",
+      "can"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ travelers arrive on time immediately?",
-    "options": ["Must", "Do", "Does", "Can"],
+    "question": "___ dog owners keep their pets on a leash here?",
+    "options": [
+      "Must",
+      "Do",
+      "Does",
+      "Can"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "_______ staff members arrive on time regularly?",
-    "options": ["Will", "Must", "Do", "Should"],
+    "question": "___ they leave a note for the next shift?",
+    "options": [
+      "Will",
+      "Must",
+      "Do",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "Employees _______ feed the animals daily.",
-    "options": ["won't", "shouldn't", "needn't", "mustn't"],
+    "question": "Employees _______ borrow tools without asking first.",
+    "options": [
+      "won't",
+      "shouldn't",
+      "needn't",
+      "mustn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "The employee _______ renew the license daily.",
-    "options": ["has to", "can", "may", "must"],
+    "question": "The cleaner _______ report any injury to the supervisor immediately.",
+    "options": [
+      "has to",
+      "can",
+      "may",
+      "must"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ students check the equipment during the shift?",
-    "options": ["Must", "Should", "May", "Might"],
+    "question": "___ he wear gloves while handling those chemicals?",
+    "options": [
+      "Must",
+      "Should",
+      "May",
+      "Might"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "Employees _______ leave the door unlocked when the siren sounds.",
-    "options": ["mustn't", "shouldn't", "don't have to", "can't"],
+    "question": "Contractors _______ post private information in the group chat.",
+    "options": [
+      "mustn't",
+      "shouldn't",
+      "don't have to",
+      "can't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "The employee _______ disclose confidential data daily.",
-    "options": ["don't have to", "shouldn't", "won't", "doesn't have to"],
+    "question": "Employees _______ leave the gate open after dark.",
+    "options": [
+      "don't have to",
+      "shouldn't",
+      "won't",
+      "doesn't have to"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "The employee _______ update their software when the siren sounds.",
-    "options": ["has to", "should", "ought to", "have to"],
+    "question": "The driver _______ take the medication with food.",
+    "options": [
+      "has to",
+      "should",
+      "ought to",
+      "have to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Employees _______ ignore the warnings daily.",
-    "options": ["shouldn't", "needn't", "can't", "couldn't"],
+    "question": "Contractors _______ skip the warm-up before training.",
+    "options": [
+      "shouldn't",
+      "needn't",
+      "can't",
+      "couldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ he wear a uniform during the shift?",
-    "options": ["Might", "Will", "Should", "Do"],
+    "question": "___ we ask permission before using the projector?",
+    "options": [
+      "Might",
+      "Will",
+      "Should",
+      "Do"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "_______ we pay the taxes at all times?",
-    "options": ["Should", "Might", "Does", "Can"],
+    "question": "___ she lock the cabinet after using it?",
+    "options": [
+      "Should",
+      "Might",
+      "Does",
+      "Can"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "The manager _______ enter restricted zones when the siren sounds.",
-    "options": ["shouldn't", "mustn't", "needn't", "won't"],
+    "question": "Contractors _______ leave children unattended near the pool.",
+    "options": [
+      "shouldn't",
+      "mustn't",
+      "needn't",
+      "won't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "We _______ disclose confidential data by tomorrow.",
-    "options": ["doesn't have to", "shouldn't", "won't", "couldn't"],
+    "question": "The nurse _______ argue with customers at the front desk.",
+    "options": [
+      "doesn't have to",
+      "shouldn't",
+      "won't",
+      "couldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Employees _______ stay focused at all times.",
-    "options": ["ought to", "have to", "must", "should"],
+    "question": "Employees _______ bring photo identification to the exam.",
+    "options": [
+      "ought to",
+      "have to",
+      "must",
+      "should"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Employees _______ listen to instructions every morning.",
-    "options": ["ought to", "has to", "may", "have to"],
+    "question": "Contractors _______ finish the training course this week.",
+    "options": [
+      "ought to",
+      "has to",
+      "may",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ drivers carry a passport immediately?",
-    "options": ["Do", "Must", "Does", "Might"],
+    "question": "___ volunteers attend the training session?",
+    "options": [
+      "Do",
+      "Must",
+      "Does",
+      "Might"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "The employee _______ park here without a permit next week.",
-    "options": ["mustn't", "don't have to", "needn't", "can't"],
+    "question": "Employees _______ leave the oven on overnight.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "needn't",
+      "can't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "The employee _______ renew the license at all times.",
-    "options": ["should", "must", "has to", "might"],
+    "question": "My brother _______ pay the invoice by Friday.",
+    "options": [
+      "should",
+      "must",
+      "has to",
+      "might"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Employees _______ respect the local laws regularly.",
-    "options": ["may", "might", "can", "have to"],
+    "question": "Employees _______ park in the designated area.",
+    "options": [
+      "may",
+      "might",
+      "can",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ employees follow the safety guidelines after the procedure?",
-    "options": ["Should", "Might", "Will", "Does"],
+    "question": "___ we wait for the green signal before crossing?",
+    "options": [
+      "Should",
+      "Might",
+      "Will",
+      "Does"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "They _______ attend the meeting at all times.",
-    "options": ["have to", "must", "should", "can"],
+    "question": "Contractors _______ lock the archive room every evening.",
+    "options": [
+      "have to",
+      "must",
+      "should",
+      "can"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Employees _______ complete the training regularly.",
-    "options": ["have to", "might", "has to", "must"],
+    "question": "Employees _______ wear a helmet on this construction site.",
+    "options": [
+      "have to",
+      "might",
+      "has to",
+      "must"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "You _______ disturb the neighbors when the siren sounds.",
-    "options": ["won't", "couldn't", "mustn't", "needn't"],
+    "question": "Contractors _______ touch the electrical panel with wet hands.",
+    "options": [
+      "won't",
+      "couldn't",
+      "mustn't",
+      "needn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ companies pay the taxes during the shift?",
-    "options": ["Does", "Might", "Do", "Will"],
+    "question": "___ residents have to sort their recycling here?",
+    "options": [
+      "Does",
+      "Might",
+      "Do",
+      "Will"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "_______ an employee renew the license regularly?",
-    "options": ["May", "Might", "Will", "Should"],
+    "question": "___ they check in with security before unloading the van?",
+    "options": [
+      "May",
+      "Might",
+      "Will",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "The manager _______ leave the door unlocked at all times.",
-    "options": ["don't have to", "needn't", "mustn't", "shouldn't"],
+    "question": "Contractors _______ interrupt the client during the presentation.",
+    "options": [
+      "don't have to",
+      "needn't",
+      "mustn't",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ she keep the environment clean regularly?",
-    "options": ["Do", "Will", "May", "Should"],
+    "question": "___ we remind the guests about the parking rules?",
+    "options": [
+      "Do",
+      "Will",
+      "May",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "Employees _______ wash hands regularly after the procedure.",
-    "options": ["must", "ought to", "might", "should"],
+    "question": "Contractors _______ check the patient notes before giving any medicine.",
+    "options": [
+      "must",
+      "ought to",
+      "might",
+      "should"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ security guards arrive on time daily?",
-    "options": ["Might", "Should", "Must", "Will"],
+    "question": "___ cyclists use the bike lane on this street?",
+    "options": [
+      "Might",
+      "Should",
+      "Must",
+      "Will"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "We _______ attend the meeting next week.",
-    "options": ["has to", "must", "might", "may"],
+    "question": "The nurse _______ sign the attendance sheet before the workshop starts.",
+    "options": [
+      "has to",
+      "must",
+      "might",
+      "may"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ passengers provide identification by tomorrow?",
-    "options": ["Should", "Must", "Might", "Do"],
+    "question": "___ I call the nurse if the pain gets worse?",
+    "options": [
+      "Should",
+      "Must",
+      "Might",
+      "Do"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "_______ security guards complete the training when the siren sounds?",
-    "options": ["Does", "Do", "Might", "Will"],
+    "question": "___ visitors have to sign in at reception?",
+    "options": [
+      "Does",
+      "Do",
+      "Might",
+      "Will"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "_______ the team pay the taxes by tomorrow?",
-    "options": ["Must", "Should", "Does", "Will"],
+    "question": "___ delivery drivers use the rear entrance?",
+    "options": [
+      "Must",
+      "Should",
+      "Does",
+      "Will"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Contractors _______ bring liquids on the plane regularly.",
-    "options": ["can't", "don't have to", "mustn't", "couldn't"],
+    "question": "Employees _______ run in the hospital corridor.",
+    "options": [
+      "can't",
+      "don't have to",
+      "mustn't",
+      "couldn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "The employee _______ disturb the neighbors after the procedure.",
-    "options": ["shouldn't", "mustn't", "don't have to", "won't"],
+    "question": "Contractors _______ smoke anywhere inside this building.",
+    "options": [
+      "shouldn't",
+      "mustn't",
+      "don't have to",
+      "won't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Staff members _______ submit the report daily.",
-    "options": ["have to", "may", "ought to", "has to"],
+    "question": "Contractors _______ renew their permits before the end of the month.",
+    "options": [
+      "have to",
+      "may",
+      "ought to",
+      "has to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "An employee _______ enter restricted zones when the siren sounds.",
-    "options": ["couldn't", "needn't", "doesn't have to", "shouldn't"],
+    "question": "The manager _______ wear muddy shoes inside the studio.",
+    "options": [
+      "couldn't",
+      "needn't",
+      "doesn't have to",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "The team _______ leave the door unlocked during the shift.",
-    "options": ["can't", "doesn't have to", "shouldn't", "mustn't"],
+    "question": "The driver _______ leave dirty dishes in the office kitchen.",
+    "options": [
+      "can't",
+      "doesn't have to",
+      "shouldn't",
+      "mustn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ they wear a uniform after the procedure?",
-    "options": ["Might", "Do", "Can", "Will"],
+    "question": "___ nurses have to record every dosage change?",
+    "options": [
+      "Might",
+      "Do",
+      "Can",
+      "Will"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "The team _______ wash hands regularly after the procedure.",
-    "options": ["has to", "have to", "must", "might"],
+    "question": "Contractors _______ switch off their phones before the performance.",
+    "options": [
+      "has to",
+      "have to",
+      "must",
+      "might"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ contractors listen to instructions by tomorrow?",
-    "options": ["Will", "Can", "May", "Do"],
+    "question": "___ volunteers have to attend the briefing?",
+    "options": [
+      "Will",
+      "Can",
+      "May",
+      "Do"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "Teachers _______ miss the deadline before Friday.",
-    "options": ["don't have to", "doesn't have to", "shouldn't", "couldn't"],
+    "question": "Employees _______ wait until the last minute to print the report.",
+    "options": [
+      "don't have to",
+      "doesn't have to",
+      "shouldn't",
+      "couldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Pilots _______ verify the results immediately.",
-    "options": ["can", "may", "might", "have to"],
+    "question": "Employees _______ carry their access cards at all times.",
+    "options": [
+      "can",
+      "may",
+      "might",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Passengers _______ arrive on time every day.",
-    "options": ["should", "ought to", "have to", "can"],
+    "question": "Contractors _______ wear non-slip shoes in the kitchen.",
+    "options": [
+      "should",
+      "ought to",
+      "have to",
+      "can"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ pilots wear a uniform after the procedure?",
-    "options": ["May", "Must", "Might", "Do"],
+    "question": "___ students have to submit the form online?",
+    "options": [
+      "May",
+      "Must",
+      "Might",
+      "Do"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "_______ employees update their software by tomorrow?",
-    "options": ["Should", "May", "Does", "Do"],
+    "question": "___ she tell the supervisor about the missing files?",
+    "options": [
+      "Should",
+      "May",
+      "Does",
+      "Do"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "_______ pilots follow the safety guidelines immediately?",
-    "options": ["May", "Does", "Can", "Do"],
+    "question": "___ tourists have to book tickets in advance?",
+    "options": [
+      "May",
+      "Does",
+      "Can",
+      "Do"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "Security guards _______ forget the password immediately.",
-    "options": ["can't", "needn't", "won't", "shouldn't"],
+    "question": "Contractors _______ ignore a warning from the lifeguard.",
+    "options": [
+      "can't",
+      "needn't",
+      "won't",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Citizens _______ respect the local laws when the siren sounds.",
-    "options": ["have to", "must", "may", "can"],
+    "question": "Employees _______ keep the aisles free of boxes.",
+    "options": [
+      "have to",
+      "must",
+      "may",
+      "can"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Security guards _______ verify the results when the siren sounds.",
-    "options": ["should", "might", "must", "may"],
+    "question": "Employees _______ keep both hands on the wheel while driving.",
+    "options": [
+      "should",
+      "might",
+      "must",
+      "may"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "The manager _______ speak loudly in the library regularly.",
-    "options": ["shouldn't", "mustn't", "doesn't have to", "won't"],
+    "question": "The manager _______ pour oil down the sink.",
+    "options": [
+      "shouldn't",
+      "mustn't",
+      "doesn't have to",
+      "won't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ the team renew the license next week?",
-    "options": ["May", "Can", "Should", "Might"],
+    "question": "___ I report this damaged cable right away?",
+    "options": [
+      "May",
+      "Can",
+      "Should",
+      "Might"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "Employees _______ bring liquids on the plane immediately.",
-    "options": ["shouldn't", "needn't", "mustn't", "couldn't"],
+    "question": "Employees _______ forget to label those sample jars.",
+    "options": [
+      "shouldn't",
+      "needn't",
+      "mustn't",
+      "couldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ citizens follow the safety guidelines regularly?",
-    "options": ["Do", "Can", "Might", "Must"],
+    "question": "___ parents have to wait outside the classroom?",
+    "options": [
+      "Do",
+      "Can",
+      "Might",
+      "Must"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "The employee _______ forget the password before Friday.",
-    "options": ["don't have to", "doesn't have to", "can't", "mustn't"],
+    "question": "Contractors _______ feed the animals without permission.",
+    "options": [
+      "don't have to",
+      "doesn't have to",
+      "can't",
+      "mustn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Employees _______ waste company resources every morning.",
-    "options": ["couldn't", "mustn't", "needn't", "shouldn't"],
+    "question": "Contractors _______ speak loudly during the lecture.",
+    "options": [
+      "couldn't",
+      "mustn't",
+      "needn't",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "The employee _______ pay the taxes by tomorrow.",
-    "options": ["must", "should", "may", "has to"],
+    "question": "The cleaner _______ call the landlord about the broken heater.",
+    "options": [
+      "must",
+      "should",
+      "may",
+      "has to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "_______ he sign the contract during the shift?",
-    "options": ["Will", "Must", "Do", "Does"],
+    "question": "___ patients fast before the blood test?",
+    "options": [
+      "Will",
+      "Must",
+      "Do",
+      "Does"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Employees _______ leave the door unlocked after the procedure.",
-    "options": ["needn't", "won't", "doesn't have to", "mustn't"],
+    "question": "My brother _______ block the fire door with boxes.",
+    "options": [
+      "needn't",
+      "won't",
+      "doesn't have to",
+      "mustn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Security guards _______ forget the password daily.",
-    "options": ["shouldn't", "doesn't have to", "needn't", "can't"],
+    "question": "The tenant _______ arrive late for the interview.",
+    "options": [
+      "shouldn't",
+      "doesn't have to",
+      "needn't",
+      "can't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "The manager _______ leave the door unlocked after the procedure.",
-    "options": ["won't", "can't", "mustn't", "shouldn't"],
+    "question": "Contractors _______ drop litter in the park.",
+    "options": [
+      "won't",
+      "can't",
+      "mustn't",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ the manager verify the results at all times?",
-    "options": ["Should", "Will", "Must", "Can"],
+    "question": "___ staff sign out before leaving the building?",
+    "options": [
+      "Should",
+      "Will",
+      "Must",
+      "Can"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "You _______ enter restricted zones regularly.",
-    "options": ["can't", "don't have to", "mustn't", "won't"],
+    "question": "Contractors _______ share confidential passwords with anyone.",
+    "options": [
+      "can't",
+      "don't have to",
+      "mustn't",
+      "won't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ an employee carry a passport before Friday?",
-    "options": ["Do", "Will", "Might", "Should"],
+    "question": "___ they leave a note for the next shift?",
+    "options": [
+      "Do",
+      "Will",
+      "Might",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "Travelers _______ submit the report immediately.",
-    "options": ["must", "ought to", "have to", "might"],
+    "question": "Contractors _______ follow the safety briefing before entering the site.",
+    "options": [
+      "must",
+      "ought to",
+      "have to",
+      "might"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ security guards stay focused at all times?",
-    "options": ["May", "Do", "Can", "Does"],
+    "question": "___ drivers have to stop at this checkpoint?",
+    "options": [
+      "May",
+      "Do",
+      "Can",
+      "Does"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "The employee _______ listen to instructions next week.",
-    "options": ["has to", "should", "must", "might"],
+    "question": "The new intern _______ book a follow-up appointment next week.",
+    "options": [
+      "has to",
+      "should",
+      "must",
+      "might"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "The employee _______ renew the license before Friday.",
-    "options": ["has to", "should", "have to", "can"],
+    "question": "The student _______ lock the storeroom before leaving.",
+    "options": [
+      "has to",
+      "should",
+      "have to",
+      "can"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Employees _______ smoke in this area before Friday.",
-    "options": ["can't", "won't", "mustn't", "shouldn't"],
+    "question": "Employees _______ use their phones while driving.",
+    "options": [
+      "can't",
+      "won't",
+      "mustn't",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ travelers check the equipment next week?",
-    "options": ["Must", "Should", "May", "Might"],
+    "question": "___ he wear gloves while handling those chemicals?",
+    "options": [
+      "Must",
+      "Should",
+      "May",
+      "Might"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "The team _______ provide identification by tomorrow.",
-    "options": ["can", "must", "should", "have to"],
+    "question": "Contractors _______ keep the emergency exit clear at all times.",
+    "options": [
+      "can",
+      "must",
+      "should",
+      "have to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Employees _______ bring liquids on the plane daily.",
-    "options": ["can't", "mustn't", "don't have to", "shouldn't"],
+    "question": "Contractors _______ borrow tools without asking first.",
+    "options": [
+      "can't",
+      "mustn't",
+      "don't have to",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Passengers _______ speak loudly in the library at all times.",
-    "options": ["shouldn't", "mustn't", "doesn't have to", "couldn't"],
+    "question": "The manager _______ post private information in the group chat.",
+    "options": [
+      "shouldn't",
+      "mustn't",
+      "doesn't have to",
+      "couldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ they renew the license during the shift?",
-    "options": ["May", "Does", "Do", "Will"],
+    "question": "___ employees have to wear ID badges in this building?",
+    "options": [
+      "May",
+      "Does",
+      "Do",
+      "Will"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "Employees _______ wear a helmet at all times.",
-    "options": ["ought to", "must", "have to", "should"],
+    "question": "Employees _______ attend the orientation session on Monday morning.",
+    "options": [
+      "ought to",
+      "must",
+      "have to",
+      "should"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ the employee respect the local laws every morning?",
-    "options": ["Should", "Does", "Might", "Do"],
+    "question": "___ the contractor have to register at reception?",
+    "options": [
+      "Should",
+      "Does",
+      "Might",
+      "Do"
+    ],
     "correctAnswer": "Does"
   },
   {
-    "question": "_______ an employee wash hands daily?",
-    "options": ["Do", "May", "Might", "Should"],
+    "question": "___ we ask permission before using the projector?",
+    "options": [
+      "Do",
+      "May",
+      "Might",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "The team _______ wear a uniform when the siren sounds.",
-    "options": ["have to", "ought to", "might", "can"],
+    "question": "Contractors _______ show their ID badges at the front desk.",
+    "options": [
+      "have to",
+      "ought to",
+      "might",
+      "can"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "The manager _______ smoke in this area when the siren sounds.",
-    "options": ["shouldn't", "needn't", "mustn't", "can't"],
+    "question": "Employees _______ take photos inside the museum archive.",
+    "options": [
+      "shouldn't",
+      "needn't",
+      "mustn't",
+      "can't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ employees attend the meeting every morning?",
-    "options": ["Does", "Do", "Can", "Will"],
+    "question": "___ contractors have to bring their own tools?",
+    "options": [
+      "Does",
+      "Do",
+      "Can",
+      "Will"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "Contractors _______ pay the taxes by tomorrow.",
-    "options": ["ought to", "must", "have to", "can"],
+    "question": "Employees _______ wash their hands before entering the kitchen.",
+    "options": [
+      "ought to",
+      "must",
+      "have to",
+      "can"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Students _______ update their software every morning.",
-    "options": ["should", "ought to", "might", "have to"],
+    "question": "Employees _______ take the equipment back before the store closes.",
+    "options": [
+      "should",
+      "ought to",
+      "might",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Employees _______ waste company resources daily.",
-    "options": ["couldn't", "can't", "don't have to", "shouldn't"],
+    "question": "Contractors _______ leave the gate open after dark.",
+    "options": [
+      "couldn't",
+      "can't",
+      "don't have to",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ pilots follow the safety guidelines during the shift?",
-    "options": ["Might", "Must", "Will", "Does"],
+    "question": "___ visitors wear hard hats in this area?",
+    "options": [
+      "Might",
+      "Must",
+      "Will",
+      "Does"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "_______ he wear a helmet regularly?",
-    "options": ["Does", "Must", "Can", "Might"],
+    "question": "___ contractors report to reception on arrival?",
+    "options": [
+      "Does",
+      "Must",
+      "Can",
+      "Might"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "_______ staff members submit the report when the siren sounds?",
-    "options": ["Does", "Must", "Will", "Might"],
+    "question": "___ passengers show their tickets at the gate?",
+    "options": [
+      "Does",
+      "Must",
+      "Will",
+      "Might"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "The manager _______ wash hands regularly during the shift.",
-    "options": ["might", "ought to", "may", "must"],
+    "question": "Contractors _______ submit the final form before 5 p.m.",
+    "options": [
+      "might",
+      "ought to",
+      "may",
+      "must"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Employees _______ feed the animals daily.",
-    "options": ["can't", "needn't", "doesn't have to", "shouldn't"],
+    "question": "My brother _______ skip the warm-up before training.",
+    "options": [
+      "can't",
+      "needn't",
+      "doesn't have to",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ employees verify the results when the siren sounds?",
-    "options": ["Will", "May", "Must", "Do"],
+    "question": "___ residents have to sort their recycling here?",
+    "options": [
+      "Will",
+      "May",
+      "Must",
+      "Do"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "_______ an employee submit the report regularly?",
-    "options": ["Does", "Can", "Do", "Must"],
+    "question": "___ the student have to retake the placement test?",
+    "options": [
+      "Does",
+      "Can",
+      "Do",
+      "Must"
+    ],
     "correctAnswer": "Does"
   },
   {
-    "question": "The employee _______ provide identification every morning.",
-    "options": ["has to", "must", "may", "might"],
+    "question": "The new intern _______ return the library books by the due date.",
+    "options": [
+      "has to",
+      "must",
+      "may",
+      "might"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Travelers _______ copy others' work after the procedure.",
-    "options": ["couldn't", "doesn't have to", "shouldn't", "don't have to"],
+    "question": "Contractors _______ argue with customers at the front desk.",
+    "options": [
+      "couldn't",
+      "doesn't have to",
+      "shouldn't",
+      "don't have to"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ the employee pay the taxes by tomorrow?",
-    "options": ["May", "Might", "Should", "Can"],
+    "question": "___ she lock the cabinet after using it?",
+    "options": [
+      "May",
+      "Might",
+      "Should",
+      "Can"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "_______ security guards stay focused after the procedure?",
-    "options": ["Should", "Can", "Will", "Does"],
+    "question": "___ we wait for the green signal before crossing?",
+    "options": [
+      "Should",
+      "Can",
+      "Will",
+      "Does"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "All visitors _______ provide identification immediately.",
-    "options": ["ought to", "can", "may", "have to"],
+    "question": "Contractors _______ clock in before starting their shift.",
+    "options": [
+      "ought to",
+      "can",
+      "may",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "The manager _______ update their software immediately.",
-    "options": ["must", "can", "should", "have to"],
+    "question": "Contractors _______ wear safety goggles in the chemistry lab.",
+    "options": [
+      "must",
+      "can",
+      "should",
+      "have to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "An employee _______ waste company resources immediately.",
-    "options": ["shouldn't", "don't have to", "won't", "mustn't"],
+    "question": "Contractors _______ park in front of the emergency exit.",
+    "options": [
+      "shouldn't",
+      "don't have to",
+      "won't",
+      "mustn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ citizens provide identification next week?",
-    "options": ["Might", "Do", "Can", "Must"],
+    "question": "___ students hand in their phones before the exam?",
+    "options": [
+      "Might",
+      "Do",
+      "Can",
+      "Must"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Security guards _______ speak loudly in the library when the siren sounds.",
-    "options": ["shouldn't", "mustn't", "won't", "doesn't have to"],
+    "question": "The tenant _______ use that ladder if the lock is broken.",
+    "options": [
+      "shouldn't",
+      "mustn't",
+      "won't",
+      "doesn't have to"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Citizens _______ enter restricted zones regularly.",
-    "options": ["don't have to", "shouldn't", "mustn't", "couldn't"],
+    "question": "Contractors _______ store chemicals next to food.",
+    "options": [
+      "don't have to",
+      "shouldn't",
+      "mustn't",
+      "couldn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ employees respect the local laws daily?",
-    "options": ["Must", "Should", "May", "Might"],
+    "question": "___ dog owners keep their pets on a leash here?",
+    "options": [
+      "Must",
+      "Should",
+      "May",
+      "Might"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Security guards _______ speak loudly in the library during the shift.",
-    "options": ["mustn't", "shouldn't", "don't have to", "can't"],
+    "question": "Employees _______ enter the restricted zone without a pass.",
+    "options": [
+      "mustn't",
+      "shouldn't",
+      "don't have to",
+      "can't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Students _______ bring liquids on the plane regularly.",
-    "options": ["needn't", "doesn't have to", "don't have to", "shouldn't"],
+    "question": "Employees _______ interrupt the client during the presentation.",
+    "options": [
+      "needn't",
+      "doesn't have to",
+      "don't have to",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Employees _______ wear a helmet at all times.",
-    "options": ["must", "has to", "may", "have to"],
+    "question": "Employees _______ show a valid ticket before boarding the bus.",
+    "options": [
+      "must",
+      "has to",
+      "may",
+      "have to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Employees _______ respect the local laws before Friday.",
-    "options": ["ought to", "can", "has to", "must"],
+    "question": "Each visitor _______ turn off the gas after cooking.",
+    "options": [
+      "ought to",
+      "can",
+      "has to",
+      "must"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Security guards _______ wear a uniform after the procedure.",
-    "options": ["should", "can", "have to", "may"],
+    "question": "Employees _______ complete the checklist before leaving the warehouse.",
+    "options": [
+      "should",
+      "can",
+      "have to",
+      "may"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Students _______ use mobile phones during the exam.",
-    "options": ["can't", "shouldn't", "won't", "mustn't"],
+    "question": "Contractors _______ wear muddy shoes inside the studio.",
+    "options": [
+      "can't",
+      "shouldn't",
+      "won't",
+      "mustn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ security guards check the equipment daily?",
-    "options": ["Should", "Does", "May", "Must"],
+    "question": "___ they check in with security before unloading the van?",
+    "options": [
+      "Should",
+      "Does",
+      "May",
+      "Must"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "_______ employees provide identification daily?",
-    "options": ["Do", "Does", "Should", "Can"],
+    "question": "___ visitors have to sign in at reception?",
+    "options": [
+      "Do",
+      "Does",
+      "Should",
+      "Can"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "They _______ leave the door unlocked when the siren sounds.",
-    "options": ["shouldn't", "don't have to", "doesn't have to", "needn't"],
+    "question": "Employees _______ leave dirty dishes in the office kitchen.",
+    "options": [
+      "shouldn't",
+      "don't have to",
+      "doesn't have to",
+      "needn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Teachers _______ bring liquids on the plane before Friday.",
-    "options": ["shouldn't", "mustn't", "can't", "doesn't have to"],
+    "question": "The technician _______ bring glass bottles into the gym.",
+    "options": [
+      "shouldn't",
+      "mustn't",
+      "can't",
+      "doesn't have to"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Staff members _______ disturb the neighbors during the shift.",
-    "options": ["couldn't", "needn't", "mustn't", "shouldn't"],
+    "question": "Contractors _______ wait until the last minute to print the report.",
+    "options": [
+      "couldn't",
+      "needn't",
+      "mustn't",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Employees _______ forget the password when the siren sounds.",
-    "options": ["won't", "mustn't", "don't have to", "doesn't have to"],
+    "question": "Employees _______ leave children unattended near the pool.",
+    "options": [
+      "won't",
+      "mustn't",
+      "don't have to",
+      "doesn't have to"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "All companies _______ pay the taxes when the siren sounds.",
-    "options": ["should", "may", "must", "has to"],
+    "question": "The nurse _______ report any injury to the supervisor immediately.",
+    "options": [
+      "should",
+      "may",
+      "must",
+      "has to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ she wear a uniform next week?",
-    "options": ["Should", "Can", "May", "Do"],
+    "question": "___ we remind the guests about the parking rules?",
+    "options": [
+      "Should",
+      "Can",
+      "May",
+      "Do"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "Employees _______ feed the animals immediately.",
-    "options": ["shouldn't", "don't have to", "can't", "doesn't have to"],
+    "question": "Employees _______ ignore a warning from the lifeguard.",
+    "options": [
+      "shouldn't",
+      "don't have to",
+      "can't",
+      "doesn't have to"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Companies _______ pay the taxes during the shift.",
-    "options": ["has to", "must", "have to", "can"],
+    "question": "Contractors _______ bring photo identification to the exam.",
+    "options": [
+      "has to",
+      "must",
+      "have to",
+      "can"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Employees _______ verify the results every morning.",
-    "options": ["might", "can", "must", "has to"],
+    "question": "The manager _______ lock the archive room every evening.",
+    "options": [
+      "might",
+      "can",
+      "must",
+      "has to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "The employee _______ submit the report daily.",
-    "options": ["might", "can", "may", "has to"],
+    "question": "The tenant _______ check the oven before closing the cafe.",
+    "options": [
+      "might",
+      "can",
+      "may",
+      "has to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Students _______ park here without a permit every morning.",
-    "options": ["can't", "doesn't have to", "mustn't", "needn't"],
+    "question": "The driver _______ leave the oven on overnight.",
+    "options": [
+      "can't",
+      "doesn't have to",
+      "mustn't",
+      "needn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ citizens renew the license after the procedure?",
-    "options": ["Should", "Must", "Will", "Might"],
+    "question": "___ volunteers attend the training session?",
+    "options": [
+      "Should",
+      "Must",
+      "Will",
+      "Might"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "The manager _______ enter restricted zones after the procedure.",
-    "options": ["doesn't have to", "won't", "needn't", "mustn't"],
+    "question": "My brother _______ touch the electrical panel with wet hands.",
+    "options": [
+      "doesn't have to",
+      "won't",
+      "needn't",
+      "mustn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "The manager _______ verify the results after the procedure.",
-    "options": ["has to", "may", "ought to", "might"],
+    "question": "Each visitor _______ renew the parking permit this week.",
+    "options": [
+      "has to",
+      "may",
+      "ought to",
+      "might"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Security guards _______ disturb the neighbors after the procedure.",
-    "options": ["can't", "mustn't", "don't have to", "shouldn't"],
+    "question": "Contractors _______ forget to label those sample jars.",
+    "options": [
+      "can't",
+      "mustn't",
+      "don't have to",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "The manager _______ disturb the neighbors by tomorrow.",
-    "options": ["shouldn't", "can't", "doesn't have to", "don't have to"],
+    "question": "Employees _______ speak loudly during the lecture.",
+    "options": [
+      "shouldn't",
+      "can't",
+      "doesn't have to",
+      "don't have to"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ travelers update their software at all times?",
-    "options": ["May", "Might", "Does", "Must"],
+    "question": "___ cyclists use the bike lane on this street?",
+    "options": [
+      "May",
+      "Might",
+      "Does",
+      "Must"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Employees _______ disclose confidential data during the shift.",
-    "options": ["won't", "shouldn't", "needn't", "couldn't"],
+    "question": "Contractors _______ arrive late for the interview.",
+    "options": [
+      "won't",
+      "shouldn't",
+      "needn't",
+      "couldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ drivers renew the license by tomorrow?",
-    "options": ["Do", "Should", "Must", "Might"],
+    "question": "___ delivery drivers use the rear entrance?",
+    "options": [
+      "Do",
+      "Should",
+      "Must",
+      "Might"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "_______ employees complete the training when the siren sounds?",
-    "options": ["Do", "Should", "Must", "Might"],
+    "question": "___ patients fast before the blood test?",
+    "options": [
+      "Do",
+      "Should",
+      "Must",
+      "Might"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Drivers _______ disturb the neighbors before Friday.",
-    "options": ["couldn't", "don't have to", "shouldn't", "mustn't"],
+    "question": "Contractors _______ run in the hospital corridor.",
+    "options": [
+      "couldn't",
+      "don't have to",
+      "shouldn't",
+      "mustn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "The manager _______ wash hands immediately.",
-    "options": ["must", "ought to", "can", "has to"],
+    "question": "The driver _______ wear a helmet on this construction site.",
+    "options": [
+      "must",
+      "ought to",
+      "can",
+      "has to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "They _______ follow the safety guidelines after the procedure.",
-    "options": ["can", "has to", "must", "have to"],
+    "question": "Contractors _______ wash the uniforms after every shift.",
+    "options": [
+      "can",
+      "has to",
+      "must",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "She _______ follow the safety guidelines immediately.",
-    "options": ["might", "ought to", "have to", "has to"],
+    "question": "The nurse _______ replace the filter this month.",
+    "options": [
+      "might",
+      "ought to",
+      "have to",
+      "has to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Employees _______ submit the report by tomorrow.",
-    "options": ["ought to", "has to", "must", "should"],
+    "question": "My brother _______ check the patient notes before giving any medicine.",
+    "options": [
+      "ought to",
+      "has to",
+      "must",
+      "should"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Travelers _______ carry a passport by tomorrow.",
-    "options": ["must", "have to", "ought to", "can"],
+    "question": "Contractors _______ sign the attendance sheet before the workshop starts.",
+    "options": [
+      "must",
+      "have to",
+      "ought to",
+      "can"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "The employee _______ use mobile phones during the exam regularly.",
-    "options": ["couldn't", "can't", "mustn't", "doesn't have to"],
+    "question": "The new intern _______ smoke anywhere inside this building.",
+    "options": [
+      "couldn't",
+      "can't",
+      "mustn't",
+      "doesn't have to"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ an employee check the equipment during the shift?",
-    "options": ["Must", "May", "Do", "Should"],
+    "question": "___ I call the nurse if the pain gets worse?",
+    "options": [
+      "Must",
+      "May",
+      "Do",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "_______ he sign the contract during the shift?",
-    "options": ["Might", "Will", "Do", "Does"],
+    "question": "___ the new intern have to attend the safety course?",
+    "options": [
+      "Might",
+      "Will",
+      "Do",
+      "Does"
+    ],
     "correctAnswer": "Does"
   },
   {
-    "question": "Contractors _______ waste company resources next week.",
-    "options": ["shouldn't", "needn't", "doesn't have to", "don't have to"],
+    "question": "Employees _______ drop litter in the park.",
+    "options": [
+      "shouldn't",
+      "needn't",
+      "doesn't have to",
+      "don't have to"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "You _______ miss the deadline during the shift.",
-    "options": ["couldn't", "shouldn't", "won't", "mustn't"],
+    "question": "Contractors _______ use their phones while driving.",
+    "options": [
+      "couldn't",
+      "shouldn't",
+      "won't",
+      "mustn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "An employee _______ touch the exhibits at all times.",
-    "options": ["couldn't", "doesn't have to", "mustn't", "don't have to"],
+    "question": "Contractors _______ pour oil down the sink.",
+    "options": [
+      "couldn't",
+      "doesn't have to",
+      "mustn't",
+      "don't have to"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ drivers wash hands regularly next week?",
-    "options": ["Must", "Will", "Does", "Can"],
+    "question": "___ staff sign out before leaving the building?",
+    "options": [
+      "Must",
+      "Will",
+      "Does",
+      "Can"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "_______ drivers attend the meeting before Friday?",
-    "options": ["Will", "Might", "Do", "Should"],
+    "question": "___ nurses have to record every dosage change?",
+    "options": [
+      "Will",
+      "Might",
+      "Do",
+      "Should"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "All visitors _______ sign the contract after the procedure.",
-    "options": ["must", "ought to", "should", "have to"],
+    "question": "Employees _______ switch off their phones before the performance.",
+    "options": [
+      "must",
+      "ought to",
+      "should",
+      "have to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ employees carry a passport immediately?",
-    "options": ["Does", "Must", "Might", "Can"],
+    "question": "___ visitors wear hard hats in this area?",
+    "options": [
+      "Does",
+      "Must",
+      "Might",
+      "Can"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "An employee _______ follow the safety guidelines immediately.",
-    "options": ["might", "may", "must", "ought to"],
+    "question": "Contractors _______ keep both hands on the wheel while driving.",
+    "options": [
+      "might",
+      "may",
+      "must",
+      "ought to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ we follow the safety guidelines at all times?",
-    "options": ["Will", "Do", "Might", "Should"],
+    "question": "___ she tell the supervisor about the missing files?",
+    "options": [
+      "Will",
+      "Do",
+      "Might",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "Employees _______ copy others' work daily.",
-    "options": ["doesn't have to", "needn't", "shouldn't", "won't"],
+    "question": "The new intern _______ borrow tools without asking first.",
+    "options": [
+      "doesn't have to",
+      "needn't",
+      "shouldn't",
+      "won't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ we attend the meeting after the procedure?",
-    "options": ["May", "Must", "Do", "Should"],
+    "question": "___ contractors report to reception on arrival?",
+    "options": [
+      "May",
+      "Must",
+      "Do",
+      "Should"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "_______ citizens pay the taxes during the shift?",
-    "options": ["May", "Will", "Do", "Must"],
+    "question": "___ passengers show their tickets at the gate?",
+    "options": [
+      "May",
+      "Will",
+      "Do",
+      "Must"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Contractors _______ verify the results every morning.",
-    "options": ["must", "have to", "should", "may"],
+    "question": "Employees _______ keep the emergency exit clear at all times.",
+    "options": [
+      "must",
+      "have to",
+      "should",
+      "may"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Security guards _______ update their software by tomorrow.",
-    "options": ["should", "may", "must", "have to"],
+    "question": "Employees _______ pay the fee online before registration closes.",
+    "options": [
+      "should",
+      "may",
+      "must",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "He _______ provide identification daily.",
-    "options": ["may", "ought to", "should", "has to"],
+    "question": "The technician _______ wear a badge during the conference.",
+    "options": [
+      "may",
+      "ought to",
+      "should",
+      "has to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "_______ employees wear a uniform every morning?",
-    "options": ["Will", "Should", "Must", "Can"],
+    "question": "___ students hand in their phones before the exam?",
+    "options": [
+      "Will",
+      "Should",
+      "Must",
+      "Can"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "The employee _______ pay the taxes before Friday.",
-    "options": ["may", "has to", "must", "should"],
+    "question": "Each visitor _______ wash their hands before entering the kitchen.",
+    "options": [
+      "may",
+      "has to",
+      "must",
+      "should"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "An employee _______ arrive on time every morning.",
-    "options": ["might", "has to", "should", "must"],
+    "question": "The manager _______ sign the contract before starting work.",
+    "options": [
+      "might",
+      "has to",
+      "should",
+      "must"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Citizens _______ renew the license when the siren sounds.",
-    "options": ["should", "have to", "may", "must"],
+    "question": "Contractors _______ update the logbook after each visit.",
+    "options": [
+      "should",
+      "have to",
+      "may",
+      "must"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "They _______ ignore the warnings daily.",
-    "options": ["shouldn't", "mustn't", "couldn't", "don't have to"],
+    "question": "Employees _______ feed the animals without permission.",
+    "options": [
+      "shouldn't",
+      "mustn't",
+      "couldn't",
+      "don't have to"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "The team _______ arrive late during the shift.",
-    "options": ["couldn't", "don't have to", "mustn't", "shouldn't"],
+    "question": "Contractors _______ post private information in the group chat.",
+    "options": [
+      "couldn't",
+      "don't have to",
+      "mustn't",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Security guards _______ keep the environment clean immediately.",
-    "options": ["ought to", "might", "have to", "should"],
+    "question": "Employees _______ finish the training course this week.",
+    "options": [
+      "ought to",
+      "might",
+      "have to",
+      "should"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Students _______ touch the exhibits during the shift.",
-    "options": ["couldn't", "shouldn't", "don't have to", "won't"],
+    "question": "Employees _______ leave the gate open after dark.",
+    "options": [
+      "couldn't",
+      "shouldn't",
+      "don't have to",
+      "won't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Employees _______ enter restricted zones after the procedure.",
-    "options": ["shouldn't", "mustn't", "doesn't have to", "won't"],
+    "question": "Each visitor _______ skip the warm-up before training.",
+    "options": [
+      "shouldn't",
+      "mustn't",
+      "doesn't have to",
+      "won't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Employees _______ listen to instructions immediately.",
-    "options": ["has to", "have to", "must", "can"],
+    "question": "Contractors _______ park in the designated area.",
+    "options": [
+      "has to",
+      "have to",
+      "must",
+      "can"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "The employee _______ attend the meeting before Friday.",
-    "options": ["must", "might", "should", "has to"],
+    "question": "The driver _______ finish the budget report by noon.",
+    "options": [
+      "must",
+      "might",
+      "should",
+      "has to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "_______ travelers sign the contract next week?",
-    "options": ["Does", "Might", "Can", "Do"],
+    "question": "___ volunteers have to attend the briefing?",
+    "options": [
+      "Does",
+      "Might",
+      "Can",
+      "Do"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "An employee _______ renew the license next week.",
-    "options": ["may", "ought to", "has to", "can"],
+    "question": "My brother _______ return the borrowed tools today.",
+    "options": [
+      "may",
+      "ought to",
+      "has to",
+      "can"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Pilots _______ verify the results when the siren sounds.",
-    "options": ["can", "has to", "have to", "must"],
+    "question": "Employees _______ renew their permits before the end of the month.",
+    "options": [
+      "can",
+      "has to",
+      "have to",
+      "must"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Students _______ disturb the neighbors immediately.",
-    "options": ["needn't", "mustn't", "shouldn't", "can't"],
+    "question": "Employees _______ argue with customers at the front desk.",
+    "options": [
+      "needn't",
+      "mustn't",
+      "shouldn't",
+      "can't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Citizens _______ feed the animals during the shift.",
-    "options": ["mustn't", "shouldn't", "don't have to", "won't"],
+    "question": "Contractors _______ interrupt the client during the presentation.",
+    "options": [
+      "mustn't",
+      "shouldn't",
+      "don't have to",
+      "won't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ she wear a uniform when the siren sounds?",
-    "options": ["Should", "Does", "Must", "Will"],
+    "question": "___ the manager have to approve every expense claim?",
+    "options": [
+      "Should",
+      "Does",
+      "Must",
+      "Will"
+    ],
     "correctAnswer": "Does"
   },
   {
-    "question": "All visitors _______ skip the warm-up every morning.",
-    "options": ["can't", "shouldn't", "needn't", "mustn't"],
+    "question": "Contractors _______ block the fire door with boxes.",
+    "options": [
+      "can't",
+      "shouldn't",
+      "needn't",
+      "mustn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "We _______ complete the training daily.",
-    "options": ["can", "must", "ought to", "should"],
+    "question": "Employees _______ submit the final form before 5 p.m.",
+    "options": [
+      "can",
+      "must",
+      "ought to",
+      "should"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "The employee _______ keep the environment clean regularly.",
-    "options": ["has to", "should", "might", "may"],
+    "question": "The cleaner _______ show identification before entering the archive room.",
+    "options": [
+      "has to",
+      "should",
+      "might",
+      "may"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Employees _______ disclose confidential data next week.",
-    "options": ["needn't", "don't have to", "shouldn't", "can't"],
+    "question": "Employees _______ wear muddy shoes inside the studio.",
+    "options": [
+      "needn't",
+      "don't have to",
+      "shouldn't",
+      "can't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "The employee _______ wash hands regularly before Friday.",
-    "options": ["can", "must", "has to", "ought to"],
+    "question": "The new intern _______ complete the online form before traveling.",
+    "options": [
+      "can",
+      "must",
+      "has to",
+      "ought to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "_______ the team provide identification by tomorrow?",
-    "options": ["Should", "May", "Will", "Does"],
+    "question": "___ I report this damaged cable right away?",
+    "options": [
+      "Should",
+      "May",
+      "Will",
+      "Does"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "_______ employees sign the contract daily?",
-    "options": ["Will", "Must", "Might", "Should"],
+    "question": "___ they leave a note for the next shift?",
+    "options": [
+      "Will",
+      "Must",
+      "Might",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "Employees _______ touch the exhibits at all times.",
-    "options": ["mustn't", "shouldn't", "won't", "needn't"],
+    "question": "Employees _______ share confidential passwords with anyone.",
+    "options": [
+      "mustn't",
+      "shouldn't",
+      "won't",
+      "needn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "The employee _______ bring liquids on the plane regularly.",
-    "options": ["shouldn't", "doesn't have to", "mustn't", "needn't"],
+    "question": "The driver _______ leave dirty dishes in the office kitchen.",
+    "options": [
+      "shouldn't",
+      "doesn't have to",
+      "mustn't",
+      "needn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Security guards _______ bring liquids on the plane immediately.",
-    "options": ["shouldn't", "couldn't", "can't", "won't"],
+    "question": "Employees _______ wait until the last minute to print the report.",
+    "options": [
+      "shouldn't",
+      "couldn't",
+      "can't",
+      "won't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "She _______ pay the taxes daily.",
-    "options": ["can", "has to", "must", "might"],
+    "question": "The student _______ attend the safety briefing on Monday morning.",
+    "options": [
+      "can",
+      "has to",
+      "must",
+      "might"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "_______ the manager verify the results regularly?",
-    "options": ["Does", "Can", "Might", "Should"],
+    "question": "___ the cleaner have to lock this office every night?",
+    "options": [
+      "Does",
+      "Can",
+      "Might",
+      "Should"
+    ],
     "correctAnswer": "Does"
   },
   {
-    "question": "Citizens _______ pay the taxes daily.",
-    "options": ["must", "has to", "may", "should"],
+    "question": "The technician _______ return the library books by the due date.",
+    "options": [
+      "must",
+      "has to",
+      "may",
+      "should"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ drivers check the equipment before Friday?",
-    "options": ["Must", "Can", "Does", "Will"],
+    "question": "___ dog owners keep their pets on a leash here?",
+    "options": [
+      "Must",
+      "Can",
+      "Does",
+      "Will"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Employees _______ copy others' work before Friday.",
-    "options": ["mustn't", "don't have to", "doesn't have to", "needn't"],
+    "question": "Contractors _______ take photos inside the museum archive.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "doesn't have to",
+      "needn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "_______ staff members complete the training daily?",
-    "options": ["May", "Does", "Will", "Should"],
+    "question": "___ he wear gloves while handling those chemicals?",
+    "options": [
+      "May",
+      "Does",
+      "Will",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "Employees _______ submit the report when the siren sounds.",
-    "options": ["might", "must", "ought to", "have to"],
+    "question": "Employees _______ wear safety goggles in the chemistry lab.",
+    "options": [
+      "might",
+      "must",
+      "ought to",
+      "have to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ security guards provide identification before Friday?",
-    "options": ["Should", "Can", "Do", "Does"],
+    "question": "___ we ask permission before using the projector?",
+    "options": [
+      "Should",
+      "Can",
+      "Do",
+      "Does"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "The manager _______ provide identification by tomorrow.",
-    "options": ["may", "has to", "might", "ought to"],
+    "question": "The tenant _______ take the medication with food.",
+    "options": [
+      "may",
+      "has to",
+      "might",
+      "ought to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Employees _______ attend the meeting daily.",
-    "options": ["should", "must", "may", "ought to"],
+    "question": "Contractors _______ show a valid ticket before boarding the bus.",
+    "options": [
+      "should",
+      "must",
+      "may",
+      "ought to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Employees _______ renew the license every morning.",
-    "options": ["must", "should", "may", "have to"],
+    "question": "Contractors _______ carry their access cards at all times.",
+    "options": [
+      "must",
+      "should",
+      "may",
+      "have to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Students _______ use mobile phones during the exam every morning.",
-    "options": ["shouldn't", "doesn't have to", "couldn't", "can't"],
+    "question": "The cleaner _______ ignore a warning from the lifeguard.",
+    "options": [
+      "shouldn't",
+      "doesn't have to",
+      "couldn't",
+      "can't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ security guards wash hands regularly?",
-    "options": ["Should", "Do", "Will", "May"],
+    "question": "___ students have to submit the form online?",
+    "options": [
+      "Should",
+      "Do",
+      "Will",
+      "May"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "An employee _______ stay focused by tomorrow.",
-    "options": ["should", "has to", "must", "can"],
+    "question": "My brother _______ turn off the gas after cooking.",
+    "options": [
+      "should",
+      "has to",
+      "must",
+      "can"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "Security guards _______ sign the contract when the siren sounds.",
-    "options": ["have to", "can", "must", "may"],
+    "question": "Employees _______ wear non-slip shoes in the kitchen.",
+    "options": [
+      "have to",
+      "can",
+      "must",
+      "may"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "_______ drivers verify the results immediately?",
-    "options": ["Do", "Must", "Might", "Should"],
+    "question": "___ volunteers attend the training session?",
+    "options": [
+      "Do",
+      "Must",
+      "Might",
+      "Should"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Travelers _______ skip the warm-up at all times.",
-    "options": ["doesn't have to", "needn't", "won't", "shouldn't"],
+    "question": "The new intern _______ forget to label those sample jars.",
+    "options": [
+      "doesn't have to",
+      "needn't",
+      "won't",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Employees _______ feed the animals regularly.",
-    "options": ["shouldn't", "needn't", "can't", "mustn't"],
+    "question": "Employees _______ park in front of the emergency exit.",
+    "options": [
+      "shouldn't",
+      "needn't",
+      "can't",
+      "mustn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Security guards _______ follow the safety guidelines daily.",
-    "options": ["have to", "can", "must", "ought to"],
+    "question": "Contractors _______ report any injury to the supervisor immediately.",
+    "options": [
+      "have to",
+      "can",
+      "must",
+      "ought to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "He _______ sign the contract at all times.",
-    "options": ["might", "should", "has to", "may"],
+    "question": "Each visitor _______ pay the invoice by Friday.",
+    "options": [
+      "might",
+      "should",
+      "has to",
+      "may"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "_______ citizens wear a helmet at all times?",
-    "options": ["Might", "Can", "Must", "Do"],
+    "question": "___ tourists have to book tickets in advance?",
+    "options": [
+      "Might",
+      "Can",
+      "Must",
+      "Do"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "The manager _______ waste company resources when the siren sounds.",
-    "options": ["doesn't have to", "shouldn't", "couldn't", "don't have to"],
+    "question": "Contractors _______ speak loudly during the lecture.",
+    "options": [
+      "doesn't have to",
+      "shouldn't",
+      "couldn't",
+      "don't have to"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ all visitors check the equipment during the shift?",
-    "options": ["May", "Do", "Must", "Should"],
+    "question": "___ she lock the cabinet after using it?",
+    "options": [
+      "May",
+      "Do",
+      "Must",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "The manager _______ check the equipment immediately.",
-    "options": ["has to", "should", "ought to", "might"],
+    "question": "The nurse _______ call the landlord about the broken heater.",
+    "options": [
+      "has to",
+      "should",
+      "ought to",
+      "might"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "_______ employees check the equipment during the shift?",
-    "options": ["Can", "May", "Will", "Must"],
+    "question": "___ cyclists use the bike lane on this street?",
+    "options": [
+      "Can",
+      "May",
+      "Will",
+      "Must"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "Employees _______ arrive on time immediately.",
-    "options": ["ought to", "should", "must", "may"],
+    "question": "Employees _______ bring photo identification to the exam.",
+    "options": [
+      "ought to",
+      "should",
+      "must",
+      "may"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ all visitors submit the report next week?",
-    "options": ["Must", "Might", "Can", "May"],
+    "question": "___ delivery drivers use the rear entrance?",
+    "options": [
+      "Must",
+      "Might",
+      "Can",
+      "May"
+    ],
     "correctAnswer": "Must"
   },
   {
-    "question": "_______ security guards keep the environment clean after the procedure?",
-    "options": ["Do", "Might", "Can", "Should"],
+    "question": "___ we wait for the green signal before crossing?",
+    "options": [
+      "Do",
+      "Might",
+      "Can",
+      "Should"
+    ],
     "correctAnswer": "Should"
   },
   {
-    "question": "_______ we submit the report during the shift?",
-    "options": ["Should", "May", "Do", "Will"],
+    "question": "___ parents have to wait outside the classroom?",
+    "options": [
+      "Should",
+      "May",
+      "Do",
+      "Will"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "The employee _______ sign the contract every morning.",
-    "options": ["has to", "might", "ought to", "have to"],
+    "question": "The technician _______ book a follow-up appointment next week.",
+    "options": [
+      "has to",
+      "might",
+      "ought to",
+      "have to"
+    ],
     "correctAnswer": "has to"
   },
   {
-    "question": "Contractors _______ sign the contract every morning.",
-    "options": ["must", "has to", "may", "have to"],
+    "question": "Contractors _______ lock the archive room every evening.",
+    "options": [
+      "must",
+      "has to",
+      "may",
+      "have to"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "_______ the team update their software before Friday?",
-    "options": ["Does", "Will", "May", "Do"],
+    "question": "___ drivers have to stop at this checkpoint?",
+    "options": [
+      "Does",
+      "Will",
+      "May",
+      "Do"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "He _______ arrive late immediately.",
-    "options": ["don't have to", "mustn't", "couldn't", "can't"],
+    "question": "Contractors _______ use that ladder if the lock is broken.",
+    "options": [
+      "don't have to",
+      "mustn't",
+      "couldn't",
+      "can't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Companies _______ pay the taxes at all times.",
-    "options": ["ought to", "may", "have to", "must"],
+    "question": "Contractors _______ keep the aisles free of boxes.",
+    "options": [
+      "ought to",
+      "may",
+      "have to",
+      "must"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Passengers _______ disturb the neighbors daily.",
-    "options": ["don't have to", "mustn't", "won't", "needn't"],
+    "question": "Employees _______ store chemicals next to food.",
+    "options": [
+      "don't have to",
+      "mustn't",
+      "won't",
+      "needn't"
+    ],
     "correctAnswer": "mustn't"
   },
   {
-    "question": "Travelers _______ feed the animals regularly.",
-    "options": ["shouldn't", "mustn't", "couldn't", "don't have to"],
+    "question": "Employees _______ arrive late for the interview.",
+    "options": [
+      "shouldn't",
+      "mustn't",
+      "couldn't",
+      "don't have to"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Employees _______ disclose confidential data by tomorrow.",
-    "options": ["needn't", "can't", "doesn't have to", "shouldn't"],
+    "question": "Each visitor _______ drop litter in the park.",
+    "options": [
+      "needn't",
+      "can't",
+      "doesn't have to",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "Drivers _______ renew the license immediately.",
-    "options": ["must", "has to", "have to", "ought to"],
+    "question": "Employees _______ follow the safety briefing before entering the site.",
+    "options": [
+      "must",
+      "has to",
+      "have to",
+      "ought to"
+    ],
     "correctAnswer": "have to"
   },
   {
-    "question": "Citizens _______ disturb the neighbors at all times.",
-    "options": ["won't", "needn't", "shouldn't", "don't have to"],
+    "question": "Employees _______ use their phones while driving.",
+    "options": [
+      "won't",
+      "needn't",
+      "shouldn't",
+      "don't have to"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "The manager _______ waste company resources daily.",
-    "options": ["needn't", "don't have to", "couldn't", "shouldn't"],
+    "question": "Contractors _______ borrow tools without asking first.",
+    "options": [
+      "needn't",
+      "don't have to",
+      "couldn't",
+      "shouldn't"
+    ],
     "correctAnswer": "shouldn't"
   },
   {
-    "question": "_______ employees check the equipment during the shift?",
-    "options": ["Will", "Can", "Do", "Should"],
+    "question": "___ employees have to wear ID badges in this building?",
+    "options": [
+      "Will",
+      "Can",
+      "Do",
+      "Should"
+    ],
     "correctAnswer": "Do"
   },
   {
-    "question": "The employee must attend the meeting.",
-    "options": ["must", "can", "might", "may"],
+    "question": "Employees _______ wear a helmet on this construction site.",
+    "options": [
+      "must",
+      "can",
+      "might",
+      "may"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "The manager must listen to instructions.",
-    "options": ["must", "can", "might", "may"],
+    "question": "Contractors _______ check the patient notes before giving any medicine.",
+    "options": [
+      "must",
+      "can",
+      "might",
+      "may"
+    ],
     "correctAnswer": "must"
   },
   {
-    "question": "He must provide identification.",
-    "options": ["must", "can", "might", "may"],
+    "question": "Employees _______ sign the attendance sheet before the workshop starts.",
+    "options": [
+      "must",
+      "can",
+      "might",
+      "may"
+    ],
     "correctAnswer": "must"
   }
 ]

@@ -14,19 +14,6 @@ public final class TopicProgressLabelHelper {
     private TopicProgressLabelHelper() {
     }
 
-    public static void refreshTopicProgressLabels(Context context, List<MaterialCheckBox> checkBoxes) {
-        Map<String, TopicProgress> progressByTopic = ProgressService.getTopicProgressMap(context);
-        for (MaterialCheckBox cb : checkBoxes) {
-            Object rawTag = cb.getTag();
-            if (!(rawTag instanceof String)) {
-                continue;
-            }
-            String topicPath = (String) rawTag;
-            TopicProgress progress = progressByTopic.get(topicPath);
-            cb.setText(formatTopicLine(context, topicPath, progress));
-        }
-    }
-
     public static String formatTopicLine(Context context, String topicPath, TopicProgress progress) {
         String topicId = extractTopicId(topicPath);
         String title = formatTopicName(topicId);

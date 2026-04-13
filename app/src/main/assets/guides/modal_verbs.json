@@ -2,40 +2,40 @@
   {
     "id": "ability",
     "title": "Ability",
-    "whenToUse": "To express physical or mental skills and capabilities",
+    "whenToUse": "To express physical or mental ability or capacity",
     "formula": "Subject + can/could/be able to + base verb",
     "examples": [
       "I can speak three languages.",
       "She could swim when she was five.",
       "They will be able to join us tomorrow."
     ],
-    "keywords": ["can", "could", "be able to", "manage to"],
+    "keywords": ["can", "could", "be able to", "unable to"],
     "commonMistakes": [
-      "Using 'to' after can (e.g., I can to swim)",
-      "Using 'can' for past ability instead of 'could'"
+      "Using 'to' after can or could (e.g., I can to swim)",
+      "Using 'could' for a single completed action in the past instead of 'was/were able to' or 'managed to'"
     ]
   },
   {
     "id": "advice",
     "title": "Advice",
-    "whenToUse": "To give suggestions, recommendations, or opinions about what is right",
+    "whenToUse": "To give suggestions, recommendations, or opinions about what is the right thing to do",
     "formula": "Subject + should/ought to/had better + base verb",
     "examples": [
       "You should see a doctor about that cough.",
       "We ought to leave early to avoid traffic.",
       "You had better finish your report tonight."
     ],
-    "keywords": ["should", "ought to", "had better", "suggest"],
+    "keywords": ["should", "ought to", "had better", "recommend"],
     "commonMistakes": [
-      "Using 'should to' (should is followed directly by base verb)",
-      "Forgetting that 'had better' is a strong warning, not just a casual suggestion"
+      "Using 'should to' instead of 'should' + base verb",
+      "Forgetting that 'had better' is stronger than 'should' and often implies a warning"
     ]
   },
   {
     "id": "obligation",
     "title": "Obligation",
-    "whenToUse": "To express requirements, rules, or strong necessity",
-    "formula": "Subject + must/have to + base verb",
+    "whenToUse": "To express duty, necessity, rules, or strong obligation",
+    "formula": "Subject + must/have to/need to + base verb",
     "examples": [
       "I must remember to call my mother.",
       "Students have to wear a uniform.",
@@ -43,15 +43,15 @@
     ],
     "keywords": ["must", "have to", "need to", "mustn't"],
     "commonMistakes": [
-      "Using 'mustn't' when you mean 'don't have to' (mustn't = prohibited; don't have to = optional)",
-      "Using 'must' for past obligations instead of 'had to'"
+      "Using 'mustn't' when you mean 'don't have to' (mustn't = prohibited; don't have to = not necessary)",
+      "Using 'must' for past obligation instead of 'had to'"
     ]
   },
   {
     "id": "probability",
     "title": "Probability",
-    "whenToUse": "To express how certain we are that something is true",
-    "formula": "Subject + must/might/could/may/can't + base verb",
+    "whenToUse": "To express how certain, likely, or possible something is",
+    "formula": "Subject + must/might/may/could/can't + base verb",
     "examples": [
       "It's cloudy; it might rain later.",
       "He hasn't eaten all day; he must be hungry.",
@@ -59,8 +59,8 @@
     ],
     "keywords": ["might", "may", "could", "must", "can't"],
     "commonMistakes": [
-      "Using 'must' for negative certainty (use 'can't' instead of 'mustn't' for logical deduction)",
-      "Confusing 'may' (possibility) with 'can' (general ability) in formal contexts"
+      "Using 'mustn't' instead of 'can't' for negative logical deduction",
+      "Confusing 'may' or 'might' for possibility with 'can' for ability or general possibility"
     ]
   }
 ]
